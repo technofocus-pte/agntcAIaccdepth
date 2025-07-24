@@ -27,7 +27,7 @@ You can build agents from the following apps and sites:
 - office.com/chat
 - Microsoft Teams Desktop and web client
 
-  ![image](media/embedded-authoring-entry.png)
+    ![image](media/embedded-authoring-entry.png)
 
 ## Build agents with Copilot Studio agent builder
 
@@ -44,7 +44,7 @@ The Copilot Studio agent builder provides a simple interface that you can use to
 
   You build agents in plain language by answering the questions the agent builder asks. The builder progressively updates the agent in each turn of the conversation, and changes are saved automatically. You can make updates to the agent in any turn of the conversation. Changes to the agent's name, description, and instructions update automatically. However, you can't add an icon or knowledge sources directly from the Describe tab. Use the Configure tab to add an icon, knowledge sources, or capabilities.
 
-  ![](media/image2.png)
+    ![image](media/image2.png)
 
 - **Configure your agent**:
 
@@ -56,7 +56,8 @@ The Copilot Studio agent builder provides a simple interface that you can use to
   2. Configure each of the following fields in sequence:
 
       
-      ![](media/image3-1.png)
+    ![image](media/image3-1.png)
+	
 
      a. **Name**: Enter a descriptive and unique name for your agent (30 characters maximum).
      
@@ -76,19 +77,19 @@ The Describe and Configure tabs stay synchronized as you work. Any changes you m
 
 To create the most effective agents for Microsoft 365 Copilot:
 
-1. **Be specific with instructions**: Clearly define what your agent should and shouldn't do.
+ 1. **Be specific with instructions**: Clearly define what your agent should and shouldn't do.
 
-2. **Curate knowledge sources carefully**: Choose high-quality, relevant content sources.
+ 2. **Curate knowledge sources carefully**: Choose high-quality, relevant content sources.
 
-3. **Use natural language in descriptions**: Write descriptions that communicate your agent's purpose.
+ 3. **Use natural language in descriptions**: Write descriptions that communicate your agent's purpose.
 
-4. **Create helpful starter prompts**: Guide users with examples of effective queries.
+ 4. **Create helpful starter prompts**: Guide users with examples of effective queries.
 
-5. **Iterate based on feedback**: Continuously improve your agent based on user experiences.
+ 5. **Iterate based on feedback**: Continuously improve your agent based on user experiences.
 
-6. **Consider privacy and security**: Be mindful of the data sources you connect to your agent.
+ 6. **Consider privacy and security**: Be mindful of the data sources you connect to your agent.
 
-7. **Keep it focused**: Agents that do a few things well often perform better than those trying to do too much.
+ 7. **Keep it focused**: Agents that do a few things well often perform better than those trying to do too much.
 
 By following this complete process from creation through testing, deployment, and management, you can build effective agents that enhance productivity and provide specialized assistance through Microsoft 365 Copilot.
 
@@ -106,39 +107,39 @@ The image generator capability enables declarative agents to generate images bas
      https://m365.cloud.microsoft/
      ```
      
-     ![](media/image4.png)
+     ![image](media/image4.png)
 
 2. On the **Sign into Microsoft Azure tab**, you will see a login screen. Enter the following email/username **(1)**, and then click on **Next** **(2)**.
    
    - **Email/Username:** <inject key="AzureAdUserEmail"></inject>
 
-     ![](media/h14.png)
+     ![image](media/h14.png)
 
 3. Now enter the following password **(1)** and click on **Sign in** **(2)**.
 
    - **Password:** <inject key="AzureAdUserPassword"></inject>
 
-      ![](media/h15.png)
+      ![image](media/h15.png)
    
 4. If you see the pop-up **Stay Signed in?**, click **No**.
 
-   ![](media/h24.png)
+    ![image](media/h24.png)
 
 5. From the left pane Select **Apps Launcher(1)** and click on **Microsoft 365 Copilot(2)**.
 
-   ![](media/chatt10.png) 
+    ![image](media/chatt10.png) 
 
 6. From the left pane in the **Microsoft 365 Copilot** window, select **Copilot Chat**. 
 
-   ![](media/open-copilot-chat-0306.png) 
+    ![image](media/open-copilot-chat-0306.png) 
 
 7. Let's try **Image generator** examples.
 
    - In the Text Box, enter **Create an image of a serene beach at sunset with palm trees and gentle waves** **(1)**, click on the **send** **(2)** button.
 
-     ![](media/chatt11.png) 
+     ![image](media/chatt11.png) 
 
-     ![](media/chatt12.png) 
+     ![image](media/chatt12.png) 
 
 ## Review
 
