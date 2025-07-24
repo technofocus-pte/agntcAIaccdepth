@@ -15,27 +15,27 @@ In this task, you will build a simple AI Agent that processes data and generates
 
 1. Open the **Lab 2 - Create A Simple AI Agent.ipynb** file. This **Lab 2 - Create A Simple AI Agent.ipynb** notebook guides you through how to build a simple AI Agent that processes data and generates a bar chart comparing different health benefit plans.
 
-   ![](./media/ag62.png)
+    ![](./media/ag62.png)
 
 1. Select the **Select kernel** setting available in the top right corner. Select **venv (Python 3.x.x)** from the list.
 
-   ![](./media/lab1-24.png)
+    ![](./media/lab1-24.png)
 
 1. Run the below cell to import necessary libraries and load environment variables for working with Azure AI Projects. This setup enables secure authentication and interaction with Azure AI services.
 
-   ![](./media/ag63.png)
+    ![](./media/ag63.png)
 
 1. Run the below cell to connect to your Azure AI Foundry project and access the deployed **gpt-4o** model. This establishes a secure connection using the project connection string and Azure credentials.
 
-   ![](./media/ag64.png)
+    ![](./media/ag64.png)
 
 1. Run this cell to create a **simple AI Agent** that processes data and generates a bar chart comparing different health benefit plans using Azure AI Foundry.This script initializes the AI agent, sends a prompt containing health plan data, and requests a bar chart. The agent processes the request, generates the chart, saves the image file, and then cleans up by deleting the agent.
 
-   ![](./media/ag90.png)
+    ![](./media/ag90.png)
 
 1. Finally observe the output.   
 
-   ![](./media/lab2-26.png)
+    ![](./media/lab2-26.png)
 
 ## Review
 
