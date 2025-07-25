@@ -35,7 +35,7 @@ In this task, you will evaluate the RAG pipeline using Azure AI evaluators by an
     from azure.ai.evaluation import CoherenceEvaluator, RelevanceEvaluator
     ```
 
-     ![](../media/af60.png)    
+    ![](../media/af60.png)    
 
 1. Scroll down and add the below code before `# </imports_and_config>` and after `groundedness = GroundednessEvaluator(evaluator_model)`
 .
@@ -45,7 +45,7 @@ In this task, you will evaluate the RAG pipeline using Azure AI evaluators by an
     relevance = RelevanceEvaluator(evaluator_model)
     ```
 
-     ![](../media/af61.png)    
+    ![](../media/af61.png)    
 
 1. Scroll down to the `<run_evaluation>` section, and around the `69th` or `70th` line, add the following code below `"groundedness": groundedness`.
 
@@ -54,7 +54,7 @@ In this task, you will evaluate the RAG pipeline using Azure AI evaluators by an
     "relevance": relevance,
     ```
 
-     ![](../media/af62.png)     
+    ![](../media/af62.png)     
 
 1. Press **Ctrl+S** to save the file.
 
@@ -68,7 +68,7 @@ In this task, you will implement evaluation methods to assess the performance of
     pip install azure-ai-evaluation[remote]
     ```
 
-     ![](../media/af65.png)
+    ![](../media/af65.png)
 
       >**Note:** Wait for the installation to complete. This might take some time.
       
@@ -90,7 +90,7 @@ In this task, you will implement evaluation methods to assess the performance of
     python evaluate.py
     ```
 
-     ![](../media/af66.png)  
+    ![](../media/af66.png)  
     
 1. Once the upgrade is completed, rerun the command below.
 
@@ -98,7 +98,7 @@ In this task, you will implement evaluation methods to assess the performance of
     python evaluate.py
     ```
 
-     ![](../media/af66.png) 
+    ![](../media/af66.png) 
 
       >**Note**: Expect the evaluation to take around 5 - 10 minutes to complete.  
 
@@ -132,7 +132,7 @@ In this task, you will implement evaluation methods to assess the performance of
     'https://xxxxxxxxxxxxxxxxxxxxxxx')
     ```
 
-     ![](../media/af67.png)   
+    ![](../media/af67.png)   
 
       >**Note**: You might see some time-out errors, which are expected. The evaluation script is designed to handle these errors and continue running.   
 
@@ -178,15 +178,15 @@ In this task, you will interpret the evaluation results and fine-tune the RAG pi
 
 1. Once the evaluation run is complete, **Ctrl+click** on the link to view the evaluation results on the Evaluation page in the Azure AI Foundry portal **(1)**, then click on **Open (2)**.
 
-   ![](../media/af68.png)    
+    ![](../media/af68.png)    
 
 1. On the **Report** tab, you can view the `Relevance, Groundedness`, and `Coherence` average scores, which have increased more than before.
 
-   ![](../media/day3ex3-001.png)
+    ![](../media/day3ex3-001.png)
 
 1. Navigate to the **Data (1)** tab for more details about the evaluation metric **(2)**.
 
-   ![](../media/day3ex3-004.png)    
+    ![](../media/day3ex3-004.png)    
 
 1. Try other prompt template modifications to see how the changes affect the evaluation results.    
 
