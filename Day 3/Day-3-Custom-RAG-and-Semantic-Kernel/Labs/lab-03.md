@@ -861,4 +861,4 @@ Successfully completed the below tasks for extending **LLM capabilities** using 
 - Implemented **Auto Function Calling** to seamlessly chain multiple plugins together.  
 - Built and deployed **Python-based plugins** to extend AI capabilities.  
 
-## Go to the Next Lab by clicking on the navigation.
+## Congratulations.  You have completed this lab.
