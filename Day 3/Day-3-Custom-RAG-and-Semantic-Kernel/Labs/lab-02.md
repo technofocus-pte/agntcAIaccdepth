@@ -51,6 +51,7 @@ In this task, you will explore different flow types in Azure AI Foundry by setti
 1. Paste **API key** copied earlier in the exercise besides `AZURE_OPENAI_API_KEY`.
 
     ![](./media/image_027.png)
+	
 1. Save the file.
 
 </details>
@@ -233,4 +234,4 @@ Successfully completed the below tasks for AI-driven chat implementation using *
 - Configured a **chat API** to process user prompts and generate AI-driven responses.     
 - Extended chatbot functionality by integrating **Azure AI Search** for contextual data retrieval.  
 
-## Go to the Next Lab by clicking on the navigation.
+## Select **Next** to proceed to the next lab.
