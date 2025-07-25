@@ -17,9 +17,9 @@ Creating and customizing prompts involves designing specific, targeted questions
 
 1. Open a new tab in the browser and navigate to Azure AI Foundry portal using below link
 
-   ```
+    ```
     https://ai.azure.com/
-   ```
+    ```
 1. Click on the **Azure AI Foundry** Icon on top left.
 1. Select the AI foundry project that you created earlier in the lab i.e. **ai-foundry-project-<inject key="Deployment ID" enableCopy="false"></inject> (1)**.
 1. From the left navigation pane, select **Prompt flow (1)** > **+ Create (2)** to add the Prompt tool to your flow.
@@ -61,7 +61,7 @@ Developing a flow with Large Language Models (LLMs) and prompt tools involves de
 
    ![](./media/save.png)
 
-   > **Note:** It might take **10-15 minutes** to start the session. Wait till compute session starts.
+    > **Note:** It might take **10-15 minutes** to start the session. Wait till compute session starts.
 
 1. Once the compute session is complete, click the play button inside the **joke** node to run the **joke node**.
 
@@ -90,25 +90,25 @@ Developing a flow with Large Language Models (LLMs) and prompt tools involves de
 
 1. Add this code inside the **modelflow** prompt tool **(1)**, and select **Validate and parse input (2)**
 
-   ```jinja
-   Welcome to Joke Bot !
-   {% if user_name %}
-    Hello, {{ user_name }}!
-   {% else %}
-    Hello there!
-   {% endif %}
-   Pick a category from the list below and get ready to laugh:
-   1. 🐶 Animal Jokes – From pets to wildlife, it’s a zoo of laughs.
-   2. 💼 Office Humor – Relatable jokes for the 9-to-5 grind.
-   3. 💻 Tech & Programmer Jokes – Debug your mood with geeky giggles.
-   4. 📚 School & Exam Jokes – A+ comedy for students and survivors.
-   5. ⚡ One-Liners – Quick, witty, and straight to the funny bone.
-   6. 😏 Sarcastic Jokes – Dry, sharp, and deliciously savage.
-   ```
+    ```jinja
+    Welcome to Joke Bot !
+    {% if user_name %}
+     Hello, {{ user_name }}!
+    {% else %}
+     Hello there!
+    {% endif %}
+    Pick a category from the list below and get ready to laugh:
+    1. 🐶 Animal Jokes – From pets to wildlife, it’s a zoo of laughs.
+    2. 💼 Office Humor – Relatable jokes for the 9-to-5 grind.
+    3. 💻 Tech & Programmer Jokes – Debug your mood with geeky giggles.
+    4. 📚 School & Exam Jokes – A+ comedy for students and survivors.
+    5. ⚡ One-Liners – Quick, witty, and straight to the funny bone.
+    6. 😏 Sarcastic Jokes – Dry, sharp, and deliciously savage.
+    ```
 
-   ![](./media/gpt-4-demo16-1.png)
+    ![](./media/gpt-4-demo16-1.png)
 
-      > **Note:** The **Validate and parse input** button may occasionally appear greyed out. However, you can still click it—it will function as expected.
+    > **Note:** The **Validate and parse input** button may occasionally appear greyed out. However, you can still click it—it will function as expected.
 
 1. In the input section add these following value, select **Save (2)** and **Run (3)**.
 
