@@ -24,19 +24,19 @@ Creating and customizing prompts involves designing specific, targeted questions
 1. Select the AI foundry project that you created earlier in the lab i.e. **ai-foundry-project-<inject key="Deployment ID" enableCopy="false"></inject> (1)**.
 1. From the left navigation pane, select **Prompt flow (1)** > **+ Create (2)** to add the Prompt tool to your flow.
 
-   ![](./media/focus1001.png)
+    ![](./media/focus1001.png)
 
 1. On **Create a new flow** blade, under **Standard flow**, click on **Create (1)**, then enter below provided Folder name, and click on **Create (3)**
 
-   ```
+    ```
    promptflow-<inject key="DeploymentID" enableCopy="false"/>
-   ```
+    ```
 
-   ![](./media/E2-T2-S7.png)
+    ![](./media/E2-T2-S7.png)
 
-   > **Note:** If you encounter any permission errors, wait for 5 minutes and recreate the prompt flow with a unique name when you see the Folder name already exists error. Once the flow is created, rename it to **promptflow-<inject key="DeploymentID" enableCopy="false"/> (2)** by selecting the **edit icon (1)** and click on **Save (3)**.
+    > **Note:** If you encounter any permission errors, wait for 5 minutes and recreate the prompt flow with a unique name when you see the Folder name already exists error. Once the flow is created, rename it to **promptflow-<inject key="DeploymentID" enableCopy="false"/> (2)** by selecting the **edit icon (1)** and click on **Save (3)**.
 
-   ![](./media/gpt-4-demo11.png)
+    ![](./media/gpt-4-demo11.png)
 
 
 ### Task 2 : Develop a Flow with LLM and Prompt Tools
@@ -47,46 +47,47 @@ Developing a flow with Large Language Models (LLMs) and prompt tools involves de
 
 1. Optionally, you can add more tools to the flow. The visible tool options are **LLM, Prompt, and Python**. To view more tools, select **+ More tools**.
 
-   ![](./media/d4-2.png)
+    ![](./media/d4-2.png)
 
 1. From the **Graph**, select **joke (1)**. Choose an existing connection **ai-xxxxxxxx_aoai (2)** from the drop-down menu, and for deployment, select the deployment, **gpt-4o (3)**, in the LLM tool editor.
 
-   ![](./media/d5.png)
+    ![](./media/d5.png)
 
 1. Scroll up, and for **Input**, enter any fruit name of your choice like **Apple (1)**.
 
-   ![](./media/apple-1.png)
+    ![](./media/apple-1.png)
 
 1. Select **Save (1)**, and select **Start compute session (2)**.
 
-   ![](./media/save.png)
+    ![](./media/save.png)
 
     > **Note:** It might take **10-15 minutes** to start the session. Wait till compute session starts.
 
 1. Once the compute session is complete, click the play button inside the **joke** node to run the **joke node**.
 
-   ![](./media/joke-03.png)
+    ![](./media/joke-03.png)
 
 1. Once the joke node run has been completed, click on the **echo (1)** node from the graph and click on the **Play (2)** button.
 
-   ![](./media/d6.png)
+    ![](./media/d6.png)
 
 1. Once all nodes have successfully executed, select **Run** from the toolbar.
 
-   ![](./media/run-1.png)
+    ![](./media/run-1.png)
 
 1. Once the flow run is completed, select View outputs to view the flow results. The output will look similar to the image as shown below.
 
-   ![](./media/image-30.png)
+    ![](./media/image-30.png)
 
 1. You can view the flow run status and output in the **Outputs** section.
 
-   ![](./media/image-31.png)
+    ![](./media/image-31.png)
 
 1. From the top menu, select **+ Prompt (1)** to add the Prompt tool to your flow, give the name of the flow as **modelflow (2)**, and select **Add (3)**.
 
-   ![](./media/gpt-4-demo17.png)
-   ![](<./media/gpt-4-demo(15).png>)
+    ![](./media/gpt-4-demo17.png)
+   
+    ![](<./media/gpt-4-demo(15).png>)
 
 1. Add this code inside the **modelflow** prompt tool **(1)**, and select **Validate and parse input (2)**
 
@@ -114,19 +115,19 @@ Developing a flow with Large Language Models (LLMs) and prompt tools involves de
 
    - user_name: **John (1)**
 
-     ![](./media/gpt-4-demo14-1.png)
+    ![](./media/gpt-4-demo14-1.png)
 
 1. If you encounter any warnings while running, as shown in the screenshot below, click **Run Anyway**.
 
-   ![](./media/run-anway.png)
+    ![](./media/run-anway.png)
 
 1. Once the flow run is completed, select View outputs to view the flow results. The output will look similar to the image as shown below.
 
-   ![](./media/output001.png)
+    ![](./media/output001.png)
 
 1. You can view the flow run status and output in the Outputs section.
 
-   ![](./media/output1-2.png)
+    ![](./media/output1-2.png)
 
 ## Review
 
