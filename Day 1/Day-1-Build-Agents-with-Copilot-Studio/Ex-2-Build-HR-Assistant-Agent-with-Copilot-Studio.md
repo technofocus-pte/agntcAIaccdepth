@@ -19,7 +19,7 @@ Your company, Contoso Enterprises, is looking to hire a new Data Analyst and wan
   
 ### Architecture Diagram
 
-    ![image](media/arch2.png)
+![image](media/arch2.png)
 
 ### Task 1: Quickly screen candidates
 
