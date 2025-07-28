@@ -64,7 +64,7 @@ So far, we’ve tested image content for singular isolated images. However, if w
 
 1. On **Moderate image content** select **Run a bulk test (1)** tab then click on **Browse for a file (2)**.
 
-     ![](./media/runabulktest(1).png)
+
 
 1. Within file explorer navigate to **C:\LabFiles\Day-4-Developing-AI-App-with-Azure-AI-Foundry\Developing-AI-Applications-with-Azure-AI-Studio-main\Labs\data**,  press **Enter**. Select **image_sample_dataset.zip (1)** folder and click on **Open (2)**. 
 
