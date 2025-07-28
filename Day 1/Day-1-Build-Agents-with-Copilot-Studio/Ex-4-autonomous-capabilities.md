@@ -31,9 +31,9 @@ To generate a nomination summary, we are going to add a topic in our Nomination 
 
 4. Click on the area under the **Message** node, and replace the message as below.
 
-   ```
-   I am here to generate a nomination summary from the SharePoint list named 'Nomination List'.
-   ```
+    ```
+    I am here to generate a nomination summary from the SharePoint list named 'Nomination List'.
+    ```
 
     ![image](media/day1ex4-005.png)
 
@@ -232,12 +232,6 @@ To generate a nomination summary, we are going to add a topic in our Nomination 
    
     ![image](media/lab3img24.jpg)
 
-> **Congratulations** on completing the task! Now, it's time to validate it. Here are the steps:
-> - Hit the Validate button for the corresponding task. If you receive a success message, you can proceed to the next task.
-> - If not, carefully read the error message and retry the step, following the instructions in the lab guide. 
-> - If you need any assistance, please contact us at cloudlabs-support@spektrasystems.com. We are available 24/7 to help you out.
-
-   <validation step="3e65a795-1f40-4c17-bd3b-76977e703d44" />
 
 ### Review
 
