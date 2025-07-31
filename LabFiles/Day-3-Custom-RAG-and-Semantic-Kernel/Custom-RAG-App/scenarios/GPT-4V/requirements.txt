@@ -1,0 +1,7 @@
+# Other packages needed to run the notebook samples
+requests
+pillow
+matplotlib
+moviepy
+typing
+opencv-python-headless
