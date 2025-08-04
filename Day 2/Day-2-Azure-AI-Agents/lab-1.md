@@ -1,3 +1,5 @@
+===
+
 # Exercise 1: Setup AI Project and perform Chat Completion from VS Code
 ## Estimated duration : 120 minutes
 ## Lab scenario
@@ -29,12 +31,12 @@ In this task, you will create and configure an AI Project within Azure AI Foundr
    - Subscription : **Leave default subscription**
    - Resource Group :  **AgenticAI** (1)
    - Region : **<inject key="Region" enableCopy="false"></inject>** (2)
-   - Name : **ai-foundry-hub-<inject key="Deployment ID" enableCopy="false"></inject>** (3) 
+   - Name : +++ai-foundry-hub@lab.LabInstance.Id+++ (3) 
       
     ![](./media/day2ex1-003.png)
 
    - Connect AI Services incl. OpenAI : Click on **Create New (1)**.
-   - Connect AI Services incl. OpenAI : Provide a name **my-ai-service-<inject key="Deployment ID" enableCopy="false"></inject> (2)**.  
+   - Connect AI Services incl. OpenAI : Provide a name +++my-ai-service@lab.LabInstance.Id+++ **(2)**.  
    - Click on **Save (3)**, followed by **Next:Storage (4)**
 
     ![](./media/day2ex1-004.png)
@@ -53,15 +55,15 @@ In this task, you will create and configure an AI Project within Azure AI Foundr
 
     ![](./media/day2ex1-008.png)
 
-7. Scroll down and click on **+ New project** on the Hub Overview.
+7. Select **+ New project** on the Hub Overview.
 
     ![](./media/day2ex1-009.png)
 
-8. Provide the project name as **ai-foundry-project-<inject key="Deployment ID" enableCopy="false"></inject> ,** then click on **Create (2)**.
+8. Provide the project name as +++ai-foundry-project@lab.LabInstance.Id+++ then select **Create (2)**.
 
     ![](./media/day2ex1-010.png)
 
-9. Once the project is created, scroll down and copy the **Project connection string**, then paste them into Notepad or a secure location, as they will be required for upcoming tasks.
+9. Once the project is created, copy the **Project connection string**, then paste it into Notepad or a secure location, as they will be required for upcoming tasks.
 
     ![](./media/day2ex1-011.png)
 
@@ -103,25 +105,25 @@ In this task, you will deploy a large language model (LLM) and an embedding mode
 
     ![](./media/focus3.png)
 
-1. On **Create Azure OpenAI** page, provide the following settings and click on **Next (6)**:
+1. On **Create Azure OpenAI** page, provide the following settings and select **Next (6)**:
 
       | Setting | Value | 
       | --- | --- |
       | Subscription | Keep the default subscription **(1)** |
       | Resource group | **AgenticAI (2)** |
       | Region | **East US (3)** |
-      | Name | **my-openai-service<inject key="DeploymentID" enableCopy="false" /></inject> (4)** |
+      | Name | +++my-openai-service@lab.LabInstance.Id+++ **(4)** |
       | Pricing tier | **Standard S0 (5)** |
 
     ![](./media/t2s10.png)
 
-1. Click on **Next** till Review + submit tab appears.
+1. Select **Next** until Review + submit tab appears.
 
-1. On the **Review + submit** page, click on **Create**
+1. On the **Review + submit** page, select **Create**
  
     ![](./media/t2s11.png)
 
-1. Wait until the deployment got succeeded and select **Go to resource**.
+1. Wait until the deployment succeeds, then select **Go to resource**.
 
     ![](./media/ag13.png)
 
@@ -285,4 +287,4 @@ In this lab, you have accomplished the following:
 - Established connectivity from VS Code to the AI Project.
 - Performed a simple Chat Completion call.
 
-### You have successfully finished the lab. Click **Next** to continue to the next lab.
+### You have successfully finished the lab. Select **Next** to continue to the next lab.
