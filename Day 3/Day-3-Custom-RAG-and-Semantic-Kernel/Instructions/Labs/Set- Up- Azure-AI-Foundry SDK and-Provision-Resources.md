@@ -2,6 +2,36 @@
 
 In this exercise, you will set up the Azure AI Foundry SDK. This includes configuring the environment, deploying foundation models, and ensuring seamless integration with Azure AI services for knowledge retrieval and inference.
 
+## Setting up the AI Project in the Azure AI Foundry
+
+
+1. On the Azure Portal page +++https://portal.azure.com+++, in the Search resources box at the top of the portal, enter Azure AI Foundry, and then select Azure AI Foundry under Services.
+
+
+2. In the left navigation pane for the AI Foundry, select **AI Hubs**. On the AI Hubs page, click on **Create** and select **Hub** from the drop-down.
+
+
+3. On the **Create an Azure AI hub** pane enter the following details:
+   - Subscription : **Leave default subscription**
+   - Resource Group :  **AgenticAI**
+   - Region : **EastUS**
+   - Name : +++ai-foundry-hub@lab.LabInstance.Id+++ 
+   - Connect AI Services incl. OpenAI : Click on **Create New**
+   - Connect AI Services incl. OpenAI : Provide a name +++my-ai-service@lab.LabInstance.Id+++  
+   - Click on **Save**, followed by **Next:Storage**
+
+   
+4. Click on **Review + Create** tab followed by **Create.**
+  
+5. Wait for the deployment is completed and then click on **Go to resource**.
+
+6. On the Overview pane, click on **Launch Azure AI Foundry**. This will navigate you to the Azure AI Foundry portal..
+
+7. Select **+ New project** on the Hub Overview.
+
+8. Provide the project name as +++ai-foundry-project@lab.LabInstance.Id+++ then select **Create**.
+
+
 ### Task 1: Install the requirements for the Project
 
 In this task, you will clone the GitHub repository for the project to access the necessary files for building the chat app.
@@ -48,7 +78,7 @@ In this task, you will set up and configure the necessary environment variables 
     ```
 
 1. Click on the **Azure AI Foundry** Icon on top left.
-1. Select the AI foundry project that you created earlier in the lab i.e. **ai-foundry-project-<inject key="Deployment ID" enableCopy="false"></inject> (1)**
+1. Select your AI foundry project.
 1. Navigate to your **Overview (1)** page of **ai-foundry-project-<inject key="Deployment ID" enableCopy="false"></inject>** and then copy and paste the **Project connection string (2)** in a notepad. You will be using it in the next step.
 
 1. Get back to **Visual Studio Code**.
