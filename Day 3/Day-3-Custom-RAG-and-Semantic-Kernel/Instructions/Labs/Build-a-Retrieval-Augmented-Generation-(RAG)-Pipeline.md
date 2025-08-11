@@ -1,4 +1,4 @@
-# Exercise 2: Build a Retrieval-Augmented Generation (RAG) Pipeline
+ # Exercise 2: Build a Retrieval-Augmented Generation (RAG) Pipeline
 
 In this exercise, you will enhance a basic chat application by integrating a Retrieval-Augmented Generation (RAG) pipeline. This includes indexing knowledge sources, implementing a retrieval mechanism, generating responses with augmented knowledge, and adding telemetry logging to monitor performance and accuracy.
 
@@ -17,9 +17,9 @@ In this task, you will index knowledge sources by processing and storing vectori
 
 1. Open a new tab in the browser and navigate to Azure AI Foundry portal using below link
 
-    ```
+   ```
     https://ai.azure.com/
-    ```
+   ```
 
 1. Click on the **Azure AI Foundry** Icon on top left.
 1. Select the AI foundry project that you created earlier in the lab i.e. **ai-foundry-project-<inject key="Deployment ID" enableCopy="false"></inject> (1)**
@@ -39,35 +39,27 @@ In this task, you will index knowledge sources by processing and storing vectori
 
     - Code to import the required libraries, create a project client, and configure some settings:
 
-      ```bash
-      <imports_and_config>
 
-      </imports_and_config>
-      ```
+      *imports_and_config*
+
 
     - Code to add the function to define a search index:  
 
-      ```bash
-      <create_search_index>
 
-      </create_search_index>
-       ```
+      *create_search_index*
+
 
     - Code to create the function to add a CSV file to the index:    
 
-      ```bash
-      <add_csv_to_index>
 
-      </add_csv_to_index>
-      ```
+      *add_csv_to_index*
+
 
     - Code to run the functions, build the index, and register it to the cloud project:  
 
-      ```bash
-      <test_create_index>
 
-      </test_create_index>
-      ```    
+      *test_create_index*
+    
 
 1. From your console, log in to your Azure account and follow the instructions for authenticating your account:
 
@@ -101,24 +93,26 @@ In this task, you will index knowledge sources by processing and storing vectori
 
 1. Run the below commands to install the specfic version of Azure AI Project & Infernce:
 
-     ```bash
-    pip install azure-ai-projects==1.0.0b5
-    pip install azure-ai-inference==1.0.0b8
-    ```      
+    +++pip install azure-ai-projects==1.0.0b5+++
+   
+
+   
+    +++pip install azure-ai-inference==1.0.0b8+++
+   
 
 1. Run the code to build your index locally and register it to the cloud project:
 
-    ```bash
-    python create_search_index.py
-    ```    
+
+    +++python create_search_index.py+++
+  
 
     ![](../media/af42.png)
 
-      > **Note:** In case of an error, please run the below command and re-run the step 14:
+    > **Note:** In case of an error, please run the below command and re-run the step 14:
 
-      ```bash
-      pip install --upgrade azure-search-documents
-      ```    
+
+    +++pip install --upgrade azure-search-documents+++
+  
 
 
 ### Task 2: Implementing the Retrieval Pipeline 
@@ -195,7 +189,7 @@ In this task, you will enable telemetry logging by integrating Application Insig
 
     ![](../media/af51.png)   
 
-     > **Note:** Wait for the installation to complete. This might take some time.
+    > **Note:** Wait for the installation to complete. This might take some time.
 
 1. Add the `--enable-telemetry` flag when you use the `chat_with_products.py` script:
 
@@ -237,4 +231,4 @@ In this exercise, you have accomplished the following tasks:
 - Task 3: Generated Responses with Augmented Knowledge
 - Task 4: Added telemetry logging
 
-### You have successfully finished the exercise. Click **Next** to continue to the next exercise.    
+### You have successfully finished the exercise. Click **Next** to continue to the next exercise. 
