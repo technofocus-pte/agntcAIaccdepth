@@ -31,6 +31,20 @@ In this exercise, you will set up the Azure AI Foundry SDK. This includes config
 
 8. Provide the project name as +++ai-foundry-project@lab.LabInstance.Id+++ then select **Create**.
 
+1. In your **AI Foundry project**, navigate to the **My assets** section, then select **Models + endpoints**. Click **Deploy model**, and choose **Deploy base model** to proceed.
+
+1. On a **Select a model** window, search for **gpt-4o**, select **gpt-4o** and select **Confirm**
+
+
+1. On **Deploy model gpt-4o** window, select **Customize**.
+
+
+      - Deployment Name: **gpt-4o**
+      - Deployment type: **Global Standard**
+      - Change the **Model version to 2024-08-06 (Default)**
+      - Change the Tokens per Minute Rate Limit to **200K**
+      - Click on **Deploy (5)**
+
 
 ### Task 1: Install the requirements for the Project
 
