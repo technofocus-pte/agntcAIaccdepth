@@ -1,4 +1,4 @@
- # Exercise 2: Build a Retrieval-Augmented Generation (RAG) Pipeline
+# Exercise 2: Build a Retrieval-Augmented Generation (RAG) Pipeline
 
 In this exercise, you will enhance a basic chat application by integrating a Retrieval-Augmented Generation (RAG) pipeline. This includes indexing knowledge sources, implementing a retrieval mechanism, generating responses with augmented knowledge, and adding telemetry logging to monitor performance and accuracy.
 
@@ -17,9 +17,9 @@ In this task, you will index knowledge sources by processing and storing vectori
 
 1. Open a new tab in the browser and navigate to Azure AI Foundry portal using below link
 
-   ```
+    ```
     https://ai.azure.com/
-   ```
+    ```
 
 1. Click on the **Azure AI Foundry** Icon on top left.
 1. Select the AI foundry project that you created earlier in the lab i.e. **ai-foundry-project-<inject key="Deployment ID" enableCopy="false"></inject> (1)**
@@ -181,7 +181,7 @@ In this task, you will enable telemetry logging by integrating Application Insig
 
     ![](../media/af50.png)
 
-1. Navigate back to the VS Code terminal and run the below command to install the `azure-monitor-opentelemetry`
+1. Navigate back to the VS Code terminal and run the below command to install the *azure-monitor-opentelemetry*.
 
       ```bash
       pip install azure-monitor-opentelemetry
@@ -191,11 +191,11 @@ In this task, you will enable telemetry logging by integrating Application Insig
 
     > **Note:** Wait for the installation to complete. This might take some time.
 
-1. Add the `--enable-telemetry` flag when you use the `chat_with_products.py` script:
+1. Add the *--enable-telemetry* flag when you use the *chat_with_products.py* script:
 
-      ```bash
-      python chat_with_products.py --query "I need a new tent for 4 people, what would you recommend?" --enable-telemetry 
-      ```      
+      
+      +++python chat_with_products.py --query "I need a new tent for 4 people, what would you recommend?" --enable-telemetry+++ 
+           
 
     ![](../media/af52.png)   
 
@@ -231,4 +231,4 @@ In this exercise, you have accomplished the following tasks:
 - Task 3: Generated Responses with Augmented Knowledge
 - Task 4: Added telemetry logging
 
-### You have successfully finished the exercise. Click **Next** to continue to the next exercise. 
+### You have successfully finished the exercise. Click **Next** to continue to the next exercise.  
