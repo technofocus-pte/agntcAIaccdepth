@@ -2,7 +2,7 @@
 
 In this exercise, you will set up the Azure AI Foundry SDK. This includes configuring the environment, deploying foundation models, and ensuring seamless integration with Azure AI services for knowledge retrieval and inference.
 
-## Setting up the AI Project in the Azure AI Foundry
+## Setting up the Prerequisite Resources
 
 
 1. On the Azure Portal page +++https://portal.azure.com+++, in the Search resources box at the top of the portal, enter Azure AI Foundry, and then select Azure AI Foundry under Services.
@@ -44,6 +44,33 @@ In this exercise, you will set up the Azure AI Foundry SDK. This includes config
       - Change the **Model version to 2024-08-06 (Default)**
       - Change the Tokens per Minute Rate Limit to **200K**
       - Click on **Deploy (5)**
+
+1. Navigate back to **Azure Portal** and search for **AI Search** and select **AI Search** resource.
+
+
+1. On the **AI Foundry | AI Search** page, select **+ Create** to create Azure OpenAI resource.
+
+
+1. On **Create Azure OpenAI** page, provide the following settings and select **Next (6)**:
+
+      | Setting | Value | 
+      | --- | --- |
+      | Subscription | Keep the default subscription |
+      | Resource group | **AgenticAI** |
+      | Region | **East US 2** |
+      | Name | +++aisearch@lab.LabInstance.Id+++ |
+      | Pricing tier | **Standard S0** |
+
+
+1. Select **Review + create**, then **Create**
+
+1. Back on the Azure AI Foundry tab, Select **Management Center**.
+
+1. Under your Project select **Connected resources**.  Then select **+New connection**.  Select **Azure AI Search**, then choose **Add connection** then **Close**.
+
+1. Next, select **Connected resources** below your Foundry hub. Then select **+New connection**.  Select **Azure AI Search**, then choose **Add connection** then **Close**.
+
+
 
 
 ### Task 1: Install the requirements for the Project
