@@ -235,3 +235,4 @@ Successfully completed the below tasks for AI-driven chat implementation using *
 - Extended chatbot functionality by integrating **Azure AI Search** for contextual data retrieval.  
 
 ## Select **Next** to proceed to the next lab.
+
