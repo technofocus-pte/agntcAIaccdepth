@@ -27,9 +27,9 @@ In this task, you will evaluate the RAG pipeline using Azure AI evaluators by an
     - This script allows you to review the results locally by outputting them in the command line and putting them in a JSON file.
     - This script also logs the evaluation results to the cloud project so that you can compare evaluation runs in the UI.
 
-1. To get `Coherence` and `Relevance` metrics along with `Groundedness`, add the following code to the **evaluate.py** file.    
+1. To get *Coherence* and *Relevance* metrics along with *Groundedness*, add the following code to the **evaluate.py** file.    
 
-1. Add the below import statement in the `<imports_and_config>` section, around the 10th or 11th line, before `# load environment variables from the .env file at the root of this repo`.
+1. Add the below import statement in the *<imports_and_config>* section, around the 10th or 11th line, before *# load environment variables from the .env file at the root of this repo*.
 
     ```bash
     from azure.ai.evaluation import CoherenceEvaluator, RelevanceEvaluator
@@ -37,7 +37,7 @@ In this task, you will evaluate the RAG pipeline using Azure AI evaluators by an
 
     ![](../media/af60.png)    
 
-1. Scroll down and add the below code before `# </imports_and_config>` and after `groundedness = GroundednessEvaluator(evaluator_model)`
+1. Scroll down and add the below code before *# </imports_and_config>* and after *groundedness = GroundednessEvaluator(evaluator_model)*
 .
 
     ```bash
@@ -47,7 +47,7 @@ In this task, you will evaluate the RAG pipeline using Azure AI evaluators by an
 
     ![](../media/af61.png)    
 
-1. Scroll down to the `<run_evaluation>` section, and around the `69th` or `70th` line, add the following code below `"groundedness": groundedness`.
+1. Scroll down to the *<run_evaluation>* section, and around the 69th or 70th line, add the following code below *"groundedness": groundedness*.
 
     ```bash
     "coherence": coherence, 
