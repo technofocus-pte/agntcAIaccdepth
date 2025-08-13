@@ -8,6 +8,26 @@ In this lab, you will perform the following:
 
 - Task 1 : Image and Text Moderation Using Azure AI foundry
 
+## Assign your account the role of Cognitive Services User
+
+1. In the Azure portal +++https://portal.azure.com+++, find your resource named **my-ai-service@lab.LabInstance.Id**.
+
+1. Select **Access Control (IAM)**.
+
+1. Choose **Add>Add Role Assignment**.
+
+1. Under Job function roles, search for and select +++Cognitive Services User+++, then select **Next**. 
+
+1. Select **+Select members**.
+
+1. Search for and select +++user1-@lab.LabInstance.Id+++. 
+
+1. Select **Review + assign**.
+
+1. You might have to wait 3-5 minutes for the new role to take effect before proceeding with the next task.
+
+
+
 ## Task 1.1 : Image and Text Moderation Using Azure AI Foundry
 
 This task involves using **Azure AI Foundry** to moderate images and text by detecting inappropriate, harmful, or sensitive content. It leverages AI models to analyze and filter content based on predefined policies, ensuring compliance and safety in applications.
@@ -98,7 +118,7 @@ Let’s first test some positive customer feedback.
 
 1. In the **Test box**, enter the following:
 
-     - **I recently used the PowerBurner Camping Stove on my camping trip, and I must say, it was fantastic! It was easy to use, and the heat control was impressive. Great product! (1)**
+     +++I recently used the PowerBurner Camping Stove on my camping trip, and I must say, it was fantastic! It was easy to use, and the heat control was impressive. Great product!+++ **(1)**
 
      - Set all Threshold levels to **Medium (2)**.
 
