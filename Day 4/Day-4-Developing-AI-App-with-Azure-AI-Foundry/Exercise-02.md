@@ -11,6 +11,7 @@ In this lab, you will perform the following:
 - Task 1 : Create and Customize Prompts
 - Task 2 : Develop a Flow with LLM and Prompt Tools
 
+
 ### Task 1 : Create and Customize Prompts
 
 Creating and customizing prompts involves designing specific, targeted questions or statements to elicit desired responses or actions. This process includes defining clear objectives, understanding the audience, and using precise language to ensure clarity and relevance. Customization can further refine prompts to align with particular contexts or user needs, enhancing engagement and effectiveness in various applications such as education, customer service, and AI interactions.
@@ -21,7 +22,7 @@ Creating and customizing prompts involves designing specific, targeted questions
     https://ai.azure.com/
     ```
 1. Click on the **Azure AI Foundry** Icon on top left.
-1. Select the AI foundry project that you created earlier in the lab i.e. **ai-foundry-project-<inject key="Deployment ID" enableCopy="false"></inject> (1)**.
+1. Select the AI foundry project that you created earlier.
 1. From the left navigation pane, select **Prompt flow (1)** > **+ Create (2)** to add the Prompt tool to your flow.
 
     ![](./media/focus1001.png)
@@ -29,7 +30,7 @@ Creating and customizing prompts involves designing specific, targeted questions
 1. On **Create a new flow** blade, under **Standard flow**, click on **Create (1)**, then enter below provided Folder name, and click on **Create (3)**
 
     ```
-   promptflow-<inject key="DeploymentID" enableCopy="false"/>
+   promptflow@lab.labInstance.Id
     ```
 
     ![](./media/E2-T2-S7.png)
@@ -87,7 +88,7 @@ Developing a flow with Large Language Models (LLMs) and prompt tools involves de
 
     ![](./media/gpt-4-demo17.png)
    
-    ![](<./media/gpt-4-demo(15).png>)
+    ![](./media/gpt-4-demo(15).png>)
 
 1. Add this code inside the **modelflow** prompt tool **(1)**, and select **Validate and parse input (2)**
 
