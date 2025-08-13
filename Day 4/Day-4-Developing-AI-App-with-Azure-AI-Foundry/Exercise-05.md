@@ -1,6 +1,5 @@
 # Exercise 5: Implementing Chat Flow and Tool Integration
 
-**Note:** Due to high demand, AML Compute quota may be unavailable for some users, which may prevent execution of certain lab steps in this exercise. However, this will **not impact your lab progress**. You can read through the steps, understand the exercise, and then run the updated validation—progress will still be recorded. Thank you for your understanding.
 
 ## Lab Overview
 In this lab, you will be designing and implementing a chat flow to interact with a deployed language model. You'll start by creating a basic chat flow using Azure AI foundry, which includes integrating inputs, an LLM node, and configuring the output to reflect chat responses. You will then test the chat flow, ensure it functions correctly, and deploy it to a production environment. The final steps involve verifying the deployment, testing the deployed flow with sample queries, and exploring options for integrating the chat flow into applications as a custom copilot.
@@ -9,6 +8,8 @@ In this lab, you will be designing and implementing a chat flow to interact with
 In this lab, you will perform the following:
 - Task 1: Design and Implement a Chat Flow
 - Task 2: Use LLM and Prompt Tools in Flows
+
+>[!alert] Due to high demand, AML Compute quota may be unavailable for some users, which may prevent execution of certain lab steps in this exercise. However, this will **not impact your lab progress**. You can read through the steps, and understand the exercise. Thank you for your understanding.
 
 ## Task 1: Design and Implement a Chat Flow
 Design and implement a chat flow using Azure AI foundry to interact with a deployed language model, test its functionality, and deploy it for production use.
@@ -154,14 +155,17 @@ Now that you’ve developed the flow, you can use the chat window to test the fl
 
     > **Note:** The output will be different; it will not be the same. However, it will look similar to the screenshot.
 
+>[!alert] You will not be able to perform the following steps because endpoint provisioning is not enabled on this cloud-slice subscription. You may review the steps to understand the process conceptually, then continue with the next exercise.
+
+
 1. Select **Deploy** to deploy the flow with the following settings:
 
       ![](./media/deploy.png)
    
       - Basic settings:
         - Endpoint: **New (1)**
-        - Endpoint name: **modelendpoint-<inject key="DeploymentID" enableCopy="false"/> (2)**
-        - Deployment name: **modeldeploy-<inject key="DeploymentID" enableCopy="false"/> (3)**
+        - Endpoint name: +++modelendpoint@lab.LabInstance.Id+++ **(2)**
+        - Deployment name: +++modeldeploy@lab.LabInstance.Id+++ **(3)**
         - Virtual machine: **Standard_DS3_v2 (4)**
         - Instance count: **3 (5)**
         - Inferencing data collection: **Enabled (6)**
@@ -173,7 +177,6 @@ Now that you’ve developed the flow, you can use the chat window to test the fl
 
 1. In Azure AI foundry, from the left navigation pane, under **My assets**, select **Model + endpoints**
 
-      > **Note:** Select **Save** if your flow is not saved.
 
 1. Select the **Model deployments (1)** tab to find your deployed flow. It may take some time before the deployment is listed and successfully created. When the deployment has succeeded, select the newly created deployment **(2)**.
 
