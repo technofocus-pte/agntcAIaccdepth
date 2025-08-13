@@ -12,7 +12,7 @@ In this lab, you will perform the following:
 
 Set up manual evaluation by defining criteria, collecting human feedback, and analyzing model accuracy and biases to improve performance.
 
-1. From the left navigation menu, under the **Access and Improve** section, select **Evaluation (1)**. On the **Assess and compare AI application performance** select **Manual evaluations (2)** tab. Select **+ New manual evaluation (3)**.
+1. From the left navigation menu, under the **Protect and govern** section, select **Evaluation (1)**. On the **Assess and compare AI application performance** select **Manual evaluations (2)** tab. Select **+ New manual evaluation (3)**.
 
     ![](./media/evaluation-1a-1.png)
 
@@ -62,8 +62,7 @@ In this task, you will configure automated evaluation using built-in metrics to 
 
     ![](./media/evsnsdn2-1.png)
 
-1. Open a new tab and paste the new link **https://raw.githubusercontent.com/MicrosoftLearning/mslearn-ai-studio/main/data/travel-qa.jsonl** JSONL file. press **Ctrl A** 
-      and **Ctrl C** to select all and **Copy**.
+1. Open a new tab and paste the new link +++https://raw.githubusercontent.com/MicrosoftLearning/mslearn-ai-studio/main/data/travel-qa.jsonl+++ JSONL file. Press **Ctrl A** and **Ctrl C** to select the contents of of the file.
   
     - Search for **Visual Studio Code (1)** in the Windows search bar of the vm and select **Visual Studio Code (2)**.
 
