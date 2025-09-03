@@ -91,7 +91,13 @@ In this task, you will index knowledge sources by processing and storing vectori
 
     ![](../media/af-41.png)
 
-1. Run the below commands to install the specfic version of Azure AI Project & Infernce:
+1. Back on the Azure AI Foundry tab, Select **Management Center**.
+
+1. Under your Project select **Connected resources**.  Then select **+New connection**.  Select **Azure AI Foundry**, then choose **Add connection** then **Close**.
+
+1. Next, select **Connected resources** below your Foundry hub. Then select **+New connection**.  Select **Azure AI Foundry**, then choose **Add connection** then **Close**.
+
+1. Back in VS Code run the below commands to install the specfic version of Azure AI Project & Infernce:
 
     +++pip install azure-ai-projects==1.0.0b5+++
    
@@ -231,4 +237,4 @@ In this exercise, you have accomplished the following tasks:
 - Task 3: Generated Responses with Augmented Knowledge
 - Task 4: Added telemetry logging
 
-### You have successfully finished the exercise. Click **Next** to continue to the next exercise.  
+### You have successfully finished the exercise. Click **Next** to continue to the next exercise.
