@@ -1,0 +1,181 @@
+document.addEventListener("DOMContentLoaded", function () {
+    function getLocalStorageSize() {
+        let totalSize = 0;
+        for (let i = 0; i < localStorage.length; i++) {
+            const key = localStorage.key(i);
+            const value = localStorage.getItem(key);
+            totalSize += key.length + value.length;
+        }
+        return Math.round(totalSize / 1000000);
+    }
+
+    function getETrack() {
+        let storedUsers = localStorage.getItem("etrack-log");
+        if (storedUsers) {
+            return JSON.parse(storedUsers);
+        }
+        return {
+            eTrackRecord: [],
+            eTrackSave: false,
+        };
+    }
+
+    if (getLocalStorageSize() < 3) {
+        if (document.querySelectorAll("body .eTrackSave").length > 0) {
+            function makePostRequest(record, eTracks) {
+                const route = "/emd/e-track";
+                const data = {
+                    record: record,
+                    e_track_key: getETrackKey(),
+                    _token: $("meta[name='_token']").attr("content"),
+                };
+                fetch(route, {
+                    method: "POST",
+                    headers: {
+                        "Content-Type": "application/json",
+                    },
+                    body: JSON.stringify(data),
+                }).then((response) => {
+                    if (response.status == 200) {
+                        eTracks["eTrackRecord"] = [];
+                        eTracks["eTrackSave"] = false;
+                        localStorage.setItem(
+                            "etrack-log",
+                            JSON.stringify(eTracks)
+                        );
+                    }
+                });
+            }
+            let eTracks = getETrack();
+            const record = eTracks["eTrackRecord"];
+            makePostRequest(record, eTracks);
+        }
+        function currentSlug() {
+            return window.location.pathname;
+        }
+
+        function currentDate() {
+            return new Date().toISOString().split("T")[0];
+        }
+
+        function addETrackPage() {
+            let eTracks = getETrack();
+            let eTrackRecords = getETrack()["eTrackRecord"];
+            let new_id = eTrackRecords.length + 1;
+            var eTrack = {
+                id: new_id,
+                route: currentSlug(),
+                date: currentDate(),
+                event: "page",
+                data: null,
+                date_time: new Date(),
+            };
+            if (eTrackRecords.length > 0) {
+                last_record = eTrackRecords[eTrackRecords.length - 1];
+                if (
+                    last_record.route != currentSlug() ||
+                    last_record.date != currentDate() ||
+                    last_record.event != "page"
+                ) {
+                    eTrackRecords.push(eTrack);
+                    eTracks["eTrackRecord"] = eTrackRecords;
+                    localStorage.setItem("etrack-log", JSON.stringify(eTracks));
+                }
+            } else {
+                eTrackRecords.push(eTrack);
+                eTracks["eTrackRecord"] = eTrackRecords;
+                localStorage.setItem("etrack-log", JSON.stringify(eTracks));
+            }
+        }
+
+        addETrackPage();
+
+        const observer_new = new MutationObserver(function (mutationsList) {
+            mutationsList.forEach(function (mutation) {
+                mutation.addedNodes.forEach(function (node) {
+                    if (
+                        node.nodeType === 1 &&
+                        node.classList.contains("eTrack")
+                    ) {
+                        addETrackClick(node, "new-append");
+                    }
+                });
+            });
+        });
+
+        observer_new.observe(document.body, { childList: true, subtree: true });
+
+        function isElementVisible(element) {
+            let style = window.getComputedStyle(element);
+            return (
+                style.display !== "none" &&
+                style.visibility !== "hidden" &&
+                style.opacity !== "0"
+            );
+        }
+
+        function observeVisibilityChange(element) {
+            let observer = new MutationObserver(function (mutations) {
+                mutations.forEach(function (mutation) {
+                    if (isElementVisible(element)) {
+                        addETrackClick(element, "popup");
+                        observer.disconnect();
+                    }
+                });
+            });
+            observer.observe(element, {
+                attributes: true,
+                childList: true,
+                subtree: true,
+            });
+        }
+
+        document.querySelectorAll(".eTrack").forEach(function (elemnets) {
+            let style = window.getComputedStyle(elemnets);
+            if (
+                style.display === "none" ||
+                style.visibility === "hidden" ||
+                style.opacity === "0"
+            ) {
+                observeVisibilityChange(elemnets);
+            }
+
+            elemnets.addEventListener("click", function (event) {
+                addETrackClick(event.target, "click");
+            });
+        });
+
+        function addETrackClick(event, type) {
+            const elem =
+                event.closest("[e-track]")?.getAttribute("e-track") || null;
+            let eTracks = getETrack();
+            let eTrackRecords = getETrack()["eTrackRecord"];
+            let new_id = eTrackRecords.length + 1;
+            var eTrack = {
+                id: new_id,
+                route: currentSlug(),
+                date: currentDate(),
+                event: type,
+                data: elem,
+                date_time: new Date(),
+            };
+            if (eTrackRecords.length > 0) {
+                last_record = eTrackRecords[eTrackRecords.length - 1];
+                if (
+                    last_record.route != currentSlug() ||
+                    last_record.date != currentDate() ||
+                    last_record.event != type ||
+                    last_record.data != elem
+                ) {
+                    eTrackRecords.push(eTrack);
+                    eTracks["eTrackRecord"] = eTrackRecords;
+                    localStorage.setItem("etrack-log", JSON.stringify(eTracks));
+                }
+            } else {
+                eTrackRecords.push(eTrack);
+                eTracks["eTrackRecord"] = eTrackRecords;
+                localStorage.setItem("etrack-log", JSON.stringify(eTracks));
+            }
+        }
+    }
+});

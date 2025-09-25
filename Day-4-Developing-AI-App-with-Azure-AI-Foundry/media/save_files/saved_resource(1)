@@ -1,0 +1,43 @@
+
+var ftGUID_9129265="6337C93BF02CEE";
+var ftConfID_9129265="0";
+var ftParams_9129265="ftOBA=1&ft_domain=www.imagetotext.info&ft_ifb=1&ft_agentEnv=0&ft_referrer=https://www.imagetotext.info/image-translator;https%3A%2F%2Fwww.imagetotext.info%2Fimage-translator&gdpr=0&us_privacy=${US_PRIVACY}&ft_partnerimpid=ABAjH0hlAHnuVa_4kAo4JauYc_cw;ABAjH0hlAHnuVa_4kAo4JauYc_cw&site_url=https://www.imagetotext.info/image-translator&pub_id=1&sup_platform=1&cachebuster=755320.1831300749&ft_keyword=DV360CampID:__21988522520__&ft_section=DV360CampID:21988522520";
+var ftKeyword_9129265="";
+var ftCustom_9129265="";
+var ftSection_9129265="DV360CampID:21988522520";
+var ftSegment_9129265="";
+var ftSegmentList_9129265=[];
+var ftRuleMatch_9129265="0";
+var ftTimestamp_9129265="1748440968";
+var ftGeoC2_9129265="in";
+var ftGeoState_9129265="ka";
+var ftGeoCity_9129265="kadadakatte";
+var ftISP_9129265="reliance jio infocomm limited";
+var ftSpeed_9129265="mobile";
+var ftConnType_9129265="mobile";
+var ftDMA_9129265="-1";
+var ftLong_9129265="75.68";
+var ftLat_9129265="13.85";
+var ftPostal_9129265="577229";
+var ftTimeZone_9129265="+530";
+var ftMobileCarrier_9129265="jio";
+var ftImp9129265 = {};
+ftImp9129265.privacy = "x";
+ftImp9129265.guidAge = "20";
+ftImp9129265.impID = "BE4903D6-7E49-F3C4-6A04-62BB52CC22C2";
+ftImp9129265.duid = "FT:6337C93BF02CEE";
+
+ftImp9129265.ft_tpplid = "";
+ftImp9129265.ft_c = {};
+ftImp9129265.gdpr = "0";
+ftImp9129265.gdpr_consent = "";
+ftImp9129265.gdpr_pd = "";
+ftImp9129265.oob_consent = "";
+ftImp9129265.gdprStoredConsent = "";
+ftImp9129265.us_privacy = "!!US_PRIVACY!";
+ftImp9129265.gpc = "";
+
+ftImp9129265.jsAppend = "1";
+var ftCreativeId_9129265 = "5275543";
+(function(){var tag=document.getElementById("ft_servedby_9129265")||function(s){return s[s.length-1]}(document.getElementsByTagName("script")),js=document.createElement("script");js.src="https://ajs-assets.ftstatic.com/ftUtils.js";js.id="ftscript_m9129265";js.setAttribute("name","ftscript_m9129265");tag.parentNode.insertBefore(js,tag)})();window.fTChecker=window.fTChecker||function(id){if(!id)return false;id=""+id;if(window.hasOwnProperty("ftUtils")){window["ft"+id]=Object.assign({},window.ftUtils.common);window["ft"+id].getBannerConfig(id)}else(function(id){window.setTimeout(function(){window.fTChecker(id)},50)})(id)};window.fTChecker("9129265");
+
