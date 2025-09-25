@@ -1,0 +1,1804 @@
+<!DOCTYPE html>
+<!-- saved from url=(0045)https://www.imagetotext.info/image-translator -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script async="" src="./save_files/wrap.js.download"></script><script type="text/javascript" async="" src="./save_files/publishertag.prebid.js.download"></script><script type="text/javascript" async="" src="./save_files/localstore.js.download"></script>
+    
+    
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+<link rel="icon" type="image/x-icon" href="https://www.imagetotext.info/favicon.ico">
+<meta name="_token" content="fWwNC4K1UQUIs4r3a5xKzyxoj5aXeTfOhTXtx8i2">
+<title>Image Translator - Translate Photo Online</title>
+<meta name="description" content="Translate images online quickly and accurately with our online image translator. Our photo translator easily translates pictures for free.">
+
+
+<link rel="canonical" href="https://www.imagetotext.info/image-translator">
+<link rel="alternate" hreflang="x-default" href="https://www.imagetotext.info/image-translator">
+<link rel="alternate" hreflang="en" href="https://www.imagetotext.info/image-translator">
+<link rel="alternate" hreflang="ru" href="https://www.imagetotext.info/ru/photo-translator">
+<link rel="alternate" hreflang="ar" href="https://www.imagetotext.info/ar/image-translator">
+<link rel="alternate" hreflang="fr" href="https://www.imagetotext.info/fr/traduction-photo">
+<link rel="alternate" hreflang="ja" href="https://www.imagetotext.info/ja/photo-translator">
+<link rel="alternate" hreflang="br" href="https://www.imagetotext.info/br/traduzir-imagem">
+<link rel="alternate" hreflang="es" href="https://www.imagetotext.info/es/traductor-de-imagenes">
+<link rel="alternate" hreflang="de" href="https://www.imagetotext.info/de/bild-ubersetzer">
+<link rel="alternate" hreflang="tr" href="https://www.imagetotext.info/tr/photo-translator">
+    <link rel="preconnect" href="https://fonts.googleapis.com/">
+<link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin="">
+<link rel="stylesheet" href="./save_files/css2" as="style" onload="this.onload=null;this.rel=&#39;stylesheet&#39;">
+<!-- Fallback link for browsers that don't support preload -->
+<noscript>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap"
+        rel="stylesheet" />
+</noscript>
+<link href="./save_files/css2(1)" rel="stylesheet">
+
+
+<link rel="stylesheet" href="./save_files/style.css">
+
+<link rel="prefetch" href="https://www.imagetotext.info/web_assets/frontend/script/library/jquery.min.js" as="script">
+
+
+    <!-- Google tag (gtag.js) -->
+    <script type="text/javascript" src="./save_files/config.js.download" async=""></script><script async="" src="./save_files/js"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
+
+        gtag('config', 'G-0JQ2R0N4GP');
+    </script>
+    
+        
+        <link rel="stylesheet" href="./save_files/image-translator.css">
+    
+                    <script async="" data-cfasync="false" src="./save_files/loader.js.download" type="text/javascript"></script>
+                            <script type="text/javascript" async="" src="./save_files/prebid.js.download"></script><script type="text/javascript" async="" src="./save_files/apstag.js.download"></script><script type="text/javascript" async="" src="./save_files/f(7).txt"></script><script type="text/javascript" async="" src="./save_files/f(8).txt"></script><script type="text/javascript" async="" src="./save_files/adngin.js.download"></script><script type="text/javascript" async="" src="./save_files/argus.js.download"></script><script type="text/javascript" async="" src="./save_files/315b44bc-10e5-45a8-8f58-064d6e7317c0.js.download"></script><argprec0></argprec0><argprec1></argprec1><meta http-equiv="origin-trial" content="AlK2UR5SkAlj8jjdEc9p3F3xuFYlF6LYjAML3EOqw1g26eCwWPjdmecULvBH5MVPoqKYrOfPhYVL71xAXI1IBQoAAAB8eyJvcmlnaW4iOiJodHRwczovL2RvdWJsZWNsaWNrLm5ldDo0NDMiLCJmZWF0dXJlIjoiV2ViVmlld1hSZXF1ZXN0ZWRXaXRoRGVwcmVjYXRpb24iLCJleHBpcnkiOjE3NTgwNjcxOTksImlzU3ViZG9tYWluIjp0cnVlfQ=="><meta http-equiv="origin-trial" content="Amm8/NmvvQfhwCib6I7ZsmUxiSCfOxWxHayJwyU1r3gRIItzr7bNQid6O8ZYaE1GSQTa69WwhPC9flq/oYkRBwsAAACCeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXN5bmRpY2F0aW9uLmNvbTo0NDMiLCJmZWF0dXJlIjoiV2ViVmlld1hSZXF1ZXN0ZWRXaXRoRGVwcmVjYXRpb24iLCJleHBpcnkiOjE3NTgwNjcxOTksImlzU3ViZG9tYWluIjp0cnVlfQ=="><meta http-equiv="origin-trial" content="A9wSqI5i0iwGdf6L1CERNdmsTPgVu44ewj8QxTBYgsv1LCPUVF7YmWOvTappqB1139jAymxUW/RO8zmMqo4zlAAAAACNeyJvcmlnaW4iOiJodHRwczovL2RvdWJsZWNsaWNrLm5ldDo0NDMiLCJmZWF0dXJlIjoiRmxlZGdlQmlkZGluZ0FuZEF1Y3Rpb25TZXJ2ZXIiLCJleHBpcnkiOjE3MzY4MTI4MDAsImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9"><meta http-equiv="origin-trial" content="A+d7vJfYtay4OUbdtRPZA3y7bKQLsxaMEPmxgfhBGqKXNrdkCQeJlUwqa6EBbSfjwFtJWTrWIioXeMW+y8bWAgQAAACTeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXN5bmRpY2F0aW9uLmNvbTo0NDMiLCJmZWF0dXJlIjoiRmxlZGdlQmlkZGluZ0FuZEF1Y3Rpb25TZXJ2ZXIiLCJleHBpcnkiOjE3MzY4MTI4MDAsImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9"><script src="./save_files/f(9).txt" async=""></script><link href="https://securepubads.g.doubleclick.net/pagead/managed/dict/m202505270101/gpt" rel="compression-dictionary"><script async="" src="./save_files/22152718"></script><meta http-equiv="origin-trial" content="AlK2UR5SkAlj8jjdEc9p3F3xuFYlF6LYjAML3EOqw1g26eCwWPjdmecULvBH5MVPoqKYrOfPhYVL71xAXI1IBQoAAAB8eyJvcmlnaW4iOiJodHRwczovL2RvdWJsZWNsaWNrLm5ldDo0NDMiLCJmZWF0dXJlIjoiV2ViVmlld1hSZXF1ZXN0ZWRXaXRoRGVwcmVjYXRpb24iLCJleHBpcnkiOjE3NTgwNjcxOTksImlzU3ViZG9tYWluIjp0cnVlfQ=="><meta http-equiv="origin-trial" content="Amm8/NmvvQfhwCib6I7ZsmUxiSCfOxWxHayJwyU1r3gRIItzr7bNQid6O8ZYaE1GSQTa69WwhPC9flq/oYkRBwsAAACCeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXN5bmRpY2F0aW9uLmNvbTo0NDMiLCJmZWF0dXJlIjoiV2ViVmlld1hSZXF1ZXN0ZWRXaXRoRGVwcmVjYXRpb24iLCJleHBpcnkiOjE3NTgwNjcxOTksImlzU3ViZG9tYWluIjp0cnVlfQ=="><meta http-equiv="origin-trial" content="A9wSqI5i0iwGdf6L1CERNdmsTPgVu44ewj8QxTBYgsv1LCPUVF7YmWOvTappqB1139jAymxUW/RO8zmMqo4zlAAAAACNeyJvcmlnaW4iOiJodHRwczovL2RvdWJsZWNsaWNrLm5ldDo0NDMiLCJmZWF0dXJlIjoiRmxlZGdlQmlkZGluZ0FuZEF1Y3Rpb25TZXJ2ZXIiLCJleHBpcnkiOjE3MzY4MTI4MDAsImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9"><meta http-equiv="origin-trial" content="A+d7vJfYtay4OUbdtRPZA3y7bKQLsxaMEPmxgfhBGqKXNrdkCQeJlUwqa6EBbSfjwFtJWTrWIioXeMW+y8bWAgQAAACTeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXN5bmRpY2F0aW9uLmNvbTo0NDMiLCJmZWF0dXJlIjoiRmxlZGdlQmlkZGluZ0FuZEF1Y3Rpb25TZXJ2ZXIiLCJleHBpcnkiOjE3MzY4MTI4MDAsImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9"><link id="googleidentityservice" type="text/css" media="all" href="./save_files/style" rel="stylesheet"><meta http-equiv="origin-trial" content="A8o5T4MyEkRZqLA9WeG2XTFdV5tsX2Prg85xyQ+RL1btVuybB1K/EQ+7JUsPK+J32oBMTnsoF9B4A+qTlL6efgQAAABweyJvcmlnaW4iOiJodHRwczovL2FjY291bnRzLmdvb2dsZS5jb206NDQzIiwiZmVhdHVyZSI6IkZlZENtQnV0dG9uTW9kZSIsImV4cGlyeSI6MTc0NDY3NTIwMCwiaXNUaGlyZFBhcnR5Ijp0cnVlfQ=="><style id="googleidentityservice_button_styles">.qJTHM{-webkit-user-select:none;color:#202124;direction:ltr;-webkit-touch-callout:none;font-family:"Roboto-Regular",arial,sans-serif;-webkit-font-smoothing:antialiased;font-weight:400;margin:0;overflow:hidden;-webkit-text-size-adjust:100%}.ynRLnc{left:-9999px;position:absolute;top:-9999px}.L6cTce{display:none}.bltWBb{word-break:break-all}.hSRGPd{color:#1a73e8;cursor:pointer;font-weight:500;text-decoration:none}.Bz112c-W3lGp{height:16px;width:16px}.Bz112c-E3DyYd{height:20px;width:20px}.Bz112c-r9oPif{height:24px;width:24px}.Bz112c-r4WDKb{height:42px;width:42px}.Bz112c-uaxL4e{-webkit-border-radius:10px;border-radius:10px}.LgbsSe-Bz112c{display:block}.S9gUrf-YoZ4jf,.S9gUrf-YoZ4jf *{border:none;margin:0;padding:0}.fFW7wc-ibnC6b>.aZ2wEe>div{border-color:#4285f4}.P1ekSe-ZMv3u>div:nth-child(1){background-color:#1a73e8!important}.P1ekSe-ZMv3u>div:nth-child(2),.P1ekSe-ZMv3u>div:nth-child(3){background-image:linear-gradient(to right,rgba(255,255,255,.7),rgba(255,255,255,.7)),linear-gradient(to right,#1a73e8,#1a73e8)!important}.haAclf{display:inline-block}.nsm7Bb-HzV7m-LgbsSe{-webkit-border-radius:4px;border-radius:4px;-webkit-box-sizing:border-box;box-sizing:border-box;-webkit-transition:background-color .218s,border-color .218s;transition:background-color .218s,border-color .218s;-webkit-user-select:none;-webkit-appearance:none;background-color:#fff;background-image:none;border:1px solid #dadce0;color:#3c4043;cursor:pointer;font-family:"Google Sans",arial,sans-serif;font-size:14px;height:40px;letter-spacing:0.25px;outline:none;overflow:hidden;padding:0 12px;position:relative;text-align:center;vertical-align:middle;white-space:nowrap;width:auto}@media screen and (-ms-high-contrast:active){.nsm7Bb-HzV7m-LgbsSe{border:2px solid windowText;color:windowText}}.nsm7Bb-HzV7m-LgbsSe.pSzOP-SxQuSe{font-size:14px;height:32px;letter-spacing:0.25px;padding:0 10px}.nsm7Bb-HzV7m-LgbsSe.purZT-SxQuSe{font-size:11px;height:20px;letter-spacing:0.3px;padding:0 8px}.nsm7Bb-HzV7m-LgbsSe.Bz112c-LgbsSe{padding:0;width:40px}.nsm7Bb-HzV7m-LgbsSe.Bz112c-LgbsSe.pSzOP-SxQuSe{width:32px}.nsm7Bb-HzV7m-LgbsSe.Bz112c-LgbsSe.purZT-SxQuSe{width:20px}.nsm7Bb-HzV7m-LgbsSe.JGcpL-RbRzK{-webkit-border-radius:20px;border-radius:20px}.nsm7Bb-HzV7m-LgbsSe.JGcpL-RbRzK.pSzOP-SxQuSe{-webkit-border-radius:16px;border-radius:16px}.nsm7Bb-HzV7m-LgbsSe.JGcpL-RbRzK.purZT-SxQuSe{-webkit-border-radius:10px;border-radius:10px}.nsm7Bb-HzV7m-LgbsSe.MFS4be-Ia7Qfc{border:none;color:#fff}.nsm7Bb-HzV7m-LgbsSe.MFS4be-v3pZbf-Ia7Qfc{background-color:#1a73e8}.nsm7Bb-HzV7m-LgbsSe.MFS4be-JaPV2b-Ia7Qfc{background-color:#202124;color:#e8eaed}.nsm7Bb-HzV7m-LgbsSe .nsm7Bb-HzV7m-LgbsSe-Bz112c{height:18px;margin-right:8px;min-width:18px;width:18px}.nsm7Bb-HzV7m-LgbsSe.pSzOP-SxQuSe .nsm7Bb-HzV7m-LgbsSe-Bz112c{height:14px;min-width:14px;width:14px}.nsm7Bb-HzV7m-LgbsSe.purZT-SxQuSe .nsm7Bb-HzV7m-LgbsSe-Bz112c{height:10px;min-width:10px;width:10px}.nsm7Bb-HzV7m-LgbsSe.jVeSEe .nsm7Bb-HzV7m-LgbsSe-Bz112c{margin-left:8px;margin-right:-4px}.nsm7Bb-HzV7m-LgbsSe.Bz112c-LgbsSe .nsm7Bb-HzV7m-LgbsSe-Bz112c{margin:0;padding:10px}.nsm7Bb-HzV7m-LgbsSe.Bz112c-LgbsSe.pSzOP-SxQuSe .nsm7Bb-HzV7m-LgbsSe-Bz112c{padding:8px}.nsm7Bb-HzV7m-LgbsSe.Bz112c-LgbsSe.purZT-SxQuSe .nsm7Bb-HzV7m-LgbsSe-Bz112c{padding:4px}.nsm7Bb-HzV7m-LgbsSe .nsm7Bb-HzV7m-LgbsSe-Bz112c-haAclf{-webkit-border-top-left-radius:3px;border-top-left-radius:3px;-webkit-border-bottom-left-radius:3px;border-bottom-left-radius:3px;display:-webkit-box;display:-webkit-flex;display:flex;justify-content:center;-webkit-align-items:center;align-items:center;background-color:#fff;height:36px;margin-left:-10px;margin-right:12px;min-width:36px;width:36px}.nsm7Bb-HzV7m-LgbsSe .nsm7Bb-HzV7m-LgbsSe-Bz112c-haAclf .nsm7Bb-HzV7m-LgbsSe-Bz112c,.nsm7Bb-HzV7m-LgbsSe.Bz112c-LgbsSe .nsm7Bb-HzV7m-LgbsSe-Bz112c-haAclf .nsm7Bb-HzV7m-LgbsSe-Bz112c{margin:0;padding:0}.nsm7Bb-HzV7m-LgbsSe.pSzOP-SxQuSe .nsm7Bb-HzV7m-LgbsSe-Bz112c-haAclf{height:28px;margin-left:-8px;margin-right:10px;min-width:28px;width:28px}.nsm7Bb-HzV7m-LgbsSe.purZT-SxQuSe .nsm7Bb-HzV7m-LgbsSe-Bz112c-haAclf{height:16px;margin-left:-6px;margin-right:8px;min-width:16px;width:16px}.nsm7Bb-HzV7m-LgbsSe.Bz112c-LgbsSe .nsm7Bb-HzV7m-LgbsSe-Bz112c-haAclf{-webkit-border-radius:3px;border-radius:3px;margin-left:2px;margin-right:0;padding:0}.nsm7Bb-HzV7m-LgbsSe.JGcpL-RbRzK .nsm7Bb-HzV7m-LgbsSe-Bz112c-haAclf{-webkit-border-radius:18px;border-radius:18px}.nsm7Bb-HzV7m-LgbsSe.pSzOP-SxQuSe.JGcpL-RbRzK .nsm7Bb-HzV7m-LgbsSe-Bz112c-haAclf{-webkit-border-radius:14px;border-radius:14px}.nsm7Bb-HzV7m-LgbsSe.purZT-SxQuSe.JGcpL-RbRzK .nsm7Bb-HzV7m-LgbsSe-Bz112c-haAclf{-webkit-border-radius:8px;border-radius:8px}.nsm7Bb-HzV7m-LgbsSe .nsm7Bb-HzV7m-LgbsSe-bN97Pc-sM5MNb{display:-webkit-box;display:-webkit-flex;display:flex;-webkit-align-items:center;align-items:center;-webkit-flex-direction:row;flex-direction:row;justify-content:space-between;-webkit-flex-wrap:nowrap;flex-wrap:nowrap;height:100%;position:relative;width:100%}.nsm7Bb-HzV7m-LgbsSe .oXtfBe-l4eHX{justify-content:center}.nsm7Bb-HzV7m-LgbsSe .nsm7Bb-HzV7m-LgbsSe-BPrWId{-webkit-flex-grow:1;flex-grow:1;font-family:"Google Sans",arial,sans-serif;font-weight:500;overflow:hidden;text-overflow:ellipsis;vertical-align:top}.nsm7Bb-HzV7m-LgbsSe.purZT-SxQuSe .nsm7Bb-HzV7m-LgbsSe-BPrWId{font-weight:300}.nsm7Bb-HzV7m-LgbsSe .oXtfBe-l4eHX .nsm7Bb-HzV7m-LgbsSe-BPrWId{-webkit-flex-grow:0;flex-grow:0}.nsm7Bb-HzV7m-LgbsSe .nsm7Bb-HzV7m-LgbsSe-MJoBVe{-webkit-transition:background-color .218s;transition:background-color .218s;bottom:0;left:0;position:absolute;right:0;top:0}.nsm7Bb-HzV7m-LgbsSe:hover,.nsm7Bb-HzV7m-LgbsSe:focus{-webkit-box-shadow:none;box-shadow:none;border-color:rgb(210,227,252);outline:none}.nsm7Bb-HzV7m-LgbsSe:hover .nsm7Bb-HzV7m-LgbsSe-MJoBVe,.nsm7Bb-HzV7m-LgbsSe:focus .nsm7Bb-HzV7m-LgbsSe-MJoBVe{background:rgba(66,133,244,.04)}.nsm7Bb-HzV7m-LgbsSe:active .nsm7Bb-HzV7m-LgbsSe-MJoBVe{background:rgba(66,133,244,.1)}.nsm7Bb-HzV7m-LgbsSe.MFS4be-Ia7Qfc:hover .nsm7Bb-HzV7m-LgbsSe-MJoBVe,.nsm7Bb-HzV7m-LgbsSe.MFS4be-Ia7Qfc:focus .nsm7Bb-HzV7m-LgbsSe-MJoBVe{background:rgba(255,255,255,.24)}.nsm7Bb-HzV7m-LgbsSe.MFS4be-Ia7Qfc:active .nsm7Bb-HzV7m-LgbsSe-MJoBVe{background:rgba(255,255,255,.32)}.nsm7Bb-HzV7m-LgbsSe .n1UuX-DkfjY{-webkit-border-radius:50%;border-radius:50%;display:-webkit-box;display:-webkit-flex;display:flex;height:20px;margin-left:-4px;margin-right:8px;min-width:20px;width:20px}.nsm7Bb-HzV7m-LgbsSe.jVeSEe .nsm7Bb-HzV7m-LgbsSe-BPrWId{font-family:"Roboto";font-size:12px;text-align:left}.nsm7Bb-HzV7m-LgbsSe.jVeSEe .nsm7Bb-HzV7m-LgbsSe-BPrWId .ssJRIf,.nsm7Bb-HzV7m-LgbsSe.jVeSEe .nsm7Bb-HzV7m-LgbsSe-BPrWId .K4efff .fmcmS{overflow:hidden;text-overflow:ellipsis}.nsm7Bb-HzV7m-LgbsSe.jVeSEe .nsm7Bb-HzV7m-LgbsSe-BPrWId .K4efff{display:-webkit-box;display:-webkit-flex;display:flex;-webkit-align-items:center;align-items:center;color:#5f6368;fill:#5f6368;font-size:11px;font-weight:400}.nsm7Bb-HzV7m-LgbsSe.jVeSEe.MFS4be-Ia7Qfc .nsm7Bb-HzV7m-LgbsSe-BPrWId .K4efff{color:#e8eaed;fill:#e8eaed}.nsm7Bb-HzV7m-LgbsSe.jVeSEe .nsm7Bb-HzV7m-LgbsSe-BPrWId .K4efff .Bz112c{height:18px;margin:-3px -3px -3px 2px;min-width:18px;width:18px}.nsm7Bb-HzV7m-LgbsSe.jVeSEe .nsm7Bb-HzV7m-LgbsSe-Bz112c-haAclf{-webkit-border-top-left-radius:0;border-top-left-radius:0;-webkit-border-bottom-left-radius:0;border-bottom-left-radius:0;-webkit-border-top-right-radius:3px;border-top-right-radius:3px;-webkit-border-bottom-right-radius:3px;border-bottom-right-radius:3px;margin-left:12px;margin-right:-10px}.nsm7Bb-HzV7m-LgbsSe.jVeSEe.JGcpL-RbRzK .nsm7Bb-HzV7m-LgbsSe-Bz112c-haAclf{-webkit-border-radius:18px;border-radius:18px}.L5Fo6c-sM5MNb{border:0;display:block;left:0;position:relative;top:0}.L5Fo6c-bF1uUb{-webkit-border-radius:4px;border-radius:4px;bottom:0;cursor:pointer;left:0;position:absolute;right:0;top:0}.L5Fo6c-bF1uUb:focus{border:none;outline:none}sentinel{}</style><style type="text/css">.detachVideo > iframe{height:100%!important}.detachVideo{position:fixed;z-index:60000;bottom:150px;right:10px;min-height:180px;max-height:180px}</style><style type="text/css">.snigel-cmp-framework .sn-inner {background-color:#ffffff!important;}.snigel-cmp-framework .sn-b-def {border-color:#5f45a9!important;color:#5f45a9!important;}.snigel-cmp-framework .sn-b-def.sn-blue {color:#ffffff!important;background-color:#5f45a9!important;border-color:#5f45a9!important;}.snigel-cmp-framework .sn-selector ul li {color:#3440ca!important;}.snigel-cmp-framework .sn-selector ul li:after {background-color:#3440ca!important;}.snigel-cmp-framework .sn-footer-tab .sn-privacy a {color:#3440ca!important;}.snigel-cmp-framework .sn-arrow:after,.snigel-cmp-framework .sn-arrow:before {background-color:#f4fafa!important;}.snigel-cmp-framework .sn-switch input:checked + span::before {background-color:#967fff!important;}#adconsent-usp-link {border: 1px solid #5f45a9!important;color:#5f45a9!important;}#adconsent-usp-banner-optout input:checked + .adconsent-usp-slider {background-color:#5f45a9!important;}#adconsent-usp-banner-btn {color:#ffffff;border: solid 1px #5f45a9!important;background-color:#5f45a9!important; }</style><script src="./save_files/3927" type="text/javascript" async="async"></script><style type="text/css">.snigel-adhesive{box-sizing:content-box;position:fixed;left:0;right:0;z-index:99999;text-align:center;padding-top:5px;padding-bottom:5px;background-color:#f2f6f7;transition:all 1500ms ease-out}.snigel-adhesive{text-align: -webkit-center;}.snigel-adhesive{text-align: -moz-center;}.snigel-adhesive.bottom{bottom:0}.snigel-adhesive.top{top:0}.snigel-adhesive-center{position:absolute;top:0;bottom:0;right:0;left:0}.snigel-adhesive-centered{position:absolute;margin:0;transform:translateY(-50%);right:0;left:0}.close-adhesive{box-sizing:content-box;width:16px;height:16px;position:absolute;right:0;padding:5px;background-color:#f2f6f7;text-align:center;cursor:pointer}.close-adhesive.bottom{top:0}.close-adhesive.top{bottom:0}.close-adhesive.bottom.extern{top:-21px;padding-bottom:0}.close-adhesive.top.extern{bottom:-21px;padding-top:0}.close-adhesive>svg{display:block}.close-adhesive-icon{fill:gray;stroke-width:3;stroke:#73d9c6}.logo-adhesive{cursor:pointer;opacity:0.65;position:absolute;left:5px;top:5px;width:24px;height:24px;background:url("https://cdn.snigelweb.com/resources/img/logo/snigel-icon-48.png") no-repeat 50% 50%/contain}.logo-adhesive:hover{opacity:1}.logo-adhesive.adhesive-hidden{left:-500px}</style><script esp-signal="true" src="./save_files/uid2SecureSignal.js.download"></script><script esp-signal="true" src="./save_files/sync.min.js.download"></script><script esp-signal="true" src="./save_files/esp.js.download"></script><script esp-signal="true" src="./save_files/esp(1).js.download"></script><script esp-signal="true" src="./save_files/publishertag.ids.js.download"></script><script esp-signal="true" src="./save_files/pubcid.min.js.download"></script><script src="./save_files/pubcid.min(1).js.download"></script><script src="./save_files/id5-api.js.download"></script><style type="text/css" id="adngin-bottom_adhesive-0-adhesive-style">[id="adngin-bottom_adhesive-0-adhesive"]{min-height:0px}[id="adngin-bottom_adhesive-0-adhesive"].bottom.adhesive-hidden{bottom:-1090px!important}#adngin-bottom_adhesive-0-adhesive{background-color:rgba(248, 248, 248, 0.95)} #adngin-bottom_adhesive-0-adhesive-close{background-color:rgb(248,248,248)} #adngin-bottom_adhesive-0-adhesive-close .close-adhesive-icon{fill:rgb(105,105,105)}#snigel-adhesive-contentextension-bottom{height:90px;display:block;width:100%}.snigel-adhesive-ccpa{bottom:110px !important;transition:all 500ms ease-out}</style></head>
+
+<body>
+            
+    
+    <div class="banner-div">
+            <div class="inner-banner-div">
+                <span class="inner-banner-span">
+                    <span class="lifetime-label">
+                        <span>LIFETIME</span>
+                        <span>SUBSCRIPTION</span>
+                    </span>
+                    <span class="lifetime-feature">
+                        <span class="lifetime-feature__item">
+                            <span>1000</span>
+                            <small>DAYS</small>
+                        </span>
+                        <span class="lifetime-feature__item">
+                            <span>150,000</span>
+                            <small>IMAGES</small>
+                        </span>
+                    </span>
+                </span>
+                <span class="inner-banner-span">
+                    <span class="offer-text">
+                        <small>GET OFFER ONLY IN</small> <strong>$79.99</strong>
+                    </span>
+                                        <a href="javascript:void(0)" class="gradient-button accountModal" data-code="95964" data-id="38">
+                        GET NOW
+                    </a>
+                </span>
+            </div>
+        </div>
+    <header>
+    <div class="navbar desktop">
+        <div class="logo-div">
+            <div>
+                <a href="https://www.imagetotext.info/" class="logo">
+                    <img src="./save_files/logo.svg" alt="logo" height="40" width="40">
+                    <span>Image To Text</span>
+                </a>
+            </div>
+            <div class="nav-links tools">
+                <ul>
+                    <li>
+                        <a href="https://www.imagetotext.info/image-translator">
+                            Image Translator
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://www.imagetotext.info/jpg-to-word">
+                            JPG To Word
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://www.imagetotext.info/jpg-to-excel">
+                            JPG To Excel
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://www.imagetotext.info/pdf-to-excel">
+                            PDF To Excel
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+        <div class="nav-links topnav" id="myTopnav">
+            <ul>
+                
+                <li class="get-api-nav-li">
+                    <a href="https://www.imagetotext.info/premium" class="eTrack" e-track="navbar pricing">
+                        <img src="./save_files/pricing-icon.svg" alt="pricing" width="30" height="30">
+                        <span>Pricing</span>
+                    </a>
+                </li>
+                                    <li>
+                        <a href="https://www.imagetotext.info/login" class="account-item auth-btns">
+                            <img src="./save_files/login.svg" alt="icon" width="30" height="30">
+                            <span>Login</span>
+                        </a>
+                    </li>
+                            </ul>
+        </div>
+    </div>
+    <div class="navbar mobile">
+        <div class="logo-div">
+            <a href="https://www.imagetotext.info/" class="logo">
+                <img height="40" width="40" src="./save_files/logo.svg" alt="logo">
+                <span>Image To Text</span>
+            </a>
+        </div>
+        <div class="nav-links">
+            <ul>
+                <li>
+                    <span class="icon" onclick="toggle_menubar()">
+                        <div class="mobile-menu-trigger">
+                            <img class="navbar-icon" src="./save_files/navbar-menu-icon.svg" alt="Navbar Icon" width="18" height="18">
+                            <img class="close-icon d-none" src="./save_files/navbar-close-icon.svg" alt="Navbar Icon" width="18" height="18">
+                        </div>
+                    </span>
+                </li>
+            </ul>
+        </div>
+        <div class="mobile-nav-dropdown">
+            <ul class="margin-left-0">
+                <li>
+                    <a class="navbar-li" href="https://www.imagetotext.info/image-translator">
+                        <span>Image Translator</span>
+                        <img class="go-icon d-none" src="./save_files/mobile-dropdown-icon.svg" alt="view more icon">
+                    </a>
+                </li>
+                <li>
+                    <a class="navbar-li" href="https://www.imagetotext.info/jpg-to-word">
+                        <span>JPG To Word</span>
+                        <img class="go-icon d-none" src="./save_files/mobile-dropdown-icon.svg" alt="view more icon">
+                    </a>
+                </li>
+                <li>
+                    <a class="navbar-li" href="https://www.imagetotext.info/jpg-to-excel">
+                        <span>JPG To Excel</span>
+                        <img class="go-icon d-none" src="./save_files/mobile-dropdown-icon.svg" alt="view more icon">
+                    </a>
+                </li>
+
+                <li>
+                    <a class="navbar-li" href="https://www.imagetotext.info/pdf-to-excel">
+                        <span>PDF To Excel</span>
+                        <img class="go-icon d-none" src="./save_files/mobile-dropdown-icon.svg" alt="view more icon">
+                    </a>
+
+                </li>
+
+
+                
+                                <li>
+                    <a href="https://www.imagetotext.info/premium" class="navbar__lower">
+                        <div>
+                            <img src="./save_files/navbar-pricing-icon.svg" alt="navbar pricing icon" width="30" height="30" loading="lazy">
+                            <span> Pricing</span>
+                        </div>
+                        <img class="go-icon d-none" src="./save_files/mobile-dropdown-icon.svg" alt="view more icon">
+                    </a>
+                </li>
+                                    <li>
+                        <a href="https://www.imagetotext.info/login" class="navbar__lower">
+                            <div>
+                                <img src="./save_files/login.svg" alt="Login" width="30" height="30">
+                                <span> Login</span>
+                            </div>
+
+                        </a>
+                    </li>
+                            </ul>
+        </div>
+    </div>
+</header>
+    
+
+    
+        <section class="section home tool-section">
+        <div class="container">
+            
+            <h1 class="h1 text-center text-white">Image Translator</h1>
+<p class="text text-center text-white slogan">
+    An online photo translator tool to translate image text directly. Upload your photo to our image translator and instantly get your image with translated text.
+</p>
+
+
+            <div class="tool">
+                <div class="loader-container d-none">
+                    <div class="loader"></div><!--  div.loader -->
+                </div>
+                <div class="tool-span p-relative">
+                    
+                    <div class="tool-actions">
+                        <span class="language-selection">
+                            <div class="js-toggle-source-lang">
+                                <span id="s-lang">
+                                    <span class="text-content">English</span>
+                                    <img src="./save_files/down-caret.svg" alt="down caret">
+                                </span>
+                            </div>
+                            <img src="./save_files/swap-icon.svg" alt="swap" class="swap-langs" width="10">
+                            <div class="js-toggle-dest-lang">
+                                <span id="d-lang">
+                                    <span class="text-content">
+                    Chinese(Traditional)
+                </span>
+                                    <img src="./save_files/down-caret.svg" alt="down caret">
+                                </span>
+
+                            </div>
+                        </span>
+                        <div class="utilities-btn action_btns">
+                            <span class="after-selection reset-icon js-reset-icon">
+                                <img src="./save_files/reset.svg" alt="reset" width="14">
+                                <span>
+                                    Reset
+                                </span>
+                            </span>
+                            
+                            <span class="after-selection js-download-icon">
+                                <img src="./save_files/download.svg" alt="download" width="14">
+                                <span>
+                                    Download
+                                </span>
+                            </span>
+                        </div>
+                    </div>
+                    <div class="modal-source-language lang-modal  p-absolute" style="display: none;">
+        <div class="grid-div">
+        <input type="search" class="search-lang" id="js-search-slang" placeholder="Search Languages">
+
+        <div class="lang-grid">
+                            <div data-slang="af" class="source-lang-item">
+                    Afrikaans
+                </div>
+                            <div data-slang="sq" class="source-lang-item">
+                    Albanian
+                </div>
+                            <div data-slang="ar" class="source-lang-item">
+                    Arabic
+                </div>
+                            <div data-slang="az" class="source-lang-item">
+                    Azerbaijani
+                </div>
+                            <div data-slang="eu" class="source-lang-item">
+                    Basque
+                </div>
+                            <div data-slang="be" class="source-lang-item">
+                    Belarusian
+                </div>
+                            <div data-slang="bn" class="source-lang-item">
+                    Bengali
+                </div>
+                            <div data-slang="bs" class="source-lang-item">
+                    Bosnian
+                </div>
+                            <div data-slang="bg" class="source-lang-item">
+                    Bulgarian
+                </div>
+                            <div data-slang="ca" class="source-lang-item">
+                    Catalan
+                </div>
+                            <div data-slang="ceb" class="source-lang-item">
+                    Cebuano
+                </div>
+                            <div data-slang="zh-CN" class="source-lang-item">
+                    Chinese
+                </div>
+                            <div data-slang="zh-TW" class="source-lang-item">
+                    Chinese(Traditional)
+                </div>
+                            <div data-slang="co" class="source-lang-item">
+                    Corsican
+                </div>
+                            <div data-slang="hr" class="source-lang-item">
+                    Croatian
+                </div>
+                            <div data-slang="cs" class="source-lang-item">
+                    Czech
+                </div>
+                            <div data-slang="da" class="source-lang-item">
+                    Danish
+                </div>
+                            <div data-slang="nl" class="source-lang-item">
+                    Dutch
+                </div>
+                            <div data-slang="en" class="source-lang-item active">
+                    English
+                </div>
+                            <div data-slang="eo" class="source-lang-item">
+                    Esperanto
+                </div>
+                            <div data-slang="et" class="source-lang-item">
+                    Estonian
+                </div>
+                            <div data-slang="fi" class="source-lang-item">
+                    Finnish
+                </div>
+                            <div data-slang="fr" class="source-lang-item">
+                    French
+                </div>
+                            <div data-slang="fy" class="source-lang-item">
+                    Frisian
+                </div>
+                            <div data-slang="gl" class="source-lang-item">
+                    Galician
+                </div>
+                            <div data-slang="ka" class="source-lang-item">
+                    Georgian
+                </div>
+                            <div data-slang="de" class="source-lang-item">
+                    German
+                </div>
+                            <div data-slang="el" class="source-lang-item">
+                    Greek
+                </div>
+                            <div data-slang="gu" class="source-lang-item">
+                    Gujarati
+                </div>
+                            <div data-slang="ht" class="source-lang-item">
+                    Haitian Creole
+                </div>
+                            <div data-slang="ha" class="source-lang-item">
+                    Hausa
+                </div>
+                            <div data-slang="haw" class="source-lang-item">
+                    Hawaiian
+                </div>
+                            <div data-slang="he" class="source-lang-item">
+                    Hebrew
+                </div>
+                            <div data-slang="hi" class="source-lang-item">
+                    Hindi
+                </div>
+                            <div data-slang="hmn" class="source-lang-item">
+                    Hmong
+                </div>
+                            <div data-slang="hu" class="source-lang-item">
+                    Hungarian
+                </div>
+                            <div data-slang="is" class="source-lang-item">
+                    Icelandic
+                </div>
+                            <div data-slang="ig" class="source-lang-item">
+                    Igbo
+                </div>
+                            <div data-slang="id" class="source-lang-item">
+                    Indonesian
+                </div>
+                            <div data-slang="ga" class="source-lang-item">
+                    Irish
+                </div>
+                            <div data-slang="it" class="source-lang-item">
+                    Italian
+                </div>
+                            <div data-slang="ja" class="source-lang-item">
+                    Japanese
+                </div>
+                            <div data-slang="jv" class="source-lang-item">
+                    Javanese
+                </div>
+                            <div data-slang="kn" class="source-lang-item">
+                    Kannada
+                </div>
+                            <div data-slang="kk" class="source-lang-item">
+                    Kazakh
+                </div>
+                            <div data-slang="km" class="source-lang-item">
+                    Khmer
+                </div>
+                            <div data-slang="rw" class="source-lang-item">
+                    Kinyarwanda
+                </div>
+                            <div data-slang="ko" class="source-lang-item">
+                    Korean
+                </div>
+                            <div data-slang="ku" class="source-lang-item">
+                    Kurdish
+                </div>
+                            <div data-slang="ky" class="source-lang-item">
+                    Kyrgyz
+                </div>
+                            <div data-slang="lo" class="source-lang-item">
+                    Lao
+                </div>
+                            <div data-slang="la" class="source-lang-item">
+                    Latin
+                </div>
+                            <div data-slang="lv" class="source-lang-item">
+                    Latvian
+                </div>
+                            <div data-slang="lt" class="source-lang-item">
+                    Lithuanian
+                </div>
+                            <div data-slang="lb" class="source-lang-item">
+                    Luxembourgish
+                </div>
+                            <div data-slang="mk" class="source-lang-item">
+                    Macedonian
+                </div>
+                            <div data-slang="mg" class="source-lang-item">
+                    Malagasy
+                </div>
+                            <div data-slang="ms" class="source-lang-item">
+                    Malay
+                </div>
+                            <div data-slang="ml" class="source-lang-item">
+                    Malayalam
+                </div>
+                            <div data-slang="mt" class="source-lang-item">
+                    Maltese
+                </div>
+                            <div data-slang="mi" class="source-lang-item">
+                    Maori
+                </div>
+                            <div data-slang="mr" class="source-lang-item">
+                    Marathi
+                </div>
+                            <div data-slang="mn" class="source-lang-item">
+                    Mongolian
+                </div>
+                            <div data-slang="my" class="source-lang-item">
+                    Myanmar
+                </div>
+                            <div data-slang="ne" class="source-lang-item">
+                    Nepali
+                </div>
+                            <div data-slang="no" class="source-lang-item">
+                    Norwegian
+                </div>
+                            <div data-slang="ny" class="source-lang-item">
+                    Nyanja
+                </div>
+                            <div data-slang="or" class="source-lang-item">
+                    Odia
+                </div>
+                            <div data-slang="ps" class="source-lang-item">
+                    Pashto
+                </div>
+                            <div data-slang="fa" class="source-lang-item">
+                    Persian
+                </div>
+                            <div data-slang="pl" class="source-lang-item">
+                    Polish
+                </div>
+                            <div data-slang="pt" class="source-lang-item">
+                    Portuguese
+                </div>
+                            <div data-slang="pa" class="source-lang-item">
+                    Punjabi
+                </div>
+                            <div data-slang="ro" class="source-lang-item">
+                    Romanian
+                </div>
+                            <div data-slang="ru" class="source-lang-item">
+                    Russian
+                </div>
+                            <div data-slang="sm" class="source-lang-item">
+                    Samoan
+                </div>
+                            <div data-slang="gd" class="source-lang-item">
+                    Scots Gaelic
+                </div>
+                            <div data-slang="sr" class="source-lang-item">
+                    Serbian
+                </div>
+                            <div data-slang="st" class="source-lang-item">
+                    Sesotho
+                </div>
+                            <div data-slang="sn" class="source-lang-item">
+                    Shona
+                </div>
+                            <div data-slang="sd" class="source-lang-item">
+                    Sindhi
+                </div>
+                            <div data-slang="sk" class="source-lang-item">
+                    Slovak
+                </div>
+                            <div data-slang="sl" class="source-lang-item">
+                    Slovenian
+                </div>
+                            <div data-slang="so" class="source-lang-item">
+                    Somali
+                </div>
+                            <div data-slang="es" class="source-lang-item">
+                    Spanish
+                </div>
+                            <div data-slang="su" class="source-lang-item">
+                    Sundanese
+                </div>
+                            <div data-slang="sw" class="source-lang-item">
+                    Swahili
+                </div>
+                            <div data-slang="sv" class="source-lang-item">
+                    Swedish
+                </div>
+                            <div data-slang="tl" class="source-lang-item">
+                    Tagalog
+                </div>
+                            <div data-slang="tg" class="source-lang-item">
+                    Tajik
+                </div>
+                            <div data-slang="ta" class="source-lang-item">
+                    Tamil
+                </div>
+                            <div data-slang="tt" class="source-lang-item">
+                    Tatar
+                </div>
+                            <div data-slang="te" class="source-lang-item">
+                    Telugu
+                </div>
+                            <div data-slang="th" class="source-lang-item">
+                    Thai
+                </div>
+                            <div data-slang="tr" class="source-lang-item">
+                    Turkish
+                </div>
+                            <div data-slang="tk" class="source-lang-item">
+                    Turkmen
+                </div>
+                            <div data-slang="uk" class="source-lang-item">
+                    Ukrainian
+                </div>
+                            <div data-slang="ur" class="source-lang-item">
+                    Urdu
+                </div>
+                            <div data-slang="ug" class="source-lang-item">
+                    Uyghur
+                </div>
+                            <div data-slang="uz" class="source-lang-item">
+                    Uzbek
+                </div>
+                            <div data-slang="vi" class="source-lang-item">
+                    Vietnamese
+                </div>
+                            <div data-slang="cy" class="source-lang-item">
+                    Welsh
+                </div>
+                            <div data-slang="xh" class="source-lang-item">
+                    Xhosa
+                </div>
+                            <div data-slang="yi" class="source-lang-item">
+                    Yiddish
+                </div>
+                            <div data-slang="yo" class="source-lang-item">
+                    Yoruba
+                </div>
+                            <div data-slang="zu" class="source-lang-item">
+                    Zulu
+                </div>
+                    </div>
+    </div>
+</div>
+                    <div class="modal-destination-language lang-modal p-absolute" style="display: none;">
+        <div class="grid-div">
+        <input type="search" class="search-lang" id="js-search-dlang" placeholder="Search Languages">
+        <div class="lang-grid">
+                            <div data-slang="af" class="destination-lang-item" style="">
+                    Afrikaans
+                </div>
+                            <div data-slang="sq" class="destination-lang-item" style="">
+                    Albanian
+                </div>
+                            <div data-slang="ar" class="destination-lang-item" style="">
+                    Arabic
+                </div>
+                            <div data-slang="az" class="destination-lang-item" style="">
+                    Azerbaijani
+                </div>
+                            <div data-slang="eu" class="destination-lang-item" style="">
+                    Basque
+                </div>
+                            <div data-slang="be" class="destination-lang-item" style="">
+                    Belarusian
+                </div>
+                            <div data-slang="bn" class="destination-lang-item" style="">
+                    Bengali
+                </div>
+                            <div data-slang="bs" class="destination-lang-item" style="">
+                    Bosnian
+                </div>
+                            <div data-slang="bg" class="destination-lang-item" style="">
+                    Bulgarian
+                </div>
+                            <div data-slang="ca" class="destination-lang-item" style="">
+                    Catalan
+                </div>
+                            <div data-slang="ceb" class="destination-lang-item" style="">
+                    Cebuano
+                </div>
+                            <div data-slang="zh-CN" class="destination-lang-item" style="">
+                    Chinese
+                </div>
+                            <div data-slang="zh-TW" class="destination-lang-item active" style="">
+                    Chinese(Traditional)
+                </div>
+                            <div data-slang="co" class="destination-lang-item" style="">
+                    Corsican
+                </div>
+                            <div data-slang="hr" class="destination-lang-item" style="">
+                    Croatian
+                </div>
+                            <div data-slang="cs" class="destination-lang-item" style="">
+                    Czech
+                </div>
+                            <div data-slang="da" class="destination-lang-item" style="">
+                    Danish
+                </div>
+                            <div data-slang="nl" class="destination-lang-item" style="">
+                    Dutch
+                </div>
+                            <div data-slang="en" class="destination-lang-item" style="">
+                    English
+                </div>
+                            <div data-slang="eo" class="destination-lang-item" style="">
+                    Esperanto
+                </div>
+                            <div data-slang="et" class="destination-lang-item" style="">
+                    Estonian
+                </div>
+                            <div data-slang="fi" class="destination-lang-item" style="">
+                    Finnish
+                </div>
+                            <div data-slang="fr" class="destination-lang-item" style="">
+                    French
+                </div>
+                            <div data-slang="fy" class="destination-lang-item" style="">
+                    Frisian
+                </div>
+                            <div data-slang="gl" class="destination-lang-item" style="">
+                    Galician
+                </div>
+                            <div data-slang="ka" class="destination-lang-item" style="">
+                    Georgian
+                </div>
+                            <div data-slang="de" class="destination-lang-item" style="">
+                    German
+                </div>
+                            <div data-slang="el" class="destination-lang-item" style="">
+                    Greek
+                </div>
+                            <div data-slang="gu" class="destination-lang-item" style="">
+                    Gujarati
+                </div>
+                            <div data-slang="ht" class="destination-lang-item" style="">
+                    Haitian Creole
+                </div>
+                            <div data-slang="ha" class="destination-lang-item" style="">
+                    Hausa
+                </div>
+                            <div data-slang="haw" class="destination-lang-item" style="">
+                    Hawaiian
+                </div>
+                            <div data-slang="he" class="destination-lang-item" style="">
+                    Hebrew
+                </div>
+                            <div data-slang="hi" class="destination-lang-item" style="">
+                    Hindi
+                </div>
+                            <div data-slang="hmn" class="destination-lang-item" style="">
+                    Hmong
+                </div>
+                            <div data-slang="hu" class="destination-lang-item" style="">
+                    Hungarian
+                </div>
+                            <div data-slang="is" class="destination-lang-item" style="">
+                    Icelandic
+                </div>
+                            <div data-slang="ig" class="destination-lang-item" style="">
+                    Igbo
+                </div>
+                            <div data-slang="id" class="destination-lang-item" style="">
+                    Indonesian
+                </div>
+                            <div data-slang="ga" class="destination-lang-item" style="">
+                    Irish
+                </div>
+                            <div data-slang="it" class="destination-lang-item" style="">
+                    Italian
+                </div>
+                            <div data-slang="ja" class="destination-lang-item" style="">
+                    Japanese
+                </div>
+                            <div data-slang="jv" class="destination-lang-item" style="">
+                    Javanese
+                </div>
+                            <div data-slang="kn" class="destination-lang-item" style="">
+                    Kannada
+                </div>
+                            <div data-slang="kk" class="destination-lang-item" style="">
+                    Kazakh
+                </div>
+                            <div data-slang="km" class="destination-lang-item" style="">
+                    Khmer
+                </div>
+                            <div data-slang="rw" class="destination-lang-item" style="">
+                    Kinyarwanda
+                </div>
+                            <div data-slang="ko" class="destination-lang-item" style="">
+                    Korean
+                </div>
+                            <div data-slang="ku" class="destination-lang-item" style="">
+                    Kurdish
+                </div>
+                            <div data-slang="ky" class="destination-lang-item" style="">
+                    Kyrgyz
+                </div>
+                            <div data-slang="lo" class="destination-lang-item" style="">
+                    Lao
+                </div>
+                            <div data-slang="la" class="destination-lang-item" style="">
+                    Latin
+                </div>
+                            <div data-slang="lv" class="destination-lang-item" style="">
+                    Latvian
+                </div>
+                            <div data-slang="lt" class="destination-lang-item" style="">
+                    Lithuanian
+                </div>
+                            <div data-slang="lb" class="destination-lang-item" style="">
+                    Luxembourgish
+                </div>
+                            <div data-slang="mk" class="destination-lang-item" style="">
+                    Macedonian
+                </div>
+                            <div data-slang="mg" class="destination-lang-item" style="">
+                    Malagasy
+                </div>
+                            <div data-slang="ms" class="destination-lang-item" style="">
+                    Malay
+                </div>
+                            <div data-slang="ml" class="destination-lang-item" style="">
+                    Malayalam
+                </div>
+                            <div data-slang="mt" class="destination-lang-item" style="">
+                    Maltese
+                </div>
+                            <div data-slang="mi" class="destination-lang-item" style="">
+                    Maori
+                </div>
+                            <div data-slang="mr" class="destination-lang-item" style="">
+                    Marathi
+                </div>
+                            <div data-slang="mn" class="destination-lang-item" style="">
+                    Mongolian
+                </div>
+                            <div data-slang="my" class="destination-lang-item" style="">
+                    Myanmar
+                </div>
+                            <div data-slang="ne" class="destination-lang-item" style="">
+                    Nepali
+                </div>
+                            <div data-slang="no" class="destination-lang-item" style="">
+                    Norwegian
+                </div>
+                            <div data-slang="ny" class="destination-lang-item" style="">
+                    Nyanja
+                </div>
+                            <div data-slang="or" class="destination-lang-item" style="">
+                    Odia
+                </div>
+                            <div data-slang="ps" class="destination-lang-item" style="">
+                    Pashto
+                </div>
+                            <div data-slang="fa" class="destination-lang-item" style="">
+                    Persian
+                </div>
+                            <div data-slang="pl" class="destination-lang-item" style="">
+                    Polish
+                </div>
+                            <div data-slang="pt" class="destination-lang-item" style="">
+                    Portuguese
+                </div>
+                            <div data-slang="pa" class="destination-lang-item" style="">
+                    Punjabi
+                </div>
+                            <div data-slang="ro" class="destination-lang-item" style="">
+                    Romanian
+                </div>
+                            <div data-slang="ru" class="destination-lang-item" style="">
+                    Russian
+                </div>
+                            <div data-slang="sm" class="destination-lang-item" style="">
+                    Samoan
+                </div>
+                            <div data-slang="gd" class="destination-lang-item" style="">
+                    Scots Gaelic
+                </div>
+                            <div data-slang="sr" class="destination-lang-item" style="">
+                    Serbian
+                </div>
+                            <div data-slang="st" class="destination-lang-item" style="">
+                    Sesotho
+                </div>
+                            <div data-slang="sn" class="destination-lang-item" style="">
+                    Shona
+                </div>
+                            <div data-slang="sd" class="destination-lang-item" style="">
+                    Sindhi
+                </div>
+                            <div data-slang="sk" class="destination-lang-item" style="">
+                    Slovak
+                </div>
+                            <div data-slang="sl" class="destination-lang-item" style="">
+                    Slovenian
+                </div>
+                            <div data-slang="so" class="destination-lang-item" style="">
+                    Somali
+                </div>
+                            <div data-slang="es" class="destination-lang-item" style="">
+                    Spanish
+                </div>
+                            <div data-slang="su" class="destination-lang-item" style="">
+                    Sundanese
+                </div>
+                            <div data-slang="sw" class="destination-lang-item" style="">
+                    Swahili
+                </div>
+                            <div data-slang="sv" class="destination-lang-item" style="">
+                    Swedish
+                </div>
+                            <div data-slang="tl" class="destination-lang-item" style="">
+                    Tagalog
+                </div>
+                            <div data-slang="tg" class="destination-lang-item" style="">
+                    Tajik
+                </div>
+                            <div data-slang="ta" class="destination-lang-item" style="">
+                    Tamil
+                </div>
+                            <div data-slang="tt" class="destination-lang-item" style="">
+                    Tatar
+                </div>
+                            <div data-slang="te" class="destination-lang-item" style="">
+                    Telugu
+                </div>
+                            <div data-slang="th" class="destination-lang-item" style="">
+                    Thai
+                </div>
+                            <div data-slang="tr" class="destination-lang-item" style="">
+                    Turkish
+                </div>
+                            <div data-slang="tk" class="destination-lang-item" style="">
+                    Turkmen
+                </div>
+                            <div data-slang="uk" class="destination-lang-item" style="">
+                    Ukrainian
+                </div>
+                            <div data-slang="ur" class="destination-lang-item" style="">
+                    Urdu
+                </div>
+                            <div data-slang="ug" class="destination-lang-item" style="">
+                    Uyghur
+                </div>
+                            <div data-slang="uz" class="destination-lang-item" style="">
+                    Uzbek
+                </div>
+                            <div data-slang="vi" class="destination-lang-item" style="">
+                    Vietnamese
+                </div>
+                            <div data-slang="cy" class="destination-lang-item" style="">
+                    Welsh
+                </div>
+                            <div data-slang="xh" class="destination-lang-item" style="">
+                    Xhosa
+                </div>
+                            <div data-slang="yi" class="destination-lang-item" style="">
+                    Yiddish
+                </div>
+                            <div data-slang="yo" class="destination-lang-item" style="">
+                    Yoruba
+                </div>
+                            <div data-slang="zu" class="destination-lang-item" style="">
+                    Zulu
+                </div>
+                    </div>
+    </div>
+</div>                    
+                    <div class="tool-area before-selection d-none">
+                        <div class="upload-section upload-area">
+                            <div class="before-upload upload-area">
+                                <label for="file" class="cursor-pointer">
+                                    <img src="./save_files/image-translator.svg" alt="image-logo" class="upload-section-img">
+                                </label>
+
+                                <span class="drag-n-drop-text" id="js-drag-n-drop">
+                                    Drag &amp; Drop, Upload or Paste image<br><small>Max Image Size 5 MB</small>
+                                </span>
+                                <div class="selection-div">
+                                    <div class="dropdown browse-btn">
+                                        <button class="browse-dropbtn ">
+                                            <label for="file">
+                                                <img src="./save_files/upload-new.svg" alt="Upload" height="20" width="20">
+                                                <span>Browse</span>
+                                            </label>
+                                        </button>
+                                    </div>
+                                </div>
+                                <input type="file" name="file" id="file" hidden="" accept="image/*">
+                                <textarea hidden="" id="response_img_text"></textarea>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="after-upload-selection after-selection" id="afterUpload">
+                        <div class="original-img-div img-preview-box">
+                            <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABgUAAAJxCAYAAABi9rJYAAAACXBIWXMAABYlAAAWJQFJUiTwAAAAB3RJTUUH6QEcDzUb+ThtGgAAIABJREFUeJzs3XmcE/X9x/F3svfJLtcCKggKWBB/gKhYtdJiW2/xoK31BPGq4oVSUSv1KLaoVaGI9QJF22qV0kvtQUUFBRVYFSjKoYDAArILe1/J/P7YZs2GJDuTTDI5Xs/HIw/IzHe+88nMZJN8P/P9fl2SDAEAAAAAAAAAgJSXKUmGQV4AAAAAAIBUtGXLFvXr1y9m5QEAQPJwuVxfJwVcLpfT8djG4/E4HYKjMjIynA4BAAAAAAAAAJCAMiWlVEJAolEcAAAAAAAAAIBgMqW2roEAAAAAACC1dOnSxekQAABAgsmUpD59+sR0J3uqDD36fIMq93ecu6C02KXLzi3QwWXc2Q8AAAAAkXC7W50OIS3VN3u1raJVW7dmaP0XTdq03StJKi2Vbr0sT92LYv87t6WlJeb7AAAAqccd6x1UVhua+cyBCQFJGndKPgkBAAAAAEDSyc92a3DfbH33xAxNvjhfE3+Qo9I8qapKevCJeu2t9TodIgAAQFAxTwo88YdG1dYfmBDo2c2toYdnxnr3AAAAAADE3FH9s3T7dUUadaRb+xpdeuoP9U6HBAAAEFRMkwJ/fbNF2yqC3x0x+FASAgAAAACA1JGTYegHpxWqe2GGPt8p/W1pg9MhAQAAHCBmSYGaOumf7zWHXN+vD8MGAQAAAABSS7bbqx+flytJ+tc7HtU2eByOCAAAoKOYJQXe/6RFrWHmu+paQlIAAAAAAJB6BvR26bCD3GpslT5cS1IAAAAklpglBdZsDJMRkFSQ54rVrgEAAAAAcNSAAW2/ecs3he5Bj+TjcrnkctGeAQCwX2VlZdz2FbOkwK6vDpxc2F9+Lh+iAAAAAIDU1LdPliRp11f89u2Mr6E91AMAgFTW3Nys2267TQ8//HDc9hmzpEBVdfikQB5JAQAAAABAihrQu+03b91+r8ORJC7/Rn/DMII+AABINdOmTdN//vMfSW0JgWnTpmnXrl2aMmVK3GLIjNueAAAAAABIEwU5bfPoNXm4IS4Y/2RAOCQGAACpZvv27fryyy8lSbfffrv27t2r2bNnq0uXLnGLIWY9BQAAAAAAAAKZTQgAAJCqWlpadMstt2jv3r2aNWtWXBMCEkkBAAAAAAAAAADiwuVy6Y9//KOqqqr06KOPxj0hIJEUAAAAAAAAcRJtLwH/eQhCTUZsdrLiUHWZneCYCZEBAJFwu91qaWnR1q1bdcEFF2js2LF644034hoDcwoAAAAAAICU4HK5Dkg4+BrtQyUi7Nims/IAAPjceOON+uijjzos+7//+7+4xkBSAAAAAAAAJJVQDfChlkXaaG92P9HsAwCQXoYPH67hw4c7GgNJAQAAAAAAkBCCDcNjtvE/UuESCQAApCKSAgAAAAAi4na3Oh1CB14vP2+AZBc4JE+kaNAHADhl1qxZ+vzzz9ufZ2Vl6brrrlO/fv0cjKojvjUDAAAAAICU4J8MsCvBAACAFcOGDVOXLl1UV1enV199VZL0wQcfkBQAAAAAEJ2a/btUW7tfmZmZaqivs7Xu/PxCtbS2qKCgi4pLyqzFVbVHNbU1yszMVL3NcRX8L66iwiIVlfawtW4A8RHLsfd9Df+M6Q8AcNK3v/1t1dXVacqUKSooKJDH40m4zyaSAgAAAECCKxp3yoHL4hxDzaJ/h13v9Xq17YvP1K9fP3Xv0U05OTkxiaOpqUlNTU3a+vmnOuTQQdz9CwAAgIRSV1enm2++WXv27NGsWbN02223Jdx31rRJCvx73S69/dku1TR6Oiw/rEeBxh/TV2XFuQ5FBphhyPC2yOtpkuH1yJBXLiVWhjEUQy655JbLnSF3Ro5c7ixJifWHEAAARO/LLRs0dOhQud3umO4nJydHOTk5OuKII/Tf/65XvwGDY7o/APaLZW+BYCJpiKHXAQAgErW1tZoyZYq++uorPfroo+rXr5/cbnfMvyNblRZJgQXLt+h3y79QWXGutlXWd1j38Zf79M91uzR/wnHqWpjtUIRAKIa8rfXyeho7LE2mJvW25IVHhtcjj7e5bVlGrjIy85VcrwQAgPRWXbVLxaXBhxKqqdqjvn37xvXHTmZmpvr27avqyt0q7tozbvsFYI9YDyNkpc7A8ol2NycAIDk0Njbq1ltv1Z49e/TII4+0zyEwefJkDR061OHoOkqLpMDb63frp6cN0ZjBPTT2oTcPWF/X1Kr3P6/UqcN6ORBdetu+fZuqKveq/4DDVVBQ6HQ4CcMlyetplKe1XkqSHgFWGJ5GtXqalJGZL1cGvXQAALCi9bXXYjY0TyDP2LHt/6+r2x86KVBTo+49ulmq+9FHH9W//vUvffHFF+rfv7++//3va/LkyZbqyMnJ1s7aWpICQJLyNcSHa4S30rjvSzQE1um/vLPtItkvAACSVFVVpYKCgg4JAUk68cQTHYwquLRICuxraNa/1u3UpxX7Q5bZXdsYch3s98EHy/XA/T/Ttm1b2pdNvOJaXXvdzQ5GlTg8ngZ5W+s7L5jUDHla65ThklxuEgMAAJgVr4RAoMys0D8dsrKzLMX1wgsvaM6cObr44ot1ww036N1339WsWbPUq1cvjR8/3nQ9ubm5YeMCkBysNvxHsj7S7ayUI5EAAOmtd+/eevjhh50Ow5S0+AY9pE+xqhtatX5njY46uES1ja3a/FVthzJ0D4yf/yz+h35622Qde9w3dc99M9W3X3/9+1+va87sh+V2u3X1tTc6HaKjvGmREPiap6VO7kxD7ow8p0MBAABhNNTXhVxXV1cbcl0wb7zxho477jhNnz5dkvT9739f69at0xtvvGEpKSBJ9WHiQnw88uADKi8v13MvvuR0KJKkc88+NeS6P/3ljThGAgAAkJhSMimwbsd+/fWj7arY32Rpu8K902S4MuTJOVJNBeNkKPHuXi4t/nqc1qpqr4ORRGbJm//WT2+brBEjj9GcufPbl59/wYUqLe2mn952vc4461wdfHDfuMf25bYt2rd/X9B12VlZGjR4SOyDMFrTKiHg422tl8uV+b9JiAEAgB0aGxu1adMmR8Yvra2t1QsvvKDm5uag6z/99FMNGDBAs2bNal9mGIbWrl3bYZm/nJwcXXzxxSooKIhJzIFampuUle1Mr4xw9u7do27dejgdBgAAAJJYyiUFPtq2T7e8tDqibTNb1kiSspo/UmbjB6rtlhzdPZLFW0sW67YpP5EkrV37sT78cIVGjTquff13xn5PkvTeu+9o/A8uimtsP7vzFq1b+3HYMl1KSvXgw4/H8EeYodbm6hjVnfg8LTXKzCkVkw8DABC9zZs36wc/+IH279+vbt26afLkybroovh9v6qpqdGKFStUVVWltWvXatiwYcrL+7pX4KBBgyRJK1asaF+Wk5Ojww47rMOy+vp6rVmzRkceeaRKS0t17rnnxiUpUF9fo0/XrVJhYbEGHjEi5vuz4u47p+jU087WWedc4HQo7SorK1VXX6eKigr16uX8PG2BvQHC9RwAAABIRymXFPjPf3dFtF1xbsdDkdnymTJat8mTeYgdYaW9t9/6j2695VqNPPpY/frRJ3TntJt17VWXaM4Tz+nYY4+XJG3c8Kkkxf3Op40bP9W6tR/r/hmP6BtDhgUtU19fpxuun6i331qsc8/7UUzi8LY2KBUnFTbPkLe1Qe7MfKcDAQAg6b3yyisqKirSiy++qMcff1w///nPtWDBAt1+++0aM2ZMzPffu3dvzZs3Tzt27NDJJ5+sO+64Q6NGjbJcz/Lly3XJJZfot7/9rXr2jM9kwk1NDdqwvlyG4VVNzT5t3rhGAw4/Mi77NsPj8ajV0+p0GFq7dq2ef/ZJvbP0HTU1tc3Pdsap39GggYM16ZrrNdZvkmonnXv2qfrTX94gMQAAAODH3XmR5FLfbP0Lcs+iHJ0xcOcBy13e0BMTw7yl7yzRlJuv0dFHH6vHZj+lgoJCPTrrKZ08ZqxuuuFKvf/+e2poqNfdd92mgw/uq+NGfzMucdXV1Wrrls/V2Nj2I6Z374NCls3PL1BpSVfV1MTuTn6vx9nJrqdOnaqpU6c6GoPTxwAAgFRRXV2tgw46SIMHD9Zjjz2mhQsXqrCwUFdeeaUuuugiffbZZ3GJo0+fPpKknTsP/K5thm+7eCUEWltbtPHTj5SVnaPMzCwVFZVoX9Uebd+2KS77TxYL5j2lKy6/SEVFRXrh969oZfk6rSxfp38ufkcnn3yy7rl7mqbf+VOnw2xPCAChGIbB5MAAgLSUcj0FQs0XPPqwbhrYo/CACYVLCrJ16uAGdav5ebDabI8v3Sx9Z4luvvGq/yUEnlZO7tfzNDz067m69ZZrddMNV2rQoG+oomKH5j33sgoKCuMS22OPPKBjjztBvcIkA+LF8DYrvXsJ+BgyvC3MLQAASGqZy5cq8/335NpdIfeuCrn3dOzJ6u1RJm9ZLxk9e6n12OPVOvrEmMc0bNgwvfLKK3r99df10EMP6YwzztD555+vW2+9Vd27d4/pvsvKyiJOCuzYsUMHH3ywzREF5/V6/tdDwNCgwcP16bqVKi7ppu49D9Lnm9YqOydXPXo6/73Rab/6xT369+J/a/6CP+iII47QW2+9pcX/+LskqWefvrp80jX6wY8v1c2Tr9VN11+jR3/zhCNxkhAAAAAILeWSAsGS/E9ddKiG5cxXVvOq4BvRISAm3l32tm6+8SqNGnWc5j65IGiZGQ88qlO/d4K2bvlcTzy1QP0OHRC3+Nat/UTHHGu+V0Is7yJpSwrEj69HwMyZM+O6XzO8niZlkBQAACSZjE/KlfW3Pynzk3K56uvClnXv2fW/RMFHyvrPP2TkF6h12HC1nHmuPMOGxzTO0047TaeddprmzZunOXPm6O9//7uuuOIKXXXVVcrPj80Qfr1799aOHTs6LKuoqNAPf/hD/f3vf1dhYaEqKyt1zjnn6NVXX+3QK2DHjh3tvQ1ibdNnH6ultVnfGDpKWVnZ7ctLu/aUx9OqrV98qqysbJWUpu8kvytWrNDLf3xJTz37grp3764rLrtI5R+t1pFDhyknJ0crV83VM7+do18+9Kh+Petx/eD8s/Xiiy/GdT4LiYQAAABAZ1IuKRDYU+D4w7rpqOy5ymz+b/SVRaC0+MARmqqqvZbKW9kmXLlI4onUBx8s142TJ+noMAkBSZp62/Xyer16+tnf6/CBg22PIxyv13tAz5FwrJS1yvA6Py5swjA4FgCA5OHaXaGcZ+Yqa8WyyOuor1PWimXKWrFMLcedoKYrrpXRM7aTtU6YMEHjx4/XrFmzNGfOHL300ku66aab9MMf/tD2ffXu3VsVFRUdlu3Zs0c7duxQZWWlCgsLVVVVpYqKCu3du7dDUmDnzp3q3bu37TEF2rxxjerra3XEkKOVlZVzwPruPfqopaVZmzeu0eBvjFRBYZeYx5SInn3ycZ077jyNHDlSEy65UJWVlVr459fVr18/SdK+fft0+603afJPrtQrf/qbrr/xVs1+9MG4JgVCJQRIEgAAAHwt5ZICh3YvlLS7/XmPwhy5PZFNPuzJiK6rcqgG/tJid9CG+FDlrewjkrp96+xKDvgnBJ4IkxC46YYrVb56pZ54akHcEwKJxjA6P/b+d/cHjv3vu+M/VA+AUNt2Vj7YusD1VvZnpmeCmWMBAEAiyHlmrrL/+qqtdfqSA81nna+mK661te5AhYWFuuOOO3TJJZfogQce0F133aU333xTTzxh73Avffr00XvvvRfRtjt37tTQoUNtjSfQ9m2bVL2/UoO+MUI5uaF7S/Tuc6haW5q14dOP9I2ho8KWTUX79u3Thys/0DXX36S3335bH3/ykX7/8iIZhqHzx52hyspK3f/AQ3r4sTk69+zT9IcX5uvySdfo/nvu1MqVK3X00UfHPEZ6CAAAAJiTchMNn3/0IRrUs6j9edvd3daHfGnocr0Md3HEcQTeve97BFsf7LnVfURbl118CYGjjhphOiFwxBGx/aGXHMxfo1OnTtXMmTODNrCHa3T3rfMvE6yewPoDEwD+Df6hypitKzjmVgAAJLi6WuU+MN32hIC/7L++qtwHpkt1tRHXYbaX4yGHHKLHH39cc+fO1eLFi7Vly5aI9xlMsOGDzNq2bVvMhw/yGl4dPugo5ecXdVr2kH6D1L1Hb7W0xH7oxz17rN3YVFlZGZM4npo7W0/Nna25sx+RJI0YMUKrP3hPgwYO1qBBg/Szabfpiy8+V3X1ft1w3ZVyu9369phva9WqVcrLy9OggYP1u+efba8nVkgIAAAAmJdyPQVyMt165MIRWl9RI0nqXpgjtXT8QWS4itSUf0aHZd7M3vJmtnVVNtwF8mT0jzgGK8P5BJYPtk24Rn5fWTM9AYLV778uVC8Ds6wkBFat/EBPPvMiCYF25pNXgY36U6dObW989/F/bq4hPnj9gYL1LAgVQ2d1hcYE3wCAxOXevFG5sx9UxuebYr6vrBXL5L6rQo2Tb7O8rdW5kJqamvTuu+8qNzfX9omH+/Tpo3379qmxsVG5ubmmt6uurlZTU1PMkwKH9B1oqfzBFstH6qbJkzR8xCjd9tPpnZbdsWOHbrtlsi65/Eqdeuqptsbx4YcfSpLq6r6eK+PGKT/Vjf/7f21tx8RVU1OTpv3snvbnGRkZ2rx5c3u5K22Nrg0JAQAAAGtSLikgSblZGRp+SMnXC3Z3/EHkMmqUW/eHDssaiy5Sc9Z3bI/F6l37wRrlQzXU+y+vqvaa2ldgXWa360z56g914+RJGjFilObMnR+ynC8h8PgT80kI+HG53DIMj9NhJAZXynVgAgCkirrauCUEfDI+36Tc2Q/KkLW0uZW5kBYtWqSZM2cqIyNDzz77rAoKCizHGY5vToAdO3ZowIABprfz9S6I10TDieamW+7QL2f8TE/9dpauvPqGkOX276vSz++6XSUlJTrppJNsj+O3zzzXtp/9+/Wdk4/X5s2bO5zH62+6VVOnTJYkXXP1tSopKemw/dZtW/WLXz4cdWznnt2W7Ahs/CchAAAAYF2atL4Ff5kt2SO1v9cr8mQOkJQR35BSyJpPynXdTybo6KOPDZsQuOWmq7Xyw/f1+BPzdeSw4fELMBm47MvPWR1WKNG4bDwWAADYKXdWfBMCPrHa58qVK3X22Wfr3nvv1cSJE/XOO+/omGOOsX0/vqTAzp07LW3nSwrEY6LhRHTMscdr0lWT9cbrf9Hf/hJ8qKqmpkZNv/s2tbS26N5fzLQ9oeOvS5cuGjRwsN781+sdlo8dO1Yry9fp328u05XXTu6wbvny5aqrq9VRRx0Vk5hICAAAAEQmLVrfPJkHy928N+i6jJYNklrlyewbk33bNXlvIrv7Z1N15JH/p9lzng1ZZsrN1+iD95cnVELA5XKpublZXUu7SpLKy1eqe4+eIctX7atUUVHk80yEjcWdJcPbZGudVocNShQud5bTIQAAcICcZ+Yqa8Uyx/Zv5+B6W7du1YwZM7R48WJddtllWrBggbp06WLjHjrq1q2bJOtJgZ07dyonJ0eFhYWxCCspnHb6Odr71R7Ne3auynr10THHHt9h/Yz77tSe3bv0ywcfbT/OsfSjiy/Xg7+8T2eOu0BlZWUd1pWWlh5Q/rGHf6Vzx50Xk+uLhAAAAEDk0iIp0Fh8lTL3/lQuo+N4l1nNq5S1d5Wac05US85xMdl3sHH6w43db7V8tPFEO3TQ1i2fa9vWL3TPvb8KWWbKzddo+fJleuK3z2vYUSOi2p+dunbrroqd29XnjHEaMvQozX4s9GuQpJLSrvrWyWNjEos7I1veVnNlg80XEGws/1DrohFs/gC79+POyLalHgAA7OLaXRHTSYWtMD9LwIGqqqr02GOP6cUXX9T3vvc9vfnmmzr44INtiy2cvn37RpQU6NevX4wiSh4XXzpJe/fu0S9n/Ez3z3ikfflDM+/VmjUf6f4Zj8TtOJ1zzjl6+z//1O233qTfPPF02J4J9//8Lu3es1uzr3/K9jhICAAAAEQnLZICnsy+qun+G7m9QX6IGFJr9pG27i9wnP7OGt6tlo9VPJEkHsrLVykrOztkY/91116uj8pXac7j8xIqISBJhx02UIv//YbOOOs83feLX2vH9m2qrKoMWjY7K0uDBg+JYTQuudw5pnoL+Df4+55b5d+4b7WOwG0jjSEYlztHTDQMAEg0Oc/MjWg79+TJ0lFHyXXQQVJOTtvC6moZX34p48knZXzyiY1RBuzb7ZbX+/V3u6efflpz5sxR//799fLLL2vEiPh+L+vdu3f7cECS1K9fP02ePFl9+7b11u3Tp48mT56sQw45pL3Mjh070nbooEA33jxN1dX7NeP+u2QYhl77+yJV7v1KU2+/R98YMkySybtLbHDfAw/q9ltv0kU/PF+TrrleJ5xwQnsvgcbGRn3wwQd67pnfqrKqUs8+9zvbJ64mIQAAABC9tEgKSJI3o5u8GbHvUhspuyb8jbePPlqpI4/8v6DrfAmB3zz+rIaPGBXnyDp34UUTtPLDFfrJ1Zdo5NHH6tBDD1Nm5oFviUGDh4R8jXbKyCpQa1OzzNwDaEcjfLDeBWb309n+I5vXwKWMrNiNgwsAQCQyPim3PmxQWZkyHntM6tHjwHXFxXINGSLXo4/KWLRI3tmzLVXtkmSUl8s1PPxwjMOGDdPvf/97zZgxQ6+/3jYG/H333aczzzzT0v7scvDBB2vjxo3tz4uLi3XDDV9PnpuXl9fhuSRt2rRJwzt5nelk6u0/152336TPP9+ohoZ6/eS6KTpu9AlxjyM/P1+zHn9SL7zwgn414x7V19epd68+Kigs0MaNG5SdnaNzzj5HN075qfLy8mISg2/SYR+SBAAAANakTVIg3nx33Qdr6A91R36oxIAdQwdFEo8Zn3xcrm996zsdli1/b6mefmqO1v93rWb95umETAhIUllZb/1m7nP686KXtXrVB1q18v0DyowYeYxOPe3sOEXkUmZ2kVqbq22rMZkmGM7MLhK9BAAAiSbrb3+yvE2HhMD27TI++EDG9u2SJNfxx8s1cmTb/8eNk7umRt758y3V7124UBmdNJaPHz9e27Zt06JFizRhwgRNnDjR8uuw04gRI/Tqq69q/fr1OuKIIzot/8knn2jdunWaMGFCHKILLic3Tzk5sWnUjkROTq7uvudXuuOnN+jEk76tsd89zdF4Lr74Yl1wwQVatmyZfvf8s9qxc4cenf1bnXTSSY7GBQAAgM6RFIgxqw3unZUPt97Mvuyc+Limplqfb96o0cefqMce/ZXKV6/Umk/KJUlDhh6lJ558PmEmFQ6lS5cSXXrZVbr0squcDqWNK0vuzHx5W+ujqibZJhl2Z+ZLLiYYBgAknsz/fbcxyz15cntCwFi3Tt7JkzusNxYulGvMGLl/9jNJkuuccySLSQGVm4vplltu0S233GKt7hg55ZRT9Mtf/lI333yzJk6cqPHjxwct19jYqL/85S968sknVVxcrG9/+9txjvRrAwcn3vfY4uIu+s3c55wOo11ubq7Gjh2rj1e9r9bW1pgmBOgNAAAAYB+SAojY+vXrJEm/f3G+hgw9SiNGjtJll1+lESNHqUuXEmeDS2LujDy5XC55WuosbxuLcf5jzZ2ZL3dG4tyFBwCAT+bypXLVW/w8Puqotn+bmuS9//6gRYwlS2SccUZbj4HiYrnGjJGxZIn5fdTVyVi6VK4TT7QWW5TyCwpDrisIs06SunXrpoceekj33HOP7rjjDt1xxx1hy/ft21ePPPKIunTp0mlcne0bAAAAQEckBRCxQYOO0DPz/qAjjhiqbN/kebCFy52rzOwMtTbXyDfHgJlG/mRJBLRxKSOrSC43PQQAAIkp8/33rG/U2ChVV0s1NdKuXSGLGe+91z6MkLp2tbwb4913454UaG0JPZltS3OLmpqalBPmO+HYsWM1duxYVVRUaNu2bR0mQvbJyMjQIYccorKyMlMxNTY2ho0L8XHBjy7WqWeOczoMAAAAmERSABHr0qVER/3fSKfDSF2uLGXmlMrTWi/D0+h0NLZyZ+S2DRnEHAIAgATm2l1heZvA4YJC1n3QQZbr9mdUWI8tWvkFoe/aLyws7DQp4NOrVy/16tXLlpgaG5tUWEhPAacdcsghTocAAAAACw6cdRZAAnEpI7NAmTld/3dXfbakDBlJ1JjeFmuGXO5sZWQVKTOnq9yZBSIhAABIdO5dMWx4HzSo/b/GsmWWNzd27rQzGlOKS3qGXte1p7Zs2aLW1vjdtd/a2qpt27apqLRH3PYJAAAApAJ6CgBJwdXWqO7OdjoQAADShntP6OF/ouE67zy5hgyRJBmbN4cdZihkHbt3a//+auXkZCs3N9fuECW1Dc1jZZC/vv0Ha/369TrkkL4xj6uxsUnbtm1TvwGDY7IPAAAAIJWRFAAAAADipaxM7ksuaX9qvPhixFXt3/mV6owWZWVlqb6+1o7o2uXnF6i11aOBFrZxuVzq23+wqit3a2dtrbKyslQXg7g8rR4VFhaSEAAAAAAiRFIAAAAAiIeyMmU89phUXCxJMhYtkrFkScTV9bnuyoQcjK+4a08Vd20baoiBfQAAAIDEQ1IAAAAAiDHXsGFy33mn1KOtmdxYtEje2bOjq9OOwBKcIa/TIQAAAAAph6QAAAAAEIS3R5kt8wq4xoyRe+pUKSdHkj0JARmG5HI+LeD18nMCAAAASDZ8iwcAAACC8Jb1ijop4J48Wa7TTrM3ISCpddhwNdz/cNT1AAAAAEg/JAUAAACAIIyevSR9FPH27mnT5DrllLYnTU3yPv20jIULbYwNAAAAAKxzOx0AAAAAkIhajz0+4m3ds2d/nRCorpZ35kzbEgJSdLEBAAAASG/0FAAAAACCaB19ooz8Arnq6yxt5548Wa4hQ9qe7Nkjz403Sruin5vAx8gvUOvoE22rDwAAAEB6oacAAAAAEELrsOGWyrtnLrGWAAAgAElEQVTGjJFr3Li2JzFICEQSEwAAAAD4o6cAAAAAEELLmecqa8Uy0+XdEye2/9+oqZH7+us73cZ4+WUZn3xiKSYAAAAAiBRJAQAAACAEz7DhajnuBFOJAdeYMdJBB339fMAAacCATrczVq+WTCYFWo47QR56CgAAAACIAsMHAQAAAGE0XXGtqXKuQw+NaRyS+VgAAAAAIBR6CgAAAABhGD17qfms85X911fDlvPOny/Nnx+zOJrPOl9Gz14xqx8AAABAeqCnAAAAANCJpiuuVctxJzi2/5bjTqCXAAAAAABbkBQAAAAATGi84TZ5+h8W9/16+h+mxhtu66SUK+qHEeYRuN6O/fGw8wEAAACYR1IAAAAAMKOgUI2T45sY8PQ/TI2Tb5MKCsMXtKFd2RXmEbje8TZwHuQEAAAAEDHmFAAAAABM8g44XPX3P6zcWQ8qa8WymO6r5bgT2noIdJYQkGQYnpjGggRHYgAAAAAWkBQAAAAArCgoVOO0e2Q8M7fTyYcj1XzW+ZbmEDC8rTGJA0nCTQdwAAAAmEdSAAAAAIhA0xXXqvmsc5XzzFzbeg34JhQ2evaytF1uTpYt+0dyavXQUwQAAADmOZYUKCmijysAAACSXFFvaca9MsrL5V24UCovl+rqrNVRUCANHy73eecpd/hw5UYQhsfgu3U6y3fRUwAAAADm0VMAAAAAiJJr+HBlDB8uSTKWLpXx7rsyKiqkigpp166OhcvKpF695OrVS65vflOuE0+Mfv/kBAAAAACYRFIAAAAAsJHrxBODNvQbtbVyFXY+aTAAAAAAxBJJAQAAACAOYpkQoKMAAMBf+Y5yfbrnU23fv12GYTgdDoA0kp2RrQHdBugbPb+hAd0GOB0OQiApAAAAACQ5l2jwSW+khQC0Wfr5Ut3yl1u04asNTocCABo7cKweG/eYDio+yOlQEIAZqQAAAAAAAJJcde1+/XDBD0kIAEgYizcs1tSFU+mxlIBICgAAAAAAACS5N/+1WEeXjnQ6DADoYIhxhDZtJFmZaEgKAAAAAAAAJLkvv9ymscXfcToMAGjnlluF+wu0a9cup0NBAOYUAAAAAJIeY8oDQLqrr69XvqtAr1/xugpyCpSblaucjBynwwKQZgwZamhpUGNro6r2VurD11aoqqrS6bAQgKQAAAAAAABACsjKzNLoQ0c7HQYASJJqi2v1oVbI6/U6HQoCMHwQAAAAAAAAAMBWra2tToeAEOgpAAAAAABALLgMpyMAAAA4AEkBAAAAAABiwO2lcz4AAEg8fEMBAAAAAAAAAMSEy+VyOgQEICkAAAAAAAAAAECaICkAAAAAAAAAAECaICkAAAAAAAAAAECaYKJhRGT06NEh1y1fvjyOkQAAAAAAAAAAzCIpAEvCJQMCy5AcAAAAAAAAAIDEQlIApvgnA8w09o8ePVqjR48mMQAAAAAAAAAACYQ5BdAp/zv/zTby+8qZ6VkAAAAAAAAAAIgPkgIIK5qhgEgMAAAAAAAAAEBiISmQ5AYOHKiBAwfGdB/RDAGUyIkB37GL9fELtk8AAAAAAAAAcAJzCsRIqIbfDRs2xDmSyNk1qfDy5cujTgrYfTx99SXT+bBDMr9u17S1kiTjgaEORwIAAAAAAAAkL3oK2CzV7gS3c6JgO3oLbNiwoUODdrId68D4AQAAAAAAACCe6ClgI/8G6mANv8nUgG22Ad/KxMN2DiG0YcOGpDqeAAAAAAAAAJAIkj4p8N577+nll1/WjBkzlJeXZ3q7+vp6XX311TrjjDP0ox/9yNaYQt0JbjZREGr7wLLh7ji3UjYa0UxEHEuhXn/g8lDD6XR2/Py3C6zD7LpwdYXab6jYOhsWKNLXHS5WAAAAAEB6qqmp0YIFC/STn/zE6VAAABFI+qRAUVGRFi9erEmTJunZZ59VTk5Op9s0NDToiiuu0Pr163XXXXfZEkckjaWh7nQfOHCgqcbacNubqTMVhWp0973+cI3zZrYPtr9wDfFWr4fA+ALrCJdUCCeS1+1bbse145sPwCfUvACxLheubOA2xgNDQ+4n3PwGzH0AAAAAIBWE66H/17/+Vdddd53OPvtsHXzwwXGODAAQraSfU+DII4/U888/rzVr1mjSpElqamoKW76hoUETJkzQunXr9MILL2jw4MFxirSjwKGGzI6VH6xsKIFlE2G4HbuGEAqXhAlcZvX1W9k+3Hmw2pDuX95KvbFM9gRLJljZn2vaWrmmrZXxwND2h2+5mXKh6gwsY6a+UPs2sx8zyQB/JAQAAAAAJLP3339fEydODLpu586dmjp1qgoKCnTZZZfFOTIAgB2SPikgScOHD9dzzz2n8vLysIkBX0Lgv//9r5577jkNHep8w52ZBt5QDeBWyiaKaIcZ8p/I2UxvCqt1J7JYxRfrayawgdxs43yohnX/5VYb360kBszEbTbBAAAAAADJ4rXXXtNxxx2npUuXavTo0aqurm5ft3v3bp122mkqKSnRkiVLtHLlSl166aUORgsAiETSDx/kM3z4cM2bN0+XXXaZJk2apKeffrrDUEJNTU2aMGGC1q5dqwULFmj48OEORht7id7AHSn/O9fDDekTjVQ9dvFm5Y58yb67650cvockAQAAAIBkd/rpp+uf//yn7rjjDr355pvKy8vT7t27demll+qTTz7RkUceqZdeekklJSVatmyZxo0bpyFDhmj06NF69tlnnQ4fAGBCyiQFJGnUqFF6+umnNWnSJE2aNEkLFiyQ1JYQmDRpktauXat58+alfEIgEdk1bJBPuLENo73jPVF7WSSrVG0oDzbngG85AAAAACSz7373u+rSpYvy8vIkSXl5eTr55JO1d+9eGYahnTt3qqSkRNu3b5ckHXHEETr22GOdDBkAYEFKJQUk6fjjj9fTTz+tSy+9VBMnTtSsWbN07bXXatWqVXruuec0atSomOzX10idKBP6RhvD8uXLbW/Ij4VEOd4ILdUbyX1zDwAAAABAKvFv5C8qKtK0adM0bdo0XXLJJRo9erRmzpypa665Rk888YSuvvpqByMFAFiVEnMKBPIlBt555x1961vf0vLly/XUU0/FLCEQKNQd7MGWBy4LN3RNrMqGY0diwFdHtPMJBAqVDGD4IGvMTMRM4qVzqdojAgAAAEB6+uSTT3T55Zdr4cKFHZYvWLBAw4YN0zXXXKObbropqoRAt27d2h/R1gEAMC8lkwKSdPLJJ+uJJ55Qc3Oznn32WX3zm9+M+T79G059vQb8H2bKBlvfWVkr9Vrha8QPlxhYvny57Y39VpmZKNfMMYh2+1gL1Xgfy9iC7cvq/qzOLRAtM5MJR3Jnf7C5CkJNRgwAAAAAyWr16tU655xzdNRRR+mtt97S+eefr6FDh+qVV15pL3PvvfdKkmbMmOFUmACAKKRsUkCSxo4dqzVr1uikk06K2z43bNgQsnE5cLnZclaWWS3bGTOJgXBi1UvAJ7ChPHAiYqtDOkW7fawFi89KbIHb+y/3HwLLv+5IX3u4BnL/BvtQ5WJx531gna5pa0Puhzv/AQAAAKST1atX66yzztLIkSO1YcMGvfzyy/r888+1atUq9evXT+PHj2+fZPjYY4/VSy+91D7ngBRZu8PevXvbHwCA+Em5OQUShdVG6EjLWkkMRMo3v8Do0aNNN+77JxHsSAiEez1mky2R1mfn9nacw1hOpNxZ3Vb37ZuMN7CBPdgd9uEa6K0K1VvAyp38wSYSDra9rxy9BAAAAAAkq9/97ne66KKLJEnz58/XZZdd1r5uxIgReu2117R8+XJddNFF+tGPfqTLLrtM8+fPby9TU1OjM888U59++mm8QwcARICkAEzxTwz4ngcT2KPA6aGF4DyzjeWdlQu1Ptx2kdZpdr1EjwIAAAAAya+yslKSlJeXp/vvv1/Z2dm68MIL29d/+OGHmj59ujZv3qySkhJVVVW1r1u9erUuvvhiffbZZxo3bpwWLVpkad+++QCC9RYINleA2V4F/tv6bxNYJ70UAKSjlB4+CPbynz/AlyAIfAQrC/uEm6w6UYY4AgAAAAAkn27duunLL7/UuHHjdOWVV2ro0KGaP3++zj77bB1zzDEqLi7W2rVrdfrpp8swjPbtRowYoT/+8Y/q3r275s2bZ2s8VpaHKhMuIWC2PgBINfQUgGX+jf1WhhSCPYIlBkgIOCPY5MMAAAAAkKy6du2qBx98UHfeeafuu+8+TZgwQaeeeqrWr1+vwYMHh9xuyJAhevzxx1VaWmpLHJ016nfr1i3kHf6htvUXWGe4+gAgFZEUQFRICMQXjf+JwcxEyQAAAACQrEpKSvSLX/xCv/71r3XNNdeETQj4jB8/3vY4Ahvq9+7dG/bO/nAJgXDDFAFAuiEpAAB+zDTykwgAAAAAgMRipodAYDkASFfMKQAAAAAAAAAAQJogKQAAAAAAAJDmGhoatHr16rBldu7cqc8++0wulytOUZnX2YTC/uWCPQAgnZAUAAAAAAAASGOnnnqqTjnlFI0cOVKnn366Pvzwww7rd+7cqeuuu059+vRRTU2Nrr766rjEFdi439nQP2YSA1brBIBURFIAAAAAAAAgjR1++OH685//rFWrVikvL0/HHHOMzj33XEnSQw89pD59+mjx4sV68cUXtX79ep1++ukxjSewcd/3CLa+s23N1gkA6YSkAAAAAAAAADRixAi9+uqr+vjjj5WTkyNJqq6u1iuvvKL169frxz/+cdxiCdXwb2aoHzOJASv1AUCqyXQ6AAAAAAAAACSOYcOGadGiRWpsbFRubq5jcVhNAESzHADSCT0FAAAAAAAAcIBYJwQYvgcAnEFSAAAAAAAAAHH1xRdftP+fu/cBIL5ICgAAAAAAAMARJAQAIP5ICgAAAAAAACCuDj30UBICAOAQkgIAAAAAAAAAAKQJkgIAAAAAAAAAAKQJkgIAAAAAAAAAAKQJkgIAAAAAAAAAAKQJkgIAAAAAAAAAAKQJkgIAAAAAAAAAAKQJkgIAAAAAAAAAAKSJTKcDsFtLS4saGhrU2NiolpYWeTweGYbhdFgAAAAAgATkcrmUkZGhrKws5ebmKj8/X5mZKfdTGQAAoF3KfNPxer2qrKxUXV2d06EAAAAAAJKEYRhqbW1Va2urGhoaVFVVpYKCAnXt2lVuN53rAQBA6kmJpEBra6t27dql1tZWSVJpaany8/OVkeGWy+VyOLrkU1W1z+kQAAAAACAqa9euVVlZmTIyMsKWa+slkKns7Bx5vV41NDSorq5OTU1NKisro9cAAABIOUn/7cbj8Wjnzp3yer3Kzc1Vz549SAQAAAAAQJorLCxUSUmJpUb9jIwM5eXlqba2Vs3Nzdq5c6f69OnTaWIBAAAgmSR9UmD37t0yDEN9+vRRVlbSv5yEUlpa4nQIAAAAABCRysq9Ki21lhTwKSoqVHNziyoqKrR792717t07BhECAAA4I6kHSNy3b5+am5uVn59PQgAAAAAAYJvs7Czl5eWpublZ+/fvdzocAAAA2yRtUsDr9aq6ulqS1L17N4ejAQAAAACkmh49ukuS9u/fL6/X63A0AAAA9kjapEBdXZ0Mw1BpaanToaQFl8vV4YHk4HK5OzzCrQtcnyi47hJDslwvAAAAdistLZVhGKqrq3M6FAAAAFsk7Zg79fX1kqT8/DyHI7GmcMDN7f+v3fyIg5GY52uMNQzD4Ujga4g1jM7vUuqsrP9yGnhjy+73kJXrwC5cLwAAIF3l5eWpqqpKDQ0NKioqcjocAACAqCVty05LS4skKSMjw+FIzCsccHPSJAKARGEYRvsDAAAAiLfMzLbfnL7foAAAAMkuaZMCHo9HkpJmSBESAgAAAACQfHy/OX2/QQEAAJJd0g4flGxSOSHgPzRKYJIm8O7uYEkcX5lg9QRbZy22r4dZCRzyJHDolUjKBisTrJ5g66zsM9h8AOHis1tnrzfc/jtbH3q70NeK/3oz14uVa9TMvs3WGbjczL7DsXodhDtvkZQDAABIZ/RcRTpp9Tbry/3rtG3fGlXV71BN01fKzSxUaX4f9SoaqH6l/6eC7BKnwwQARIikAILq2vXACZw7a5h3uVwHNNr6Lwu2fWAZ/3r8J5f1fx7Jl/HAhmnfRKmhGkjDlQ02nnuw+nzP/Sdl9X8erGyo+sLtOzD2UMsibeQ1+3rtFiwBEDw+89dLZ9eo/746K2emzmiTWoHMXgehyoS69syUAwAAAJD6Wr3NemP9bP1pzS9U11wVspxLbp182GX64fD7VZrXJ44RAgDskLTDByG2KiurDhjHvbNx3cOtC9UoGuyO6lBlohHYuBnYuBqurL9QjbHB6gtVJtr4wjEMb/sjcFkkzL5e/zjjPQmtleuls+vPynVqZn9OsXre7Lr+AAAAACSvXTWbdPvfR+qFVbeGTQhIkiGvlmyap5v/fISWb30lThECAOxCiw9iJlUmh42mUT1dpXNjcqpc9wAAAADSxzufv6Cpfx+uL/evtbRdY2uNHn17vOZ9cIOaPQ0xig4AYLf0bbkDYDuGnAEAAACA5LK/cbf+sPpONbXWRlzHPz+dozUV/7ExKgBALJEUABAVK/MbAAAAAAASy6I1M7S3fqulbYpyuqkwp2v7c0NePbX8KrV4Gu0OLyH5z2mXKBIxJgCJi1Y7IIkky1jv9BboKNycBJHVlxzXAQAAAIDEVtWwU//e8KTl7W4d82fd+71l6lF4qF9dO7Ri60LTdfgasQMfqS5dXifg45VbXoNrPtHQooS4CNUoGmpi11gLNcFqZ0I1xkZaXyh21xcpK683WAN1ojdaB15/iXadRsrseYvX9QwAAAAgMf39v79Wi8W5AC4c8UsN7nGC+nQ5QpePmtVh3RvrZ4XY6mv+jeK+OdmYmw0A4ivT6QDSReGAm8Muq938SDzDcYRhGEEz4vH44A/WOB1pg6dheOVyuQ+oM5oGVCvxBdt/JPsO14jvX5+V12tnI3KwOyeibZwPVmdgXbG6ToPVG02dnV0HZs+b2XJmrxcAAAAAyWP9rncslR/e51SdM/SnkqTG1lq9uHpqh/XVTXvCbt/ZbzoSAwAQHyQF4iSZG/07+1C28qEdrmywxtlI93Ng3Z03Wlpp2AxXNlija2fbRtpjIZoydr3eUOujbSi2et2ZuV7MXkNmykVyPdr9Bdeuc2z3+wMAAABActhevf6AZYN7nKC+pUfpX5/N7bC8R+GhuuGkP7Q/n7X0Qu3Yf+D2sWDmBi//hEOwm7E6u0Er1PahypuN1WqPdDP7duJmSwCphaQAAAAAAABAmjEMrxpa9ndY9o2yb2n6d9+SJOVnFevPa3/Vvu7mk15RflYXSdKrH9+rVV/+zdL+Iun5Ha7h3OVyhWww92/YD6wj3Lb+25vZV2ex+m8bmBwIl9QIt+9Q5QDAisQe8BsAAAAAAAC2M3RgI3ddU5Xq/5couHDEL3VC/x9LkiYeM0cDuh0tSVq9/TX98ePp8Qs0iFB33/uv8280j2aEg3D7snNbK9vbObICgPREUgAAAAAAACDNuFxuZbizOyzbuu8T3f/vU9TUWidJmnzCi7p45EP63uCfSJIqajZq1tIL4xRfdHPKxVO0d+qb3Z4eAQDsQlIAKc0wvAk9Fnqix5cq/LtqAgAAAAAkl1w6uMs3Dli+ee+H+tWbZ7Y/P3PIFElSU2u9Zi45Sw0t1XGLMdn4hvvxf8RzewAwi6QAAAAAAABAGhpSNibo8nW7lmjmkrM6LJvz7iVxm1g4WfluSAv2iMf2AGAWEw0jpKqqfU6HAAAAAAARqampVVXVPmVmpv7P3k2bNmnJkiXat6/tN1xJSYnGjBmjww47zOHIkOiGlI3R6+sfC7pu1Zd/0+ylP9bkE3+nP62Zofe3Luy0vvOG3RVynW/yXzOT9gIAYiv1vx0BAAAAAJCCvF6v3n77bb377rsdGlkrKir00ksv6YQTTtBJJ53kYIRIdMccMk7H9/uh3tvyUtD1y774vXZUf6rPK1d1WldBdqlOONS++QbMJBHikVywMrdBtAkPEiYA4oWkAA5QWlridAgAAAAAEJXKyr0qLS2xpadAdXVijqG+detWLVu2LOg6wzC0bNky9e3bV4WFhXGODMlk4rFz9OW+tdq2f03Q9WYSAlnuXE0+8XfKysgNW66zhn6zjeKxHGs/koZ53+uKtD6z24c6fsw9AMAq5hQAAAAAACAJvffee2HXG4ah5cuXxykaJKuinG6645R/qKwwsuGm3K5MTRnzJw3vc6qp8r4x8s1MqhuqbCzH2Q/cn2+Zme2kAycLDtw2sFy029O7AEAkSAoAAAAAAJCEdu3aZUsZoDSvj+499V0d1u1YS9vlZXXRXaf823RCwJ+VCXWtlIlkmdX9dbbcyuuJdnv/XgQkBwCYxfBBAAAAAAAkobq6OlvKAJLUJbenfnHaCi3f8kf987O5WrfrzZBlywoP03cGXqnvHH6FinK6xzFKAIAdSAoAAAAAAABAkjS633iN7jdeLZ5G7W/crSZPvVo9TcpwZykrI1eF2V1VkM1chACQzEgKAAAAAAAAoIOsjFx1L+jrdBgAgBggKRAnh0+b0+H5xgeucygSAAAAAAAA+GM8fgDphImG4+DwaXO08YHr2h++ZQAAAAAAAAAAxBNJgTgI7BVAYgAAAAAAAAAA4ASSAgAAAAAAAAAApAmSAgAAAAAAAAAApAmSAg5g2CAAAAAAAAAAgBNICjgocK4BAAAAAACASGRmZqqxsUFer9fpUABAklRdXS1JKi4udjgSBCIpEGe+XgIkBAAAAAAAgF169OippqYmbf/yS6dDAQBJ0ubNmyVJpaWlDkeCQCQF4oiEAAAAAAAAiIXRxx8vSXrttb9pV0WFw9EASHfl5eVasWKFsrOzNXDgQKfDQYBMpwNIFyQEAAAAAABArBw+cJCOHjVKKz/8UM8/N0/FXbqoS3EXyeV0ZIgVr8HJReLxeDzau3evmpqaJElnnXWWCgoKHI4KgUgKxAEJAQAAAAAAEGvfGftdDRhwuN5a8qZ2796l6v37nQ4JMeRlABAksP79++u0005TUVGR06EgCJICceRLDgQiWQAAAAAAAOxwaP/+OrR/f6fDAAAkMJICcUCjPwAAAAAAAAAgEdDPCAAAAAAAAACANEFSAAAAAAAAAACANEFSAAAAAAAAAACANEFSAAAAAAAAAACANEFSAAAAAAAAAACANJHpdAAAAAAAAAAAEsOQu76Qx+PRtwYW6amJPZ0OB0AMkBQAAAAAAAAAIEn67xavJJf6d29xOhQAMcLwQQAAAAAAAAAApAmSAgAAAAAAAAAApAmSAgAAAAAAAAAApAmSAgAAAAAAAAAApAkmGkZCcd3Tlqcypnsdj8HpOGBNqpy3zl6H/3o7ytkpEd6/8ZSsrzdZ4+5Mqr4uxEfg38xYXUfpeJ3G8vMoXuctllLl+4sVqXDeAAAAkh1JgTg5fNqcoMs3PnBdnCOxxnWPu/2LeqQ/ZIP9GAyGHwSdS7fGhHR7vWb4H4tw7y2z5YBkwd+D5JQM583OGBP99ToRX6w+jxL5WCdybE4zc2w4fgAAALFHUiBOAhv/fUmCw6fNSfjEQLQCv9An+hf9RI0L4aXKeUuV1wEAADrH5z4AAACcwO2jDkn1RAAAAAAAAAAAIPHQUwAHCOzaHep5vMYn94n1uOlm6vJ/7eHii6RcqP0Ei62zY2P3+L12j2NvNX4zx7CzfZopa/a8meE/9JaZ9U7MAWCVlWNix/vX6vmIZjilaI+1nX+v4lEuGvF8HwXbXyTHOh7zbtj5GRKqPv+yZj4/Qv0/sJyV12H18y3U80T53LJLol+nsTofifrZZfX7VaSfM6n4/SUSiXydfv+FU7VFW9QyvZm5DAAAAPyQFHCIb/igROwxEPgjI9o5BSIRrME0VCNqZ+XMsjLmrZn4rJQzG1s047BGelzM1mf2fIQq5//cyus1e96sXC92nTcrEn0OADPnLdTyUNdBsNcc6fkIFZ/ZZdGc32B/J8OV8S9n5nWYLWf1uETCifeR1c8gJz4/rFzPZmI0e+1ajc+3H189ZvcbyflNtM+tUK/VTBxmJPp1Gu35iMf7yAy7z5t/HXx/iYyZv39mz1ssrtNwccb62AAAkK6MpUtlvPuujIoKqaJC2rWrY4GyMqlXL7l69ZLrm9+U68QTnQk0zSVey1OKO3zanJCTDuNrZn5MByvXWcOcXcz+gHAqPjOx2Fmf2fPRWblYsXq92BWPf72J2NBvltXzZub4WbkG7D4fdr8vwzVoBCsT7LmVfUT7fouUU+8jq5z4/LB6fuN9bMzEl4jn166EgP9z//W+h3+ZeJ2bRP2eY9fneazii9V5i/Z8xEoivi8DmTkmdp+3SK4/Gv8BAIgto7xcnrvvlufss+WdPl3GP/4hffTRgQkBqW3ZRx/J+Mc/5J0+XZ6zz5bn7rtllJfHP/A0lrytVElq4wPXtT8kJXSCIFiDJl+ok4fdP8iTuVE7UXAMYRbXSnqJZ2N0IuO6BxAv/N0FAMAeRkWFPHffLe+UKdKyZVJdnfVK6uqkZcvknTKlLTlQUWF/oDgAwwc5aOMD17X3HEjEYYSSAQ0IB/K/S8qOO8is1Mf5CM5/6A60cfJYOLFvs/vk/RY/dh6/VDoXTvZks+tzK5Wk0rWF1JRun+cAAOBr3scfl/Hqq/ZWumyZvMuWyXX++XL/5Cf21o0OSArgAIFfsBO5x0CixJGIOhvfNRb1cT6+FioJwPi14ccPt6tun1DDGMRTJK+X91vsxXpYpXhdz3Zz8rqy+3MrFaTza0fii+XfPzN4fwAA4AyjtlbemTPbegbEah+vvipPRYXcU6fKVVgYs/2kM26vwAGCjfkZah3iK9KxemM5n0AsOTkHQyzw3omNYGOEp9LfqlR5HdFKtb8HoaTa9Zwon1vxkujXaaLHlyqS4TgH693La9IAACAASURBVJmTKJLh+AEAkK6MjRvlveWWmCYE2i1bJu8tt8jYuDH2+0pDfNNykG8+AYYOsi5ZfyyY6WkR7WtyYi4Bs+cjVLl4TQwdar+xbHwK1VsgmcTjvMXjmMTj74bZaypUDLF+v0Xz2p18H9kpntdBvMXi/MaDnfvkOo3NfgOPXzIe51j+/YuVeBznZJyDKll/BwAAkOzaewhs2hS/nW7aJO/MmTJqa+O3zzTB8EFxEmxCYZIB0fENzxLsB0EkP5LCNd5G+qOrs9iCvYbOxp4PtU1n20czbJCZ+syej87iD7X/UOXNnrdQ8SXKcBxmX4fd5cyyet4iqSvSH/fhrr3AOO3+uyF1PsSLlddr9/stMMZo57Zw8n0Uav92Xc+R1ufU9Wz3fjvbdzTn2KnPLa7TyOIze/zMlovF96vOxOv9kczfX6I9Hv512HmcO6s73Ppg5QAAgH3inhDw+V9iIOPee+O/7xTmkmQ0NzfbXvG194afbfrp+0qiqn/Lli2SpH79+kZVDxALiXynHJBqwr3feC8i2XA9A4iXdPibsmnTJvXr10+ZmdHfC7dly1ZJUr9+/SxtN+ln+yRJc+8uiDqGYH7+85+bKnfVVVdZin3Lli2WXyuA1OG6ZLMk6fvDc/TGlIMcjgaJICaTClvE5MP2cblcDB8EAAAAAOkkHRICAADAHkZFheMJAUkyXn1VRkWF02GkDJICAICUxFjDSCVczwDs4D/kDgkBAABghvfxx22pxz15sjIWL5b7vvscjwXMKQAASHKMK4xUwvUMIJb4OxIZ1z1ufXH5F06HAQBA3Bnl5dKyZdFXVFYm13e+E309y5bJKC+Xa/jw6OtKcyQFgBjgBxcQX7znkEq4ngEgsRjTve1zCgBAKlrzZb321nkOWP5VnUdvfVrT/nxwz2z1Ks2JZ2hwmHfhQlvqcd9/v1RcbEtd3oULlUFSIGokBQAAAAAAAIA09e7mBl391P4Dlq/c0Kox9+9pf7754T7xDAuJoLw86ircs2fLNWCADcH8jw0xgTkFAAAAAAAAgLR1xQml6tHNkAwj6PpMt1c/PiFf/XvmxjkyOMlYulSqq4u8grIyZTz/vFxDhkhNTfYFVlfXFhuiQlIAAAAAAAAASFMZGW7df16JMtzBh7E0DEP3n1cS56jgNOPddyPe1n355cqYN0866CCpulremTNtjCy62NCGpAAAAAAAAACQxiad2FWlpa4Dlme6vbrwxC70EkhDRkVFxNu6LrlEysmRsWqVPNdcI2PJEvsCU3SxoQ1JAQAAAAAAACCNud0u/eL8UmW4Ok44bBiGZlzQ1aGo4KhoGt63b5d3zhx5b7tN2rXLvph8SApEjaQAAAAAAAAAkOYCewtkZRi69KRCHdI108Go4JgoGvM9l14qY+FCG4MJEItEQ5ohKQAAAAAAAACkObfbpRkXdJVbrZIkr9ere87v4XBUQHBGba3TISQ1kgIAAAAAAAAANPGbJereva1nwOUnF9NLAEhRvLORFFz3tOWvjOneiMv51pmpB0DiMvv3AM7x/3vrk8znq7PPD7Ov187jEov3QSKfN973ySlVzluqvA4AAMzIyHBrxgVddfVv92j6ud2cDgcIyVVY6HQISY2kgAMOnzan/f8bH7jOwUg657rH3f4DyK4fRDTOHyhVfmymyutIFZyP+OA4H8j/WARraE41Zl9voh8XJ+PjfRQcxyU+Ev04J3p8AIDUM2F0F1Xsb6KXQLorK0vcsfvLypyOIOnx7o4z/4RAOjOme+Pe4MAPKQBAJPj8AAAAQDpxZ7h05+k0uqa9Xr0SNynQq5fTESS9xLtNLQ0keu8AAAAAAAAAAOnLlcAN74kcW7Kgp0AcJUsvgcA7+EM9j+TOyWB1mR132Ux9ZssE7tP/NQWWtxqflePS2bE2M3RTqCGeIn0ddp3XcHXaPW613ee4s/Mb6nwE20ew8p1tHyo2s68h0c+Hne+3SGOL9DqI5DibuV6sxGf1+HWms7/pgX+n7f67Yea42LXfUJ85odYn8hj7/pz4e2/39RfquZnXEuv5G8zUZ/Zz2mp9oZ5bqS+SzyOz/p+9Ow+brCoPRf/WNw89z3QDTU80g2DjyKAxiokDehJR45DExMAxMZjoMY+ey7kxTieSe27Uc41EnyOJIUaTaKJRjEeMBBPjQURwApGhgUaGbrqbpodvnu4f7ddUf13DrqpdtWv4/Z6Hh/52rdrr3WuvvatqvXuvXUk717rfKj1+k2j2/tcq3xOzOL9UUnbwj4diOqaLlkn7vAYA7SJ34YUxd/31WYdRUO7CC7MOoeVJCjTIfEKgFe4SWPglOe1nCsy/v9gUQqUGyqopV8kcyYUGhIoNEiUdDCil1rYttj21bEc1P6or2Y40651/b6HtKpVwKlV3mvs3v775eubXk7TeYoNJpcrVuj8K1VHp9i5cfzXbUSy+NJIE1faDats57fiSlkkjjnJxFVqetrTPG0ml3e/qodHn+0rqTaLS4yiL7a3lPJn0+8vC9dXjczXp51FSlbRLVv20nGbvf63wPTHt7xFJ40ta9kV/8+JE21FpvQDQCXLPeU7E8HDEyEjWoRxvePhobNSkOX/htqlWSAhkrZIfZUnKVapZv/RX+yNy4d/5A3hJyqWtHvUWW1fS8vWWJL5K26UR21BtHZXsj6yO83LrzOr4KFRXrWXSqCv/9UqPtzSkvT/yyzfrQH8lqj2Oau3PWR0fWW1vuVjSOBbSTFgU2t5GHb+F1pvWfsv6+G2m/ldJXOXK1+N7Yi39q5J6k3yej/3fo4nWl+XnPgA0rR07so7gRM0YUwvyDacBWmXaoIUK/fCq5Qt+qauVSKbSH0OUN/fuWW0YjsNm7weNiK/QXQGdoFO2k9ol6SuVfE63S9/LcjvapQ3TkuX3xGbZF83+eQ4Arabr0kuzDuEEzRhTKzJ9UJ210rRBNLf5W/znpfHjq1l+wNWiHbZhXpZXPeZPJ7HwtUrYH61p4fklf3m+dhr8y59KpRN0ynbOq8cdAeXOk0k/p9M+75aqq57qsR1JNfvxm9X+yOJ7Ypb9ADjezMUXZx0C0KbmIiKXdRDzLroocu4USIWkQIMUu1ugGZMGpa4WrecdA60mqx8+ac5t2uo/1krNY5vWuuc185Q9adedP31AJTHVc39kodWPj2qU2udZ79+0pmcpFG8nzBnd7tu3UL2nHSt1nkzan9I47xZa10KNnNKp1u0oV0+rHL9ZxpPV98RG9QMAoLN1/e7vZh1C25AUqLNig/3NmAyYt3D+zPwfYbVewVZsPvVW+dFQz2cZVNMOzdZm1W5Hs6jnHPZZqKVftepAfhZavd8X0kn7X39vDq12HCXtN0m3pdTdOu3YLs1WX7O3c6t9T3ReBYD2ktZdArXe0ZR75Ssjt25dStEgKUBTKfSjJ+mP5E748ZG/3ZVYONid1Y/fYvWmORifVT+opd4sByPqXWfa7dKI/duI/dGM56uFgzhJtr0eU/oUiyvN/VHsauN21KjzS7MkVevVXyod3C/Vn9K+krsdPj8q+X7QzMdv1smFLL4nNmJbqz2/zL17Nra+d1sM/vFQTL17suL1Nct5Darx1p//x/jVlw/HmVsM+QDpGbjq3dF787eyqfyii9wlkDKfEDRMsS/UpW4HL/V60nLl1l2Jcj+2avnRUGjdpdZX6VQBC8uX2pZ6bkexequdLqFQXdUODiTdv2nXW67uRuyPNOqsR7vMS3o+SEul+6NUO9ezXeqhVP9Puh1JzruVrK8ex0e1SY9KBymrKZe2pO1XSXxpn6uKxZnWuSiN9VW6rkq/95QrX+nnapIYa5Hm50f++pJ8P6jHdjVr/6s2vkZ9T0y7HySNL6nrf+2rccbfnJmoXzX6GIJ6eu0lEgJA+sZ//x3R9Ye7o/v+nY2teMuW6HrnOxtbZwfIRcTc5ORk2YKVevP7Rkq+fs37l9W0/l27dkVExMaNp9a0HqhEqcGbRl1N1AwxtCttC1Cac2F52ogstfJ3mXrEt3Pnzti4cWP09BQfHE1a765dD0ZExMaNGyuK4fJ3PRERER/7o+GK3pfUe97znkTl3vSmN1UU+65duyreVrKVPy3H4X/6eoaRAO2s6757Y+DP/t/GJQZ+lhDIbd3amPo6RC6Xi+a8TBEoqVl/zAEAPqfJlv4HANTL7OatMfrfPxhTz76o/pVddFF0fehDEgJ1IikAKWjUNCDNOt1Iu9PuACTh84Is6X8AQEMML4rxK98bky9/Zd2qyL3yldH9vvdFbtGiutXR6UwyBxXIYt7eNObeJ5ms5mUGoHX5nCZL+h8AkJWJy94cky9/RfT/xcfSewDxzx4onFu3Lp31UZSkAFSo0T+2KqnPD8HaaUOA4pwjT6RNyFI7fU/MKr5mbxcAaGZza9bF+JXvjakffT96v/yF6PnR9yM3Wvo5sycYHo7YsSO6Lr00cjt21CdQTiApAAAAAABAVWbO2REz5xwd0O/59n9Ez3duitxju6PnR9+PyOWOL7x2bcS6dZFbty5yF14Yuec8J4OIkRQAAAAAAKBm0+c/J6bPPzrQv/iXX3hsedcXv+gZAU3E06gAAAAAAKgbCYHmIikAAAAAAAAdQlIAAAAAAAA6hKQAAAAAAAB0CEkBAAAAAADoEJICAAAAAADQIXqyDgAWyr33xFzV3LtnM4ikfcy3abu1Y7Ns18I+m3U81cjfhlaMv5nk3ttVcxvaHzSLZjnPAgAAkB5JgQbZeuXVRV+796orGhhJZfIHt2oZGCg00F9sXfnLir2PxspqUKgVBqOaOcZmjq1ddcI5S78CAGh/+49MxEf/9Z749n37Y3L6+O99Z6xbEr/z81vinJOXZRQdALWSFGiwZk4ANMLCAf80rqgFauc4bC72BwAAWXrfdXdELpeLZ29aEd+8Z99xr/1k96F45z/8ID7zpgti+VBfRhECUIv2v6SRprXwDgSAdmBAHwCAVnf7wwfjd5+/NX7lmacWfH1yejZuf+hQg6MCIC3uFOAECwfpi/3dDANfSZ8/kFW5coq15cLl+X8nmb8+aaKl3HaU6wvF4i4XX6VxVbPN9dxvSTVq/5bbD6XKV9ImSftL0u0oJ41+X6qNy02NVml/KXfcJVlfrfsj/z1ptl+h14utM2m/X7is0eeXtNqlmnU2Or5aywEAnWV+uqDf/9vbojuXK1puYnqmUSEBkDJJAU6wcMAmjWcK1EOxAaaFUxIV+rvU8kKDPeXKNWoqpEKxJI0vyboWLq9k36fZLpX2uVrapZr4irVnkljLrbfa7cj/u5L2S/oMj0raL8l2VCJpuyQ9zucHWxcOvpY73yXZjnID+OXaqtb9kaSOatuvnp8F5WKsx3m3HueNNPt+mvHVWg4A6Cx9PV3xhgtOO27Z3Y8djm/v3J9NQACkzi+9Btt65dXH/Ud1ig1KLRxAKlUmqSSDboXqrYdy9VYyWFdru+RrtnZZKO345t49e+y/hctqUet21Eul7Zd2PGn25yTlqukv1fbxRiRZG30+qEalCcf8v9Nq+6Tn01L1ptluaZ3Xai0HAHSGP7/xnrj06v+Ii//0xrj4T2+Mv77pgeP+K5QQGO7eF8t2vzyW7X55DB94f3TN7m1w1ABUy50CDVLoAcPziYFmffhw/oBHva4MTXudaWjEFf9AZ3J+SaZd2qhdtgMAaG9/+c374h9vfaimdfROfCe6Hn88Dq/6cEpRVWfLaasiImLnA/vKlATobJICGbr3qiuaPjGQtrSvKE5yhWjSq0jzr5osF2c7TKdQj21o9nZp9vioXjP05yTTCiU5v2ShFY6NrGJs9rZJGl+zbwcAkJ0fPvREVe87dcnocX93T98bubkjMZdblEZYANSRpAAnWDhwkOYdA42eVqTUHNtJ1llsXvJmGMSrRTXtkkSzt0uzx0d1su7PldST5PxSiTQSDPVqv7Rldfw2+3kjaXzNvh0AQHamZuYqfs8vn7chTu//VMTk8ctzc1MxV/zZxAA0CUkBTlDowY7NOtVPveVveycr9CDWdq63XWi/xqmmfas9v2R9PtavAADa38nLh+I1z1gVZ616LCKOH+VfPTQRa+f+Knomf5RNcADUzGhnhuYfNNwpUwelqZYHTBZ7T5J1NeLBuZWse+HgYKH4GjG1RKMeKFytZoqvHu3cqAc5F6u3GQeGG9Wf23XqlrTjbYXzS5LzaTNJGl8t5Zp12wGA+jp15VB86nVH4nXr3hE7uj8QO7r/+Lj/Nkz8aV0SAltOW3Xcf2mUTVJuYZlydQO0A3cKNMh8AiCfZEBhhQYhCg0+5l+tulD+oM7CMsWuzi21vFC5JGXLqSS+iMJtU6zOQnd6VFtvqfeUer1cjEmUq7eW9aQRX6V11nr3SaXtUa58rcdbMyQEGtXO+a9Vu75y60qyP0rFVk18aZ8PWmF/RCQ7n2Zx3qhE0vgq3Y5Snx8AQPvp7Tn+8/75Z6yNxYf/n8jNTVW8rrlcdcNMhQbit5y26oQHBicdsK+1XKG6AdpJLiLmJicnyxas1JvfN1Ly9Wvev6ym9e/atSsiIjZuPLWm9UAraOYrsqGTZTGFTqnzgXNFedoIoHPs3LkzNm7cGD09tV8Lt2vXgxERsXHjxored/m7jj7A9WN/NFxzDIW85z3vSVTuTW96U0Wx79q1q+JtJVszF1987N+H/+nrFb33L795X3z65l3H/n7L8zfGGze8tfIYejbG4VUfrfh9EU8OzucPxFeybP7v/EH+Qu/LX15JWaA6i3/5hcf+3X3DDRlGQr5cLmf6IACohiuoAQBoB7/13M1x/uYVx/7O5Sp/UvBs16oYWf7fqqq/0EB/JeUKvS9JmWrKArQL0wcBQBWa7UpzSQoAAKr1x5c+9di/c3OTEXuOf322+6SYHHjeccumhi6Mme5NqcVgLn+AxpEUAIAW0uzz3AMA0H66Zh6NgZG/i4iIme5N0T1zf8z2bkg1KQBA40gKQAsw0Afkc06onrYDAChtLtcXc7negg8aHl/8mzE+/MpY8tgbYy63KNV6TdsDnWFmdja6c7mIKqYqIz3mGgAAAADgmKmB5xZc3jd6XSze918iIhfT/WenWufC6YOKTSeUtFza9QK0E3cKAAAAAHDM6NKjA/+94988+oyBn+ma2R/TvWtiZNVVMReDqdS184F9xwbiSw3IJy2XVr3uXADamaQAAAAAAMcZXfq2iKVva0hd+QP0+cuSlEu73mJ1A2kydVDWJAUAAAAAyFTSgfhS5ap5TQIA6ESeKQAAAAAAAB1CUgAAAAAAADqE6YMAAAAAAKi77i7XqDcDewEAAAAAADqEOwUysPXKq4/7+96rrsgoEgAAAAAAOomkQAPNJwMkAQAAAAAAyILpgxpEQgAAAAAAgKxJCjSQhAAAAAAAAFmSFGiAhc8QAAAAAACALHimQIN5yDAAAAAAAFmRFGigrVdefVwSYOuVV3vWAAAAAAAADWP6oAZaOPAvEQAAAAAAQCNJCgAAAAAAQIeQFAAAAAAAgA4hKdAA89MELXzIsOcJAAAAAADQSB403CD3XnXFcQ8Wzl8OAAAAAACNICnQQBIAAAAAAABkyfRBAAAAAADQISQFAAAAAACgQ0gKAAAAAABAh5AUAAAAAACADiEpAAAAAAAAHUJSAAAAAAAAOoSkAAAAAECb2Pf4bNYhANDkJAUAAAAA2sQXbhjNOgSAmJrOOgJK6ck6AAAAAADScdf9M/E/rz0S5+/oj1XLuyKXyzoioJPMzkTs3j8T3/zuRFyVdTAUJSkAAAAA0Ca2ntod9z44E/9wvTsGAChMUgAAAACgTbzj73456xAAaHKeKQAAAAAAAB3CnQJQB7n3Hs23zb17NuNIms982+TTTs2lWfpvNXHk96+s469GpcdHue1tln1Zq6Ttknb70Vw69fNDPwUAANImKdAAW6+8uuTr9151RYMiqVzuvV3HfoDWMrhU6Id8vnr9yC1Wb631tdtAWyO3I7+ucv2C9tYux1GaHB+FJW0X7VdcOxxv9i8AFNd9ww1ZhwBAC5EUaIBig/7lkgXtpNAP+SwHovOTHUD76LTjutO2N23aj1agnwIAAGlzmVXGmvkugXa18M4HAAAAAIBO4U6BjDTzXQILB8uL/V2PK9fy172w3npeKVdqmwpNobTwffOSzHFdzTzYabdLpdtRr/m8a5V0vy0sny/JXSy19vmk+6zR/aBUvdXEV219aRxHSWKrtP1qmaam3lf21lJnsfnJ096OtPp9PWTZX9KKsdz5b/61epzvk7RNGu3XiCvk0/x8q7RdisVT6uKFpMdRrcdbvc8HhdaX1XdAAADoRJICGWrWuwQWDjqk8UyBSi0c0M1qyp9qf9Tnv7/cdhRaV7HtTatdKtmOpPFVsh31VmjwIav4itWbZN9WUrba7SgWX9Jy9e5/8+XK1VvJXOO1HJdJlhWqI23Vzq1eLiFQ735VS79PU1b9Jakk+2N+4LRcLPU43+e/lqRtqilTaHnakh6/9WiXUvHMS9pPKznekmxH2ue1RrUfAACQnPlTMtDMdwk0i0b/8KtXfUkHABaWK3aVYFaD6+Xiq3Q70lLpldGNjq9cvaWWldq2tPpBJYPyhcrVu/0W1tOs68uqjkpVkhDI/7vS/Vuvfp+VZj3vFlqWdiKiWL0LXyulmjJZ94Naj49azt+VbnvS4y2N47yZ+hUAUD9Tk9OR+/X7Ivfr98Vrr34463CAOpEUoKj8H2q1DDQ0m1Lb4sdpa7LfyFq9EyO1KpYQoP1kuX/n3j3bkv2rEYnNYoP0jYqhGs0SU6v2KwBoVffsmz7271OWm2AE2pWju8Hm7xJo1qmD2lWSK+7np2Io9h6aU7vst1aNu9PlX+2a9Z09SSSZOqaR9PvikrZN/jRCjaw3TVn1g0qO3zRjXPi5VazOeqjkjoBWOa8BAOn6j3tHjv179ereDCMB6klSgBOUunqtVe8YqCRe89a2plbeb6XmbyZbSQfEspgPvRLF5p9fWKaR2rHfpzmAmlXf6cR+kOT4rUe7ZHGOqKS+Zj+vAQD18Q83jx7798WnD2YYCVBPrfvLuwW1yl0CC2/TXvjvTvoxWG7wrJUHryLaZzsW6qQ+2sqatf/lD1Iu/C+JZu1/zdrera7W/pJW/eXY/8lkcfy2wj5p1vMaAJCu2x4cj3/54VRERJx+8lw8faOkALSr5v8VAg3U6EGTYvU1yx0ZSePLejvK7bda4qulL5Srt5RG9MFC8ZWa0qJZ+2mWWmEwL1+Sh9XWo46k62+19qyHSvbHwoRE0vfVWm+9NSqGSqfSSVNaD1dOerxV06/S4PMDAFrLm/7qsWP/ftcvrcgwEqDeTB/UIK1yl0C9FPqB2ewPviwXU6F5nKvZjmLzQTeqTcptR9L4kpYr1RfS2OZSd3eUi69YW9SaGCjXT+pRb6Xy90GxxEA9+mlax1Ga/arcHO2F+kypMpVIuh21bG+hqYRKbXNa57Va+n3a7ZJVf0ljnQsHWYudwwrVW+35vtrtSKIe/aDSugstLxdjsbKVKnWeT7q9Sc+jSbcj7fNa1t9zAIBk/uT6fXHrPUcfMrxjcy5+7fzlGUcE1FMuIuYmJydTX/Gb3zdS8vVr3r+spvXv2rUrIiI2bjy1pvXAQq5ea032G2kp1Zf0MxbSXwCa186dO2Pjxo3R01P7tXC7dj0YEREbN26s6H2Xv+uJiIj42B8N1xxDIe95z3sSlXvTm95UUey7du2qeFuB1vXV2w/Fy/7HnpiZ646IiJvfuyaetXlRxlEB9ZLL5UwfBIUYwGlN9hsAAAAk99XbD8XLPvJkQuCPfmmxhAB0ANMHQZ5mmEuZytlvNIJ+RiX0FwAAmt3/+vf98bvXPH4sIfD6i4biva9anXFUQCNICtDxzHHbmuw36iWLedVpXfoLAACt6C3X7o6rvz4aEUcTApf9/HBcc9nabIMCGkZSgI5n0KY12W/Uk/5FJfQXAABaxR0Pj8Wr/nx3/OTBuWPL/q+XL42rfmVlhlEB9XTLLbecsExSAAAAAADa3B9/ZU/84d+OHPt7cHgq/uKyk+J1z1ySYVRAvc3Onnghm6QAAAAAALSpb+0cizd+4uG45+Enp7w8b0tXfOEtm2Ljqr4MIwOyIikAAAAAAG3m9odG479/8UD8/bcnIuJoQmBo0XR84FUr4q0Xr8o2OCBTkgIAAAAA0Ca+9uMj8af/fCD+5YdTxy1//UVD8f/96upYtbg7o8iAZiEpAAAAAAAtbGZmNj7znSfiQ189GN+/78mHCHfnZuJXLlgUf/hLy+Os9QMZRgg0E0kBAAAAAGhBuw9MxMe+dSj+/F8Oxr7Hn3xmQPfgTPzORYvjnS9bGaeu7M0wQqAZSQoAAAAAQIv47v0T8eXvHYkv/uBQ3l0BRxMCp66bi99+weL47eeuipWLuoqvBOhokgIAAAAA0MQOjMzGP3zncPzdtw/HjT8ei4iIuXjy2QC/+pzh+M3nLY4XnjGUVYhAC5EUoCPl3tsVc++ezToMMpB775NXSrR6H8jfloj0tmd+va3ePjS3Tutn1WxvO52vAACo3MHR2bjueyPx6f9zKK7/4egJr59+8lxc9oLl8eaLlsTiIUN8QHLOGA209cqrT1h271VXZBBJcvmD5+0ygLNwILUZtEvb0jjN3GeaObYsJW0X7dea7Dci9AOg8YaHh2NkZKRsGaB17No3HZ/7zuH48vdG4t9/MlawzOsuWBxvesHSeN4Zgw2ODmgXkgINMp8QyE8CbL3y6oLLgfoxUAO0CucrAMpZu3Zt3HfffWXLAM1rbi7i2/eOx5duOxJfum0k7nxk8oQyvd0Rv3jOcLzm/MXximcsiuH+XAaRAu1EUqABig3833vVFQXvHqD+DLQAAACt7vzzz4/7778/5ubmCr6ey+XiggsuaHBUQDkHR2fjqz8cia/+cDSu+96RePzIq4T/qQAAIABJREFUiWMU/b25uPjsofhPTxuO1zx7cSwdar5ZD4DWJSnACRZOr1Ps72rmRZ5792zZedCrKVuqTLnyldZZSb3lypVr60qTF1m3c9L402q/SspVUqaWflCqfDmV9ue0JJ1SK+3+3Ojtzer4SNoulZYr1idrPTcXq6dYveWWL4y/VBxJypaTdH+U27dJ27ma83gax0ZW56tK+18l+yNpPaViK9fPaokvSX8p9reLEYB62bRpU5x//vlx0003FXz9Oc95Tpx22mmxd+/eBkcGLPSjn07GV34wEv/8/ZG46Z6xmCnw9eCkZd1xyY7hePnTFsULzx6KwT53BAD1ISnQQFuvvPqE6YOa0cIfuWk+U2DhD/Lce7uK/ogvV7ZQPKXWN6+SAYNC60tab6mBjvll9XpeQxbtXKxckoGeatuvknKlBm8WqqUfFIoliSTtUijuWvtOqe1YWK5QmWr7c5L11Uujj4+k7VLr+SBpcqfYe+cHPRcOglazT5KeDwotr7bOYusqVne19VaTrKm03mY/XxWLo9iytPZv2tLsL/X6PAdI4gUveEGce+65cfPNN8cDDzwQERGnnXZaPPvZz45Vq1ZlGxx0sIOjs3H9j0bj+h+OxNd+NBoPH5guWO5pp/XHy84bjpeftyievqm/wVECncq9Rw1QKBGQnxDopOcJLPyRXGqwM8lVpZWsL8mAWbn1VVNvuTrqodHtXK5cpesrJWn71dLOjR7MSdouc++ePfZffpk0EwLFlNu3lUp7fWnU3YjzUBrq0VZp7o+k54M06iq3rmoTxEler1ba6230+SppfVkdH/nrLVdHmv0FIGurVq2KSy65JK644oq44oor4pJLLpEQgAabnYu46Z7xeM/n98cF7/lprPydnfHajz4an/z3Q8clBJYMdsUrn7korrl8bTz60c3x3fefGu+5dKWEANBQ7hRokPmB/1Z6uHChH9ZZ/ihu1R/kzXJFZFLNFmvS9mu1dqY1NVMfK9Tnmym+dqGdC2uVdvHZAADU0yMHpuPrd4zGP313JG64YzQOjxf+3nHuqX3x4nOH46VPHY6fO2OwwVECnEhSoEEKJQJaJTnQzCq90jCLq5Hzp+PIIo5mVMkdAeXaTzs3RtpX9dbrKuEsZLEt81P7ZBlDM0q7HbRzYa3QLvlTYpUqAwBQiSPjc/GvPx6Nf7l9NL5++0jc9ehUwXIrF3XFC58yHC86ZyheumM41izpbnCkAKVJCjRAscH/e6+64tidA82UGFj4I7nZ7hjIV+k0BlnIat70ZlbJtidtv6zauRMSEcWO+2qPq7TXl7Us93mnn0vy1bNftUs7p32+arZ2KZYEKPaMgPn3FFoOADDvOzvH46s/HI3rfzQSN90zXrTcc7YPxovPHYpfeMpQPHPzQAMjBKhcyyYFuru7Y2ZmJusw2lKhecybLRlQjWaIvdiAxfzyZhtgaTblrvqstFy12uF4qKd69Od2aPOk7VJt+7Vy27SSUs9GaMbzeKOOnWba5nz1/jwoVl+z9QMgHd3drvSFTnBobDau/+FofOUHI/Hl7x2J/UcKf6ZvXdsbLz53OH7hnKF4wVlDMdyfa3CkANVr2cuhent7IyJidrZ1EgP5Dxcu9HcnqnawopIHFdYyGLAwvmL1FtqOZrraMO12rrRdyq2vVMxplWtmlfSretebVbtnub8bcR6qh6zrL1Z30vNBI6RRZzO0czMq1y61nNdqbetidwtU8z6AiDh2MVpfX1/GkQD1cuv9E/En1x2I53/goVj2pp3xmo8+Gtd+89BxCYHlw13xqmctij//zTXxwP/cFHf/6WnxkTesjpefNywhALSclr1TYGBgIMbHx2Nqaib6+5v7io1CDxle+FqnKDWAVKn8q/HSWmeSdRWrt1i5pLEVWm89tyOpSre3XPxJ91vS9ktartQgUTWDwcW2oZr1lVpno640LXRnUKnYyl19W6o/1LK+NGR5HqrlOCl3d0G9VbLf0jyf1SO+WuqoJoZKNfv5Kuk6kpzX6rXfqt1XaSWSGt3/gfqanDw6Z/jAgOlAoF3sOzwTX/3haHzptiNxwx2jcWCk8Gf1jo398dKnDsclO4bjgm3OAUD7yEXE3OTkZOorfvP7Rkq+fs37l9W0/qmpqXjkkUeip6cnNmxYX9O6qL8sp/5Icgt/O0xNEtE+29HsSrWzfVA/tbZtO+6bdtymZtTK7VzP81UrtwvQGXbu3BkbN26Mnp7aroV76KGHY2ZmJtavX3/sjvWkLn/XExER8bE/Gq4phmKmpgo/5HShvXv3xsaNGxOvd9euXRWVh1bwo59OxnXfOxL//P3izwYY6M3FLzzl6MOBX3becGxY3rLX0gIcc/PNNx/39/nnn9+6dwr09vbG0NBQjI6OxhNPHIxly5ZmHRJNyFQA0B4MPhanTRpDOxemXYB298QTB2NmZiaGh4crTggA2bv1/on43HcOx+duPhL37y2cRHvqqf3x4nOH4hfPGY7nnzXY4AgBstGySYGIiBUrVsTExEQcPHgwhoaGoq/PlzSOZ7CCRpKESp/pN4rT3xqjXdu5HvP2A7SbycmpOHjwYHR3d8eKFSuyDgdI6CePTManvnU4Pnvz4di558REwEBvLn7xnKF49bMXx4vPHY6Vi3yvgUaamZ2N7lwuIudZHFlq6aRAd3d3rFu3Lh599NF49NFHY/ny5bFkyeKswwLaXD2eZ0Fh2vN4WT1zotO0Uzuneb5qp3YBOsOWLVuqfu+hQ4fjwIED0dXVFevWrYuuLoOG0MyOjM/FZ28+HP/rxoPxnZ0nTg20YlFXvPy8RfHqZy2Kl+6oz3ReAK2kpZMCERE9PT1x0kknxe7du+PAgQNx4MCBWLJkSfT390dPT0/09vZGTuYpc3Pvnss6hJKaPb6k2mU7WoG2bj3tsM/aYRtaQbu1c1rb027tAjBvbm4upqamYmpqKiYnJ+PQoUMRcfS35rp166K7uzvjCIFivnHnWPz1fxyKv7vpcIxPHf9dZfFAV1z6zEXxugsWxy+eM5RRhADNqeWTAhFHv6ytX78+Dh48GEeOHDn2JQ4AAAAq0dXVFYsXL44lS5a4QwCa0L17puIz/+dw/NU3D8YDe6ePe23RQC5e9azF8YpnLIqXn+eOAGheLuDOWlskBSKOfnFbvnx5LF++PEZHR2NkZCQmJydjZmYm5uZc2QYAAMCJcrlcdHd3R19fXwwPD8fQkCuKoRl9/IaD8Rf/djBuvX/iuOX9vbl49bMWxWvOXxyXmBoIIJG2SQrkGxoa8kUOAAAAoIWNT83FJ248GFdd93jsfmLmuNeetWUgLv/5pfGa8xfF4gF39QBUoi2TAgAAAAC0ppGJufizrz0RH/rfB2Lf4SeTAblcxC8/fVH8wUuXx4XbBjKMEKC1SQoAAAAA0BQ+ffMT8dZP7439B+Yf8t0dfT0Rv/Fzi+O/vWxJnLa6P9P4gNp0e15PU5AUAAAAACBTD+ydiDf8xd745h2TEXE0IdDfm4vf/4XheMclK2L1EkNYAGlxRgUAAAAgM5/45uPxu3/zeEyPPnkF8SueNRgf+/WVsXZZX4aRAbQnSQEAAAAAGm5kfDYu+4tH4++/PRERRxMCp6ydjU+8cW286OzF2QYH0MYkBQAAAABoqP1HZuO5f/Jg3LlrNiIierpm4+0vWRr//dLl0dtnuAqgnpxlAQAAAGiYnz4+Hc/7Hw/F/Q8fTQhs2tAVX3rLunjKyUMZRwbQGSQFyMTc3FxMTEzE9PR0zMzMZB0O0AK6u7ujp6cn+vv7I5fLZR0OAABQhSNjM/Gcq3bFg7uPfqc/b0tXfOMdG2LJcG/GkQF0DkkBGm5qaipGR0ezDgNoMTMzMzEzMxMTExMxNDQUvb1+NAAAQKt5xZ89fCwh8MJzeuIr/2V99PYangJopK7yRSA9s7OzEgJAzUZHR2N2djbrMAAAgAr8yfX74us/mo6IiNPW5+KLbz1FQgAgA5ICNNT4+HjWIQBtwvkEAABax2MHp+I9f384IiIWLZmNb7xjQwz1mxYUIAuSAjSU5wcAaXE+AQCA1vE7f70vJqbmIiLiz39tRWxc1ZdxRACdS1KAhjLdB5AW5xMAAGgNu/ZNxhe+MxYREWdu7Ipfv2BFxhEBdDZJAQAAAADq5u9uO3zs33/wkmUZRgJAhKQAAAAAAHV0812TERHRnZuJ1zx9ccbRACApAAAAAEDd3L9vPCIitmzoikUD3RlHA0BP1gFAve3fvz8eeuihOPPMM6Ovz4OMAAAAoJ7+59f3xj/eMn7s79sfmImIrnjk0Fw896qfHlv+gVetiOduG84gQoDOJilA21u2bFns2bMn7rrrrjjzzDOjp0e3BwAAgHp50dlL4r9cezhvydGJKo4c6or/+PFURESsXjkXF20eyiA6AEwfRNuanJyM/fv3x+7du6OnpycmJyfjrrvuiunp6axDAwAAgLZ15kn98doLBqKna7bg610xHVe9emV0decaHBkAEe4UoA3Nzs7GI488Env27Dm2rLe3N4aHh2NycjIee+yxWL9+fYYRAgAAQHv7wKtWxN/dNH7C8q6YjpUru+ONFyzNICoAIiQFaDPj4+PH7gbo7++PdevWxYoVK6Krq/BNMYcPH45Dhw7Fhg0bGhwpAAAAtK9NawbitRcMxD/cPBrTs8f/Jr/q1Sujq8tdAgBZkRSgbeRPD7RmzZo45ZRTjr02OzsbY2NjMTg4eFyCoKurK3bv3h3T09OxcePGLMIu6tZbb42IiKc//enH/Z2/rNJ1dJpO2v5q+gcAAEA9FbpbYMPaLncJAGRMUiBF27Zti4iIe+65J+NITtTMsaVl165dMT09Hdu2bYslS5ZERMTu3btj7969MTk5eaxcX19frFmzJtauXRvDw8OxefPmuO+++2JmZiY2b95ccb1JBmNbccC2kwbUqT/9CQAAOs+mNQPx+ouG4rM3HTl2t8Afv3KFuwQAMiYpQFsYHR09Ng3QkiVLYmpqKnbu3BkjIyOxdu3aWLZsWQwNDcXo6GgcPHgwHnrooThw4EBs2bIlli9fHhs2bIiHH3449u7dG6tXr66o7qc//enHDfqXK1stg6mUon8AAADN6F2/vCI+863RiIg4Ze1s/Nr5KzKOCIDCE61Di3n44Ydj0aJFsW7duoiI2LlzZ0xNTcXZZ58dJ598cixatCi6urpi0aJFsWHDhjjrrLOOJQ4iItatWxf9/f2xe/fuLDcDAAAA2soZ6/riV58zHBERH3jVysi5SQAgcy1/p8BNN90Un/3sZ+MDH/hADA4OJn7f6Oho/PZv/3Zccskl8drXvrZu8S2ctmf+7/xlhcrmlytXNml9Sd5XrL5mNj4+HocOHYpNmzZFRMSePXtiZGQkzjrrrBgYGDih/OzsbHR1dcXmzZvjJz/5STz22GOxZs2aWL58eezevTtGRkZieHi4qlhuvfXWE67YLnYXQaHl5a72LjUFy8L1lVpXqboXvlaszkrqq6T+QnVWOkVTJfHk15V0HZXEXyz2cnVVsz2F9lUlbVlJW5TrF5X2JwAAoH29/xVL41v3jcavPnt51qEAEG1wp8DixYvjhhtuiMsvvzwmJiYSvWdsbCwuu+yyuP322+O8886rc4RHbdu2regAfaGySZbVK65WMzp69DbE+ecI7NmzJ9auXVswSTQ3Nxf33HNP3H///TE8PByrV6+OPXv2RETEypUrj1tfJZIMcJYaEC63vJxC76u0jkrqrqS+Wuq/9dZbiw4qpxVPWuut5P3lYktje5LUW+u2AAAAJLFpzUB84x0b3CUA0CRa/k6BpzzlKfHXf/3X8Ru/8Rtx+eWXxzXXXBP9/f1Fy4+NjcUb3/jGuPPOO+Mzn/lMbN++vWGx5l99Pz8Qv23btoJX5VdSNkmd5R40XKi+VjE6OhqDg4PR09MT09PTMTU1dSxBMD09HT09R7v57Oxs3H333TE2Nhann356RBxNJOzduzdmZ2djYGAg+vv7q0oKVCPpHQXVrrPU+krVvfAK71IJj4X1FbpTotL6y9Ux//9C9STd/lrrqjb+SmOttn2TxFJNW1ZTfyX9CQAAaF8bV/VlHQIAP9PydwpEROzYsSOuvfba+P73v1/yjoH8hMC1114bZ599dsNiXDgYX2pwv5Ky9dBKUwdFHJ0+aH7gf37f9/f3x759++L222+PsbGxExIC89MDzd9NMP++XC4Xc3NzNcWTP8CbZLC3VsUGW5MMRqdZX1KVvC/JNlW6/bXUVel6k5YtNd1PWippn1rbEgAAAIDm1fJ3CszbsWNHfPKTnyx6x8DExES88Y1vjDvuuCM+9alPxY4dOzKMtnnMP7+g3J0EzW5+UH/+GQITExOxYsWK2LdvX9x1113R19cXExMTsX379hgaGjr2vvHx8YiIY31lfHz82DRClSo0D3v+awtlOR1LGnXXso5Wn4qmlvjn+0m5wf9WbyMAAAAAmlNb3Ckw7xnPeEZcc801cdttt8Xll19+bPnExERcfvnlcccdd8QnP/lJCYEFFk4d1GrTBw0ODsbk5GRERHR3d0dfX1+Mjo5GV1dXnH766TEwMBCTk5MnJAQiIkZGRmJgYCC6urpiamoqIqLk9FNpafWEQCvXX6t6TPPU6m0CAAAAQOtomzsF5l1wwQVxzTXXxBve8Ib4rd/6rfjIRz4Sb37zm+O2226La6+9Np7xjGdkHWJTWvjsgVYyP9D/+OOPx4oVK2LNmjWxe/fuWLlyZfT29sbpp58e09PT0dd3/PyFk5OTsXfv3li/fn1EROzfvz8iouADiitVaI7+ha/V45kCSeNKo+5qppTJctvTUI/2a8QUUwAAAAAwr+2SAhFPJgYuv/zy+Lmf+7k4fPhwSyUEFj5QuNTUPvllqxnQr+bhxc1m6dKl0dvbG3v27IkVK1bE2rVr4/HHH4+77rortmzZEoODgyckBEZHR2Pnzp0xMDAQq1evjunp6Xj00Udj0aJFx6YgqkapKYRKSWs6n2oetFtt3YXqqyVRUKtqt7/c+8ttU631VBJPoxIFlbRFftlWSe4AAECnO3DgQNx7771x8ODBGBsbi7GxsZiens46rIp1Rd4zAXMRfX39MTg4GIODg7Fq1arYuu30mn7jA7SrtkwKREQ873nPi49//OPx1re+Nf7yL/8yLrzwwqxDqki5Af75ZwEkKVtovYWSDq2qq6srTj755Lj//vtj9+7dsW7duti6dWvs3LkzfvzjH8fatWtj2bJlMTQ0FKOjo3Hw4MHYvXt3DA8Px+bNmyMi4uGHH47Z2dlYt25dw+JOawA1PxFRj0TAwgHhauqrpf5y0ohnXr0TKUnen+b21KJc3dXGWa8HKQMAAKWNj4/HrbfeGnfeeeexO+VbXVfMlinxz3HKqafG2U85J84559yGxATQCto2KRARcfHFF8ftt9+edRgVyx/wz19WzfuSvFaobKtZsWJFHDlyJB5++OHo6+uLFStWxBlnnBG7d++OvXv3xp49e46V7evriw0bNhxLAIyNjcW+ffti2bJlsXTp0ppjyR8sLTTwWehugmrvMKh0nZXUXe7ByYXWk1aclUpjvUm2qZ7xVxpLPaW5f5O8BgAA1M/k5GTccsstcfPNNx97lt7Q0FBs3Lgx1qxZE0NDQzE0NHTCHfatILfg77HxsRgbHY2RkZF4+OGH4qGf/jR++uCD8dMHH4ybb7opLrzoOXHW2WdnEitAM8lFxNz8Q1rT9Ob3jZR8/Zr3L0u9zlZXapqgdnHw4MG6rv/BBx+MvXv3xhlnnBHDw8PHls/MzMT4+HgMDg5GV9eTz9fet29fPPjgg9Hf3x9nnXVW5HILv1LQ7ly5/qRWbIs0EnkAAPVy+bueiIiIj/3RcJmS1Zkf4C1n7969sXHjxsTr3bVrV0XlaV579+6Nz372s3HkyJGIiNi+fXtccMEFsXbt2owja5ydO++NG//1hjjw+OMREbFp8+b4pV96RfS2YBIEoBo333zzcX+ff/757X2nAJ3n1FNPje7u7hPmQuzu7j6WJJibm4uxsbF45JFH4uDBg9Hd3R3btm2TEAAAAKBtPPDAA/H5z38+pqamYvny5fHiF784Tj311KzDargtW7bGli1b4/vfuy3+7Rs3xv333Ref+tS18apXvyaWLFmSdXgAmZAUoO1s2LDhuL8fffTReOKJJyKXy8XExMSxhEFvb2+sX78+Vq1aFb29vVmECgAAAKm7++674wtf+EJEROzYsSMuvvji6Onp7CGgHec9LU7btDm+9E+fjz179sSnrv1k/NobftPdx0BH6ipfBFrbmjVrYnZ2NkZGRmLZsmWxbdu2OOecc+Lcc8+Nk046SUIAAACAtrFnz5740pe+FBERL3nJS+JFL3pRxycE5i1btize8Ju/FWeedXaMjo7GP/7DZ2OqDlNqAzQ7nwpNpJ2fJZCl7u7u2L59e9x5551x6NCh2LBhgy9EHNNK8+fXm7YAAIDWNjIyEp/73OdiZmYmnvvc58a5556bdUhN6aWXvCwOHnwiHnn44finf/p8vPpXXpt1SAAN5U4BOkJPT09s37495ubm4tFHH806HAAAAEjd9ddfHyMjI3H66afHhRdemHU4Taurqyte+apXx9KlS+OB+++PH/7g+1mHBNBQkgJ0jL6+vjjzzDPjpJNOyjoUAAAASNXu3bvjnnvuicHBwbjkkkuyDqfpDQwMxksueVlERPzHN/89ZmdnM44IoHEkBegovb29pg4CAACg7dx4440REXH++edHX19fxtG0hlNOOTU2bjwtRkZG4tbv3pJ1OAANIykAAAAA0MIOHjwYDz74YHR3d8dTn/rUrMNpKU/72bPVfvD972UcCUDjSAoAAAAAtLB77703IiI2btwY/f39GUfTWjZt3hI9Pb1x4MCBOHL4cNbhADSEpAAN1d3dnXUIQJtwPgEAgKPuu+++iIjYvn17xpG0nu7u7ti6dWtERNxzz90ZRwPQGJICNJRBPCAtzicAAHDU3sd2R1fMxvr167MOpSWdtGFDRETs2bMn40gAGkNSgIZyGyOQFucTAAA4auTIkYiIWLx4UcaRtKbFixZHRMTIyJGMIwFoDEkBGqqrqysGBgayDgNocYODg9HV5SMMAABGR0cjIqKnpyf6+/3ersainyVT5pMrAO2uJ+sA6Dz9/f3R09MT4+PjMTMzE3Nzc1mHBLSAXC4X3d3dEgIAAJBnYmI8IiIGh4YyjqR1DQ0ebbux8fGMIwFoDEkBMtHd3R3Dw8NZhwEAAACtzXV2qXHRItApXGoJAAAAAAAdQlIAAAAAgJqsXLkyVq5c2bb1AbQTSQEAAAAAAOgQkgIAAAAAANAhPGgYAAAAoMMUmnpn//79J7yev6zQawvXs/B9pcrWo74k2wbQ6SQFAAAAADpEscH3+Tn6Kx08LzT4X6zehQP3adeXnwwolyQA6GSmDwIAAADocAsH2+u1/kbUV6wuAI6SFAAAAADoAOWu5gegM0gKAAAAANDy8u8+MGUQQHGSAgAAAAC0hf3790sOAJQhKQAAAABAW1mYHADgSZICAAAAAB0gySB5o5434PkGANmRFAAAAADocAsTBcUSCNVedV/ufWnU544AgGR6sg4AAAAAgCrljvtfWcUG3wtdsb9///4T5uWfX1au7ML1FXpfsTK11Jdku05QYRsCtDpJAQAAAIAOk3TanmLJgmrWmaTOWuozFRFAMqYPAgAAAACADiEpAAAAAAAAHUJSAAAAAAAAOoRnCgAAAABQF+b5B2g+7hQAAAAAAIAOISkAAAAA0KL6evsiImJqairjSFrXfNv19fVlHAlAY0gKAAAAALSo4UWLIiJibGws40ha18iRkYiIGB5elHEkAI0hKQAAAADQwgYHhyIiYmRkJONIWtPIyJGIeDLBAtDuJAUAAAAAWtiaNWsiImLPnt0ZR9Ka5tttvh0B2p2kAABQk1wuF7lcLuswAAA61mmbNkVExM577804ktZ0109+EhERp23anHEkAI3RUUmB+UGLUgMXBjZoBfl9udR/APkq+Rx0DgEAaB3zg9n33HN3xpG0nn379sXIyEgMDg7F6tWrsw4HoCE6KikAAJ1sbm6uLmUBAMjWmjVrYmhoKEaOHIl7JQYqctut342IiM1btmQcCUDjdGxSwBWQtLK5ubnj/iu3HAAAgPb2tKc/IyIivnHjjRlH0joOHDgQP/j+9yIi4pnPfFbG0QA0TscmBSIqTwyUm55l4bJy5UpNz2AaGGqVtI8V+3clU4zoo9B6Ch23ST+Tkhzzxcr57AMAqI8LLrwolixZEgcOPB7/9g2JgSSu++IXIiLinHPOjdUeMgx0kI5MClRzBXWpAYxCywolAkqVT7JOqESpfj7fnxaWSdr39FFoXUk+A/PLVPL5VwvnFQCA2v38Cy6OiIjv3PztuPvuuzKOprl9+bovxp49e6K3ry+e9/znZx0OQEN1ZFIg4skBj0oGHCqZmqVQufyB2GKvlVqHwREaIWn/LFRWH4X21MipyZxXAACqt337GXHOOedGRMRXvnxd7N27N+OImtP3brst7vzxjyMi4pJLXhaDg0MZRwTQWB2bFMiXZMChloczLpzzvVTZYldwQy2SDqqV65/569JHofUtnPKukEYc684rAADpefFLL4lTTjk1pqam4jOf/lQ89NBPsw6pqXz7pv8TX/+X6yMi4nk///zYdvr2jCMCaLyOTgpUOvjQyLmOzatMGuo5qK+PQusqdfwXO2804nh3XgEASMelr3p1nHLKqTE5MRF/++m/OfYw3U42NTUV//srX45v/vu/RUTE+RdcGM969vkZRwWQjZ6sA8ja3NzcscGHJHOwA0An8fkHANB6+vr64rWv/9X431/557j9Rz+Mr13/1bj11u/GBRdcFGeedVbW4TXUxMRE3PrdW+LW794S4+PjERHxn37pFbEwkPJDAAAgAElEQVT9jDMyjgwgOx2fFMhX7mGKSR7KmhZTKJCWQomvNPqXPgrtIf+zLOmUdvX6/HNeAQBI10teekls335G/OsNX4/9+/bFl6/7YnzjxhvizLPOjrPOPjvWrFmbdYh1c9/OnfHjH98e99x9d0xPT0dExOYtW+IFF78wli9fkXF0ANmSFIgnB00r0YjpgxY+6NVgCbUq128L9buI4tOJ6KPQuqr57Iuo/PMv/9xQzTnIeQUAoDabt2yJzVu2xC23fCe+9c1/jyNHjsQt37k5bvnOzdHd3R1Dw8MxNDgUfX19WYdas7HxsRgbHY2RkZHjli9btjx+4RdfFKdt2pRRZADZeeYzn3nCMkmBn0kyONKIKRTy4zBlA1ko1+/0Ueg81RzrlZwrnFcAAOrvmc98VuzYcV7ct3Nn3HPPXbFz586YnJiIw4cOxeFDh7IOL3VLly6Nbadvj23bTo+TTzkl63AAMtPVdeJjhSUFEiiUMKj2Csta6oNq5fepcg8YTdL39FFoD+XODWl//pV6r/MKAED99fb2xvYzzjg2n/74+HiMjY3F+PhYTE9NZxxdjXIRfX39MTg4GIODg9Hb25t1RABNq6OSAuUGF8oNlpZbVun7K1k3lJJmf0m6Ln0U2kM1n41JP/8q/XxzXgEAaKyBgYEYGBiIiOVZhwJAA5147wDQdkzHAQAAAABEdNidAtBJCiUCXIULAAAAAJ1NUgA6gGQAAAAAABAhKQBtq5JEgKQBAAAAAHQGzxQAAAAAAIAOISkAAAAAAAAdQlIAAAAAAAA6hKQAAAAAAAB0CEkBAAAAAADoEJICAAAAAADQISQFAAAAAACgQ0gKAAAAAABAh5AUAAAAAACADiEpAAAAAAAAHUJSAAAAAAAAOoSkAAAAAAAAdAhJAQAAAAAA6BA9WQdQrX379mUdAgAAAG1s1apVWYcAAJC6lk0K+HIGAAAAAACVMX0QAAAAAAB0CEkBAAAAAADoEJICAAAAAADQISQFAAAAAACgQ0gKAAAAAABAh5AUAAAAAACADiEpAAAAAAAAHUJSAAAAAAAAOoSkAAAAAAAAdAhJAQAAAAAA6BA9WQcAAGRveno69u3bF4cPH46xsbGswwGAVAwODsbixYtj1apV0dPj5y8AQISkAAB0vCeeeCIeeeSRWLt2bWzcuDH6+vqyDgkAUjE5ORmHDx+Ou+++O9avXx/Lli3LOiQAgMxJCgBAB5ucnIzHH388tm7dKhkAQNvp6+uLlStXxuLFi+PBBx+MoaEhn3cAQMfzTAEA6GC7d++O4eFhAyQAtLW+vr5YvHhx7N69O+tQAAAyJykAAB1sbGzMVAoAdISlS5d6bg4AQEgKAEBHm5ycdJcAAB2hr68vJicnsw4DACBzkgIA0MHm5uYil8tlHQYA1F1XV1fMzc1lHQYAQOYkBQAAAAAAoENICgAAAAAAQIeQFAAAAAAAgA4hKQAAAAAAAB1CUgAAAAAAADqEpAAAAAAAAHSInqwDyEIul4uIiLm5uYwjgdbgmAGSyOVyzhMAHe6OO+6Iqampgq91dXXFueeee+zvH/zgB2U/N84444wYGBhINUYAgE7XkUmBZmXglUbQz4BmUus5yTkNoHnccccd8fu///sly7zzne+MF73oRfH5z38+rr766rLrfP3rXx+XXXZZWiECABAdmhQwcACVccwA5cwPzs//P+LEc4cB/KMa3Q6F6rMvgHo4++yz44YbbkhU9tJLL41LL720zhEBAFCIZwoAADXJnzZobm6u4EBzsUHoYuWpr/k2z0/iAAAA0Bk68k6BclfMLfyBXOpKx1JlS12FV2odrt6jVkkGeRb2s0J9stBrhd5f7pgpFFOheoDWU+x847gGICLizjvvjImJiYKvnXzyybFq1aqIiLjvvvvi0KFDx72+bt26WLduXd1jBADoNB2ZFCgl/2rH/KkQig1yLhwkreYhi6UGXqESxabtKNSvi/WzSvtwkmOmVFIB6GxJEuj5kpyfiq0zSQKz1PqKvTetiwBcdAC0m/vvvz/e8pa3FH393HPPjQ9/+MMxPj4e//k//+cTXj/55JPj2muvrWeIAAAdSVJggfwfyoV+UBcrm1++msQApKlQ36z2vZWUL3XMFDteABYqNahf7jM26fz51a4r6XsLqTY566IDoFVt2rQpPvrRj5a8UyAiYmBgID7xiU8UvFMAAID0SQoAdWXgH9pbfkK8kXVV8tyCQstqSeTX+yIAFx0A7eTMM89MVG7z5s3H/T0+Ph5/9Vd/FY899li87nWvi23bttUjPACAjiQpAG1k4eCcwSOgEfLv/Kl14Drt81e1yQrnUYDajI+Px09+8pOK3rN06dLYtGlTHDhwIP7gD/4gdu3aFRERN910U3zkIx+RGAAASImkALSZ/OkiDGoBjbIwMTC/rNDf9ZBkSh6O5w4EoJ4+85nPxKc//enE5QcGBuLP/uzP4uDBg/H2t789HnzwwWOvTU5Oxsc//vH44Ac/WI9QAQA6jqQAtKmFyQEDPkAjFLproBkGn50DTyRxDNTT61//+nja056WuPyaNWtieHg43va2tx2XEJg3NTWVZngAAB1NUiBFflwDQDYPEm+GxAMATxoYGIgdO3YkLn/gwIF461vfGj/96U9PeG14eDh+7/d+L83wAAA6WlfWAbSycgMeC6dNSPo+qFYz9i3HAVCJYueMQmUqUek5p15xVMNFB0C7O3jwYLztbW8rmBAYGhqKD33oQ54nAACQIncK1KDQlZALf7AvfPBrsfcVKuvHP9WotE82op9VchwAraXQlfn1Or8kScYvvFug1Lkmv1wlMRc6zxa6S6GWhxyXiiPt+gDS8sADD8Rll12WqOzw8HBcddVVsX79+nj7298eDz30UMEyH/zgB2Pr1q1phwoA0NE6MilQ6Id2sR/f5QYHkgwepFkflJK0/1TSJystr29D58kfjE4jIVDsKv2kn7nFEgOVrq+SONK8CMBFB0CrOu200+IjH/lIovn/558hUGrKoA9+8IPuEAAAqIOOTAoAAOlYeKV6mgPOaSbea0ny1yPh6qIDoF2dffbZicteddVVBRMCg4ODEgIAAHXkmQJA3RW6ctUVqwAAnWtsbCy+/vWvn7B8cHAwPvzhD0sIAADUkTsFgIYoNqUF0D4qnQdfcjA72h7I2u23337CsqGhofjwhz/sGQIAAHUmKVAFP6ChMo4ZIKLwHP3OD9nQ7kDWdu3addzfmzdvjiuvvDI2b96cUUQAAJ1DUgAAaCgD0oVpF6CTvPjFL45HH300zjrrrDj33HNj9erVWYcEANAxJAUAAABoqEWLFsXv/d7vZR0GAEBH8qBhAAAAAADoEJICAAAAAADQISQFAAAAAACgQ0gKAEAHGxoaiomJiazDAIC6m5iYiKGhoazDAADInKQAAHSwgYGBeOKJJ7IOAwDq7oknnoiBgYGswwAAyJykAAB0sFWrVsXevXvjwIEDWYcCAHVz6NCh2Lt3b6xevTrrUAAAMicpAAAdbGBgIHp7e+MP//AP48Ybb4y9e/dmHRIApOaxxx6Lr33ta/Ff/+t/jcHBwejv7886JACAzPVkHQAAkK3t27fHO97xjvjc5z4X1113nemEAGgby5Yti5NOOine9a53xfr167MOBwCgKUgKAABx2mmnxTve8Y6swwAAAADqzPRBAAAAAADQISQFAAAAAACgQ0gKAAAAAABAh5AUAAAAAACADiEpAAAAAAAAHUJSAAAAAAAAOoSkAAAAAAAAdAhJAQAAAAAA6BCSAgAAAAAA0CEkBQAAAAAAoEP0ZB1Atfbt25d1CAAAALSxVatWZR0CAEDqWjYp4MsZAAAAAABUxvRBAAAAAADQISQFAAAAAACgQ0gKAAAAAABAh5AUAAAAAACADiEpAAAAAAAAHUJSAAAAAAAAOoSkAAAAAAAAdAhJAQAAAAAA6BCSAgAAAAAA0CEkBQAAAAAAoENICgAAAAAAQIeQFAAAAAAAgA4hKQAAAADw/7d3dzFyneUdwJ8zs+udXXv9yZLYJJBQtlECKjgY4kRKigRVq6qqUCsqVUhFMaHdIiEhoVapAgiVoty0oiqVcNvgKIULUKTiq0oV3FS0zbZJ2wRB4jYbp6ROnGQd7Mbx7Jd3phfRWWbHM7Pzfebj95NWXs85c86zszM7u8//vO8LAGNCKAAAAAAAAGNCKAAAAAAAAGNCKAAAAAAAAGNCKAAAAAAAAGNCKAAAAAAAAGNCKAAAAAAAAGNiIusCAAAAYBSVknLWJQAAXGMkRwp8+9vfjsXFxazLAAAAAACAgTKSIwWeeuqp+MIXvhCnTp2Ku+++O+tyemJ+fn7r82effTbDSoZX5WNYzWMKAAAAAIyikRwp8OCDD8aHP/zhWFhYiMceeyyTGubn57c+unWsrGR9/l4Yta8HAAAAAKAZIzlSICLi5MmTsbCwEPfdd1889NBDceedd2ZdUle5kr07PI4AAAAAwDgZyZECqZMnT8bdd98d9913XzzxxBN9O296FXracHZVOgAAAAAAg2BkRwqkTp48GSdOnIh77703Hn744Th27FjWJdVUHRw8++yz19xWL2yoFT7UugK+ev9a5613vHr3r1d7K3a6f6Ma69VW77Go9zWl+9X7GuvV2Wh/AAAAAIBBM9IjBVKnTp2KD3zgA3HvvffGk08+2dNz1RsV0Oj2bo0kaNSYbjYQaHR7s/s2e/9mvvZuPJ7dWteh2RoAAAAAAAbVyI8USJ06dSpOnDgRn/jEJ+KRRx6J973vfT09X9p8r3XFf6P9I3YeEdBNja7Kb+X81fXPz883XW+9oGKnq/3rnaPRvp0+ps2EKgAAAAAAg2osRgqkvva1r0Uul4uvfOUrWZcSEfUb091o/rcaRHRyjnaO08rX3srj08vHshfHBgAAAADop7EZKRAR8ZnPfCZKpVI88MADPTl+M1Ph9LqR3MxaBLW2dcIV8wAAANRTLpezLgEAhlKSJD057tiEAidOnIjHH388vvnNb/Z86qCI4WiUD0ONAAAADJfKECD9XDAAAK1JkiTK5fK2YKBbIcFYhAILCwvx+OOPx8MPP9yzQKCVxXX7Oe1MvVECO93eCtPoAAAAUBkApB+bm5tbnwMAzUuSJJIkiXw+v/V55bZOjHwosLCwED/4wQ/ikUceiWPHjvXlnK1O01MdFHQaHKRTCLXa4G935EAn9Tdz31r7ZGFQ6gAAABg0lUFAuVyO9fX1OH/+fLz++uuRz+djZWUl6xIBYKhMT09HqVSK2dnZOHz4cOzatWtbONBJMDDSoUAaCDz00EN9CwRaUTn/fzMN5k4W9t3pmK3sm56/1forNXPfnfbp1wiFTr5OAACAUVcZBpRKpbh8+XIsLS3F/Px8HDlyJKanp7Musa5yuRxra2uxubmZdSl15fP5mJqa6tm80v20vLwcc3NzWZcBMDSKxWKsra3Fj370o3jXu94Vs7Ozkcvltra3+96Q23mX4VQZCNx55509PVdlo7heo7reFebNNLbbaX5X3qfW/Zu9bafzt3KcdvZrp6Ze6OTrBAAAGHVpIFAsFmNpaSluv/32OHDgwEAHAhERq6urAx0IRERsbm7G6upq1mUAkIGZmZk4cOBAHD16NJ577rkoFotRKpU6npYviYjy+vp6d6qs8Pt/fKXh9oe+vL/r50x9/vOfj+985zvxjW98I+65556enQd6MXoDAAAYDSe+eDEiIv7qC3t6cvyNjY2m9lteXo53vOMdTR/3Jz/5SdP7V64dsLGxEWfPno3Dhw/HoUOHmj5fVsrlchSLxazLaNru3buzLqFjRgoAtO+1116L8+fPxzvf+c6YnJysudZAM5IkGc2RAh/60IfiW9/6lkCArqk1bZCphAAAAH4WDGxsbMTa2lrMzMxkXVJTRmE6HgDGx/T0dKytrcXGxsbWe2+7RnJNgY985CNZl8AIarT2AQAAwDiqXEvg6tWrkSTJwE8ZBADDaGZmJnK5XFy9ejVKpVLkcrkol8tthdwjOVIA+kUgAAAAjKv0CsU0FEinEAIAemN9fT02Nze3rSvQzoiBkRwpAN2m+Q8AAHCtdKRAGgwAAL2VBgLph5ECAAAAQF9VNiYAgN7qxnuuUAAAAADomFAAAHqvk2mDUkIBAAAAAAAYE9YUAAAAAOiS2YWXtj6/fPJIhpVAbx0/fvya2xYXFzOopDnDVi/0klAAAAAAoEPVYcDswktbtwkHGCWVzfXKpvrx48e3tg1Ss33Y6h1ktYKVTn30ox+N+++/v+vHpTGhAAAAAEAHKgOBetsFA4yCRk309La02T4IjfZhq3cYnDhxIt7//vd35Vhf/epXu3IcWicUAAAAADLTzpWni4uLde+XVWMvbfpXBwTVowYq9+2VXlzNG+Fq6nHX7FX16esz60b7sNQ7bK/Xm266qWuhwO7du7tyHFonFAAAAAAy12oDq3oakGGQBgT90O2G4LA8xvRWredVrWZ6o+Cun5p9HWRdr9cr/SYUAAAAAIaW5hf0Xruvs2G7+n5QRjekdqql1f0hlcu6AAAAABg1G+tXsy5hLFgktD2CFNrRyWieLAxbvdBPPRspcGBvEhdfL9fd/kaxHHtmkl6dHgAAADJz9vybfw/v31//72I6IxDoTNZXRPdKkrzZayqX67/20n1S9fbdab9mjtNMPcOoOliq/P8gPq8aBWGDVm8r9WQxjVr18/7HP/5xfOlLX4pHH3204f3Onz8fH//4x+P73/9+5HKuU89az0KBw3O5uPj6Zt3tK6tCAQAAAEbT/57fiIiII9dpfPRCrUBg0Bp7w2DUgoHqZmW97ZUN+iRJIkmSa27bab/qfWodJzVqgUDEtc3oQX8eDXp9w+qJJ56IL37xi1EoFBrut7S0FA888EAUi8Vtr9OdXrP0Ts9+O5l/R+NDF1dH7wciAAAAREQ8f/7Nf9+zw9/GtG6YRghcPnkk6xJ2NApTCaUN+X6rbPbXGyXQbiBw/PjxHb83zezTTa2eK+vn1rDVO2wWFxfjwQcfjE9/+tPXvP5Onz4dzzzzTEREvPDCC/HZz342FhYWIiKEAgOiZ7+dvGe+8SCEV18r9erUAAAAkJlXLq3Hf/xwNSIi3nNLPuNqRkujQKBfDdLZhZe2fVRLg4DKQODyySMDGRCkj+MoNEPL5XJTUwZV71N95X+z++2k02bn4uJiLC4u1v3epFfn9yscG4YQrtKw1ZvqpO5+f8233XZbPProozE/P3/N6+XMmTOxvLwcERFzc3Nx+vTpuOOOOyJi5zCtH3Z6v0i3N7PPsOpZKHDDdbl4/231f/l59gWLLgEAADBaSpvl+ItvXom1zSTueO9kXLd/V9YljZR+NkEbqWzy1woGhskoBAODOj1PN+qqFQxkOV1PredJvZCu3rZ+avZ5PSj1DoP0eb13797I5XI1A7n7778/7rnnnoiImJ6ejomJiSiV3rxAPP238lj91O2fdcP6s7On4xg/9iuF2Lu79ranlzZ6eWoAAADou785fSXOL7+5wPBv/VLPlvEbSZVXZtb6GCRpEDCIV/+3YxSCgSzUmwalk2mDaqkMBrIMBJp9ngxKg33Y6o3o7DXo9ducbn+fB+F5046ehgL79kR87t6ZmgsKv3yhFM+cNVoAAACA4ffCaxvx+b+8FP/61EbsL5Tjc79TiD3Tpg4aRdUjBAZ1aqBWCQZaU73AcHpbdThQ+dGJNBjIugFZ+TypNYKhssE+CM+lVusdhJrpvZ1GnaXbm9lnWPX8soW3HkziD09Mx5//7Ur89PXtKenffW8lfvdju2PuoIWXAAAAGB6bV0vx0qul+N9LV+OlF8rx9//y5hoCBw8m8bnfmY63zAoEWtWouTJojbrLJ49srSkwCoFAqrIxOszNrn6pNxqgMhyoDg86GUEwKN+TRo32yu3DEGRUbvf8b051wFUr9Dpz5kwcOnQo5ubmtm7L5XLb/q11LPqnL2MZ5w4mcf+npuN7j63Hv/znZlxZefMH4PPnNuOPvvp6P0oAAABgBJWSwZhLfE9hIu76YMQvf3DSCIExMejBQL0gpdH879W3GT3Qmuqmf/Xno9YAbaZxPijBQFpLM/tkHQxUvt52qmEQXpszMzPx7ne/e9ttp0+fjrvuuuuaUODo0aP9Lo86+naJ/uzuJH7jI1Pxp38wE7/7sUK895Z8zB1MYsIUiwAAAAyZqXw5rjtUiqO3luP3f3tX/NkfFOI3f9GUQeOm1cWGB3FR4kZNxUGaa33QjVrDv5sGZSqhZgnDGqse7XLjjTfGl7/85W23VS40nCoUCvH1r39922tlUBcJHweZtOSP3pqPo7f6RQkAAAAYbq2OGOjHqIJmm/itNP2HPRhIr9Svvpq/epqfZverdw5qG6QRA83IasRAq+calseTweM6fQAAACBzO12VO8hX7TYTDAziKIEITcVuqLdWQOXtRhIIBhoZ5J9vjCahAAAAAJCZYWkQ7qQyGGi0zyAZlce+WZWjACpva3e/iPrN/laOMU4EA7XPAf0mFAAAAADogsqmfxoODFoQkBrVRuROjfdmG/Pd2E8IUNuwBgMwSoQCAAAAAF02qGFAxOgGAgyPYQ0GhqXeXjp16lR897vf7cqxlpaW4uabb+7KsWiNUAAAAAAA6Ktha7APW7298MlPfrKrx7v99tvj1ltv7eoxaY5QAAAAAACAhj71qU9lXQJdksu6AAAAAAAAoD+EAgAAAAAAMCaEAgAAAAAAMCaEAgAAAAAAMCaEAgAAAAAAMCaEAgAAAEBXTE5OZl0CAIysbr3PCgUAAACAjuVyudjc3IxisZh1KQAwcorFYmxubkYu13lLXygAAAAAtC1JkkiSJPL5fERErKysZFwRAIyeYrG49X6bvve2SygAAAAAtCVtSqRNitnZ2VhaWor19fWsS2tKN6627IdhqROA3lhbW4vnn38+Zmdnt4UC7QYD3lUAAACAjiRJEhMTE7Fv377I5/Px5JNPxoULFwZ+KqFCobA1wmFQ5fP5KBQKWZcBQAaKxWK89tpr8dRTT0WSJLF3796YmJjoaJRARMREl+oDAAAAxkjakEiSJHK5XORyuSgUCnH99dfH8vJynDlzJiYmJmJiYiI2NzczrpZBcfbs2axLABgK+Xw+SqVSlEqlmJqairm5uSgUClvvuZ2MFhAKAAAAAG1LQ4F8Ph/lcjlmZmbiuuuui9XV1XjjjTdidXU1SqVSRESUy+WMqwWAwVYZuhcKhdizZ08UCoUoFAoxMTER+Xx+KxRol1AAAAAAaFvlmgJp0z9JkpicnIzp6enY3NyMcrm89QEA1Fe9Xk866i4NBIQCAAAAQGbShkS6EG46z3E6emBiYiJKpdJWGCAUAIDGak3Pl4YBlYFAJwsNCwUAAACAtlUHA5XTCaWBgFECANC8yqZ/GgykYUBlKNCuvocCP71yJV565ZVY+enFWF0pbptbEAAAAIZBuqjuzMxMHDx4MN761rfG7t27sy4rM5XBQLlc3mpaCAQAoD2VwUCtj070LRRYXluPP/rhM/G3/3Nu67b37t0Tf/3BD8QNs7P9KgMAAIAR0tmfxO2bWL0aV65cicuXL8elSxdjaWkpDh8+HLfccktMTk5mVFW2Kqc7qJ4uSCgAAK2pfF+t9W8n+hIKnL1SjF/9x3+Ns1eK227/vZ//OYEAAAAAQ+dqYSKmCvti6tC+iLgh3n5lLc7+99Px2GOPxbFjx2JmZibrEjNRHQxUNi4EAwDQnOrGfzeCgEoTEbH1Rp0evJU36sr7VL/hR0T8+8X/i1//wb/F8tr6ttvfNl2IX7vh+o6KBwAAgEFQ3j0VNx89GpfPL8c//dM/xx13fDD27duXdVmZ6nVDY5C8+OKLce7cuZ13BKAjb3vb2+KGG27Iuoyhl6u+odXkvtH+xc3N+PQTP7wmEIiIuOstByM/wr8QAAAAMH5mD8/Fz9/2C/H000+7Mh4AGEjXhALd9Cc//u/4z0uv19z2ngPjfcUEAAAAo2nP9W+JXbum4rnnnsu6FACAa9QMBdKpgDpxbmU1/vS/ztbdftu+vR0dHwAAAAbVzfO3xosvvhTr69eOnAcAyFLDkQKdBAPfPfdyw+1HClNtHxsAAAAGWWlmVxw6dChefrnx38YAAP224/RB7QYD/3D+lYbb9+6abOu4AAAAMAwKe/bHq6++mnUZAADb9GxNgTOX32i4fXYi36tTAwAAQOb27NkTV65cyboMAIBtJiJ+NhogSZJtG6v/X0+tNQheWW08b+JkrqdrHAMAAECmJmcnrSkAAAycXERELpeLJEm2NfabDQQqVd5/rVTqQnkAAAAwnMr5qSgNwN/GU1NTLU0NPD093cNqAICs1bxcv9aIgfSjlk4WJAYAAAB6p1QqtXTh39WrV2NjY6OHFQEAWdpxDp96AUEqDQQEAwAAADB4Wr3yf2ZmRigAACOsZiiQy+W2phRKpesG1Fo/IKK96YYAAACA3kiSJJaXl+PAgQMt3W///v1x4cKFgZj6CADovlxExMsvv7ztzT6fz28FAxH1RwFU3y4YAAAAgGylawZeuHAhbrzxxraO8fa3vz3OnTsXxWLRqAEAGDFJRJTL5XJcvHgxVlZWIpfLxcrKytYOrU4LlM/nu1wiAAAA0IypqTcXN56enm55hEAtly5dimKxGLlcLtbW1rpQIQCQpZtuuulnoUAqnR6o0cLCAAAAwOBJ/54HAKglSZJrQ4FUoxECzfyCsdMIg52OUR1UtHJuvwABAAAAAMB2SZLERKONjRYWbubg7exTKpVqBgKtNPqFAgAAAAAAcK26IwUAAAAAAIDRkSRJ5LIuAgAAAAAA6A+hAAAAAAAAjAmhAAAAAAAAjAmhAAAAAAAAjAmhAAAAAAAAjAmhAAAAAAAAjAmhAAAAAAAAjAmhAAAAAAAAjIkkIspZFwEAAAAAALJn8YEAAAAISURBVPTe/wP+iC/WOcKKEwAAAABJRU5ErkJggg==" id="originalImage" class="img-preview-box__img">
+                            <img class="unselect-image d-none" src="./save_files/cross-img-new.svg" alt="delete-img-icon" style="visibility: hidden;">
+                        </div>
+                        <div class="translate-img-div img-preview-box" style="background-image: none;">
+                            <img src="https://image-translation-file.python-stack-enzipe.xyz/translated_213888657689083.png" id="translatedImage" class="img-preview-box__img" onerror="this.style.display = &#39;none&#39;;" style="">
+                        </div>
+                    </div>
+                </div>
+                <div class="bottom-review-section">
+                    <p class="privacy-disclaimer">
+                        *Your privacy is protected! No data is transmitted or stored.
+                    </p>
+                    <div class="review-stars">
+    <p>Rate your experience</p>
+    <div class="stars">
+        <button data-count="1">
+            <img src="./save_files/rating-stars.svg" alt="rating-stars" width="20" height="20">
+        </button>
+        <button data-count="2">
+            <img src="./save_files/rating-stars.svg" alt="rating-stars" width="20" height="20">
+        </button>
+        <button data-count="3">
+            <img src="./save_files/rating-stars.svg" alt="rating-stars" width="20" height="20">
+        </button>
+        <button data-count="4">
+            <img src="./save_files/rating-stars.svg" alt="rating-stars" width="20" height="20">
+        </button>
+        <button data-count="5">
+            <img src="./save_files/rating-stars.svg" alt="rating-stars" width="20" height="20">
+        </button>
+    </div>
+    
+    <form method="post" class="review-form" style="display: none;">
+        <div class="d-flex" style="flex-direction: column; gap: 8px">
+            <input type="email" id="email" name="email" autocomplete="off" spellcheck="off" class="email-field" placeholder="Email (Optional)">
+            <textarea name="message" id="message" autocomplete="off" spellcheck="off" class="message-field" placeholder="Message (Optional)"></textarea>
+        </div>
+        <span id="js-error-message"></span>
+        <input type="submit" value="Submit" class="submit-message">
+    </form>
+</div>                </div>
+            </div>
+
+        </div>
+        <div class="text-center after-selection">
+            <div id="cloudflare_container" style="margin-top: 1rem"></div>
+            
+            <button id="jsShadowRoot" class="convert-btn js-convert-btn" style="pointer-events: auto;">
+                Translate
+            </button>
+        </div>
+        <div class="container">
+            <div class="text-center bg-light ad_left" style="height:280px; max-width:100%; width:100%; margin-top:1rem; max-width: 85%; margin-inline:auto">
+            <div class="text-center">
+                <p class="adv_text">Advertisement</p>
+            </div>
+            <div class="_adDiv" style="max-width: 100%;min-height:250px; background:#f9f9f9; text-align:center">
+                                    <div id="adngin-middle_leaderboard-0" data-google-query-id="CJ3AmobWxY0DFQdMnQkdzOovVg"><div id="google_ads_iframe_/22152718,21740973315/imagetotext.info_middle_leaderboard_0__container__" style="border: 0pt none; display: inline-block; width: 300px; height: 250px;"><iframe frameborder="0" src="./save_files/container.html" id="google_ads_iframe_/22152718,21740973315/imagetotext.info_middle_leaderboard_0" title="3rd party ad content" name="" scrolling="no" marginwidth="0" marginheight="0" width="300" height="250" data-is-safeframe="true" sandbox="allow-forms allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-top-navigation-by-user-activation" allow="private-state-token-redemption;attribution-reporting" aria-label="Advertisement" tabindex="0" data-google-container-id="2" style="border: 0px; vertical-align: bottom;" data-load-complete="true"></iframe></div></div>
+                            </div>
+        </div>
+            </div>
+    </section>
+    <section class="section other-tools">
+        <div class="container">
+            <div class="other_tool_grid">
+                    <a class="tool_box" href="https://www.imagetotext.info/">
+    <div>
+        <img src="./save_files/1.png" width="48" height="44" alt="icon" loading="lazy">
+    </div>
+    <p>Image To Text</p>
+</a>
+                    <a class="tool_box" href="https://www.imagetotext.info/jpg-to-word">
+    <div>
+        <img src="./save_files/2.png" width="48" height="44" alt="icon" loading="lazy">
+    </div>
+    <p>Jpg To Word</p>
+</a>
+                    <a class="tool_box" href="https://www.imagetotext.info/pdf-to-text">
+    <div>
+        <img src="./save_files/3.png" width="48" height="44" alt="icon" loading="lazy">
+    </div>
+    <p>Pdf To Text</p>
+</a>
+                    <a class="tool_box" href="https://www.imagetotext.info/pdf-to-word">
+    <div>
+        <img src="./save_files/4.png" width="48" height="44" alt="icon" loading="lazy">
+    </div>
+    <p>Pdf To Word</p>
+</a>
+                    <a class="tool_box" href="https://www.imagetotext.info/text-to-pdf">
+    <div>
+        <img src="./save_files/5.png" width="48" height="44" alt="icon" loading="lazy">
+    </div>
+    <p>Text To Pdf</p>
+</a>
+                    <a class="tool_box" href="https://www.imagetotext.info/text-to-word">
+    <div>
+        <img src="./save_files/6.png" width="48" height="44" alt="icon" loading="lazy">
+    </div>
+    <p>Text To Word</p>
+</a>
+                    <a class="tool_box" href="https://www.imagetotext.info/invert-image">
+    <div>
+        <img src="./save_files/24.png" width="48" height="44" alt="icon" loading="lazy">
+    </div>
+    <p>Invert Image</p>
+</a>
+                    <a class="tool_box" href="https://www.imagetotext.info/text-to-image">
+    <div>
+        <img src="./save_files/28.png" width="48" height="44" alt="icon" loading="lazy">
+    </div>
+    <p>Text To Image</p>
+</a>
+                    <a class="tool_box" href="https://www.imagetotext.info/image-to-pdf">
+    <div>
+        <img src="./save_files/38.png" width="48" height="44" alt="icon" loading="lazy">
+    </div>
+    <p>Image To Pdf</p>
+</a>
+                            <a class="tool_box" href="https://www.imagetotext.info/qr-code-scanner">
+    <div>
+        <img src="./save_files/45.png" width="48" height="44" alt="icon" loading="lazy">
+    </div>
+    <p>Qr Code Scanner</p>
+</a>
+                    <a class="tool_box" href="https://www.imagetotext.info/word-to-pdf">
+    <div>
+        <img src="./save_files/48.png" width="48" height="44" alt="icon" loading="lazy">
+    </div>
+    <p>Word To Pdf</p>
+</a>
+                    <a class="tool_box" href="https://www.imagetotext.info/pdf-to-jpg">
+    <div>
+        <img src="./save_files/50.png" width="48" height="44" alt="icon" loading="lazy">
+    </div>
+    <p>Pdf To Jpg</p>
+</a>
+                    <a class="tool_box" href="https://www.imagetotext.info/merge-pdf">
+    <div>
+        <img src="./save_files/81.png" width="48" height="44" alt="icon" loading="lazy">
+    </div>
+    <p>Merge Pdf</p>
+</a>
+                    <a class="tool_box" href="https://www.imagetotext.info/jpg-to-excel">
+    <div>
+        <img src="./save_files/82.png" width="48" height="44" alt="icon" loading="lazy">
+    </div>
+    <p>Jpg To Excel</p>
+</a>
+                    <a class="tool_box" href="https://www.imagetotext.info/qr-code-generator">
+    <div>
+        <img src="./save_files/83.png" width="48" height="44" alt="icon" loading="lazy">
+    </div>
+    <p>Qr Code Generator</p>
+</a>
+                    <a class="tool_box" href="https://www.imagetotext.info/word-to-jpg">
+    <div>
+        <img src="./save_files/89.png" width="48" height="44" alt="icon" loading="lazy">
+    </div>
+    <p>Word To Jpg</p>
+</a>
+                    <a class="tool_box" href="https://www.imagetotext.info/pdf-to-excel">
+    <div>
+        <img src="./save_files/92.png" width="48" height="44" alt="icon" loading="lazy">
+    </div>
+    <p>Pdf To Excel</p>
+</a>
+                    <a class="tool_box" href="https://www.imagetotext.info/barcode-scanner">
+    <div>
+        <img src="./save_files/94.png" width="48" height="44" alt="icon" loading="lazy">
+    </div>
+    <p>Barcode Scanner</p>
+</a>
+    </div>
+<div class="guide content-section">
+    <h2 style="text-align: center;">Photo Translator</h2><p>Image translator is an online tool that lets you translate text written inside images. You can take a picture of a document or a screenshot, etc., and then use the image translating tool to convert the language while keeping the text in its original position and placement.</p><p>This tool can be highly useful for people like data entry experts, office professionals, students, and more. It comes with a lot of helpful features, such as multiple language support, file uploads, downloads, and so on.</p><h2>How to Use the Image Translator by Imagetotext.info?</h2><p>Here are the steps that you can follow to use this image-translating tool.</p><ol><li>First of all, import your image to the tool by using any of the three methods: drag and drop, copy-paste, and file upload from local storage.</li><li>Once the image is imported, select the Input and Output Language. There are 100+ input and output languages that you can pick according to your needs.</li><li>After selecting the languages, all you have to do is click on the “Translate” button.</li><li>Once the translation is complete, you can either download the image back to your device or you can use the provided option to copy the text from inside it in plain text format.</li></ol><h2>What are the Features of Our Photo Translator?</h2><p>Here are some of the main and notable features of our tool:</p><ul><li><h3>It is free to access and does not require signup with email</h3></li></ul><p>You can start using this tool for free without any registration or signup. There are no pre-using processes or hassles that you have to worry about. All you have to do is load the tool up, input your image, select the languages, and then save the results.</p><ul><li><h3>Multiple languages available</h3></li></ul><p>For the input image, you can choose from 100+ languages, which include English, Spanish, Portuguese, Russian, Chinese, French, German, Korean, Japanese, etc. If your image has text in any language, you can easily translate it.</p><p>Similarly, as for the output, there are more than 100 languages that you can choose from. This number contains all the common and popular lingos, such as Spanish, French, Portuguese, Russian, Japanese, Hindi, Finnish, Urdu, Estonian, etc.</p><ul><li><h3>“Copy Text” option</h3></li></ul><p>There is an option available that you can copy the text from the translated image. You can translate the image text and then copy it in plain text form.&nbsp;</p><ul><li><h3>“Download” option</h3></li></ul><p>There is also an option to download the translated image back to your local storage. You can click on the “Download” option once the translation process is complete to save the picture to your device.</p><ul><li><h3>Quick and smart processing</h3></li></ul><p>Another good feature of this tool is that it is quick to perform the translation, and it also does it accurately. You don’t have to worry about waiting too long for the process to complete, and you also don’t have to worry about picking and fixing errors in the output.</p><h2>What are the Benefits of Using Our Image Translating Tool?</h2><p>There are many different benefits to using our image translator. Here are some of them:</p><ul><li><strong>Saves time: </strong>Normally, translating the text written inside images can take a lot of time. You first have to tally down the whole text, translate it (using an online tool or a dictionary), and then save it. If the document is a few pages long, this can take up to some hours to complete. But with our tool, you can do this whole thing very quickly and save time.</li><li><strong>Save costs: </strong>Translating text in a lot of images can also require you to spend money on resources such as expensive translating software and writing experts, etc. However, with our photo translate tool, you can save all of these costs and get your work done for free.</li><li><strong>Secure data processing:</strong> The image translating tool by Imagetotext.info does not unethically utilize any of the data in the provided input. The data is neither stored in our servers nor is it sold to a third party.</li></ul><h2>Frequently Asked Questions</h2><h3>1. Which AI tool can translate photos?</h3><p>There are many different online AI tools available that can help you translate photos. One of them is the PhotoTranslator by Imagetotext.info. This AI tool utilizes advanced technologies and models to accurately convert the language of the text written inside the given picture.</p><h3>2. Is there a free photo translator?</h3><p>Yes, the photo translator by Imagetotext.info is completely free to use and also does not require any signing up whatsoever.</p><h3>3. What does it mean to translate an image?</h3><p>The term “Translate an image” means translating text in an image to the desired or native language. For example, you find a poster in Spanish language and you have curiosity and want to know what’s written on that poster. You will take image of that poster and then using the tool “<a href="https://www.imagetotext.info/image-translator">Image Translator</a>” you will translate image into the English language. The tool will translate image and give you an image with English text.</p><h3>4. How can I extract text from picture?</h3><p>You can easily extract text from picture using our online <a href="https://www.imagetotext.info/">picture to text converter</a>. This tool allows you to convert images containing text into editable text quickly and efficiently.</p><h3>5. How to translate text in image?</h3><p>Normally to translate text in image in a different language requires an image processor or <a href="https://affinity.serif.com/en-us/photo/" target="_blank" rel="noopener">image editing software/app</a>. But Imagetotext.info is a great tool that automatically translates text directly from the image and gives your translated image in just a second.</p><p>To translate text in the image, simply:</p><ul><li>Upload any image (JPG, JPEG, JPE, JIF, PNG, TIFF, HEIC) onto the tool.</li><li>Select the language in which you want to translate image, and</li><li>Click the “<strong>Translate</strong>” button.</li><li>The tool will first find the text on the image, then translate it into your chosen language. The translated image will appear in the Output box. To save it, simply click the <strong>Download</strong> button.</li></ul>
+</div>
+        </div>
+    </section>
+    
+    <section class="section blog-section">
+    <div class="container">
+        <div class="text-center">
+            <h4 class="blogs-heading">Related Blogs</h4>
+            <div class="d-flex justify-content-center">
+                <hr class="feature-heading-hr hr-left">
+                <hr class="feature-heading-hr hr-right">
+            </div>
+        </div>
+        <div class="blogs-grid">
+                            <div class="blog-card">
+    <a href="https://www.imagetotext.info/blog/how-to-convert-jpg-to-word">
+        <img class="f-img img-fluid" src="./save_files/Featureimage_59.png" alt="Avatar" loading="lazy">
+        <div class="container">
+            <p class="content">
+                <span class="content_title">
+                    <strong>
+                        How to Convert JPG to a Word Document Online?
+                    </strong>
+                    <br>
+                    Nov 29, 2024
+                </span>
+            </p>
+        </div>
+    </a>
+</div>
+                            <div class="blog-card">
+    <a href="https://www.imagetotext.info/blog/what-is-a-qr-code-and-how-to-scan-it">
+        <img class="f-img img-fluid" src="./save_files/WhatisaQRCodeandHowtoScanItmin_16.png" alt="Avatar" loading="lazy">
+        <div class="container">
+            <p class="content">
+                <span class="content_title">
+                    <strong>
+                        What is a QR Code and How to Scan It?
+                    </strong>
+                    <br>
+                    Nov 14, 2024
+                </span>
+            </p>
+        </div>
+    </a>
+</div>
+                            <div class="blog-card">
+    <a href="https://www.imagetotext.info/blog/what-is-ocr">
+        <img class="f-img img-fluid" src="./save_files/WhatisOCROpticalCharacterRecognition_13.png" alt="Avatar" loading="lazy">
+        <div class="container">
+            <p class="content">
+                <span class="content_title">
+                    <strong>
+                        What is OCR (Optical Character Recognition)?
+                    </strong>
+                    <br>
+                    Nov 12, 2024
+                </span>
+            </p>
+        </div>
+    </a>
+</div>
+                            <div class="blog-card">
+    <a href="https://www.imagetotext.info/blog/what-is-a-pdf">
+        <img class="f-img img-fluid" src="./save_files/whatisPDF_73.png" alt="Avatar" loading="lazy">
+        <div class="container">
+            <p class="content">
+                <span class="content_title">
+                    <strong>
+                        What is a PDF?
+                    </strong>
+                    <br>
+                    Nov 08, 2024
+                </span>
+            </p>
+        </div>
+    </a>
+</div>
+                            <div class="blog-card">
+    <a href="https://www.imagetotext.info/blog/why-your-business-needs-ocr-technology">
+        <img class="f-img img-fluid" src="./save_files/BusinessneedOCR_65.png" alt="Avatar" loading="lazy">
+        <div class="container">
+            <p class="content">
+                <span class="content_title">
+                    <strong>
+                        Why Your Business Needs OCR Technology
+                    </strong>
+                    <br>
+                    Nov 01, 2024
+                </span>
+            </p>
+        </div>
+    </a>
+</div>
+                            <div class="blog-card">
+    <a href="https://www.imagetotext.info/blog/data-extraction-in-tech-industry">
+        <img class="f-img img-fluid" src="./save_files/DataExtractioninTechIndustry_30.png" alt="Avatar" loading="lazy">
+        <div class="container">
+            <p class="content">
+                <span class="content_title">
+                    <strong>
+                        The Role of Data Extraction in the Tech Industry
+                    </strong>
+                    <br>
+                    Oct 01, 2024
+                </span>
+            </p>
+        </div>
+    </a>
+</div>
+                    </div>
+    </div>
+</section>
+    
+
+    <input hidden="" id="translateBtn" value="Translate">
+    <input hidden="" id="copyTooltipLabel" value="Copy Text">
+    <input hidden="" id="copiedTooltipLabel" value="Copied!">
+    <input hidden="" id="downloadTooltipLabel" value="Download">
+    <input hidden="" id="downloadedTooltipLabel" value="Downloaded!">
+    
+
+    
+
+    
+    <footer>
+         <section class="section footer-section">
+             <div class="container">
+                 <div class="footer-grid">
+                     <div>
+                         <a class="imgtotxt_logo-footer" href="https://www.imagetotext.info/"><img src="./save_files/footer-logo.svg" alt="Logo" height="40" width="40" loading="lazy">
+                             Image to Text
+                         </a>
+                         <p class="footer-text">
+                             We present an online OCR (Optical Character Recognition) service to extract text from
+                             images.
+                         </p>
+                     </div>
+                     <div>
+                         <div class="footer_title">
+                             <p>Other Tools</p>
+                         </div>
+                         <div class="links_list">
+                             <a href="https://www.imagetotext.info/jpg-to-word">
+                                 Jpg To Word </a>
+                             <a href="https://www.imagetotext.info/pdf-to-text">
+                                 Pdf To Text </a>
+                             <a href="https://www.imagetotext.info/pdf-to-word">
+                                 Pdf To Word </a>
+                             <a href="https://www.imagetotext.info/text-to-pdf">
+                                 Text To PDF </a>
+                             <a href="https://www.imagetotext.info/text-to-word">
+                                 Text To Word </a>
+                         </div>
+                     </div>
+                     <div>
+                         <div class="footer_title">
+                             <p>Quick Links</p>
+                         </div>
+                         <div class="links_list">
+                                                                                           <a href="https://www.imagetotext.info/blog">
+                                     Blogs
+                                 </a>
+                                                              <a href="https://www.imagetotext.info/privacy-policy.php">
+                                     Privacy Policy
+                                 </a>
+                                                              <a href="https://www.imagetotext.info/refund-policy">
+                                     Refund Policy
+                                 </a>
+                                                              <a href="https://www.imagetotext.info/terms-of-services.php">
+                                     Terms &amp; Conditions
+                                 </a>
+                                                              <a href="https://www.imagetotext.info/contact-us.php">
+                                     Contact Us
+                                 </a>
+                                                      </div>
+                     </div>
+                     <div>
+                         <div class="footer_title">
+                             <p>Resources</p>
+                         </div>
+                         <div class="links_list">
+                                                                                           <a href="https://www.imagetotext.info/premium">
+                                     Premium Plan
+                                 </a>
+                                                              <a href="https://www.imagetotext.info/api-plans">
+                                     API Plan
+                                 </a>
+                                                              <a href="https://www.imagetotext.info/api-docs">
+                                     API Documentation
+                                 </a>
+                                                              <a href="https://www.imagetotext.info/jpg-to-excel-plans">
+                                     JPG to Excel Plans
+                                 </a>
+                                                              <a href="https://www.imagetotext.info/jpg-to-excel-api-docs">
+                                     JPG to Excel API Docs
+                                 </a>
+                                                      </div>
+                     </div>
+                     <div>
+                                                      <div class="footer_title">
+                                 <p>Select Language</p>
+                             </div>
+                             <div class="footer_social_icon_div mb-2rem">
+                                 <div class="dropdown locale-dropdown " id="dropdown">
+                                     <button class="dropbtn">
+                                         <span class="d-flex justify-content-center align-items-center">
+                                             <img src="./save_files/en.svg" alt="flag" class="flag" height="24" width="24">
+                                             <p>
+                                                 ENGLISH
+                                             </p>
+                                         </span>
+                                         <span class="d-flex justify-content-center align-items-center">
+                                             <img src="./save_files/caret.svg" alt="caret" style="margin-inline: 5px" class="language-caret">
+                                         </span>
+                                     </button>
+                                     <div class="dropdown-content">
+                                                                                                                                                                                            <a href="https://www.imagetotext.info/image-translator">
+                                                     <img src="./save_files/en(1).svg" loading="lazy" alt="flag" height="24" width="24">
+                                                     ENGLISH
+                                                     </a>
+                                                                                                                                                                                                                                     <a href="https://www.imagetotext.info/ru/photo-translator">
+                                                 <img src="./save_files/ru.svg" loading="lazy" alt="flag" height="24" width="24">
+                                                 РУССКИЙ
+                                                 </a>
+                                                                                                                                                                                    <a href="https://www.imagetotext.info/ar/image-translator">
+                                                 <img src="./save_files/ar.svg" loading="lazy" alt="flag" height="24" width="24">
+                                                 ARABIC
+                                                 </a>
+                                                                                                                                                                                    <a href="https://www.imagetotext.info/fr/traduction-photo">
+                                                 <img src="./save_files/fr.svg" loading="lazy" alt="flag" height="24" width="24">
+                                                 FRANÇAIS
+                                                 </a>
+                                                                                                                                                                                    <a href="https://www.imagetotext.info/ja/photo-translator">
+                                                 <img src="./save_files/ja.svg" loading="lazy" alt="flag" height="24" width="24">
+                                                 日本人
+                                                 </a>
+                                                                                                                                                                                    <a href="https://www.imagetotext.info/br/traduzir-imagem">
+                                                 <img src="./save_files/br.svg" loading="lazy" alt="flag" height="24" width="24">
+                                                 PORTUGUÊS
+                                                 </a>
+                                                                                                                                                                                    <a href="https://www.imagetotext.info/es/traductor-de-imagenes">
+                                                 <img src="./save_files/es.svg" loading="lazy" alt="flag" height="24" width="24">
+                                                 SPANISH
+                                                 </a>
+                                                                                                                                                                                    <a href="https://www.imagetotext.info/de/bild-ubersetzer">
+                                                 <img src="./save_files/de.svg" loading="lazy" alt="flag" height="24" width="24">
+                                                 DEUTSCHE
+                                                 </a>
+                                                                                                                                                                                    <a href="https://www.imagetotext.info/tr/photo-translator">
+                                                 <img src="./save_files/tr.svg" loading="lazy" alt="flag" height="24" width="24">
+                                                 TÜRK
+                                                 </a>
+                                                                                                                           </div>
+                                 </div>
+                             </div>
+                                                  <div class="footer_title">
+                             <p>Email</p>
+                         </div>
+                         <a href="mailto:support@imagetotext.info" class="mailto-link">support@imagetotext.info</a>
+                         <div class="social-media-links">
+                             <span>
+                                 <a href="https://www.facebook.com/imagetotext.info" target="_blank" rel="noopener noreferrer">
+                                     <img src="./save_files/facebook.svg" alt="icon" loading="lazy" height="30" width="30">
+                                 </a>
+                             </span>
+                             <span>
+                                 <a href="https://twitter.com/ImgtoText" target="_blank" rel="noopener noreferrer">
+                                     <img src="./save_files/twitter.svg" alt="icon" loading="lazy" height="30" width="30">
+                                 </a>
+                             </span>
+                             <span>
+                                 <a href="https://www.linkedin.com/company/image-to-text/" target="_blank" rel="noopener noreferrer">
+                                     <img src="./save_files/linkedin.svg" alt="icon" loading="lazy" height="30" width="30">
+                                 </a>
+                             </span>
+                             <span>
+                                 <a href="https://www.pinterest.com/Imagetotextconverter" target="_blank" rel="noopener noreferrer">
+                                     <img src="./save_files/pinterest.svg" alt="icon" loading="lazy" height="30" width="30">
+                                 </a>
+                             </span>
+                         </div>
+
+                     </div>
+
+                 </div>
+
+
+                 <div class="copyright-row">
+                     Copyright © All rights reserved | It is made by
+                     <a href="https://www.imagetotext.info/">imagetotext.info</a>
+                 </div>
+             </div>
+         </section>
+     </footer>
+
+
+   <!-- The Modal -->
+<div id="loginRegisterModal" class="modal" style="display: none;">
+    <!-- Modal content -->
+    <div class="modal-content login-register-modal ">
+        <div class="limit-modal-body p-relative">
+            <span class="accountModalClose right cursor-pointer">
+                <img src="./save_files/cross.svg" alt="cross" width="20" height="20">
+            </span>
+            <img src="./save_files/login-register.svg" alt="limit exceed" height="40">
+            <div class="showSignIn">
+                <p class="heading text-center" style="margin-top: 1rem;">Sign in with us today</p>
+                <p class="modal-text text-center">
+                    Enter your email and password to sign in your account
+                </p>
+            </div>
+            <div class="showSignUp d-none">
+                <p class="heading text-center">Sign up with us today</p>
+                <p class="modal-text text-center">
+                    Enter your email and password to sign up your account
+                </p>
+            </div>
+        </div>
+        <div>
+            <div id="message_status"></div>
+
+            <div class="login-form showSignIn">
+                <div class="form-grid">
+                    <form id="login-form">
+                        <input type="hidden" name="_token" value="fWwNC4K1UQUIs4r3a5xKzyxoj5aXeTfOhTXtx8i2" autocomplete="off">                        <input type="hidden" name="plan_id" class="plan-id">
+                        <input type="hidden" name="plan_code" class="plan-code">
+                        <input type="hidden" name="coupon" class="coupon-code">
+                        <div class="form-row">
+                            <div class="form-group">
+                                <input type="email" placeholder="Email" name="email" required="" autocomplete="off">
+                            </div>
+                            <div class="form-group">
+                                <input type="password" placeholder="Password" name="password" required="" autocomplete="off">
+                            </div>
+                            <div id="auth_login"></div>
+
+                            <a href="https://www.imagetotext.info/forgot-password" class="forget_password_span">Forgot
+                                Password?</a>
+                            <button type="submit" class="submit-btn comp_submit_btn">Sign In</button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+
+            <div class="login-form showSignUp d-none">
+                <div class="form-grid">
+                    <form id="signup-form">
+                        <input type="hidden" name="_token" value="fWwNC4K1UQUIs4r3a5xKzyxoj5aXeTfOhTXtx8i2" autocomplete="off">                        <input type="hidden" name="plan_id" class="plan-id">
+                        <input type="hidden" name="plan_code" class="plan-code">
+                        <input type="hidden" name="coupon" class="coupon-code">
+                        <div class="form-row">
+                            <div class="form-group">
+                                <input type="text" placeholder="Name" name="name" required="" autocomplete="off">
+                            </div>
+                            <div class="form-group">
+                                <input type="email" placeholder="Email" name="email" required="" autocomplete="off">
+                            </div>
+                            <div class="form-group">
+                                <input type="password" placeholder="Password" name="password" required="" autocomplete="off">
+                            </div>
+                            <div id="auth_signup"></div>
+
+                            <button type="submit" class="submit-btn comp_submit_btn">Sign Up</button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+
+        </div>
+        <hr class="hr-text" data-content="OR">
+        <div class="mt-1em">
+            <a href="https://www.imagetotext.info/emd/login/google" class="social-login-div">
+                <p>Continue with google</p>
+                <img class="social-icon" src="./save_files/google-login.svg" alt="google login">
+            </a>
+        </div>
+        <div class="text-center mt-1em showSignIn">
+            <p class="toggle-auth-text">
+                Don't have an account? <span id="jsShowSignUp">Sign Up</span>
+            </p>
+        </div>
+        <div class="text-center mt-1em showSignUp d-none">
+            <p class="toggle-auth-text">
+                Already have an account? <span id="jsShowSignIn">Sign in</span>
+            </p>
+        </div>
+    </div>
+</div>
+<input type="hidden" id="invisible" value="0x4AAAAAAAUwKvasO0jFqxlt">
+<input type="hidden" id="managed" value="0x4AAAAAAAXqxZC0gjXqXkxS">
+    <script src="./save_files/api.js.download"></script>
+<script type="text/javascript">
+    var invisible_key = document.getElementById("invisible").value;
+    var managed_key = document.getElementById("managed").value;
+    if (invisible_key.length > 10 && managed_key.length > 10) {
+        function with_cloudflare_captcha(retry, click_time, function_name, theme = null, position = null, body = null,
+            fun =
+            function(
+                token) {
+                var start_val = 0;
+                if (parseInt('1') == 0) {
+                    start_val = 1;
+                } else {
+                    if (!retry) {
+                        start_val = 2;
+                    }
+                }
+                function_name(start_val + 'f1AMR33KCKMz3aaRSsYjq71c8W3fetTuY7MZSjvZ', token, body);
+            }) {
+            var now_time = Math.floor(Date.now() / 1000);
+            if (parseInt(now_time - click_time) < 0 || parseInt(now_time - click_time) > 3 || (
+                    typeof click_time) != 'number') {
+                return false;
+            }
+            if (parseInt('1') == 0) {
+                fun(null);
+                return true;
+            }
+            if (retry) {
+                var siteKey = invisible_key;
+            } else {
+                var siteKey = managed_key;
+            }
+            var turnstile_obj = turnstile.render(position ?? 'body', {
+                sitekey: siteKey,
+                theme: theme ?? 'light',
+                language: $("html").attr('lang'),
+                callback: function(token) {
+                    turnstile.remove(turnstile_obj);
+                    fun(token);
+                },
+                error: function(error) {
+                    console.log("error calling challenge");
+                    with_cloudflare_captcha(false, (Date.now() / 1000), function_name, body);
+                }
+            });
+        }
+    } else {
+        console.error("Captcha key is invalid");
+    }
+</script>
+ <div id="invalidImageModal" class="modal_invalid" style="display: none;">
+    <div class="modal-content invalidImageModal">
+        <div class="limit-modal-body">
+            <div class="a-i-center">
+                <img src="./save_files/caution.png" alt="cancel subscription">
+                <p class="heading text-center">Invalid URL</p>
+            </div>
+            <div class="px-12">
+                <p class="modal-text">
+                    Image not Found. This is because you have entered an invalid URL.
+                </p>
+            </div>
+            <div class="button_row">
+                <span class="browse-btn keep-plan-btn accountModalClose close_invalid_file">Close</span>
+                <span class="accountModalClose try-another-btn">Try Another File</span>
+            </div>
+        </div>
+    </div>
+</div>
+
+      <!-- The Modal -->
+<div id="limitExceedModal" class="modal" style="display: none;">
+    <!-- Modal content -->
+    <div class="modal-content limit-exceed-modal">
+        <div class="limit-modal-body">
+            <span class="accountModalClose right cursor-pointer">
+                <img src="./save_files/cross.svg" alt="cross" width="20" height="20">
+            </span>
+            <div class="d-flex align-items-center gap-1">
+                <img src="./save_files/exclamation.png" alt="Exclaimation" width="18" height="18">
+                <p class="heading js-modal-heading">Limit Exceed</p>
+            </div>
+                            <span class="d-flex align-items-center">
+                    <p class="modal-text js-popup-err-desc">
+                        Upgrade plan to upload multiple files
+                    </p>
+                </span>
+                    </div>
+        <!-- The Modal -->
+    <hr class="divider">
+    <div class="model-features">
+        <div class="choose-plan">
+                        
+            <label for="monthly-radio" class="subscription-price">
+                <p class="original-price">
+                    $5.5 <small> monthly</small>
+                </p>
+                <input type="radio" name="modal-plan" class="plan-option js-plan-option active" checked="" id="monthly-radio" data-code="95315" data-id="37">
+
+            </label>
+            <label for="yearly-radio" class="subscription-price">
+                <p class="original-price">
+                    $4.16 <small> monthly</small><br>
+                    <small>Billed Yearly <strong style="font-weight: 700;font-size: 12px;line-height: 16px;color:#575E68">$49.88</strong></small>
+                </p>
+                <input type="radio" name="modal-plan" class="plan-option js-plan-option" id="yearly-radio" data-code="89762" data-id="30">
+            </label>
+            
+        </div>
+        <div class="plan-items">
+            <p class="font-bold feature-list-heading">
+                Premium Features
+            </p>
+            <ul class="model-feature-list">
+                <li>
+                    <img src="./save_files/plan-feature-list-item.svg" width="15" height="10" alt="tick">
+                    <p> File size upto 10 MB</p>
+                </li>
+                <li>
+                    <img src="./save_files/plan-feature-list-item.svg" width="15" height="10" alt="tick">
+                    <p> 3X faster translation</p>
+                </li>
+                                    <li class="mobile-hide-item">
+                        <img src="./save_files/plan-feature-list-item.svg" width="15" height="10" alt="tick">
+                        <p> Allow All file types</p>
+                    </li>
+                    <li class="mobile-hide-item">
+                        <img src="./save_files/plan-feature-list-item.svg" width="15" height="10" alt="tick">
+                        <p> No ads</p>
+                    </li>
+                    <li class="mobile-hide-item">
+                        <img src="./save_files/plan-feature-list-item.svg" width="15" height="10" alt="tick">
+                        <p> No captcha</p>
+                    </li>
+                            </ul>
+        </div>
+    </div>
+    <hr class="divider">
+
+    <div class="subscribe-section">
+        <a href="https://www.imagetotext.info/premium" target="_blank" rel="noopener noreferrer" class="plans-pricing-btn">
+            Pricing
+        </a>
+                    <a class="subscription-btn accountModal eTrack js-guest-subscription-btn" href="javascript:void(0)" e-track="Validation/Limitation Guest Modal" data-code="95315" data-id="37">
+                Subscribe Now
+            </a>
+            </div>
+    </div>
+</div>
+   <script>
+     const limitExced = "Limit Exceed";
+     const limitExceedDesc = "Max. 3 images per submission for free users.";
+     const imageSizeForPremium = "File Size Exceeded";
+     const imageSizeTitleDesc = "Max. 5 MB image size allowed";
+     const fileTypeNotAllowTitle = "File Type Not Allowed";
+     const fileTypeNotAllowDesc = "Invalid file type";
+     const supported_format = "Supported formats: JPG, PNG, GIF, JFIF (JPEG), HEIC, PDF";
+     const dailyLimitExceed = "Daily Limit Reached";
+     const dailyLimitExceedDesc = "Free user can use 3 images daily.";
+     if (parseInt("0") == 1 && document.querySelector('#js-drag-n-drop')) {
+        const drag_n_drop_premium = "Drop, Upload or Paste Image <br/> <small> Max Image Size 10 MB </small>";
+        document.querySelector('#js-drag-n-drop').innerHTML = drag_n_drop_premium;
+     }
+ </script>
+ <div id="adngin-sidebar_sticky-0"></div>
+    
+    <script>
+    const BASE_URL = "https://www.imagetotext.info" + "/";
+    const env = "production";
+    const SUBMIT_BTN = "Submit";
+    const IS_PREMIUM = parseInt("0");
+    const IS_TOOL_PREMIUM = parseInt("0");
+    const PER_REQUEST_LIMIT = IS_PREMIUM ? 50 : 3;
+    const IS_PREMIUM_COOKIE = 0;
+    const CURRENT_LANG = "en";
+    const TOOL_ID = parseInt("39");
+    const CURRENT_TOOL_ID = parseInt("39");
+</script>
+
+<script src="./save_files/jquery.min.js.download">
+</script>
+<script src="./save_files/general.js.download">
+</script>
+
+        <script>
+        const maxFileSize = 5;
+    </script>
+    <script src="./save_files/image-translator.js.download">
+    </script>
+    <script>
+        $(document).ready(function() {
+            $('.comp_submit_btn').on('click', function(e) {
+                e.preventDefault();
+
+                let form = $(this).closest('form');
+                let formData = {
+                    _token: $('meta[name="_token"]').attr('content'),
+                    email: form.find('input[name="email"]').val(),
+                    password: form.find('input[name="password"]').val(),
+                    name: form.find('input[name="name"]').val(),
+                    plan_id: form.find('input[name="plan_id"]').val(),
+                    plan_code: form.find('input[name="plan_code"]').val(),
+                    coupon: form.find('input[name="coupon"]').val()
+                };
+
+                let isSignup = form.attr('id') === 'signup-form';
+                let url = isSignup ? "https://www.imagetotext.info/emd/register/web" : "https://www.imagetotext.info/emd/login/web";
+                let container_id = isSignup ? 'auth_signup' : 'auth_login';
+
+                if (!validateForm(formData, isSignup)) return false;
+                $('.comp_submit_btn').attr('disabled', true).css('pointer-events', 'none').text('Processing...');
+                with_cloudflare_captcha(false, Date.now() / 1000, function(hash, token) {
+                    formData.emd_captcha_1 = hash;
+                    formData.emd_captcha_2 = token;
+                    formData.emd_captcha_3 = Date.now() / 1000;
+
+                    submitForm(url, formData);
+                }, "light", "#"+container_id, {
+                    wrapEle: $(this)
+                });
+            });
+        });
+
+        function validateForm(data, isSignup = false) {
+            if (!validateEmail(data.email)) {
+                $('#message_status').html('<p class="error" style="color: red">Please enter a valid email</p>');
+                return false;
+            }
+            if (data.password.length < 8) {
+                $('#message_status').html('<p class="error" style="color: red">Password must be at least 8 characters</p>');
+                return false;
+            }
+            if (isSignup && !data.name) {
+                $('#message_status').html('<p class="error" style="color: red">Please enter your name</p>');
+                return false;
+            }
+            return true;
+        }
+
+        function submitForm(url, formData) {
+            $.ajax({
+                url: url,
+                type: 'POST',
+                data: formData,
+                dataType: 'json',
+                success: function(response) {
+                    if (response.status) {
+                        $('#message_status').html(
+                            `<p class="success" style="color: green">${response.mess}</p>`);
+                        window.location.href = response.url;
+                    } else {
+                        $('#message_status').html(`<p class="error" style="color: red">${response.mess}</p>`);
+                    }
+                },
+                error: function(xhr) {
+                    $('#message_status').html(
+                        '<p class="error" style="color: red">An error occurred. Please try again.</p>');
+                },
+                complete: function() {
+                    $('.comp_submit_btn').attr('disabled', false).css('pointer-events', 'auto').text('Submit');
+                }
+            });
+            setTimeout(() => {
+                $('#message_status').html('');
+            }, 1500);
+        }
+    </script>
+    
+    
+
+    
+    <script src="./save_files/etrack.js.download"></script>
+
+            <script src="./save_files/client" async="" defer=""></script>
+<div id="g_id_onload" data-client_id="433658528871-mb956nk9gboa3aafbarl9ddk3o3fsh47.apps.googleusercontent.com" data-login_uri="https://www.imagetotext.info/emd/login/google" data-auto_prompt="true" data-context="signin" data-ux_mode="popup">
+</div>
+<script>
+    window.onload = function() {
+        window.google.accounts.id.prompt();
+    };
+</script>
+    
+    
+
+
+
+<iframe name="__tcfapiLocator" style="display: none;" src="./save_files/saved_resource(2).html"></iframe><iframe name="__uspapiLocator" style="display: none;" src="./save_files/saved_resource(3).html"></iframe><iframe name="__adconsentLocator" style="display: none;" src="./save_files/saved_resource(4).html"></iframe><iframe name="googlefcPresent" style="display: none; width: 0px; height: 0px; border: none; z-index: -1000; left: -1000px; top: -1000px;" src="./save_files/saved_resource(5).html"></iframe><iframe name="googlefcInactive" src="./save_files/saved_resource(6).html" style="display: none; width: 0px; height: 0px; border: none; z-index: -1000; left: -1000px; top: -1000px;"></iframe><iframe name="googlefcLoaded" src="./save_files/saved_resource(7).html" style="display: none; width: 0px; height: 0px; border: none; z-index: -1000; left: -1000px; top: -1000px;"></iframe><div id="snigel-adhesive-contentextension-bottom"></div><div id="adngin-bottom_adhesive-0-adhesive" class="snigel-adhesive bottom"><div id="adngin-bottom_adhesive-0" data-google-query-id="CJzAmobWxY0DFQdMnQkdzOovVg"><div id="google_ads_iframe_/22152718,21740973315/imagetotext.info_bottom_adhesive_0__container__" style="border: 0pt none; display: inline-block; width: 728px; height: 90px;"><iframe frameborder="0" src="./save_files/container(1).html" id="google_ads_iframe_/22152718,21740973315/imagetotext.info_bottom_adhesive_0" title="3rd party ad content" name="" scrolling="no" marginwidth="0" marginheight="0" width="728" height="90" data-is-safeframe="true" sandbox="allow-forms allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-top-navigation-by-user-activation" allow="private-state-token-redemption;attribution-reporting" aria-label="Advertisement" tabindex="0" data-google-container-id="1" style="border: 0px; vertical-align: bottom;" data-load-complete="true"></iframe></div></div><div id="adngin-bottom_adhesive-0-adhesive-close" class="close-adhesive bottom"><svg height="100%" width="100%" viewBox="0 0 100 100"><path class="close-adhesive-icon" d="M8 22 L36 50 L8 78 A9.9 9.9 0 1 0 22 92 L50 64 L78 92 A9.9 9.9 0 1 0 92 78 L64 50 L92 22 A9.9 9.9 0 1 0 78 8 L50 36 L22 8 A9.9 9.9 0 1 0 8 22"></path>X</svg></div><a id="adngin-bottom_adhesive-0-adhesive-logo" class="logo-adhesive" href="https://www.snigel.com/" target="_blank"></a></div><fencedframe id="ps_caff" style="display: none;"></fencedframe><iframe src="./save_files/iu3.html" style="display: none;"></iframe><iframe name="cnftComm" style="width: 0px; height: 0px; display: none; position: fixed; left: -999px; top: -999px;" src="./save_files/saved_resource(8).html"></iframe><iframe src="./save_files/syncframe.html" width="0" height="0" frameborder="0" sandbox="allow-scripts allow-same-origin" aria-hidden="true" title="Criteo GUM iframe" style="border-width: 0px; margin: 0px; display: none;"></iframe><div><iframe src="./save_files/pd.html" width="0" height="0" style="display:none;"></iframe></div><iframe src="./save_files/aframe.html" width="0" height="0" style="display: none;"></iframe></body><iframe name="goog_topics_frame" src="./save_files/topics_frame.html" style="display: none;"></iframe><iframe sandbox="allow-scripts allow-same-origin" id="22a311d054f8635" frameborder="0" allowtransparency="true" marginheight="0" marginwidth="0" width="0" hspace="0" vspace="0" height="0" style="height:0px;width:0px;display:none;" scrolling="no" src="./save_files/ixmatch.html">
+    </iframe><iframe sandbox="allow-scripts allow-same-origin" id="236cb0e65a31536" frameborder="0" allowtransparency="true" marginheight="0" marginwidth="0" width="0" hspace="0" vspace="0" height="0" style="height:0px;width:0px;display:none;" scrolling="no" src="./save_files/user_sync.html">
+    </iframe><iframe sandbox="allow-scripts allow-same-origin" id="24eccb6446d46b" frameborder="0" allowtransparency="true" marginheight="0" marginwidth="0" width="0" hspace="0" vspace="0" height="0" style="height:0px;width:0px;display:none;" scrolling="no" src="./save_files/checksync.html">
+    </iframe></html>
