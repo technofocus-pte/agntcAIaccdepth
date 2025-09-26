@@ -1,140 +1,150 @@
-# agntcAIaccdepth
-Agentic AI Accelerator Workshop
-This hands-on workshop series is designed to help you deepen your skills in AI-driven development, automation, and building intelligent applications using Microsoft Copilot Studio and Azure AI services. Each day offers practical, guided experiences—from designing AI agents to deploying full-scale AI solutions. By the end of this workshop, you'll walk away with hands-on expertise in creating scalable, intelligent solutions that boost employee engagement, streamline business operations, and enhance customer experiences.
+# Agentic AI Accelerator 워크숍
 
-## Objectives
-- Learn to design and deploy AI agents with Microsoft Copilot Studio and Azure AI services.
-- Gain hands-on experience in multi-agent orchestration using the Azure AI Agent Service SDK and Semantic Kernel.
-- Build custom Retrieval-Augmented Generation (RAG) applications with Azure AI Foundry and integrate Semantic Kernel plugins.
-- Evaluate, fine-tune, and deploy AI models using Prompt Flow for real-world use cases.
-- Construct intelligent escalation systems using conversational interfaces, event-driven architecture, and AI-powered workflows.
+## 개요
+이 실습 중심의 워크숍 시리즈는 Microsoft Copilot Studio와 Azure AI 서비스를 활용하여 AI 기반 개발, 자동화, 그리고 지능형 애플리케이션 구축에 대한 역량을 심화하는 데 목적이 있습니다. 매일 진행되는 실습 과정을 통해 AI 에이전트의 설계부터 대규모 AI 솔루션 배포에 이르기까지 실용적이고 체계적인 축적된 내용을 배우게 됩니다. 이 워크숍을 마치면, 여러분은 직원들의 참여도를 높이고, 비즈니스 운영을 간소화하며, 고객 경험을 향상시킬 수 있는 확장 가능하고 지능적인 솔루션을 실제로 구축하는 데 필요한 실전 역량을 갖추게 됩니다.
 
-## Day-by-Day Breakdown:
+## 목표
+- Microsoft Copilot Studio와 Azure AI 서비스를 활용하여 AI 에이전트를 설계하고 배포하는 방법을 학습합니다.
+- Azure AI Agent Service SDK와 Semantic Kernel을 사용하여 멀티 에이전트 오케스트레이션(multi-agent orchestration)을 실습합니다.
+- Azure AI Foundry를 활용해 맞춤형 RAG(Retrieval-Augmented Generation) 애플리케이션을 구축하고, Semantic Kernel 플러그인을 통합합니다.
+- Prompt Flow를 사용하여 실제 사례 기반으로 AI 모델을 평가(Evaluate), 미세 조정(finetune), 배포(deploy)하는 방법을 익힙니다.
+<!-- - 대화형 인터페이스, 이벤트 기반 아키텍처, AI 기반 워크플로우를 활용해 지능형 업무 이관(Escalation) 시스템을 구성합니다. -->
 
-### Day 1: Build Agents with Copilot Studio
-This hands-on lab offers you how to use Microsoft 365 Copilot and Copilot Studio to enhance the employee experience through AI-driven creativity and automation. You'll create visual content, streamline employee transitions, automate onboarding, and implement recognition systems to boost engagement and productivity.
+## 일자별 구성
 
-### Day 2: Azure AI Agents
-This hands-on lab offers a comprehensive introduction to building AI agents using the Azure AI Agent Service SDK and Semantic Kernel. You will begin by creating AI agents with the Azure AI Agent Service and leveraging Semantic Kernel to orchestrate them in a multi-agent system. Throughout the lab, you will explore techniques for agent collaboration, automation, and task execution. By the end of this experience, you will have hands-on expertise in designing, deploying, and managing AI agents to build intelligent, scalable, and efficient AI-driven applications.
+### 1일차: Copilot Studio로 에이전트 구축
+이번 실습에서는 Microsoft 365 Copilot과 Copilot Studio를 활용하여 AI 기반의 창의성과 자동화를 통해 직원 경험을 향상시키는 방법을 학습합니다. 시각적 콘텐츠를 생성하고, 직원 전환 과정을 간소화하며, 온보딩 프로세스를 자동화하고, 직원 인식 시스템을 구현하여 참여도와 생산성을 높이는 작업을 수행하게 됩니다.
 
-### Day 3: Developing a Custom RAG App Using Azure AI Foundry and Explore Semantic Kernel
-This hands-on lab offers a practical introduction to building a custom Retrieval-Augmented Generation (RAG) application using the Azure AI Foundry SDK. You'll start by provisioning the necessary Azure resources and configuring the AI Foundry environment. From there, you will implement an end-to-end RAG pipeline that indexes and retrieves relevant data to enrich AI-generated responses.
-As part of the lab, you’ll also explore the integration of Semantic Kernel to create dynamic, prompt-based interactions and incorporate useful plugins—such as time and weather utilities—to extend your chatbot’s functionality.
-By the end of the session, you will have hands-on experience in building a scalable RAG solution that harnesses the power of Azure AI and the Semantic Kernel plugin ecosystem for advanced knowledge retrieval and intelligent response generation.
+### 2일차: Azure AI Agent
+이번 실습에서는 Azure AI Agent Service SDK와 Semantic Kernel을 활용한 AI 에이전트를 구축하는 방법에 대하여 포괄적인 개요를 제공합니다. Azure AI Agent Service로 에이전트를 생성하고, Semantic Kernel을 사용하여 멀티 에이전트 시스템 내에서 이를 오케스트레이션하는 과정을 학습합니다. 에이전트 간 협업, 자동화, 태스크 실행 기법을 실습하며, 지능적이고 확장 가능한 AI 애플리케이션을 설계, 배포, 관리하는 데 필요한 실전 역량을 쌓게 됩니다.
 
-### Day 4: Developing AI Applications with Azure AI Foundry
-This hands-on lab is intended for AI developers, data scientists, AI Enthusiasts, Cloud Engineers, AI Engineers, aiming to enhance their skills in model evaluation and fine-tuning using Azure AI Foundry Prompt Flow. Participants will gain practical experience in developing custom AI models, evaluating their performance, and refining them for better results. The lab also addresses the integration of chat flows and essential tools, ensuring responsible AI practices through content safety measures.
+### 3일차: Azure AI Foundry를 활용한 맞춤형 RAG 애플리케이션 개발 및 Semantic Kernel 탐색
+이번 실습에서는 Azure AI Foundry SDK를 활용하여 맞춤형 RAG(Retrieval-Augmented Generation) 애플리케이션을 구축하는 실용적인 방법을 배웁니다. 필요한 Azure 리소스를 프로비저닝하고 AI Foundry 환경을 구성한 후, 관련 데이터를 인덱싱하고 검색하여 AI 응답을 보강하는 엔드투엔드 RAG 파이프라인을 구현합니다.
+또한 Semantic Kernel을 통합하여 동적 프롬프트 기반 상호작용을 구성하고, 시간 및 날씨 유틸리티와 같은 유용한 플러그인을 챗봇 기능에 통합하는 방법도 실습합니다.
+이 실습 과정을 통해서 Azure AI와 Semantic Kernel 플러그인 생태계를 활용하여 확장 가능하고 지능적인 RAG 솔루션을 구축하는 실전 경험을 얻게 됩니다.
 
-<!-- ### Day 5: Smart Escalation System for Conversational Support
-​In this challenge, you'll work with a Chainlit-based application that utilizes Dapr's publish-subscribe messaging to manage customer service escalations through AI agents. The solution integrates Azure services such as OpenAI, Cosmos DB, and Service Bus to provide intelligent and scalable interactions. When AI agents cannot resolve user inquiries, the system escalates the issue to a human agent via Logic Apps, which sends an approval email for further action. This hands-on experience demonstrates how conversational interfaces, event-driven architecture, and AI-powered workflows can be combined to enhance customer support.  -->
+### 4일차: Azure AI Foundry를 활용한 AI 애플리케이션 개발
+이번 실습은 모델 평가(Evaluation) 및 미세 조정(fine-tuning)을 수행할 때 필요한 역량을 향상시키고 싶은 AI 개발자, 데이터 과학자, AI 엔지니어 및 클라우드 엔지니어를 대상으로 합니다. 참가자는 Azure AI Foundry의 Prompt Flow를 활용하여 사용자 정의 AI 모델을 개발하고, 그 성능을 평가하며, 결과를 개선하기 위한 조정 과정을 실습하게 됩니다.
+또한 챗 플로우(chat flow)와 필수 도구의 통합 방법, 콘텐츠 안전 조치를 통한 책임 있는 AI 구현 방안에 대해서도 다룹니다.
 
-## Getting Started with the lab
+<!-- ### 5일차: 대화형 지원을 위한 스마트 업무 이관(Escalation) 시스템
+이번 도전과제는 Chainlit 기반 애플리케이션을 활용하여, Dapr의 발행-구독(pub/sub) 메시징을 통해 고객 서비스 이슈를 AI 에이전트를 이용해 관리하는 방법을 실습합니다. 이 솔루션은 Azure OpenAI, Cosmos DB, Service Bus 등 다양한 Azure 서비스를 통합하여 지능적이고 확장 가능한 상호작용을 제공합니다.
+AI 에이전트가 사용자 문의를 해결하지 못할 경우, 시스템은 Logic Apps를 통해 이슈를 사람 상담원에게 업무를 이관하며, 추가 조치를 위한 승인 이메일을 전송합니다.이번 실습을 통해 대화형 인터페이스, 이벤트 기반 아키텍처, 그리고 AI 기반 워크플로우를 결합하여 고객 지원을 향상시키는 방법을 체험하게 됩니다. -->
 
-Welcome to your Azure Agentic AI Workshop, Let's begin by making the most of this experience:
+## 실습 시작하기
 
-## Accessing Your Lab Environment
+Agentic AI Accelerator 워크숍에 오신 것을 환영합니다. 이번 워크숍을 통해 소중한한 경험을 얻으시길 기원하며 본격적으로 시작해 보겠습니다. 
 
-Once you're ready to dive in, your virtual machine and **Guide** will be right at your fingertips within your web browser.
+## 실습 환경 접속
 
-![Access Your VM and Lab Guide](Day-2-Azure-AI-Agents/media/LabVMEng.png)
+랩 환경에 접속하면 웹 브라우저 내에서 **가상 머신**과 **가이드**를 사용할 수 있습니다.
 
-## Lab Guide Zoom In/Zoom Out
+![Access Your VM and Lab Guide](./media/LabVMKor.png)
 
-To adjust the zoom level for the environment page, click the **A↕ : 100%** icon located next to the timer in the lab environment.
+## 실습 가이드 확대/축소
+
+실습 환경을 확대하거나 축소하려면, 실습 환경 타이머 옆에 있는 **A↕** 아이콘을 클릭하세요.
 
 ![](Day-2-Azure-AI-Agents/media/agg2.png)
 
-## Virtual Machine & Lab Guide
+## 가상 머신과 실습 가이드
 
-Your virtual machine is your workhorse throughout the workshop. The lab guide is your roadmap to success.
+가상 머신은 워크숍 내내 사용하는 작업 도구이며, 실습 가이드는 성공을 위한 로드맵입니다.
 
-## Exploring Your Lab Resources
+## 실습 리소스 살펴보기
 
-To get a better understanding of your lab resources and credentials, navigate to the **Environment** tab.
+**환경** 탭을 이용하면 실습 리소스와 자격 증명에 대한 정보를 자세히 살펴볼 수 있습니다. 
 
-![Explore Lab Resources](Day-2-Azure-AI-Agents/media/agg3.png)
+![Access Your VM and Lab Guide](./media/env-k.png)
 
-## Utilizing the Split Window Feature
+## 창 분할 기능 활용하기
 
-For convenience, you can open the lab guide in a separate window by selecting the **Split Window** button from the Top right corner.
+오른쪽 상단에 있는 **창 분할** 버튼을 클릭하면 실습 가이드를 별도의 창에서 열 수 있어 편리합니다.
 
-![Use the Split Window Feature](Day-2-Azure-AI-Agents/media/agg4.png)
+   ![Access Your VM and Lab Guide](./media/gettingstarted7.png)
 
-## Managing Your Virtual Machine
 
-Feel free to **start, stop, or restart (2)** your virtual machine as needed from the **Resources (1)** tab. Your experience is in your hands!
+## 가상 머신 관리하기
 
-![Manage Your Virtual Machine](Day-2-Azure-AI-Agents/media/agg5.png)
+**자원 (1)** 탭을 이용하면 가상 머신을 자유롭게 **시작, 중지 또는 다시 시작(2)** 하실 수 있습니다. 여러분이 원하는대로 작업할 수 있습니다!
 
-<!-- ## Lab Duration Extension
+![Access Your VM and Lab Guide](./media/gettingstarted.2.png)
 
-1. To extend the duration of the lab, kindly click the **Hourglass** icon in the top right corner of the lab environment.
+
+<!-- ## 실습 시간 연장하기
+
+1. 실습 환경의 오른쪽 상단에 있는 **모래시계** 아이콘을 클릭하면 실습 시간을 연장할 수 있습니다.
 
     ![Manage Your Virtual Machine](Day-2-Azure-AI-Agents/media/gext.png)
 
-    >**Note:** You will get the **Hourglass** icon when 10 minutes are remaining in the lab.
+    >**참고**: 실습 종료 10분 전이 되어야 **모래시계** 아이콘이 나타납니다.
 
-2. Click **OK** to extend your lab duration.
+1. 실습 시간을 연장하려면 **확인** 버튼을 클릭하세요.
 
    ![Manage Your Virtual Machine](Day-2-Azure-AI-Agents/media/gext2.png)
 
-3. If you have not extended the duration prior to when the lab is about to end, a pop-up will appear, giving you the option to extend. Click **OK** to proceed. -->
+1. 만약 실습 종료 직전까지 시간을 연장하지 않은 경우, 팝업 창이 나타나며 연장 옵션을 제공합니다. 이때도 **확인** 버튼을 눌러 진행하시면 됩니다. -->
 
-> **Note:** Please ensure the script continues to run and is not terminated after accessing the environment.
+> **참고:** 실습 환경에 접속한 직후에는 스크립트가 중단되지 않고 계속 실행 될 수 있도록 가상 머신을 유지해 주세요.
 
-## Let's Get Started with Azure Portal
+## Auzre 포털 시작하기
 
-1. On your virtual machine, click on the Azure Portal icon.
-2. You'll see the **Sign into Microsoft Azure** tab. Here, enter your credentials:
+1. 가상 머신에서 **Azure Portal** 아이콘을 클릭합니다.
+
+1. **Microsoft Azure에 로그인** 탭이 열리면, 아래의 자격 증명을 입력합니다:
 
    - **Email/Username:** <inject key="AzureAdUserEmail"></inject>
 
-     ![Enter Your Username](Day-2-Azure-AI-Agents/media/gt-5.png)
+      ![Access Your VM and Lab Guide](./media/gettingstarted5.png)
 
-3. Next, provide your password:
+
+1. 다음으로 비밀번호를 입력합니다.
 
    - **Password:** <inject key="AzureAdUserPassword"></inject>
 
-     ![Enter Your Password](Day-2-Azure-AI-Agents/media/gt-4.png)
+     ![Access Your VM and Lab Guide](./media/gettingstarted6.png)
 
-4. If **Action required** pop-up window appears, click on **Ask later**.
-5. If prompted to **stay signed in**, you can click **No**.
-6. If a **Welcome to Microsoft Azure** pop-up window appears, simply click **"Cancel"** to skip the tour.
 
-## Steps to Proceed with MFA Setup if "Ask Later" Option is Not Visible
+1. **작업 필요** 팝업 창이 나타나면 **나중에 묻기** 를 클릭합니다.
 
-1. At the **"More information required"** prompt, select **Next**.
+1. **Microsoft Azure에 오신 것을 환영합니다** 라는 팝업이 나타나면, **취소**를 클릭하여 투어를 생략합니다.`
 
-1. On the **"Keep your account secure"** page, select **Next** twice.
+## **나중에 묻기** 옵션이 보이지 않을 때, 다단계 인증(MFA) 설정을 계속 진행하는 방법
 
-1. **Note:** If you don’t have the Microsoft Authenticator app installed on your mobile device:
+1. "추가 정보가 필요합니다" 메시지가 표시되면, **다음**을 클릭합니다.
 
-   - Open **Google Play Store** (Android) or **App Store** (iOS).
-   - Search for **Microsoft Authenticator** and tap **Install**.
-   - Open the **Microsoft Authenticator** app, select **Add account**, then choose **Work or school account**.
+1. "계정을 더 안전하게 보호하세요" 페이지가 나타나면, **다음**을 두 번 클릭합니다.
 
-1. A **QR code** will be displayed on your computer screen.
+1. **참고:** 휴대폰에 Microsoft Authenticator 앱이 설치되어 있지 않다면 아래 단계를 따르세요:
+   - **Play 스토어**(Android)나 **App Store(iOS)**를 엽니다.
+   - **Microsoft Authenticator**를 검색하여 **설치**를 선택합니다.
+   - **Microsoft Authenticator** 앱을 열고, **계정 추가** 선택 후, **회사 또는 학교 계정**을 선택합니다.
 
-1. In the Authenticator app, select **Scan a QR code** and scan the code displayed on your screen.
+1. 컴퓨터 화면에서 **QR 코드**가 표시됩니다.
 
-1. After scanning, click **Next** to proceed.
+1. **Microsoft Authenticator** 앱 내에서, **QR 코드 스캔**을 선택하고, 화면에 표시된 QR 코드를 스캔합니다.
 
-1. On your phone, enter the number shown on your computer screen in the Authenticator app and select **Next**.
-1. If prompted to stay signed in, you can click "No."
+1. 스캔이 완료되면, 컴퓨터에서 **다음**을 선택하여 진행합니다.
 
-1. If a **Welcome to Microsoft Azure** pop-up window appears, simply click "Maybe Later" to skip the tour.
+1. 휴대폰에서 컴퓨터 화면에 표시된 숫자를 입력하고 **다음**을 선택합니다.
 
-## Support Contact
+1. "로그인을 유지하시겠습니까?" 메시지가 뜨면, **아니오**를 클릭해도 무방합니다.
 
-The CloudLabs support team is available 24/7, 365 days a year, via email and live chat to ensure seamless assistance at any time. We offer dedicated support channels tailored specifically for both learners and instructors, ensuring that all your needs are promptly and efficiently addressed.
+1. **Microsoft Azure에 오신 것을 환영합니다** 창이 팝업되면, **나중에 묻기**를 클릭하여 투어를 건너뜁니다.
 
-Learner Support Contacts:
+## 지원 문의처
 
-- Email Support: [cloudlabs-support@spektrasystems.com](mailto:cloudlabs-support@spektrasystems.com)
-- Live Chat Support: https://cloudlabs.ai/labs-support
+CloudLabs 지원팀은 연중무휴 24시간 이메일 및 실시간 채팅을 통해 언제든지 원활한 지원을 제공합니다. 학습자와 강사를 위한 전용 지원 채널을 운영하여, 각 사용자에 맞춤화된 신속하고 효율적인 지원을 보장합니다.
 
-Click **Next** from the bottom right corner to embark on your Lab journey!
+학습자 지원 문의처:
 
-![Start Your Azure Journey](Day-2-Azure-AI-Agents/media/agg6.png)
+- 이메일 지원: [cloudlabs-support@spektrasystems.com](mailto:cloudlabs-support@spektrasystems.com)
+- 실시간 채팅 지원: https://cloudlabs.ai/labs-support
 
-Now you're all set to explore the powerful world of technology. Feel free to reach out if you have any questions along the way. Enjoy your workshop!
+오른쪽 하단에 있는 **다음** 버튼을 클릭하여 실습을 시작하세요!
+
+![Access Your VM and Lab Guide](./media/gettingstarted8.png)
+
+
+이제 강력한 기술의 세계를 탐험할 준비가 모두 완료되었습니다. 진행 중 궁금한 점이 있다면 언제든지 문의해 주세요. 즐거운 워크숍이 되시기 바랍니다!
+
