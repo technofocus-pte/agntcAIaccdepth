@@ -1,140 +1,124 @@
-# agntcAIaccdepth
-Agentic AI Accelerator Workshop
-This hands-on workshop series is designed to help you deepen your skills in AI-driven development, automation, and building intelligent applications using Microsoft Copilot Studio and Azure AI services. Each day offers practical, guided experiences—from designing AI agents to deploying full-scale AI solutions. By the end of this workshop, you'll walk away with hands-on expertise in creating scalable, intelligent solutions that boost employee engagement, streamline business operations, and enhance customer experiences.
+# Taller de Agentic AI Accelerator 
 
-## Objectives
-- Learn to design and deploy AI agents with Microsoft Copilot Studio and Azure AI services.
-- Gain hands-on experience in multi-agent orchestration using the Azure AI Agent Service SDK and Semantic Kernel.
-- Build custom Retrieval-Augmented Generation (RAG) applications with Azure AI Foundry and integrate Semantic Kernel plugins.
-- Evaluate, fine-tune, and deploy AI models using Prompt Flow for real-world use cases.
-- Construct intelligent escalation systems using conversational interfaces, event-driven architecture, and AI-powered workflows.
+## Descripción general
+Esta serie de talleres prácticos está diseñada para ayudarte a profundizar tus habilidades en el desarrollo impulsado por IA, automatización y la creación de aplicaciones inteligentes utilizando Microsoft Copilot Studio y los servicios de Azure AI. Cada día ofrece experiencias prácticas y guiadas: desde el diseño de agentes de IA hasta el despliegue de soluciones de IA a gran escala. Al finalizar este taller, tendrás experiencia práctica en la creación de soluciones escalables e inteligentes que mejoran el compromiso de los empleados, optimizan las operaciones empresariales y potencian la experiencia del cliente.
 
-## Day-by-Day Breakdown:
+## Objetivos
+- Aprender a diseñar y desplegar agentes de IA con Microsoft Copilot Studio y servicios de Azure AI.
+- Obtener experiencia práctica en la orquestación multiagente usando Azure AI Agent Service SDK y Semantic Kernel.
+- Construir aplicaciones personalizadas de Recuperación Aumentada de Generación (RAG) con Azure AI Foundry e integrar plugins de Semantic Kernel.
+- Evaluar, ajustar y desplegar modelos de IA usando Prompt Flow para casos de uso reales.
+- Construir sistemas inteligentes de escalamiento utilizando interfaces conversacionales, arquitectura orientada a eventos y flujos de trabajo potenciados por IA.
 
-### Day 1: Build Agents with Copilot Studio
-This hands-on lab offers you how to use Microsoft 365 Copilot and Copilot Studio to enhance the employee experience through AI-driven creativity and automation. You'll create visual content, streamline employee transitions, automate onboarding, and implement recognition systems to boost engagement and productivity.
+## Resumen día a día:
 
-### Day 2: Azure AI Agents
-This hands-on lab offers a comprehensive introduction to building AI agents using the Azure AI Agent Service SDK and Semantic Kernel. You will begin by creating AI agents with the Azure AI Agent Service and leveraging Semantic Kernel to orchestrate them in a multi-agent system. Throughout the lab, you will explore techniques for agent collaboration, automation, and task execution. By the end of this experience, you will have hands-on expertise in designing, deploying, and managing AI agents to build intelligent, scalable, and efficient AI-driven applications.
+### Día 1: Construye agentes con Copilot Studio
+Este laboratorio práctico te enseña cómo usar Microsoft 365 Copilot y Copilot Studio para mejorar la experiencia del empleado mediante creatividad y automatización impulsadas por IA. Crearás contenido visual, optimizarás transiciones de empleados, automatizarás la incorporación y pondrás en marcha sistemas de reconocimiento para aumentar el compromiso y la productividad.
 
-### Day 3: Developing a Custom RAG App Using Azure AI Foundry and Explore Semantic Kernel
-This hands-on lab offers a practical introduction to building a custom Retrieval-Augmented Generation (RAG) application using the Azure AI Foundry SDK. You'll start by provisioning the necessary Azure resources and configuring the AI Foundry environment. From there, you will implement an end-to-end RAG pipeline that indexes and retrieves relevant data to enrich AI-generated responses.
-As part of the lab, you’ll also explore the integration of Semantic Kernel to create dynamic, prompt-based interactions and incorporate useful plugins—such as time and weather utilities—to extend your chatbot’s functionality.
-By the end of the session, you will have hands-on experience in building a scalable RAG solution that harnesses the power of Azure AI and the Semantic Kernel plugin ecosystem for advanced knowledge retrieval and intelligent response generation.
+### Día 2: Agentes de Azure AI
+Este laboratorio práctico ofrece una introducción completa a la construcción de agentes de IA utilizando Azure AI Agent Service SDK y Semantic Kernel. Comenzarás creando agentes de IA con Azure AI Agent Service y aprovechando Semantic Kernel para orquestarlos en un sistema multiagente. A lo largo del laboratorio, explorarás técnicas para la colaboración, automatización y ejecución de tareas entre agentes. Al finalizar, tendrás experiencia práctica en el diseño, despliegue y gestión de agentes de IA para construir aplicaciones inteligentes, escalables y eficientes.
 
-### Day 4: Developing AI Applications with Azure AI Foundry
-This hands-on lab is intended for AI developers, data scientists, AI Enthusiasts, Cloud Engineers, AI Engineers, aiming to enhance their skills in model evaluation and fine-tuning using Azure AI Foundry Prompt Flow. Participants will gain practical experience in developing custom AI models, evaluating their performance, and refining them for better results. The lab also addresses the integration of chat flows and essential tools, ensuring responsible AI practices through content safety measures.
+### Día 3: Desarrollo de una aplicación RAG personalizada usando Azure AI Foundry y exploración de Semantic Kernel
+Este laboratorio práctico ofrece una introducción a la construcción de una aplicación personalizada de Recuperación Aumentada de Generación (RAG) usando Azure AI Foundry SDK. Comenzarás aprovisionando los recursos necesarios de Azure y configurando el entorno de AI Foundry. Después, implementarás un pipeline RAG de extremo a extremo que indexa y recupera datos relevantes para enriquecer las respuestas generadas por IA.
+Como parte del laboratorio, también explorarás la integración de Semantic Kernel para crear interacciones dinámicas basadas en prompts e incorporar plugins útiles—como utilidades de tiempo y clima—para extender la funcionalidad de tu chatbot.
+Al final de la sesión, tendrás experiencia práctica en la construcción de una solución RAG escalable que aprovecha el poder de Azure AI y el ecosistema de plugins de Semantic Kernel para una recuperación avanzada de conocimiento y generación inteligente de respuestas.
 
-<!-- ### Day 5: Smart Escalation System for Conversational Support
-​In this challenge, you'll work with a Chainlit-based application that utilizes Dapr's publish-subscribe messaging to manage customer service escalations through AI agents. The solution integrates Azure services such as OpenAI, Cosmos DB, and Service Bus to provide intelligent and scalable interactions. When AI agents cannot resolve user inquiries, the system escalates the issue to a human agent via Logic Apps, which sends an approval email for further action. This hands-on experience demonstrates how conversational interfaces, event-driven architecture, and AI-powered workflows can be combined to enhance customer support.  -->
+### Día 4: Desarrollo de aplicaciones de IA con Azure AI Foundry
+Este laboratorio práctico está dirigido a desarrolladores de IA, científicos de datos, entusiastas de IA, ingenieros de la nube e ingenieros de IA que buscan mejorar sus habilidades en evaluación y ajuste de modelos usando Azure AI Foundry Prompt Flow. Los participantes obtendrán experiencia práctica en el desarrollo de modelos de IA personalizados, evaluando su rendimiento y refinándolos para mejores resultados. El laboratorio también aborda la integración de flujos conversacionales y herramientas esenciales, asegurando prácticas responsables de IA mediante medidas de seguridad de contenido.
 
-## Getting Started with the lab
+## Comenzando con el laboratorio
 
-Welcome to your Azure Agentic AI Workshop, Let's begin by making the most of this experience:
+Bienvenido a tu Taller de Azure Agentic AI. Comencemos para aprovechar al máximo esta experiencia:
 
-## Accessing Your Lab Environment
+## Acceso a tu entorno de laboratorio
 
-Once you're ready to dive in, your virtual machine and **Guide** will be right at your fingertips within your web browser.
+Cuando estés listo para comenzar, tu máquina virtual y la **guía del laboratorio** estarán disponibles directamente en tu navegador web.
 
-![Access Your VM and Lab Guide](Day-2-Azure-AI-Agents/media/LabVMEng.png)
+![Accede a tu VM y Guía del Laboratorio](Day-2-Azure-AI-Agents/media/LabVMEs.png)
 
-## Lab Guide Zoom In/Zoom Out
+## Zoom de la guía del laboratorio
 
-To adjust the zoom level for the environment page, click the **A↕ : 100%** icon located next to the timer in the lab environment.
+Para ajustar el nivel de zoom de la página del entorno, haz clic en el icono **A↕ : 100%** ubicado junto al temporizador en el entorno del laboratorio.
 
 ![](Day-2-Azure-AI-Agents/media/agg2.png)
 
-## Virtual Machine & Lab Guide
+## Máquina virtual y guía del laboratorio
 
-Your virtual machine is your workhorse throughout the workshop. The lab guide is your roadmap to success.
+Tu máquina virtual será tu herramienta principal durante el taller. La guía del laboratorio es tu hoja de ruta hacia el éxito.
 
-## Exploring Your Lab Resources
+## Explorando tus recursos del laboratorio
 
-To get a better understanding of your lab resources and credentials, navigate to the **Environment** tab.
+Para comprender mejor tus recursos y credenciales del laboratorio, navega a la pestaña **Environment**.
 
-![Explore Lab Resources](Day-2-Azure-AI-Agents/media/agg3.png)
+![Explora los recursos del laboratorio](Day-2-Azure-AI-Agents/media/agg3.png)
 
-## Utilizing the Split Window Feature
+## Uso de la función de ventana dividida
 
-For convenience, you can open the lab guide in a separate window by selecting the **Split Window** button from the Top right corner.
+Para mayor comodidad, puedes abrir la guía del laboratorio en una ventana separada seleccionando el botón **Split Window** en la esquina superior derecha.
 
-![Use the Split Window Feature](Day-2-Azure-AI-Agents/media/agg4.png)
+![Usa la función de ventana dividida](Day-2-Azure-AI-Agents/media/agg4.png)
 
-## Managing Your Virtual Machine
+## Gestión de tu máquina virtual
 
-Feel free to **start, stop, or restart (2)** your virtual machine as needed from the **Resources (1)** tab. Your experience is in your hands!
+Puedes **iniciar, detener o reiniciar (2)** tu máquina virtual según sea necesario desde la pestaña **Resources (1)**. ¡Tu experiencia está en tus manos!
 
-![Manage Your Virtual Machine](Day-2-Azure-AI-Agents/media/agg5.png)
+![Gestiona tu máquina virtual](Day-2-Azure-AI-Agents/media/agg5.png)
 
-<!-- ## Lab Duration Extension
+> **Nota:** Asegúrate de que el script continúe ejecutándose y no se termine después de acceder al entorno.
 
-1. To extend the duration of the lab, kindly click the **Hourglass** icon in the top right corner of the lab environment.
+## Comencemos con Azure Portal
 
-    ![Manage Your Virtual Machine](Day-2-Azure-AI-Agents/media/gext.png)
-
-    >**Note:** You will get the **Hourglass** icon when 10 minutes are remaining in the lab.
-
-2. Click **OK** to extend your lab duration.
-
-   ![Manage Your Virtual Machine](Day-2-Azure-AI-Agents/media/gext2.png)
-
-3. If you have not extended the duration prior to when the lab is about to end, a pop-up will appear, giving you the option to extend. Click **OK** to proceed. -->
-
-> **Note:** Please ensure the script continues to run and is not terminated after accessing the environment.
-
-## Let's Get Started with Azure Portal
-
-1. On your virtual machine, click on the Azure Portal icon.
-2. You'll see the **Sign into Microsoft Azure** tab. Here, enter your credentials:
+1. En tu máquina virtual, haz clic en el icono de Azure Portal.
+2. Verás la pestaña **Sign into Microsoft Azure**. Aquí, ingresa tus credenciales:
 
    - **Email/Username:** <inject key="AzureAdUserEmail"></inject>
 
-     ![Enter Your Username](Day-2-Azure-AI-Agents/media/gt-5.png)
+     ![Ingresa tu usuario](Day-2-Azure-AI-Agents/media/gt-5.png)
 
-3. Next, provide your password:
+3. Luego, proporciona tu contraseña:
 
    - **Password:** <inject key="AzureAdUserPassword"></inject>
 
-     ![Enter Your Password](Day-2-Azure-AI-Agents/media/gt-4.png)
+     ![Ingresa tu contraseña](Day-2-Azure-AI-Agents/media/gt-4.png)
 
-4. If **Action required** pop-up window appears, click on **Ask later**.
-5. If prompted to **stay signed in**, you can click **No**.
-6. If a **Welcome to Microsoft Azure** pop-up window appears, simply click **"Cancel"** to skip the tour.
+4. Si aparece la ventana emergente **Action required**, haz clic en **Ask later**.
+5. Si se te pregunta si deseas **stay signed in**, puedes hacer clic en **No**.
+6. Si aparece la ventana emergente **Welcome to Microsoft Azure**, simplemente haz clic en **Cancel** para omitir el tour.
 
-## Steps to Proceed with MFA Setup if "Ask Later" Option is Not Visible
+## Pasos para configurar MFA si no ves la opción "Ask Later"
 
-1. At the **"More information required"** prompt, select **Next**.
+1. En el mensaje **More information required**, selecciona **Next**.
 
-1. On the **"Keep your account secure"** page, select **Next** twice.
+1. En la página **Keep your account secure**, selecciona **Next** dos veces.
 
-1. **Note:** If you don’t have the Microsoft Authenticator app installed on your mobile device:
+1. **Nota:** Si no tienes la aplicación Microsoft Authenticator instalada en tu dispositivo móvil:
 
-   - Open **Google Play Store** (Android) or **App Store** (iOS).
-   - Search for **Microsoft Authenticator** and tap **Install**.
-   - Open the **Microsoft Authenticator** app, select **Add account**, then choose **Work or school account**.
+   - Abre **Google Play Store** (Android) o **App Store** (iOS).
+   - Busca **Microsoft Authenticator** y toca **Install**.
+   - Abre la aplicación **Microsoft Authenticator**, selecciona **Add account** y luego elige **Work or school account**.
 
-1. A **QR code** will be displayed on your computer screen.
+1. Se mostrará un **código QR** en la pantalla de tu computadora.
 
-1. In the Authenticator app, select **Scan a QR code** and scan the code displayed on your screen.
+1. En la aplicación Authenticator, selecciona **Scan a QR code** y escanea el código mostrado en tu pantalla.
 
-1. After scanning, click **Next** to proceed.
+1. Después de escanear, haz clic en **Next** para continuar.
 
-1. On your phone, enter the number shown on your computer screen in the Authenticator app and select **Next**.
-1. If prompted to stay signed in, you can click "No."
+1. En tu teléfono, ingresa el número mostrado en la pantalla de tu computadora en la aplicación Authenticator y selecciona **Next**.
+1. Si se te pregunta si deseas mantener la sesión iniciada, puedes hacer clic en "No".
 
-1. If a **Welcome to Microsoft Azure** pop-up window appears, simply click "Maybe Later" to skip the tour.
+1. Si aparece la ventana emergente **Welcome to Microsoft Azure**, simplemente haz clic en "Maybe Later" para omitir el tour.
 
-## Support Contact
+## Contacto de soporte
 
-The CloudLabs support team is available 24/7, 365 days a year, via email and live chat to ensure seamless assistance at any time. We offer dedicated support channels tailored specifically for both learners and instructors, ensuring that all your needs are promptly and efficiently addressed.
+El equipo de soporte de CloudLabs está disponible 24/7, los 365 días del año, por correo electrónico y chat en vivo para garantizar asistencia en cualquier momento. Ofrecemos canales de soporte dedicados tanto para estudiantes como para instructores, asegurando que todas tus necesidades sean atendidas de manera rápida y eficiente.
 
-Learner Support Contacts:
+Contactos de soporte para estudiantes:
 
-- Email Support: [cloudlabs-support@spektrasystems.com](mailto:cloudlabs-support@spektrasystems.com)
-- Live Chat Support: https://cloudlabs.ai/labs-support
+- Soporte por correo: [cloudlabs-support@spektrasystems.com](mailto:cloudlabs-support@spektrasystems.com)
+- Soporte por chat en vivo: https://cloudlabs.ai/labs-support
 
-Click **Next** from the bottom right corner to embark on your Lab journey!
+Haz clic en **Next** en la esquina inferior derecha para comenzar tu experiencia en el laboratorio.
 
-![Start Your Azure Journey](Day-2-Azure-AI-Agents/media/agg6.png)
+![Comienza tu viaje en Azure](Day-2-Azure-AI-Agents/media/agg6.png)
 
-Now you're all set to explore the powerful world of technology. Feel free to reach out if you have any questions along the way. Enjoy your workshop!
+¡Ahora estás listo para explorar el poderoso mundo de la tecnología! No dudes en pedir ayuda si tienes preguntas durante el camino. ¡Disfruta tu taller!
