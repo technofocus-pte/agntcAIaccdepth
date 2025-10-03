@@ -7,6 +7,71 @@ In this lab, you will explore the lifecycle of developing AI applications using 
 
 In this lab, you will perform the following:
 - Task 1: Comprehend the Flow Development Lifecycle
+
+## Setting up the Prerequisite Resources
+
+
+1. On the Azure Portal page +++https://portal.azure.com+++, in the Search resources box at the top of the portal, enter Azure AI Foundry, and then select Azure AI Foundry under Services.
+
+
+2. In the left navigation pane for the AI Foundry, select **AI Hubs**. On the AI Hubs page, click on **Create** and select **Hub** from the drop-down.
+
+
+3. On the **Create an Azure AI hub** pane enter the following details:
+   - Subscription : **Leave default subscription**
+   - Resource Group :  **AgenticAI**
+   - Region : **EastUS**
+   - Name : +++ai-foundry-hub@lab.LabInstance.Id+++ 
+   - Connect AI Services incl. OpenAI : Click on **Create New**
+   - Connect AI Services incl. OpenAI : Provide a name +++my-ai-service@lab.LabInstance.Id+++  
+   - Click on **Save**, followed by **Next:Storage**
+
+   
+4. Click on **Review + Create** tab followed by **Create.**
+  
+5. Wait for the deployment is completed and then click on **Go to resource**.
+
+6. On the Overview pane, click on **Launch Azure AI Foundry**. This will navigate you to the Azure AI Foundry portal..
+
+7. Select **+ New project** on the Hub Overview.
+
+8. Provide the project name as +++ai-foundry-project@lab.LabInstance.Id+++ then select **Create**.
+
+
+1. In your **AI Foundry project**, navigate to the **My assets** section, then select **Models + endpoints**. Click **Deploy model**, and choose **Deploy base model** to proceed.
+
+1. On a **Select a model** window, search for **gpt-4o**, select **gpt-4o** and select **Confirm**
+
+
+1. On **Deploy model gpt-4o** window, select **Customize**.
+
+
+      - Deployment Name: **gpt-4o**
+      - Deployment type: **Global Standard**
+      - Change the **Model version to 2024-08-06 (Default)**
+      - Change the Tokens per Minute Rate Limit to **200K**
+      - Click on **Deploy (5)**
+
+1. Navigate back to **Azure Portal** and search for **Open AI** and select **Azure Open AI** resource.
+
+
+1. On the **AI Foundry | Azure OpenAI** page, select **+ Create** to create Azure OpenAI resource.
+
+
+1. On **Create Azure OpenAI** page, provide the following settings and select **Next (6)**:
+
+      | Setting | Value | 
+      | --- | --- |
+      | Subscription | Keep the default subscription |
+      | Resource group | **AgenticAI** |
+      | Region | **East US** |
+      | Name | +++my-openai-service@lab.LabInstance.Id+++ |
+      | Pricing tier | **Standard S0** |
+
+
+1. Select **Next** until Review + submit tab appears.
+
+1. On the **Review + submit** page, select **Create**
   
 ### Task 1: Comprehend the Flow Development Lifecycle (READ ONLY)
 

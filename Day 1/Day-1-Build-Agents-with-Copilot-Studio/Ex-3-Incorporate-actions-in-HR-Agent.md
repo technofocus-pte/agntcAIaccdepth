@@ -24,19 +24,19 @@ In this task, you are going to create an agent to help employees submit nominati
    https://copilotstudio.microsoft.com/
    ```
 
-   >**Nato:** Please avoid refreshing the page, as it may take some time for Copilot Studio to load. Sometimes, especially on the first launch, it can take 10–15 minutes to load due to backend dynamics on Microsoft's side.
+   >**Note:** Please avoid refreshing the page, as it may take some time for Copilot Studio to load. Sometimes, especially on the first launch, it can take 10–15 minutes to load due to backend dynamics on Microsoft's side.
    
-3. In the pop-up window that appears click on **Start Free Trial**.
+3. Sign in.
 
-   ![](media/trail.png)   
+  
 
 4. In the **Copilot Studio**, from the left pane select **+ Create** **(1)** and click on **+ New agent** **(2)**.
 
-   ![](media/pre-15.png)
+    ![image](media/pre-15.png)
 
 5. In the New Agent, Select **Skip to Configure**.
 
-    ![](media/pre-16.png)
+    ![image](media/pre-16.png)
 
 6. Enter the following details to configure the agent and click on the **Create** button **(4)**.
 
@@ -56,15 +56,15 @@ In this task, you are going to create an agent to help employees submit nominati
         View Nominations: Implement the view Nominations function to provide users with an organized view of all submitted nominations. This function will ensure transparency and easy tracking of the nomination process, allowing users to monitor the status and progress of each nomination.
         ```
 
-        ![](media/pre-17.png)
+        ![image](media/pre-17.png)
 
 7. In the copilot studio, scroll to the top, click on **Topics** **(1)**, then select **All** **(2)** and select **Conversation Start** **(3)**.
 
-    ![](media/pre-18.png)
+    ![image](media/pre-18.png)
 
 8. In the **Conversation Start** Workflow, select on **Change trigger** **(1)** under Trigger node, and change the trigger to **Event received** **(2)**.  
 
-    ![](media/pre-19.png)
+    ![image](media/pre-19.png)
 
 9. Click on the area under the **Message** node, and replace the message as below:
 
@@ -72,11 +72,11 @@ In this task, you are going to create an agent to help employees submit nominati
     Hello, I'm Nomination Agent, a virtual assistant. I am here to help you submit a nomination, generate a Nomination Summary, view Recognition, and view Nomination. Before going for any other action, please submit a nomination.
     ```
 
-    ![](media/pre-20.png)
+    ![image](media/pre-20.png)
 
 10. Under the **Message** node, click **Add Node** **(1)**, and then choose **Ask a question** **(2)**.
 
-    ![](media/pre-21.png)
+    ![image](media/pre-21.png)
 
 11. On the **Ask a question** node. Enter the following details and click on **Save** **(7)**.
     - Enter **Do you want to submit a nomination?**  **(1)** in the message box,
@@ -84,7 +84,7 @@ In this task, you are going to create an agent to help employees submit nominati
     - Click on **Var1** **(5)** under Save user response as and change the Usage to **Global(any topic can access)** **(6)**.
     
     
-      ![image](media/pre-22.png)
+    ![image](media/pre-22.png)
 
 12. Under the **Ask a question** node, click on **Add Node** **(1)**, then choose **Ask with adaptive Card** **(2)**.
 
@@ -93,17 +93,17 @@ In this task, you are going to create an agent to help employees submit nominati
 
 13. In the **Ask with adaptive Card** node, Click on ellipses **(...) (1)** and Select **Properties(2)**. 
 
-    ![](media/day1ex3-001.png)
+    ![image](media/day1ex3-001.png)
 
 
 14. Click on the **Edit adaptive card** option.
 
-    ![](media/day1ex3-002.png)
+    ![image](media/day1ex3-002.png)
 
 
 15. Inside the **Card payload editor**. Replace the below provided **JSON script** **(1)**. and click on **Save (2)** and than on **Close**.
 
-    ![](media/day1ex3-003.png)
+    ![image](media/day1ex3-003.png)
 
     ```json
     {
@@ -202,7 +202,7 @@ In this task, you are going to create an agent to help employees submit nominati
 
     ![image](media/lab3img2.jpg)
 
-    ![](media/pre-25.png)
+    ![image](media/pre-25.png)
 
 17. Under the **Ask with adaptive Card** node, click on **Add Node** **(1)**, then select **Add an action** **(2)**, and then choose **New Agent Flow**  **(3)**. 
 
@@ -210,24 +210,24 @@ In this task, you are going to create an agent to help employees submit nominati
 
 18. In Agent flows under Designer tab.  Click on **Save draft**.
 
-    ![](media/day1ex3-005.png)
+    ![image](media/day1ex3-005.png)
 
 
 19. Click on **Flows**(1) tab and click on **Edit agent flow** (2).
 
-    ![](media/day1ex3-006.png)
+    ![image](media/day1ex3-006.png)
 
 20. Click on **Overview**(1) tab and click on **Edit** (2).
 
-    ![](media/day1ex3-007.png)
+    ![image](media/day1ex3-007.png)
 
 21. Enter **NominationFlow**(1) in the Flow name field and click on **Save**(2).  
 
-    ![](media/day1ex3-008.png)
+    ![image](media/day1ex3-008.png)
 
 22. Click on **Designer (1)**  tab and Click on **When an agent calls the flow** **(2)** node, under **Parameters** session click on **+ Add an Input** , select **Text** **(3)**, enter the **Title** **(4)** in the text box.
 
-    ![](media/day1ex3-009.png)
+    ![image](media/day1ex3-009.png)
 
 23. Repeat the steps click on **+ Add an Input** **(1)**, select **Text** **(2)**, enter the following **Parameters**
 
@@ -311,7 +311,7 @@ In this task, you are going to create an agent to help employees submit nominati
 
 36. Under the **Action** node, click on **Add Node** **(1)**, then choose **Send a message** **(2)**.
 
-    ![](media/pre-39.png)
+    ![image](media/pre-39.png)
 
 37. Then enter, **You have successfully submitted Nominations.** Then select **Save**.
 
@@ -327,5 +327,3 @@ After completing this lab on implementing awards and recognition using Microsoft
 
 Completed successfully the tasks below:
 - Create nomination.
- 
-

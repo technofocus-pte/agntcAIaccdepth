@@ -338,14 +338,14 @@ In this task, you will explore different flow types in Azure AI Foundry by creat
 
 In this task, you will explore different flow types in Azure AI Foundry by creating and importing the Geocoding Plugin to enable location-based functionality.
 
-1. Open a new tab in the browser and navigate to [Geocoding API](https://geocode.maps.co/) portal and click on **Free API key** button on the top.
+1. Open a new tab in the browser and navigate to +++https://geocode.maps.co/+++ portal and click on **Free API key** button on the top.
 
     ![](./media/image_057.png)
 1. Enter your details and click on **Create Account (1)**.
 
     ![](./media/image_058.png)
 
-     > **Note**: Use your personal/work E-mail or you can choose to use the Email ID from the **Environments Tab** to register.
+     > **Note**: Use your personal/work E-mail to register.
 
 1. You will receive an e-mail, click on the link in the e-mail to verify your e-mail.
 1. You will receive your free **geocoding API key**, save it notepad for further use.
@@ -861,4 +861,4 @@ Successfully completed the below tasks for extending **LLM capabilities** using 
 - Implemented **Auto Function Calling** to seamlessly chain multiple plugins together.  
 - Built and deployed **Python-based plugins** to extend AI capabilities.  
 
-## Go to the Next Lab by clicking on the navigation.
+## Congratulations.  You have completed this lab.

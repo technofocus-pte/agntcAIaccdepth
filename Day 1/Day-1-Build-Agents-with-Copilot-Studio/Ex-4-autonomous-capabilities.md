@@ -16,30 +16,30 @@ To generate a nomination summary, we are going to add a topic in our Nomination 
 
 1. In the **Nomination Agent**, click on **Topics** **(1)**, then click the **+ Add a topic** **(2)** drop-down and select **From blank** **(3)**.
 
-   ![image](media/day1ex4-001.png)
+    ![image](media/day1ex4-001.png)
 
 2. Rename the topic as **Generate Nomination Summary**.
 
-   ![](media/day1ex4-002.png)
+    ![image](media/day1ex4-002.png)
 
 
 3. Under the **Trigger** node, click **Add Node** **(1)**, and then choose **Send a message** **(2)** node.
 
-   ![](media/day1ex4-003.png)
+    ![image](media/day1ex4-003.png)
 
-   ![](media/day1ex4-004.png)
+    ![image](media/day1ex4-004.png)
 
 4. Click on the area under the **Message** node, and replace the message as below.
 
-   ```
-   I am here to generate a nomination summary from the SharePoint list named 'Nomination List'.
-   ```
+    ```
+    I am here to generate a nomination summary from the SharePoint list named 'Nomination List'.
+    ```
 
-      ![image](media/day1ex4-005.png)
+    ![image](media/day1ex4-005.png)
 
 5. Under the **Send a message** node, click **Add Node** **(1)**, and then choose **Ask a Question** **(2)** node.
 
-   ![image](media/generate-summary-06.png)
+    ![image](media/generate-summary-06.png)
 
 6. On the **Ask a question** node enter the following details and click on **Save** **(7)**.
     - Enter **Do you want to generate a nomination summary?**  **(1)** in the message box,
@@ -51,11 +51,11 @@ To generate a nomination summary, we are going to add a topic in our Nomination 
 
 7. Under the **Add a Question** node, click **Add Node** **(1)**, and then choose **Add a condition** **(2)** node.
 
-   ![image](media/generate-summary-08.png)
+    ![image](media/generate-summary-08.png)
 
 8. In the **Condition** node, click on **Select a variable** **(1)**. In the custom search bar, type **isConfirmed** **(2)**, then select **isConfirmed** **(3)**. From the **Enter or select a value** dropdown, choose **yes** **(4)**.
 
-   ![image](media/generate-summary-09.png)  
+    ![image](media/generate-summary-09.png)  
 
 9. Under the **Condition** node, click **Add Node** **(1)**, click on **Variable managemant** **(2)** and select **Set a variable value** **(3)**.
 
@@ -77,20 +77,20 @@ To generate a nomination summary, we are going to add a topic in our Nomination 
 
 13. In Agent flows under Designer tab.  Click on **Save draft**.
 
-    ![](media/day1ex3-005.png)
+    ![image](media/day1ex3-005.png)
 
 14. Click on **Overview**(1) tab and click on **Edit** (2).
 
-    ![](media/day1ex4-007.png)
+    ![image](media/day1ex4-007.png)
 
 15. Enter **SummaryFlow**(1) in the Flow name field and click on **Save**(2).
 
-    ![](media/day1ex4-008.png)
+    ![image](media/day1ex4-008.png)
 
 
 16. Click on **Designer** (1) tab and Click on **When an agent calls the flow** (2) node, under **Parameters**. Click on **+ Add an Input**, select **Text** **(3)**, enter the **Input** **(4)** in the text box. once the parameters are added, click on **Collapse** **(5)**.
 
-    ![](media/day1ex4-009.png)  
+    ![image](media/day1ex4-009.png)  
 
 17. Click on **Add action** **(1)**, below the **When an agent calls the flow**, search for the **List rows present in the table** **(2)**, and select **List rows present in the table** **(3)**.
 
@@ -203,7 +203,7 @@ To generate a nomination summary, we are going to add a topic in our Nomination 
 
 35. Under the **Action** node, click on **Add Node** **(1)**, then choose **Send a message** **(2)**.
 
-    ![](media/generate-summary-31.png)
+    ![image](media/generate-summary-31.png)
 
 36. In the **Send a message** node, enter the **below message**.
 
@@ -211,11 +211,11 @@ To generate a nomination summary, we are going to add a topic in our Nomination 
       Nomination Agent successfully sent the summary of the nomination to your email. Please check your email.
       ```
 
-       ![](media/generate-summary-32.png)
+       ![image](media/generate-summary-32.png)
 
 37. Under the **Action** node, click on **Add Node** **(1)**, then choose **Send a message** **(2)**.
 
-    ![](media/generate-summary-33.png)
+    ![image](media/generate-summary-33.png)
 
 38. In the **Send a message** node, paste or type the following message. Click on **Save** button.
 
@@ -224,20 +224,14 @@ To generate a nomination summary, we are going to add a topic in our Nomination 
     Nomination Agent
     ```
 
-    ![](media/generate-summary-34.png)
+    ![image](media/generate-summary-34.png)
    
 39. Test your topic by passing the **Generate Nomination summary** in the test chat box. Then the Agent will ask if you would like to generate a nomination summary. Select **Yes**.
 
 40. You will get a message showing "Nomination Agent successfully sent the nomination summary to your email. Please check your email." Check the email of the current user. You will see the email from the agent
    
-   ![image](media/lab3img24.jpg)
+    ![image](media/lab3img24.jpg)
 
-> **Congratulations** on completing the task! Now, it's time to validate it. Here are the steps:
-> - Hit the Validate button for the corresponding task. If you receive a success message, you can proceed to the next task.
-> - If not, carefully read the error message and retry the step, following the instructions in the lab guide. 
-> - If you need any assistance, please contact us at cloudlabs-support@spektrasystems.com. We are available 24/7 to help you out.
-
-   <validation step="3e65a795-1f40-4c17-bd3b-76977e703d44" />
 
 ### Review
 
@@ -245,4 +239,3 @@ You'll be able to manage and view nominations and recognitions, enhancing employ
 
 Completed successfully the tasks below:
 - Generate a nomination summary.
-

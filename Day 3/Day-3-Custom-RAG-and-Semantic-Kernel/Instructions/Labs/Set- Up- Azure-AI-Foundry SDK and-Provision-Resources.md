@@ -2,6 +2,77 @@
 
 In this exercise, you will set up the Azure AI Foundry SDK. This includes configuring the environment, deploying foundation models, and ensuring seamless integration with Azure AI services for knowledge retrieval and inference.
 
+## Setting up the Prerequisite Resources
+
+
+1. On the Azure Portal page +++https://portal.azure.com+++, in the Search resources box at the top of the portal, enter Azure AI Foundry, and then select Azure AI Foundry under Services.
+
+
+2. In the left navigation pane for the AI Foundry, select **AI Hubs**. On the AI Hubs page, click on **Create** and select **Hub** from the drop-down.
+
+
+3. On the **Create an Azure AI hub** pane enter the following details:
+   - Subscription : **Leave default subscription**
+   - Resource Group :  **AgenticAI**
+   - Region : **EastUS**
+   - Name : +++ai-foundry-hub@lab.LabInstance.Id+++ 
+   - Connect AI Services incl. OpenAI : Click on **Create New**
+   - Connect AI Services incl. OpenAI : Provide a name +++my-ai-service@lab.LabInstance.Id+++  
+   - Click on **Save**, followed by **Next:Storage**
+
+   
+4. Click on **Review + Create** tab followed by **Create.**
+  
+5. Wait for the deployment is completed and then click on **Go to resource**.
+
+6. On the Overview pane, click on **Launch Azure AI Foundry**. This will navigate you to the Azure AI Foundry portal..
+
+7. Select **+ New project** on the Hub Overview.
+
+8. Provide the project name as +++ai-foundry-project@lab.LabInstance.Id+++ then select **Create**.
+
+1. In your **AI Foundry project**, navigate to the **My assets** section, then select **Models + endpoints**. Click **Deploy model**, and choose **Deploy base model** to proceed.
+
+1. On a **Select a model** window, search for **gpt-4o**, select **gpt-4o** and select **Confirm**
+
+
+1. On **Deploy model gpt-4o** window, select **Customize**.
+
+
+      - Deployment Name: **gpt-4o**
+      - Deployment type: **Global Standard**
+      - Change the **Model version to 2024-08-06 (Default)**
+      - Change the Tokens per Minute Rate Limit to **200K**
+      - Click on **Deploy (5)**
+
+1. Navigate back to **Azure Portal** and search for **AI Search** and select **AI Search** resource.
+
+
+1. On the **AI Foundry | AI Search** page, select **+ Create** to create Azure OpenAI resource.
+
+
+1. On **Create Azure OpenAI** page, provide the following settings and select **Next (6)**:
+
+      | Setting | Value | 
+      | --- | --- |
+      | Subscription | Keep the default subscription |
+      | Resource group | **AgenticAI** |
+      | Region | **East US 2** |
+      | Name | +++aisearch@lab.LabInstance.Id+++ |
+      | Pricing tier | **Standard S0** |
+
+
+1. Select **Review + create**, then **Create**
+
+1. Back on the Azure AI Foundry tab, Select **Management Center**.
+
+1. Under your Project select **Connected resources**.  Then select **+New connection**.  Select **Azure AI Search**, then choose **Add connection** then **Close**.
+
+1. Next, select **Connected resources** below your Foundry hub. Then select **+New connection**.  Select **Azure AI Search**, then choose **Add connection** then **Close**.
+
+
+
+
 ### Task 1: Install the requirements for the Project
 
 In this task, you will clone the GitHub repository for the project to access the necessary files for building the chat app.
@@ -32,7 +103,7 @@ In this task, you will clone the GitHub repository for the project to access the
     pip install -r requirements.txt
     ```
 
-     ![](../media/af28.png)    
+    ![](../media/af28.png)    
 
       >**Note:** Wait for the installation to complete. It might take some time.
 
@@ -43,12 +114,12 @@ In this task, you will set up and configure the necessary environment variables 
 
 1. Open a new tab in the browser and navigate to Azure AI Foundry portal using below link
 
-   ```
+    ```
     https://ai.azure.com/
-   ```
+    ```
 
 1. Click on the **Azure AI Foundry** Icon on top left.
-1. Select the AI foundry project that you created earlier in the lab i.e. **ai-foundry-project-<inject key="Deployment ID" enableCopy="false"></inject> (1)**
+1. Select your AI foundry project.
 1. Navigate to your **Overview (1)** page of **ai-foundry-project-<inject key="Deployment ID" enableCopy="false"></inject>** and then copy and paste the **Project connection string (2)** in a notepad. You will be using it in the next step.
 
 1. Get back to **Visual Studio Code**.
@@ -66,7 +137,7 @@ In this task, you will set up and configure the necessary environment variables 
     - EVALUATION_MODEL="gpt-4o"
     - INTENT_MAPPING_MODEL="gpt-4o"
 
-         ![](../media/focus6.png)
+    ![](../media/focus6.png)
 
 1. Press **Ctrl+S** to save the file.
 
@@ -79,16 +150,3 @@ In this exercise, you have accomplished the following:
 - Task 2: Configure Environment Variables
 
 ### You have successfully finished the exercise. Click **Next** to continue to the next exercise.
-
-
-
-
-
-
-
-
-
-
-
-
-

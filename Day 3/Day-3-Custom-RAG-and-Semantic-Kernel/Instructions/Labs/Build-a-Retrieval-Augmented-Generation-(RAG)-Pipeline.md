@@ -17,9 +17,9 @@ In this task, you will index knowledge sources by processing and storing vectori
 
 1. Open a new tab in the browser and navigate to Azure AI Foundry portal using below link
 
-   ```
+    ```
     https://ai.azure.com/
-   ```
+    ```
 
 1. Click on the **Azure AI Foundry** Icon on top left.
 1. Select the AI foundry project that you created earlier in the lab i.e. **ai-foundry-project-<inject key="Deployment ID" enableCopy="false"></inject> (1)**
@@ -39,35 +39,27 @@ In this task, you will index knowledge sources by processing and storing vectori
 
     - Code to import the required libraries, create a project client, and configure some settings:
 
-      ```bash
-      <imports_and_config>
 
-      </imports_and_config>
-      ```
+      *imports_and_config*
+
 
     - Code to add the function to define a search index:  
 
-      ```bash
-      <create_search_index>
 
-      </create_search_index>
-       ```
+      *create_search_index*
+
 
     - Code to create the function to add a CSV file to the index:    
 
-      ```bash
-      <add_csv_to_index>
 
-      </add_csv_to_index>
-      ```
+      *add_csv_to_index*
+
 
     - Code to run the functions, build the index, and register it to the cloud project:  
 
-      ```bash
-      <test_create_index>
 
-      </test_create_index>
-      ```    
+      *test_create_index*
+    
 
 1. From your console, log in to your Azure account and follow the instructions for authenticating your account:
 
@@ -81,51 +73,53 @@ In this task, you will index knowledge sources by processing and storing vectori
 
     - Select **Work or School account (1)** and click **Continue (2).**
 
-      ![](../media/af37.png)    
+    ![](../media/af37.png)    
 
     - Enter the **Username <inject key="AzureAdUserEmail"></inject> (1)**,  then click **Next (2).**
 
-      ![](../media/af38.png)  
+    ![](../media/af38.png)  
 
     - Enter the **Password <inject key="AzureAdUserPassword"></inject> (1)**, then click **Sign in (2).**
 
-      ![](../media/af39.png)    
+    ![](../media/af39.png)    
 
     - Click on **No, sign in to this app only.**
 
-      ![](../media/rg10.png)      
+    ![](../media/rg10.png)      
 
 1. Navigate back to the Visual Studio Code terminal and press **Enter** to accept the default subscription if prompted.
 
     ![](../media/af-41.png)
 
-1. Run the below commands to install the specfic version of Azure AI Project & Infernce:
+1. Back on the Azure AI Foundry tab, Select **Management Center**.
 
-     ```bash
-    pip install azure-ai-projects==1.0.0b5
-    pip install azure-ai-inference==1.0.0b8
-    ```      
+1. Under your Project select **Connected resources**.  Then select **+New connection**.  Select **Azure AI Foundry**, then choose **Add connection** then **Close**.
+
+1. Next, select **Connected resources** below your Foundry hub. Then select **+New connection**.  Select **Azure AI Foundry**, then choose **Add connection** then **Close**.
+
+1. Back in VS Code run the below commands to install the specfic version of Azure AI Project & Infernce:
+
+    +++pip install azure-ai-projects==1.0.0b5+++
+   
+
+   
+    +++pip install azure-ai-inference==1.0.0b8+++
+   
 
 1. Run the code to build your index locally and register it to the cloud project:
 
-    ```bash
-    python create_search_index.py
-    ```    
 
-     ![](../media/af42.png)
+    +++python create_search_index.py+++
+  
 
-      > **Note:** In case of an error, please run the below command and re-run the step 14:
+    ![](../media/af42.png)
 
-      ```bash
-      pip install --upgrade azure-search-documents
-      ```    
+    > **Note:** In case of an error, please run the below command and re-run the step 14:
 
-> **Congratulations** on completing the task! Now, it's time to validate it. Here are the steps:
-> - Hit the Validate button for the corresponding task. If you receive a success message, you can proceed to the next task.
-> - If not, carefully read the error message and retry the step, following the instructions in the lab guide. 
-> - If you need any assistance, please contact us at cloudlabs-support@spektrasystems.com. We are available 24/7 to help you out.
 
-   <validation step="c4563996-ab4c-4bf8-ac30-6738b535f1a5" />  
+    +++pip install --upgrade azure-search-documents+++
+  
+
 
 ### Task 2: Implementing the Retrieval Pipeline 
 
@@ -133,7 +127,7 @@ In this task, you will implement the retrieval pipeline by extracting relevant p
 
 1. Select the **get_product_documents.py** file containing the script to get product documents from the search index.
 
-      ![](../media/af43.png)
+    ![](../media/af43.png)
 
       - This file contains the code to import the required libraries, create a project client, and configure settings.
       - Code to add the function to get product documents.
@@ -141,7 +135,7 @@ In this task, you will implement the retrieval pipeline by extracting relevant p
 
 1. Expand **assets (1)** and select **intent_mapping.prompty (2)**. This template instructs how to extract the user's intent from the conversation.      
 
-      ![](../media/af44.png)
+    ![](../media/af44.png)
 
       - The **get_product_documents.py** script uses this prompt template to convert the conversation to a search query.
 
@@ -151,7 +145,7 @@ In this task, you will implement the retrieval pipeline by extracting relevant p
      python get_product_documents.py --query "I need a new tent for 4 people, what would you recommend?"
      ```
 
-      ![](../media/af45.png)     
+    ![](../media/af45.png)     
 
 ### Task 3: Generating Responses with Augmented Knowledge     
 
@@ -159,7 +153,7 @@ In this task, you will generate responses using augmented knowledge by leveragin
 
 1. Select the **chat_with_products.py** file. This script retrieves product documents and generates a response to a user's question.
 
-      ![](../media/af46.png)
+    ![](../media/af46.png)
 
       - This script contains code to import the required libraries, create a project client, and configure settings.   
       - Code to generate the chat function that uses the RAG capabilities.
@@ -167,7 +161,7 @@ In this task, you will generate responses using augmented knowledge by leveragin
 
 1. Expand the **assets (1)** folder and select **grounded_chat.prompty (2)**. This template instructs how to generate a response based on the user's question and the retrieved documents.
 
-      ![](../media/af47.png)
+    ![](../media/af47.png)
 
       - The **chat_with_products.py** script calls this prompt template to create a response to the user's question.
 
@@ -187,51 +181,51 @@ In this task, you will enable telemetry logging by integrating Application Insig
 
 1. Select the **Tracing (1)** tab to add an **Application Insights** resource to your project, and then click on the **Create new (2)** option to create a new resource.
 
-     ![](../media/af49.png)
+    ![](../media/af49.png)
 
 1. Enter the name as **Applicationinsight (1)**, then click on **Create (2)**.
 
-     ![](../media/af50.png)
+    ![](../media/af50.png)
 
-1. Navigate back to the VS Code terminal and run the below command to install the `azure-monitor-opentelemetry`
+1. Navigate back to the VS Code terminal and run the below command to install the *azure-monitor-opentelemetry*.
 
       ```bash
       pip install azure-monitor-opentelemetry
       ```
 
-      ![](../media/af51.png)   
+    ![](../media/af51.png)   
 
-     > **Note:** Wait for the installation to complete. This might take some time.
+    > **Note:** Wait for the installation to complete. This might take some time.
 
-1. Add the `--enable-telemetry` flag when you use the `chat_with_products.py` script:
+1. Add the *--enable-telemetry* flag when you use the *chat_with_products.py* script:
 
-      ```bash
-      python chat_with_products.py --query "I need a new tent for 4 people, what would you recommend?" --enable-telemetry 
-      ```      
+      
+      +++python chat_with_products.py --query "I need a new tent for 4 people, what would you recommend?" --enable-telemetry+++ 
+           
 
-      ![](../media/af52.png)   
+    ![](../media/af52.png)   
 
 1. **Ctrl+click** on the link in the console output to see the telemetry data in your Application Insights resource **(1)** and click **Open (2)**.    
 
-      ![](../media/af53.png)
+    ![](../media/af53.png)
 
 1. This will take you to the **Azure AI Foundry** portal, **Tracing** tab, where you can see the telemetry data in your Application Insights resource. 
 
-      ![](../media/af54.png)
+    ![](../media/af54.png)
 
       > **Note:** If it does not appear immediately, select **Refresh** in the toolbar. It may take around 5 minutes to appear.
 
 1. In your project, you can **filter** your traces as you see fit. Click on **Filter**.
 
-      ![](../media/af55.png)
+    ![](../media/af55.png)
 
 1. Click on **+ Add filter**, set the filter to **Success (1)**, **Equal to (2)** -> **True (3),** and then click on **Apply (4)**.
 
-     ![](../media/focus7.png)
+    ![](../media/focus7.png)
 
 1. Now, you can only see the data with Success as **True**.
 
-      ![](../media/af57.png)
+    ![](../media/af57.png)
 
 ### Review
 
@@ -243,29 +237,4 @@ In this exercise, you have accomplished the following tasks:
 - Task 3: Generated Responses with Augmented Knowledge
 - Task 4: Added telemetry logging
 
-### You have successfully finished the exercise. Click **Next** to continue to the next exercise.    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+### You have successfully finished the exercise. Click **Next** to continue to the next exercise.
