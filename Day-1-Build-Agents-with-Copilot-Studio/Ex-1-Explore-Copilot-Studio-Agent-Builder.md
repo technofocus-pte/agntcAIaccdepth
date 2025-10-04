@@ -136,7 +136,7 @@ Microsoft 365 Copilot のための効果的なエージェントを作成する�
 
    - テキストボックスに **「Create an image of a serene beach at sunset with palm trees and gentle waves」 (1)** と入力し、**送信 (2)** ボタンをクリックします。
    
-   >**任意:** 日本語訳のプロンプトは: **「ヤシの木と穏やかな波のある、夕暮れ時の静かなビーチのイメージを作成します」**
+     >**任意:** 日本語訳のプロンプトは: **「ヤシの木と穏やかな波のある、夕暮れ時の静かなビーチのイメージを作成します」**
 
      ![](Japanese-media/ex1-007.png)
 
