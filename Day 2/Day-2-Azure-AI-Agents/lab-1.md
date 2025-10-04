@@ -1,5 +1,3 @@
-===
-
 # Exercise 1: Setup AI Project and perform Chat Completion from VS Code
 ## Estimated duration : 120 minutes
 ## Lab scenario
@@ -18,16 +16,18 @@ In this lab, you will perform:
 
 In this task, you will create and configure an AI Project within Azure AI Foundry. This involves setting up the necessary resources, defining project parameters, and ensuring that the environment is ready for deploying AI models. By the end of this task, you will have a fully initialized AI Project, serving as the foundation for further development and experimentation.
 
-1. On the Azure Portal page +++https://portal.azure.com+++, in the Search resources box at the top of the portal, enter Azure AI Foundry (1), and then select Azure AI Foundry (2) under Services.
+1. Login to Azure Portal at +++https://portal.azure.com+++ using your login credentials from the Resources tab.
+  
+3. In the Search resources box at the top of the portal, enter +++Azure AI Foundry+++, and then select Azure AI Foundry under Services.
 
     ![](./media/day2ex1-001.png)
 
 
-2. In the left navigation pane for the AI Foundry, select **AI Hubs (1)**. On the AI Hubs page, click on **Create (2)** and select **Hub (3)** from the drop-down.
+4. In the left navigation pane for the AI Foundry, select **AI Hubs (1)**. On the AI Hubs page, click on **Create (2)** and select **Hub (3)** from the drop-down.
 
     ![](./media/day2ex1-002.png)
 
-3. On the **Create an Azure AI hub** pane enter the following details:
+5. On the **Create an Azure AI hub** pane enter the following details:
    - Subscription : **Leave default subscription**
    - Resource Group :  **AgenticAI** (1)
    - Region : **<inject key="Region" enableCopy="false"></inject>** (2)
@@ -41,29 +41,29 @@ In this task, you will create and configure an AI Project within Azure AI Foundr
 
     ![](./media/day2ex1-004.png)
    
-4. Click on **Review + Create** tab followed by **Create.**
+6. Click on **Review + Create** tab followed by **Create.**
 
     ![](./media/day2ex1-005.png)
 
     ![](./media/day2ex1-006.png)
   
-5. Wait for the deployment is completed and then click on **Go to resource**.
+7. Wait for the deployment is completed and then click on **Go to resource**.
 
     ![](./media/day2ex1-007.png)
 
-6. On the Overview pane, click on **Launch Azure AI Foundry**. This will navigate you to the Azure AI Foundry portal..
+8. On the Overview pane, click on **Launch Azure AI Foundry**. This will navigate you to the Azure AI Foundry portal..
 
     ![](./media/day2ex1-008.png)
 
-7. Select **+ New project** on the Hub Overview.
+9. Select **+ New project** on the Hub Overview.
 
     ![](./media/day2ex1-009.png)
 
-8. Provide the project name as +++ai-foundry-project@lab.LabInstance.Id+++ then select **Create (2)**.
+10. Provide the project name as +++ai-foundry-project@lab.LabInstance.Id+++ then select **Create (2)**.
 
     ![](./media/day2ex1-010.png)
 
-9. Once the project is created, copy the **Project connection string**, then paste it into Notepad or a secure location, as they will be required for upcoming tasks.
+11. Once the project is created, copy the **Project connection string**, then paste it into Notepad or a secure location, as they will be required for upcoming tasks.
 
     ![](./media/day2ex1-011.png)
 
@@ -165,7 +165,7 @@ In this task, you will install the required dependencies, set up a virtual envir
 
     ![](./media/ag37.png) 
 
-1. Navigate to `C:\LabFiles\Day-2-Azure-AI-Agents` **(1)**, select the **azure-ai-agents-labs (2)** folder and then click on **Select folder (3)**.
+1. Navigate to `C:\LabFiles\Day-2` **(1)**, select the **azure-ai-agents-labs (2)** folder and then click on **Select folder (3)**.
 
     ![](./media/ag38.png) 
 
