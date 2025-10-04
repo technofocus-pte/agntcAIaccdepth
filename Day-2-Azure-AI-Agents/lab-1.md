@@ -95,7 +95,7 @@
 
    ![](./media/ag10.png)
 
-6. **Azure AI サービス | Azure OpenAI** ページで、**+ 作成** を選択して Azure OpenAI リソースを作成します。
+6. **Azure AI サービス | Azure OpenAI** ページで、**+ 作成 -> Azure OpenAI** を選択して Azure OpenAI リソースを作成します。
 
    ![](./media/lab1-11.png)
 
