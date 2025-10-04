@@ -29,12 +29,12 @@
    - サブスクリプション : **デフォルトのサブスクリプションのままにする**
    - リソースグループ :  **AgenticAI** (1)
    - 地域 : **Region** (2)
-   - 名前 : **ai-foundry-hub-{suffix}** (3) 
+   - 名前 : **+++ai-foundry-hub@lab.LabInstance.Id+++** (3) 
       
       ![](./media/day2ex1-003.png)
 
    - OpenAIを含むAIサービスに接続 : **新規作成 (1)** をクリックします。
-   - OpenAIを含むAIサービスに接続 : 名前を入力してください **my-ai-service-Deployment ID(2)**.  
+   - OpenAIを含むAIサービスに接続 : 名前を入力してください **+++my-ai-service@lab.LabInstance.Id+++ (2)**.  
    - **保存 (3)** をクリックします。, **次へ:ストレージ (4)**
 
       ![](./media/day2ex1-004.png)
@@ -57,7 +57,7 @@
 
    ![](./media/day2ex1-009.png)
 
-8. プロジェクト名を次のように入力します **ai-foundry-project-{suffix},** 次に**作成 (2)**をクリックします。
+8. プロジェクト名を次のように入力します **+++ai-foundry-project@lab.LabInstance.Id+++** 次に**作成 (2)**をクリックします。
 
    ![](./media/day2ex1-010.png)
 
@@ -106,7 +106,7 @@
    | サブスクリプション | デフォルトのサブスクリプションをそのまま使用 **(1)** |
    | リソースグループ | **AgenticAI (2)** |
    | リージョン | **East US (3)** |
-   | 名前 | **my-openai-service{suffix} (4)** |
+   | 名前 | **+++my-openai-service@lab.LabInstance.Id+++ (4)** |
    | 価格帯 | **Standard S0 (5)** |
 
    ![](./media/ag11.png)
