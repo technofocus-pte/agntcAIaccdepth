@@ -202,7 +202,7 @@
    az login
    ```
 
-10. AzureAdUserEmail ユーザーアカウントを選択して承認します。
+10. Work or School account ユーザーアカウントを選択して承認します。
 
    ![](./media/ag44.png)
 
