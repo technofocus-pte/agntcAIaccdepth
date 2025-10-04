@@ -69,7 +69,7 @@ In this task, you will create an **Azure AI Search index** to store vectorized r
 
     ![](./media/ag25.png)
 
-1. On the Azure portal, search for **Storage accounts (1)** and select **Storage accounts (1)** from the services.
+1. On the Azure portal, search for **+++Storage accounts+++ (1)** and select **Storage accounts (1)** from the services.
 
     ![](./media/ag31.png)
 
