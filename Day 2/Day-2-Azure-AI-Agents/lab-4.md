@@ -81,7 +81,7 @@ In this task, you will create an **Azure AI Search index** to store vectorized r
 
     ![](./media/day2ex3-006.png)
 
-1. Under **Job function roles**, search for **Storage Blob Data Reader (1)**, select **Storage Blob Data Reader (2)**, and then select **Next (3)**.
+1. Under **Job function roles**, search for **+++Storage Blob Data Reader+++ (1)**, select **Storage Blob Data Reader (2)**, and then select **Next (3)**.
 
     ![](./media/ag34.png)
 
@@ -107,7 +107,7 @@ In this task, you will create an **Azure AI Search index** to store vectorized r
 
     ![](./media/ag27.png)
 
-1. Under **Job function roles**, search for **Cognitive Services OpenAI User (1)**, select **Cognitive Services OpenAI User (2)**, and then select **Next (3)**.
+1. Under **Job function roles**, search for **+++Cognitive Services OpenAI User+++ (1)**, select **Cognitive Services OpenAI User (2)**, and then select **Next (3)**.
 
     ![](./media/ag28.png)
 
@@ -125,7 +125,7 @@ In this task, you will create an **Azure AI Search index** to store vectorized r
 
     ![](./media/t1s20.png)
 
-1. Navigate to **Azure Portal**, search for **Storage account (1)** and select the **Storage account (2)**.
+1. Navigate to **Azure Portal**, search for **+++Storage account+++ (1)** and select the **Storage account (2)**.
 
     ![](./media/ag31.png)
 
@@ -149,7 +149,7 @@ In this task, you will create an **Azure AI Search index** to store vectorized r
 
     ![](./media/pg10t1st26.png)
 
-1. Navigate to `C:\LabFiles\Day-2-Azure-AI-Agents\azure-ai-agents-labs\data` **(1)** and select both the PDFs to upload **(2)**, and click on **Open (3)**.
+1. Navigate to `C:\LabFiles\Day-2\azure-ai-agents-labs\data` **(1)** and select both the PDFs to upload **(2)**, and click on **Open (3)**.
 
     ![](./media/ag55.png)
 
@@ -159,9 +159,9 @@ In this task, you will create an **Azure AI Search index** to store vectorized r
 
     ![](./media/t1s29.png)
 
-1. Click on **import and vectorize data**.
+1. Click on **import(new)**.
 
-    ![](./media/t1s30.png)
+    ![](./media/img32.png)
 
 1. Select **azure blob storage**.
 
