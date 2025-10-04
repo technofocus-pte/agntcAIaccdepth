@@ -204,15 +204,15 @@
 
 10. Work or School account ユーザーアカウントを選択して承認します。
 
-   ![](./media/ag44.png)
+    ![](./media/ag44.png)
 
 11. 承認が完了したら、Visual Studio Code に戻ります。
 
-   ![](./media/ag45.png)
+    ![](./media/ag45.png)
 
 12. **Sample.env** ファイルを開き、必要な環境変数を提供します。 
 
-   ![](./media/ag46.png)
+    ![](./media/ag46.png)
 
    - Azure AI Foundry ポータルに移動します。[マイ アセット] の [**モデル + エンドポイント (1)**] セクションから [**gpt-4o (2)**] モデルをクリックします。右側のペインの [**エンドポイント**] の下をコピーします。[**ターゲット URI (1)**] と [**キー (2)**] をコピーしてメモ帳に貼り付けます。
      ![](./media/pg8t3st12.png)
