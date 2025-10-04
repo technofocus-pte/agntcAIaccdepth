@@ -38,32 +38,32 @@ Microsoft Copilot Studio を使用して賞と認識を実装することで、�
    - 説明: 説明ボックスに以下の説明を入力 **(2)**
 
        プロンプト:
-    ```
-       The Nomination Agent in Copilot Studio is designed to streamline the process of creating, managing, and reviewing nominations within Tech Innovators Inc. This agent helps HR teams and managers efficiently handle nominations for awards and recognitions. It allows users to create detailed nominations, capturing necessary nominee information, award categories, and business cases. The agent automatically generates comprehensive summaries for each nomination, facilitating quick and informed decision-making. It also streamlines the review and submission process, enabling easy access to candidate achievements and recognitions. By organizing and managing the list of nominations, the Nomination Manager ensures transparency and easy tracking, leading to a more efficient and effective nomination process.
-    ```
-    >**任意:** 日本語訳のプロンプトは:
-    ```
-    Copilot Studio のノミネーションエージェントは、Tech Innovators Inc. 内でノミネーションの作成、管理、およびレビューのプロセスを合理化するように設計されています。このエージェントは、HR チームとマネージャーが賞と認識のためのノミネーションを効率的に処理するのを支援します。ユーザーが詳細なノミネーションを作成し、必要な候補者情報、賞のカテゴリー、およびビジネスケースをキャプチャすることを可能にします。エージェントは各ノミネーションの包括的な要約を自動的に生成し、迅速かつ情報に基づいた意思決定を促進します。また、レビューおよび提出プロセスを合理化し、候補者の業績と認識への簡単なアクセスを可能にします。ノミネーションのリストを整理および管理することで、ノミネーションマネージャーは透明性と簡単な追跡を確保し、より効率的で効果的なノミネーションプロセスを実現します。
-    ```
-   - 指示: ノミネーションエージェントに以下の指示を提供してください **(3)**
-
-    プロンプト:
-    ```
-        Create Nomination: Use the create Nomination function to initiate the nomination process. This function will prompt the user to enter necessary details such as the nominee's name, position, department, award category, and business case.
-        Generate Nomination Summary: Call the generate Nomination Summary function to automatically create a concise summary of the nomination. This summary will include key candidate information, achievements, and contributions based on the input provided during the nomination creation.
-        Review and Submit Nomination: Implement the review And Submit Nomination function to allow users to review the generated summary and all nomination details. Once reviewed, the function will enable users to submit the nomination for approval.
-        View Recognition: Use the viewRecognition function to allow users to access and acknowledge the achievements and recognitions of candidates. This function will display a list of recognitions received by nominees.
-        View Nominations: Implement the view Nominations function to provide users with an organized view of all submitted nominations. This function will ensure transparency and easy tracking of the nomination process, allowing users to monitor the status and progress of each nomination.
-    ```
-    >**任意:** 日本語訳のプロンプトは:
-    ```
-       ノミネーションを作成: ノミネーションプロセスを開始するために、ノミネーション作成機能を使用します。この機能は、ユーザーに候補者の名前、役職、部門、賞のカテゴリー、およびビジネスケースなどの必要な詳細を入力するよう促します。
-       ノミネーション要約を生成: ノミネーション要約生成機能を呼び出して、ノミネーションの簡潔な要約を自動的に作成します。この要約には、ノミネーション作成時に提供された入力に基づいて、主要な候補者情報、業績、および貢献が含まれます。
-       ノミネーションをレビューして提出: ノミネーションの詳細と生成された要約をユーザーがレビューできるようにするために、ノミネーションレビューおよび提出機能を実装します。レビューが完了したら、この機能はユーザーがノミネーションを承認のために提出できるようにします。
-       認識を表示: 候補者の業績と認識をユーザーがアクセスして確認できるようにするために、認識表示機能を使用します。この機能は、候補者が受けた認識のリストを表示します。
-       ノミネーションを表示: 提出されたすべてのノミネーションの整理されたビューをユーザーに提供するために、ノミネーション表示機能を実装します。この機能は、ノミネーションプロセスの透明性と簡単な追跡を確保し、ユーザーが各ノミネーションのステータスと進捗を監視できるようにします。
+       ```
+          The Nomination Agent in Copilot Studio is designed to streamline the process of creating, managing, and reviewing nominations within Tech Innovators Inc. This agent helps HR teams and managers efficiently handle nominations for awards and recognitions. It allows users to create detailed nominations, capturing necessary nominee information, award categories, and business cases. The agent automatically generates comprehensive summaries for each nomination, facilitating quick and informed decision-making. It also streamlines the review and submission process, enabling easy access to candidate achievements and recognitions. By organizing and managing the list of nominations, the Nomination Manager ensures transparency and easy tracking, leading to a more efficient and effective nomination process.
+       ```
+       >**任意:** 日本語訳のプロンプトは:
+       ```
+       Copilot Studio のノミネーションエージェントは、Tech Innovators Inc. 内でノミネーションの作成、管理、およびレビューのプロセスを合理化するように設計されています。このエージェントは、HR チームとマネージャーが賞と認識のためのノミネーションを効率的に処理するのを支援します。ユーザーが詳細なノミネーションを作成し、必要な候補者情報、賞のカテゴリー、およびビジネスケースをキャプチャすることを可能にします。エージェントは各ノミネーションの包括的な要約を自動的に生成し、迅速かつ情報に基づいた意思決定を促進します。また、レビューおよび提出プロセスを合理化し、候補者の業績と認識への簡単なアクセスを可能にします。ノミネーションのリストを整理および管理することで、ノミネーションマネージャーは透明性と簡単な追跡を確保し、より効率的で効果的なノミネーションプロセスを実現します。
+       ```
+      - 指示: ノミネーションエージェントに以下の指示を提供してください **(3)**
+   
+       プロンプト:
+       ```
+           Create Nomination: Use the create Nomination function to initiate the nomination process. This function will prompt the user to enter necessary details such as the nominee's name, position, department, award category, and business case.
+           Generate Nomination Summary: Call the generate Nomination Summary function to automatically create a concise summary of the nomination. This summary will include key candidate information, achievements, and contributions based on the input provided during the nomination creation.
+           Review and Submit Nomination: Implement the review And Submit Nomination function to allow users to review the generated summary and all nomination details. Once reviewed, the function will enable users to submit the nomination for approval.
+           View Recognition: Use the viewRecognition function to allow users to access and acknowledge the achievements and recognitions of candidates. This function will display a list of recognitions received by nominees.
+           View Nominations: Implement the view Nominations function to provide users with an organized view of all submitted nominations. This function will ensure transparency and easy tracking of the nomination process, allowing users to monitor the status and progress of each nomination.
+       ```
+       >**任意:** 日本語訳のプロンプトは:
+       ```
+          ノミネーションを作成: ノミネーションプロセスを開始するために、ノミネーション作成機能を使用します。この機能は、ユーザーに候補者の名前、役職、部門、賞のカテゴリー、およびビジネスケースなどの必要な詳細を入力するよう促します。
+          ノミネーション要約を生成: ノミネーション要約生成機能を呼び出して、ノミネーションの簡潔な要約を自動的に作成します。この要約には、ノミネーション作成時に提供された入力に基づいて、主要な候補者情報、業績、および貢献が含まれます。
+          ノミネーションをレビューして提出: ノミネーションの詳細と生成された要約をユーザーがレビューできるようにするために、ノミネーションレビューおよび提出機能を実装します。レビューが完了したら、この機能はユーザーがノミネーションを承認のために提出できるようにします。
+          認識を表示: 候補者の業績と認識をユーザーがアクセスして確認できるようにするために、認識表示機能を使用します。この機能は、候補者が受けた認識のリストを表示します。
+          ノミネーションを表示: 提出されたすべてのノミネーションの整理されたビューをユーザーに提供するために、ノミネーション表示機能を実装します。この機能は、ノミネーションプロセスの透明性と簡単な追跡を確保し、ユーザーが各ノミネーションのステータスと進捗を監視できるようにします。
     
-![](Japanese-media/ex3-004.png)
+   ![](Japanese-media/ex3-004.png)
 
 6. Copilot Studio で、上部までスクロールし、**トピック (1)** をクリックし、**すべて (2)** を選択して **会話開始 (3)** を選択します。
 
