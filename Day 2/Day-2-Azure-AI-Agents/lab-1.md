@@ -208,7 +208,7 @@ In this task, you will install the required dependencies, set up a virtual envir
       az login
       ```
 
-1. Select the <inject key="AzureAdUserEmail"></inject> user account to authorize.
+1. Select the <inject key="AzureAdUserEmail"></inject> **Work or School account** and login using your credentials.
 
     ![](./media/ag44.png)
 
