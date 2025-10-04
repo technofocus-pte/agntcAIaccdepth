@@ -28,7 +28,7 @@ In this lab, you will complete the following tasks:
 
 In this task, you will create an **Azure AI Search index** to store vectorized representations of health insurance plan documents, enabling efficient retrieval for AI-driven search and analysis.
 
-1. Navigate to **Azure portal**, search for **AI Search (1)** and select **AI Search (2)** resource from the services.
+1. Navigate to **Azure portal**, search for +++**AI Search**+++ **(1)** and select **AI Search (2)** resource from the services.
 
     ![](./media/ag20.png)
 
