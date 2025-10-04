@@ -34,7 +34,7 @@
 
    - サブスクリプション : **デフォルトのサブスクリプションのままにする**
    - リソースグループ : **AgenticAI (1)** を選択
-   - サービス名 : **my-search-service-{suffix} (2)**
+   - サービス名 : **+++my-search-service@lab.LabInstance.Id+++ (2)**
    - 位置 : **Region** **(3)**
 
       ![](./media/focus1.png)
