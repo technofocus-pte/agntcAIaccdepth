@@ -119,10 +119,6 @@ The image generator capability enables declarative agents to generate images bas
 
     ![image](media/chatt10.png) 
 
-6. From the left pane in the **Microsoft 365 Copilot** window, select **Copilot Chat**. 
-
-    ![image](media/open-copilot-chat-0306.png) 
-
 7. Let's try **Image generator** examples.
 
    - In the Text Box, enter **Create an image of a serene beach at sunset with palm trees and gentle waves** **(1)**, click on the **send** **(2)** button.
