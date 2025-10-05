@@ -35,19 +35,19 @@ Your company, Contoso Enterprises, is looking to hire a new Data Analyst and wan
 
       ![image](media/day1ex2-002-1.png)
 
-3. Navigate to `C:\LabFiles\Day-1-Build-Agents-with-Copilot-Studio\Data`, click on `CV` folder and select **Upload**.
+3. Navigate to `C:\LabFiles\Day-1\Data`, click on `CV` folder and select **Upload**.
 
      ![image](media/agentday1-2.png)
 
 4. Once again click on **+ Add new** and select **Folder upload**.
 
-5. Navigate to `C:\LabFiles\Day-1-Build-Agents-with-Copilot-Studio`, click on the `data` file and click on **Upload**. Select **Upload** on the `Upload 19 files to this site?` pop-up.
+5. Navigate to `C:\LabFiles\Day-1`, click on the `data` file and click on **Upload**. Select **Upload** on the `Upload 19 files to this site?` pop-up.
 
     ![image](media/agentday1-4-1.png)
 
-6. In the Copilot window, click on **Copilot chat** **(1)**, click on **Add Content** **(2)** icon. and and select **Upload from this device(3)**. 
+6. In the Copilot window, click on **Chat**, click on **Add Content** icon. and and select **Upload images and files**. 
 
-    ![image](media/day1ex2-003.png)
+    ![image](media/img35.png)
 
 7. In the file explorer pop-up, navigate to `C:\LabFiles\Day-1-Build-Agents-with-Copilot-Studio\Data\CV` **(1)** folder, select **first 3** **(2)** files and click on **Open** **(3)**.
 
