@@ -54,9 +54,9 @@ In this task, you are going to create an agent to help employees submit nominati
 
     ![image](media/pre-18.png)
 
-8. In the **Conversation Start** Workflow, select on **Change trigger** **(1)** under Trigger node, and change the trigger to **Event received** **(2)**.  
+8. In the **Conversation Start** Workflow, select on **Change trigger** **(1)** under Trigger node, and change the trigger to **A custom client event occurs** **(2)**.  
 
-    ![image](media/pre-19.png)
+    ![image](media/img37.png)
 
 9. Click on the area under the **Message** node, and replace the message as below:
 
