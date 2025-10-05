@@ -28,7 +28,7 @@ In this task, you are going to create an agent to help employees submit nominati
    
 3. Select **Get Started**.
 
-    ![image](img36.png)
+    ![image](media/img36.png)
   
 
 4. In the **Copilot Studio**, from the left pane select **+ Create** **(1)** and click on **+ New agent** **(2)**.
