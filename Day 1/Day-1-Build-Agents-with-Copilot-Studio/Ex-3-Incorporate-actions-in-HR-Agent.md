@@ -26,8 +26,9 @@ In this task, you are going to create an agent to help employees submit nominati
 
    >**Note:** Please avoid refreshing the page, as it may take some time for Copilot Studio to load. Sometimes, especially on the first launch, it can take 10–15 minutes to load due to backend dynamics on Microsoft's side.
    
-3. Sign in.
+3. Select **Get Started**.
 
+    ![image](img36.png)
   
 
 4. In the **Copilot Studio**, from the left pane select **+ Create** **(1)** and click on **+ New agent** **(2)**.
