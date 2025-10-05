@@ -169,8 +169,8 @@ Azure AI foundryを使用してデプロイされた言語モデルと対話す�
    
    - 基本設定:
      - エンドポイント: **New (1)**
-     - エンドポイント名: **modelendpoint-{suffix} (2)**
-     - デプロイ名: **modeldeploy-{suffix}(3)**
+     - エンドポイント名: **modelendpoint@lab.LabInstance.Id (2)**
+     - デプロイ名: **modeldeploy@lab.LabInstance.Id(3)**
      - 仮想マシン: **Standard_DS3_v2 (4)**
      - インスタンス数: **3 (5)**
      - 推論データ収集: **Enabled (6)**
