@@ -107,19 +107,9 @@ The image generator capability enables declarative agents to generate images bas
      https://m365.cloud.microsoft/
      ```
      
-     ![image](media/image4.png)
+     ![image](media/img33.png)
 
-2. On the **Sign into Microsoft Azure tab**, you will see a login screen. Enter the following email/username **(1)**, and then click on **Next** **(2)**.
-   
-   - **Email/Username:** <inject key="AzureAdUserEmail"></inject>
-
-     ![image](media/h14.png)
-
-3. Now enter the following password **(1)** and click on **Sign in** **(2)**.
-
-   - **Password:** <inject key="AzureAdUserPassword"></inject>
-
-      ![image](media/h15.png)
+2. On the **Sign into Microsoft Azure tab**, you will see a login screen. Sign in with the Username and password from the **Resources** tab.
    
 4. If you see the pop-up **Stay Signed in?**, click **No**.
 
