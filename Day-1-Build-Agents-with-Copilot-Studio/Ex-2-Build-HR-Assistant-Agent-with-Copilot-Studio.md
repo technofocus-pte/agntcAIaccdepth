@@ -51,7 +51,7 @@
 
    ![](media/img35.png)
 
-7. ファイルエクスプローラのポップアップで、`C:\LabFiles\Day-1-Build-Agents-with-Copilot-Studio\Data\CV` **(1)** フォルダーに移動し、**最初の3つ (2)** ファイルを選択して **開く (3)** をクリックします。
+7. ファイルエクスプローラのポップアップで、`C:\LabFiles\Day-1\Data\CV` **(1)** フォルダーに移動し、**最初の3つ (2)** ファイルを選択して **開く (3)** をクリックします。
 
    ![](Japanese-media/ex2-005.png)
 
@@ -63,7 +63,7 @@
 
    ![](Japanese-media/ex2-007.png)
 
-10. ファイルエクスプローラのポップアップで、`C:\LabFiles\Day-1-Build-Agents-with-Copilot-Studio\Data\CV` **(1)** フォルダーに移動し、**最後の2つ (2)** ファイルを選択して **開く (3)** をクリックします。
+10. ファイルエクスプローラのポップアップで、`C:\LabFiles\Day-1\Data\CV` **(1)** フォルダーに移動し、**最後の2つ (2)** ファイルを選択して **開く (3)** をクリックします。
 
    ![](Japanese-media/ex2-008.png)
 
