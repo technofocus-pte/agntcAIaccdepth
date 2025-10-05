@@ -8,7 +8,7 @@
 
 1. Azure Portal ページで、ポータルの上部にある [リソースの検索] ボックスに「Azure AI Foundry (1)」と入力し、[サービス] の下にある [Azure AI Foundry (2)] を選択します。
 
-   ![](../Day-2-Azure-AI-Agents/media/day2ex1-001.png)
+   ![](..../Day-2-Azure-AI-Agents/media/day2ex1-001.png)
 
 
 2. AI Foundryの左側のナビゲーションペインで、**AI Hubs (1)**を選択します。AI Hubsページで、**Create (2)**をクリックし、ドロップダウンから**Hub (3)**を選択します。
