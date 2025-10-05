@@ -37,19 +37,19 @@
     ![](Japanese-media/day1ex2-002-1.png)
 
 
-3. C:\LabFiles\Day-1-Build-Agents-with-Copilot-Studio\Data に移動し、CV フォルダーをクリックして **アップロード** を選択します。
+3. C:\LabFiles\Day-1\Data に移動し、CV フォルダーをクリックして **アップロード** を選択します。
 
      ![](Japanese-media/ex2-002.png)
 
 4. もう一度 [**+ 新規追加**] をクリックし、[**フォルダーのアップロード**] を選択します。
 
-5. C:\LabFiles\Day-1-Build-Agents-with-Copilot-Studio に移動し、Data フォルダをクリックして **アップロード** をクリックします。「このサイトに 19 個のファイルをアップロードしますか？」というポップアップで **アップロード** を選択します。
+5. C:\LabFiles\Day-1 に移動し、Data フォルダをクリックして **アップロード** をクリックします。「このサイトに 19 個のファイルをアップロードしますか？」というポップアップで **アップロード** を選択します。
 
    ![](media/agentday1-4-1.png)
 
-6. Copilotウィンドウで、**副操縦士** **(1)** をクリックし、**コンテンツの追加** **(2)** アイコンをクリックします。そして、**このデバイスからアップロード(3)** を選択します。
+6. Copilotウィンドウで、**Chat** をクリックし、**Add Content** アイコンをクリックします。そして、**Upload images and files** を選択します。
 
-   ![](media/day1ex2-003.png)
+   ![](media/img35.png)
 
 7. ファイルエクスプローラのポップアップで、`C:\LabFiles\Day-1-Build-Agents-with-Copilot-Studio\Data\CV` **(1)** フォルダーに移動し、**最初の3つ (2)** ファイルを選択して **開く (3)** をクリックします。
 
