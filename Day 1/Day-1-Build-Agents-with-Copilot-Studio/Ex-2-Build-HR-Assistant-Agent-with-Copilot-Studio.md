@@ -49,7 +49,7 @@ Your company, Contoso Enterprises, is looking to hire a new Data Analyst and wan
 
     ![image](media/img35.png)
 
-7. In the file explorer pop-up, navigate to `C:\LabFiles\Day-1-Build-Agents-with-Copilot-Studio\Data\CV` **(1)** folder, select **first 3** **(2)** files and click on **Open** **(3)**.
+7. In the file explorer pop-up, navigate to `C:\LabFiles\Day-1\Data\CV` **(1)** folder, select **first 3** **(2)** files and click on **Open** **(3)**.
 
     ![image](media/file-upload-first3.png)
 
@@ -61,7 +61,7 @@ Your company, Contoso Enterprises, is looking to hire a new Data Analyst and wan
 
     ![image](media/cs-attachfiles2.png)
 
-10. In the file explorer pop-up, navigate to `C:\LabFiles\Day-1-Build-Agents-with-Copilot-Studio\Data\CV` **(1)** folder, select **last 2** **(2)** files and click on **Open** **(3)**.
+10. In the file explorer pop-up, navigate to `C:\LabFiles\Day-1\Data\CV` **(1)** folder, select **last 2** **(2)** files and click on **Open** **(3)**.
 
     ![image](media/file-upload-sent2.png)
 
