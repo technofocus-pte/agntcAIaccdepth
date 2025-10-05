@@ -103,19 +103,9 @@ Microsoft 365 Copilot のための効果的なエージェントを作成する�
 
 1. Edgeブラウザーで新しいタブを開き、[Microsoft 365 Copilot アプリ](https://m365.cloud.microsoft/) **(1)** を開き、**サインイン (2)** をクリックします。
 
-    ![](Japanese-media/ex1-001.png)
+     ![image](media/img33.png)
 
-2. **Microsoft Azureへのサインイン** タブで、ログイン画面が表示されます。以下のメールアドレス/ユーザー名 **(1)** を入力し、**次へ (2)** をクリックします
-   
-   - **メール/ユーザー名:** AzureAdUserEmail
-
-     ![](Japanese-media/ex1-002.png)
-
-3. 次に以下のパスワード **(1)** を入力し、**サインイン (2)** をクリックします。
-
-   - **パスワード:** AzureAdUserPassword
-
-      ![](Japanese-media/ex1-003.png)
+2. 「**Microsoft Azure にサインイン**」タブで、ログイン画面が表示されます。**Resources** タブの資格情報を使用してログインしてください。
    
 4. **サインインしたままですか？** というポップアップが表示された場合は、**いいえ** をクリックします。
 
