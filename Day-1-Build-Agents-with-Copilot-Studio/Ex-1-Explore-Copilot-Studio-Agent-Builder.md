@@ -115,14 +115,7 @@ Microsoft 365 Copilot のための効果的なエージェントを作成する�
 
    ![](media/day1ex1-001-copilot.png)
 
-6. **副操縦士のチャットの追加** をクリックし、他の通知が表示された場合はすべて閉じます。
-
-    ![](media/day1ex1-002-copilot2.png)
-
-    >**Note**: ポップアップが表示されない場合は、ページを更新してください。
-   
-
-8. **画像生成機能** の例を試してみましょう:
+6. **画像生成機能** の例を試してみましょう:
 
    - テキストボックスに **「Create an image of a serene beach at sunset with palm trees and gentle waves」 (1)** と入力し、**送信 (2)** ボタンをクリックします。
    
