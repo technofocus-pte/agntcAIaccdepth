@@ -27,9 +27,9 @@ Your company, Contoso Enterprises, is looking to hire a new Data Analyst and wan
 
    - Action: The HR manager uses Microsoft 365 Copilot to analyze resumes and filter candidates based on specific criteria like relevant experience, technical skills, and educational background. Copilot highlights the top candidates for you to look over.
 
-1. Click on **OneDrive (1)** from the left pane, and Click on **My files (2)**.
+1. Click on **Apps -> OneDrive (1)** from the left pane, and Click on **My files (2)**.
 
-      ![image](media/day1ex2-001.png)
+      ![image](media/img34.png)
 
 2. Click on **+ Add new (1)** and select **Folder upload (2)**.
 
