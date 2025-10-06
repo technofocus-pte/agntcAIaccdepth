@@ -10,7 +10,7 @@ In this exercise, you will set up the Azure AI Foundry SDK. This includes config
 
 2. In the left navigation pane for the AI Foundry, select **AI Hubs**. On the AI Hubs page, click on **Create** and select **Hub** from the drop-down.
    
-   ![](./media/day2ex1-001.png)
+   ![](/media/day2ex1-001.png)
 
 4. On the **Create an Azure AI hub** pane enter the following details:
    - Subscription : **Leave default subscription**
