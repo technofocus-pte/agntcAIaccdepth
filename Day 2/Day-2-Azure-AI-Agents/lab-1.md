@@ -30,7 +30,7 @@ In this task, you will create and configure an AI Project within Azure AI Foundr
 5. On the **Create an Azure AI hub** pane enter the following details:
    - Subscription : **Leave default subscription**
    - Resource Group :  **AgenticAI** (1)
-   - Region : **<inject key="Region" enableCopy="false"></inject>** (2)
+   - Region : **East US** (2)
    - Name : +++ai-foundry-hub@lab.LabInstance.Id+++ (3) 
       
     ![](./media/day2ex1-003.png)
@@ -127,7 +127,7 @@ In this task, you will deploy a large language model (LLM) and an embedding mode
 
     ![](./media/ag13.png)
 
-1. On the **my-openai-service<inject key="DeploymentID" enableCopy="false" /></inject>** resource page, select **Go to Azure AI Foundry portal**.
+1. On the **my-openai-service** resource page, select **Go to Azure AI Foundry portal**.
 
     ![](./media/ag15.png)
 
@@ -208,7 +208,7 @@ In this task, you will install the required dependencies, set up a virtual envir
       az login
       ```
 
-1. Select the <inject key="AzureAdUserEmail"></inject> **Work or School account** and login using your credentials.
+1. Select the **Work or School account** and login using your credentials.
 
     ![](./media/ag44.png)
 
