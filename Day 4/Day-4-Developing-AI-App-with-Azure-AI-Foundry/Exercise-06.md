@@ -16,12 +16,18 @@ In this lab, you will perform the following:
 
 1. Choose **Add>Add Role Assignment**.
 
+   ![](./media/img28.png)
+   
 1. Under Job function roles, search for and select +++Cognitive Services User+++, then select **Next**. 
 
+   ![](./media/img29.png)
+   
 1. Select **+Select members**.
 
-1. Search for and select +++user1-@lab.LabInstance.Id+++. 
+1. Search for and select +++user1-@lab.LabInstance.Id+++.
 
+   ![](./media/img31.png)
+   
 1. Select **Review + assign**.
 
 1. You might have to wait 3-5 minutes for the new role to take effect before proceeding with the next task.
@@ -48,7 +54,7 @@ This task involves using **Azure AI Foundry** to moderate images and text by det
 
      ![](./media/image-61.png)
 
-1. Within **file explorer** navigate to **C:\LabFiles\Day-4-Developing-AI-App-with-Azure-AI-Foundry\Developing-AI-Applications-with-Azure-AI-Studio-main\Labs\data\image_sample_dataset (1)** press **Enter**, then select **family-builds-campfire.jpg (2)** and click on **Open (3)**. 
+1. Within **file explorer** navigate to **C:\LabFiles\Day-4\Developing-AI-Applications-with-Azure-AI-Studio-main\Labs\data\image_sample_dataset (1)** press **Enter**, then select **family-builds-campfire.jpg (2)** and click on **Open (3)**. 
 
      ![](./media/d41.png)
 
@@ -70,7 +76,7 @@ We should also anticipate customers potentially posting harmful image content. T
 
     ![](./media/d42.png)
 
-1. Within **file explorer** navigate to `C:\LabFiles\Day-4-Developing-AI-App-with-Azure-AI-Foundry\Developing-AI-Applications-with-Azure-AI-Studio-main\Labs\data\image_sample_dataset` and then upload the **bear-attack-blood.JPG** file.
+1. Within **file explorer** navigate to `C:\LabFiles\Day-4\Developing-AI-Applications-with-Azure-AI-Studio-main\Labs\data\image_sample_dataset` and then upload the **bear-attack-blood.JPG** file.
 
 1. Set all Threshold levels to **Medium**.
 
@@ -86,7 +92,7 @@ So far, we’ve tested image content for singular isolated images. However, if w
 
 
 
-1. Within file explorer navigate to **C:\LabFiles\Day-4-Developing-AI-App-with-Azure-AI-Foundry\Developing-AI-Applications-with-Azure-AI-Studio-main\Labs\data**,  press **Enter**. Select **image_sample_dataset.zip (1)** folder and click on **Open (2)**. 
+1. Within file explorer navigate to **C:\LabFiles\Day-4\Developing-AI-Applications-with-Azure-AI-Studio-main\Labs\data**,  press **Enter**. Select **image_sample_dataset.zip (1)** folder and click on **Open (2)**. 
 
     ![](./media/image-81.png)
    
@@ -188,7 +194,7 @@ dataset includes a label to indicate whether the content is harmful. Let’s do 
 
     ![](./media/d43.png)
 
-1. Within **file explorer** navigate to **C:\LabFiles\Day-4-Developing-AI-App-with-Azure-AI-Foundry\Developing-AI-Applications-with-Azure-AI-Studio-main\Labs\data** press **Enter**. Select **bulk-image-moderation-dataset.csv (2)** file and **Open (2)**.
+1. Within **file explorer** navigate to **C:\LabFiles\Day-4\Developing-AI-Applications-with-Azure-AI-Studio-main\Labs\data** press **Enter**. Select **bulk-image-moderation-dataset.csv (2)** file and **Open (2)**.
    
     > Note: The name of the CSV file may vary.
    
