@@ -23,13 +23,13 @@ In this task, you will explore different flow types in Azure AI Foundry by setti
 1. Click on **File (1)** and select **Open Folder (2)**.
 
     ![](./media/image_023.png)
-1. Navigate to `C:\LabFiles\Day-3-Custom-RAG-and-Semantic-Kernel` (1) and select **Semantic-Kernel (2)** folder and click on **Select Folder**.
+1. Navigate to `C:\LabFiles\Day-3` (1) and select **Semantic-Kernel (2)** folder and click on **Select Folder**.
 
 1. If you receive `Do you trust the authors of the files in folder` warning, select the checkbox (1) and click on **Yes, I trust the authors (2)**.
 
     ![](./media/image_025.png)
 
-1. Navigate to **Azure AI Foundry** Icon on top left.
+1. In the browser, navigate to **Azure AI Foundry** Icon on top left.
 
 1. Select the AI foundry project that you created earlier in the lab i.e. **ai-foundry-project-<inject key="Deployment ID" enableCopy="false"></inject> (1)**
 
