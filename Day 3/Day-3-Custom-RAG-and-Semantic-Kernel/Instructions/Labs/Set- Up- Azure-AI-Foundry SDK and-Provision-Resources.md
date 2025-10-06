@@ -5,12 +5,13 @@ In this exercise, you will set up the Azure AI Foundry SDK. This includes config
 ## Setting up the Prerequisite Resources
 
 
-1. On the Azure Portal page +++https://portal.azure.com+++, in the Search resources box at the top of the portal, enter Azure AI Foundry, and then select Azure AI Foundry under Services.
+1. On the Azure Portal page +++https://portal.azure.com+++, in the Search resources box at the top of the portal, enter +++Azure AI Foundry+++, and then select Azure AI Foundry under Services.
 
+   ![](../media/day2ex1-001.png)
 
 2. In the left navigation pane for the AI Foundry, select **AI Hubs**. On the AI Hubs page, click on **Create** and select **Hub** from the drop-down.
    
-   ![](../media/day2ex1-001.png)
+   ![](../media/img1.png)
 
 4. On the **Create an Azure AI hub** pane enter the following details:
    - Subscription : **Leave default subscription**
@@ -51,7 +52,7 @@ In this exercise, you will set up the Azure AI Foundry SDK. This includes config
 
     ![](../media/lab1-5.png)
    
-1. On a **Select a model** window, search for **gpt-4o**, select **gpt-4o** and select **Confirm**
+1. On a **Select a model** window, search for **+++gpt-4o+++**, select **gpt-4o** and select **Confirm**
 
     ![](../media/ag6.png)
 
@@ -68,7 +69,7 @@ In this exercise, you will set up the Azure AI Foundry SDK. This includes config
 
     ![](../media/focus2.png)
    
-1. Navigate back to **Azure Portal** and search for **AI Search** and select **AI Search** resource.
+1. Navigate back to **Azure Portal** and search for **+++AI Search+++** and select **AI Search** resource.
 
     ![](../media/ag20.png)
    
@@ -94,12 +95,21 @@ In this exercise, you will set up the Azure AI Foundry SDK. This includes config
    
 1. Back on the Azure AI Foundry tab, Select **Management Center**.
 
+    ![](../media/img2.png)
+   
 1. Under your Project select **Connected resources**.  Then select **+New connection**.  Select **Azure AI Search**, then choose **Add connection** then **Close**.
 
+    ![](../media/img3.png)
+
+    ![](../media/img4.png)
+   
 1. Next, select **Connected resources** below your Foundry hub. Then select **+New connection**.  Select **Azure AI Search**, then choose **Add connection** then **Close**.
+   
+    ![](../media/img5.png)
 
+    ![](../media/img6.png)
 
-
+    ![](../media/img7.png)
 
 ### Task 1: Install the requirements for the Project
 
