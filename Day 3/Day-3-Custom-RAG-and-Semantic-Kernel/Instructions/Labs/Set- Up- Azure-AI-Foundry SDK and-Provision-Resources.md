@@ -21,39 +21,44 @@ In this exercise, you will set up the Azure AI Foundry SDK. This includes config
    - Connect AI Services incl. OpenAI : Provide a name +++my-ai-service@lab.LabInstance.Id+++  
    - Click on **Save**, followed by **Next:Storage**
 
-   ![](./media/day2ex1-003.png)
+   ![](../media/day2ex1-003.png)
 
-   ![](./media/day2ex1-004.png)
+   ![](../media/day2ex1-004.png)
    
 6. Click on **Review + Create** tab followed by **Create.**
 
-    ![](./media/day2ex1-005.png)
+    ![](../media/day2ex1-005.png)
 
-    ![](./media/day2ex1-006.png)
+    ![](../media/day2ex1-006.png)
    
 8. Wait for the deployment is completed and then click on **Go to resource**.
 
-    ![](./media/day2ex1-007.png)
+    ![](../media/day2ex1-007.png)
    
 10. On the Overview pane, click on **Launch Azure AI Foundry**. This will navigate you to the Azure AI Foundry portal..
 
-    ![](./media/day2ex1-008.png)
+    ![](../media/day2ex1-008.png)
     
 12. Select **+ New project** on the Hub Overview.
 
-    ![](./media/day2ex1-009.png)
+    ![](../media/day2ex1-009.png)
     
 14. Provide the project name as +++ai-foundry-project@lab.LabInstance.Id+++ then select **Create**.
 
-    ![](./media/day2ex1-010.png)
+    ![](../media/day2ex1-010.png)
     
 1. In your **AI Foundry project**, navigate to the **My assets** section, then select **Models + endpoints**. Click **Deploy model**, and choose **Deploy base model** to proceed.
 
+    ![](./media/lab1-5.png)
+   
 1. On a **Select a model** window, search for **gpt-4o**, select **gpt-4o** and select **Confirm**
+
+    ![](./media/ag6.png)
 
 
 1. On **Deploy model gpt-4o** window, select **Customize**.
 
+    ![](./media/lab1-7-1.png)
 
       - Deployment Name: **gpt-4o**
       - Deployment type: **Global Standard**
@@ -61,13 +66,17 @@ In this exercise, you will set up the Azure AI Foundry SDK. This includes config
       - Change the Tokens per Minute Rate Limit to **200K**
       - Click on **Deploy (5)**
 
+    ![](./media/focus2.png)
+   
 1. Navigate back to **Azure Portal** and search for **AI Search** and select **AI Search** resource.
 
-
+    ![](./media/ag20.png)
+   
 1. On the **AI Foundry | AI Search** page, select **+ Create** to create Azure OpenAI resource.
 
+    ![](./media/day2ex3-001.png)
 
-1. On **Create Azure OpenAI** page, provide the following settings and select **Next (6)**:
+1. On **Create a Search service** page, provide the following settings and select **Next (6)**:
 
       | Setting | Value | 
       | --- | --- |
@@ -77,9 +86,12 @@ In this exercise, you will set up the Azure AI Foundry SDK. This includes config
       | Name | +++aisearch@lab.LabInstance.Id+++ |
       | Pricing tier | **Standard S0** |
 
-
+      ![](./media/focus1.png)
+   
 1. Select **Review + create**, then **Create**
 
+    ![](./media/day2ex3-003.png)
+   
 1. Back on the Azure AI Foundry tab, Select **Management Center**.
 
 1. Under your Project select **Connected resources**.  Then select **+New connection**.  Select **Azure AI Search**, then choose **Add connection** then **Close**.
