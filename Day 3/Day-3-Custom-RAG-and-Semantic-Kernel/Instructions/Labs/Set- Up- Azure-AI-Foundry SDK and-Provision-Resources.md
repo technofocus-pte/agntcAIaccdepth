@@ -119,7 +119,7 @@ In this task, you will clone the GitHub repository for the project to access the
 
 1. Click on **File (1)**, then **Open Folder**.
 
-1. Navigate to `C:\LabFiles\Day-3-Custom-RAG-and-Semantic-Kernel` **(1)**, select the **Custom-RAG-App (2)** folder and then click on **Select folder (3)**.
+1. Navigate to `C:\LabFiles\Day-3` **(1)**, select the **Custom-RAG-App (2)** folder and then click on **Select folder (3)**.
 
 1. Click on **Yes, I trust the author**.
 
@@ -158,8 +158,10 @@ In this task, you will set up and configure the necessary environment variables 
 
 1. Click on the **Azure AI Foundry** Icon on top left.
 1. Select your AI foundry project.
-1. Navigate to your **Overview (1)** page of **ai-foundry-project-<inject key="Deployment ID" enableCopy="false"></inject>** and then copy and paste the **Project connection string (2)** in a notepad. You will be using it in the next step.
+1. Navigate to your **Overview (1)** page of **ai-foundry-project-** and then copy and paste the **Project connection string (2)** in a notepad. You will be using it in the next step.
 
+    ![](../media/img8.png)
+   
 1. Get back to **Visual Studio Code**.
 
 1. Right-click on **.env.sample (1)** and select **Rename (2)**.
