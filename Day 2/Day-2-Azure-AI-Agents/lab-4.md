@@ -90,7 +90,7 @@ In this task, you will create an **Azure AI Search index** to store vectorized r
    - Under Members, select **Managed identity(1)**
    - Select **Members (2)**
    - Managed identity: **search service(1)** **(3)**
-   - Then select **my-search-service-<inject key="Deployment ID" enableCopy="false"></inject>**(4) search service.
+   - Then select your search service.
    - Click on **Select (5)**
 
     ![](./media/t1s14.png)
@@ -99,7 +99,7 @@ In this task, you will create an **Azure AI Search index** to store vectorized r
 
     ![](./media/t1s15.png)
 
-1. Go to the **Azure OpenAI**, **my-openai-service<inject key="DeploymentID" enableCopy="false" /></inject>**.
+1. Go to the **Azure OpenAI**, **my-openai-service**.
 
     ![](./media/pg10t1st16.png)
 
@@ -116,7 +116,7 @@ In this task, you will create an **Azure AI Search index** to store vectorized r
    - Under Members, select **Managed identity(1)**
    - Select **Members (2)**
    - Managed identity: **search service(1)** **(3)**
-   - Then select **my-search-service-<inject key="Deployment ID" enableCopy="false"></inject>**(4) search service.
+   - Then select your search service.
    - Click on **Select (5)**
 
     ![](./media/t1s19.png)
@@ -155,7 +155,7 @@ In this task, you will create an **Azure AI Search index** to store vectorized r
 
 1. Click on **Upload**.
 
-1. Navigate to **Azure AI search** service and select **my-search-service-<inject key="Deployment ID" enableCopy="false"></inject>**.
+1. Navigate to **Azure AI search** service and select your search service.
 
     ![](./media/t1s29.png)
 
@@ -186,7 +186,7 @@ In this task, you will create an **Azure AI Search index** to store vectorized r
    |---|---|
    |Kind|**Azure OpenAI (1)**|
    |Subscription|leave it default **(2)**|
-   |Azure OpenAI service|**my-openai-service<inject key="DeploymentID" enableCopy="false" /></inject>** **(3)**|
+   |Azure OpenAI service|**my-openai-service** **(3)**|
    |Model deployment|**text-embedding-3-large** **(4)**|
    |Authentication type|**System assigned identity** **(5)**|
    |Acknowledgement rectangle|**Checked** **(6)**|
@@ -200,7 +200,7 @@ In this task, you will create an **Azure AI Search index** to store vectorized r
 
      > **Note**: The uploading of data to indexes in search service might take 5-10 minutes.
 
-1. Navigate to your **Overview** (1) page of **ai-foundry-project-<inject key="Deployment ID" enableCopy="false"></inject>**. and click on **Open In management center**(2).
+1. Navigate to your **Overview** (1) page of **ai-foundry-project-**. and click on **Open In management center**(2).
 
     ![](./media/day2ex3-008.png)
 1. Select **Connected resources** (1) and click on **New connection** (2).
