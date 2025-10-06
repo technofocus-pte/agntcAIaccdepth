@@ -9,9 +9,10 @@ In this exercise, you will set up the Azure AI Foundry SDK. This includes config
 
 
 2. In the left navigation pane for the AI Foundry, select **AI Hubs**. On the AI Hubs page, click on **Create** and select **Hub** from the drop-down.
+   
+   ![](./media/day2ex1-001.png)
 
-
-3. On the **Create an Azure AI hub** pane enter the following details:
+4. On the **Create an Azure AI hub** pane enter the following details:
    - Subscription : **Leave default subscription**
    - Resource Group :  **AgenticAI**
    - Region : **EastUS**
@@ -20,17 +21,32 @@ In this exercise, you will set up the Azure AI Foundry SDK. This includes config
    - Connect AI Services incl. OpenAI : Provide a name +++my-ai-service@lab.LabInstance.Id+++  
    - Click on **Save**, followed by **Next:Storage**
 
+   ![](./media/day2ex1-003.png)
+
+   ![](./media/day2ex1-004.png)
    
-4. Click on **Review + Create** tab followed by **Create.**
-  
-5. Wait for the deployment is completed and then click on **Go to resource**.
+6. Click on **Review + Create** tab followed by **Create.**
 
-6. On the Overview pane, click on **Launch Azure AI Foundry**. This will navigate you to the Azure AI Foundry portal..
+    ![](./media/day2ex1-005.png)
 
-7. Select **+ New project** on the Hub Overview.
+    ![](./media/day2ex1-006.png)
+   
+8. Wait for the deployment is completed and then click on **Go to resource**.
 
-8. Provide the project name as +++ai-foundry-project@lab.LabInstance.Id+++ then select **Create**.
+    ![](./media/day2ex1-007.png)
+   
+10. On the Overview pane, click on **Launch Azure AI Foundry**. This will navigate you to the Azure AI Foundry portal..
 
+    ![](./media/day2ex1-008.png)
+    
+12. Select **+ New project** on the Hub Overview.
+
+    ![](./media/day2ex1-009.png)
+    
+14. Provide the project name as +++ai-foundry-project@lab.LabInstance.Id+++ then select **Create**.
+
+    ![](./media/day2ex1-010.png)
+    
 1. In your **AI Foundry project**, navigate to the **My assets** section, then select **Models + endpoints**. Click **Deploy model**, and choose **Deploy base model** to proceed.
 
 1. On a **Select a model** window, search for **gpt-4o**, select **gpt-4o** and select **Confirm**
