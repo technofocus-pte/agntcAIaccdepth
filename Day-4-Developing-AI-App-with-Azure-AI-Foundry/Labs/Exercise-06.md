@@ -8,6 +8,25 @@
 
 - タスク 1: Azure AI Foundry を使用した画像とテキストのモデレーション
 
+## アカウントに Cognitive Services Userの役割を割り当てます 
+
+1.	Azure ポータル +++https://portal.azure.com+++ で、my-ai-service@lab.LabInstance.Id という名前のリソースを見つけます。
+   
+2.	Access Control (IAM)を選択してください。
+   
+3.	Add>Add Role Assignmentを選択してください。
+   
+4.	「Job function roles」の下で、「+++Cognitive Services User+++」を検索して 選択し、「Next」を選択します。
+   
+5.	+Select membersを選択してください。
+    
+6.	 +++user1-@lab.LabInstance.Id+++を検索して選択します。
+    
+7.	Review + assignを選択してください。
+    
+8.	次のタスクに進む前に、新しいロールが有効になるまで 3 ～ 5 分待つ必要がある場合があります。
+
+
 ## タスク 1.1 : Azure AI Foundry を使用した画像とテキストのモデレーション
 
 このタスクでは、**Azure AI Foundry** を活用して、不適切、有害、または機密性の高いコンテンツを検出し、画像とテキストをモデレーションします。AI モデルを使用してコンテンツを分析・フィルタリングし、事前定義されたポリシーに基づいてコンプライアンスと安全性を確保します。
