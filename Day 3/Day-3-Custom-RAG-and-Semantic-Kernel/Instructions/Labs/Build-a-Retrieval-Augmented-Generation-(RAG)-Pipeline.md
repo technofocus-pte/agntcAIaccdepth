@@ -22,12 +22,15 @@ In this task, you will index knowledge sources by processing and storing vectori
     ```
 
 1. Click on the **Azure AI Foundry** Icon on top left.
-1. Select the AI foundry project that you created earlier in the lab i.e. **ai-foundry-project-<inject key="Deployment ID" enableCopy="false"></inject> (1)**
+1. Select the AI foundry project that you created earlier in the lab i.e. **ai-foundry-project- (1)**
 1. Click on **Models + endpoints (1)** under **My assets** in the left pane and then click on **+ Deploy model**, followed by **Deploy Base model (2)**.
 
-1. Search for **text-embedding-ada-002**, select the model and click on **Confirm**.
+1. Search for **+++text-embedding-ada-002+++**, select the model and click on **Confirm**.
 1. Click on **Deploy**.
-1. Navigate to `rag/custom-rag-app/assets` **(1)** folder and select **products.csv** file **(2)**. This file contains examples of all data sets to be used in your chat app.
+
+    ![](../media/img9.png)
+   
+1. In Visual Studio Code, navigate to `rag/custom-rag-app/assets` **(1)** folder and select **products.csv** file **(2)**. This file contains examples of all data sets to be used in your chat app.
 
     ![](../media/af35.png)
 
@@ -79,9 +82,7 @@ In this task, you will index knowledge sources by processing and storing vectori
 
     ![](../media/af38.png)  
 
-    - Enter the **Password <inject key="AzureAdUserPassword"></inject> (1)**, then click **Sign in (2).**
-
-    ![](../media/af39.png)    
+    - Enter the **TAP <inject key="AzureAdUserPassword"></inject> (1)**, then click **Sign in (2).**  
 
     - Click on **No, sign in to this app only.**
 
@@ -95,8 +96,18 @@ In this task, you will index knowledge sources by processing and storing vectori
 
 1. Under your Project select **Connected resources**.  Then select **+New connection**.  Select **Azure AI Foundry**, then choose **Add connection** then **Close**.
 
+    ![](../media/img10.png)
+
+    ![](../media/img11.png)
+
+    ![](../media/img12.png)
+
 1. Next, select **Connected resources** below your Foundry hub. Then select **+New connection**.  Select **Azure AI Foundry**, then choose **Add connection** then **Close**.
 
+    ![](../media/img13.png)
+
+    ![](../media/img14.png)
+   
 1. Back in VS Code run the below commands to install the specfic version of Azure AI Project & Infernce:
 
     +++pip install azure-ai-projects==1.0.0b5+++
@@ -114,7 +125,7 @@ In this task, you will index knowledge sources by processing and storing vectori
 
     ![](../media/af42.png)
 
-    > **Note:** In case of an error, please run the below command and re-run the step 14:
+    > **Note:** In case of an error, please run the below command and re-run the index creation command above.
 
 
     +++pip install --upgrade azure-search-documents+++
@@ -183,7 +194,7 @@ In this task, you will enable telemetry logging by integrating Application Insig
 
     ![](../media/af49.png)
 
-1. Enter the name as **Applicationinsight (1)**, then click on **Create (2)**.
+1. Enter the name as **+++Applicationinsight+++ (1)**, then click on **Create (2)**.
 
     ![](../media/af50.png)
 
