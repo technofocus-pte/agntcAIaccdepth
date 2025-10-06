@@ -1,4 +1,4 @@
-# Exercise 1: Understanding the Lifecycle of Flow Development
+<img width="567" height="360" alt="image" src="https://github.com/user-attachments/assets/bcd0daef-fa9b-4202-ba84-99b07c6e8638" /><img width="563" height="363" alt="image" src="https://github.com/user-attachments/assets/7b9d49c0-de9b-45ec-8066-dbd6c6a0687b" /># Exercise 1: Understanding the Lifecycle of Flow Development
 
 ## Lab Overview
 In this lab, you will explore the lifecycle of developing AI applications using Azure AI Foundry's Prompt Flow. You'll start by understanding the structured process, including initialization, experimentation, evaluation, refinement, and production stages. You will learn about different flow types, such as Standard, Chat, and Evaluation flows, and how they cater to various application needs. You'll also delve into the concept of flows and nodes within Prompt Flow, which enable seamless data processing and task execution.
@@ -11,13 +11,19 @@ In this lab, you will perform the following:
 ## Setting up the Prerequisite Resources
 
 
-1. On the Azure Portal page +++https://portal.azure.com+++, in the Search resources box at the top of the portal, enter Azure AI Foundry, and then select Azure AI Foundry under Services.
+1. Login to the Azure Portal page +++https://portal.azure.com+++ using the **Username** and **TAP** from the Resources tab.
 
+   ![](./media/img15.png)
+  
+3. Select **Azure AI Foundry**.
 
-2. In the left navigation pane for the AI Foundry, select **AI Hubs**. On the AI Hubs page, click on **Create** and select **Hub** from the drop-down.
+   ![](./media/img16.png)
+   
+5. In the left navigation pane for the AI Foundry, select **AI Hubs**. On the AI Hubs page, click on **Create** and select **Hub** from the drop-down.
 
+   ![](./media/img17.png)
 
-3. On the **Create an Azure AI hub** pane enter the following details:
+6. On the **Create an Azure AI hub** pane enter the following details:
    - Subscription : **Leave default subscription**
    - Resource Group :  **AgenticAI**
    - Region : **EastUS**
@@ -26,22 +32,33 @@ In this lab, you will perform the following:
    - Connect AI Services incl. OpenAI : Provide a name +++my-ai-service@lab.LabInstance.Id+++  
    - Click on **Save**, followed by **Next:Storage**
 
+   ![](./media/img18.png)
+
+   ![](./media/img19.png)
    
-4. Click on **Review + Create** tab followed by **Create.**
-  
-5. Wait for the deployment is completed and then click on **Go to resource**.
+8. Click on **Review + Create** tab followed by **Create.**
 
-6. On the Overview pane, click on **Launch Azure AI Foundry**. This will navigate you to the Azure AI Foundry portal..
+   ![](./media/img20.png)
 
-7. Select **+ New project** on the Hub Overview.
+9. Wait for the deployment is completed and then click on **Go to resource**.
 
-8. Provide the project name as +++ai-foundry-project@lab.LabInstance.Id+++ then select **Create**.
+10. On the Overview pane, click on **Launch Azure AI Foundry**. This will navigate you to the Azure AI Foundry portal..
 
+   ![](./media/img21.png)
 
+11. Select **+ New project** on the Hub Overview.
+
+   ![](./media/img22.png)
+   
+12. Provide the project name as +++ai-foundry-project@lab.LabInstance.Id+++ then select **Create**.
+
+   ![](./media/img23.png)
+   
 1. In your **AI Foundry project**, navigate to the **My assets** section, then select **Models + endpoints**. Click **Deploy model**, and choose **Deploy base model** to proceed.
-
+   
 1. On a **Select a model** window, search for **gpt-4o**, select **gpt-4o** and select **Confirm**
 
+   ![](./media/img24.png)
 
 1. On **Deploy model gpt-4o** window, select **Customize**.
 
@@ -52,12 +69,12 @@ In this lab, you will perform the following:
       - Change the Tokens per Minute Rate Limit to **200K**
       - Click on **Deploy (5)**
 
-1. Navigate back to **Azure Portal** and search for **Open AI** and select **Azure Open AI** resource.
+1. Navigate back to **Azure Portal** and search for **+++Open AI+++** and select **Azure Open AI** resource.
 
+1. On the **AI Foundry | Azure OpenAI** page, select **+ Create -> Azure OpenAI** to create Azure OpenAI resource.
 
-1. On the **AI Foundry | Azure OpenAI** page, select **+ Create** to create Azure OpenAI resource.
-
-
+   ![](./media/img25.png)
+   
 1. On **Create Azure OpenAI** page, provide the following settings and select **Next (6)**:
 
       | Setting | Value | 
@@ -68,11 +85,14 @@ In this lab, you will perform the following:
       | Name | +++my-openai-service@lab.LabInstance.Id+++ |
       | Pricing tier | **Standard S0** |
 
-
+   ![](./media/img26.png)
+   
 1. Select **Next** until Review + submit tab appears.
 
 1. On the **Review + submit** page, select **Create**
-  
+
+   ![](./media/img27.png)
+   
 ### Task 1: Comprehend the Flow Development Lifecycle (READ ONLY)
 
 Prompt flow offers a well-defined process that facilitates the seamless development of AI applications. By using it, you can effectively progress through the stages of developing, testing, tuning, and deploying flows, ultimately resulting in the creation of fully fledged AI applications.
