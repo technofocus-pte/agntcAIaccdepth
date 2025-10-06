@@ -49,16 +49,16 @@ In this exercise, you will set up the Azure AI Foundry SDK. This includes config
     
 1. In your **AI Foundry project**, navigate to the **My assets** section, then select **Models + endpoints**. Click **Deploy model**, and choose **Deploy base model** to proceed.
 
-    ![](./media/lab1-5.png)
+    ![](../media/lab1-5.png)
    
 1. On a **Select a model** window, search for **gpt-4o**, select **gpt-4o** and select **Confirm**
 
-    ![](./media/ag6.png)
+    ![](../media/ag6.png)
 
 
 1. On **Deploy model gpt-4o** window, select **Customize**.
 
-    ![](./media/lab1-7-1.png)
+    ![](../media/lab1-7-1.png)
 
       - Deployment Name: **gpt-4o**
       - Deployment type: **Global Standard**
@@ -66,15 +66,15 @@ In this exercise, you will set up the Azure AI Foundry SDK. This includes config
       - Change the Tokens per Minute Rate Limit to **200K**
       - Click on **Deploy (5)**
 
-    ![](./media/focus2.png)
+    ![](../media/focus2.png)
    
 1. Navigate back to **Azure Portal** and search for **AI Search** and select **AI Search** resource.
 
-    ![](./media/ag20.png)
+    ![](../media/ag20.png)
    
 1. On the **AI Foundry | AI Search** page, select **+ Create** to create Azure OpenAI resource.
 
-    ![](./media/day2ex3-001.png)
+    ![](../media/day2ex3-001.png)
 
 1. On **Create a Search service** page, provide the following settings and select **Next (6)**:
 
@@ -86,11 +86,11 @@ In this exercise, you will set up the Azure AI Foundry SDK. This includes config
       | Name | +++aisearch@lab.LabInstance.Id+++ |
       | Pricing tier | **Standard S0** |
 
-      ![](./media/focus1.png)
+      ![](../media/focus1.png)
    
 1. Select **Review + create**, then **Create**
 
-    ![](./media/day2ex3-003.png)
+    ![](../media/day2ex3-003.png)
    
 1. Back on the Azure AI Foundry tab, Select **Management Center**.
 
