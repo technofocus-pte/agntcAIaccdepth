@@ -96,9 +96,9 @@
 
     ![](../media/af-41.png)
 
-1. Back on the Azure AI Foundry tab, Select **Management Center**.
+20. Azure AI Foundry タブに戻り、[Management Center] を選択します。
 
-1. Under your Project select **Connected resources**.  Then select **+New connection**.  Select **Azure AI Foundry**, then choose **Add connection** then **Close**.
+22. プロジェクトで「接続されたリソース」を選択します。次に「+新しい接続」を選択します。Azure AI Searchを選択し、「接続の追加」を選択してから「閉じる」を選択します。
 
     ![](../media/img10.png)
 
@@ -106,7 +106,7 @@
 
     ![](../media/img12.png)
 
-1. Next, select **Connected resources** below your Foundry hub. Then select **+New connection**.  Select **Azure AI Foundry**, then choose **Add connection** then **Close**.
+24. 次に、Foundry ハブの下にある「接続済みリソース」を選択します。次に「+新しい接続」を選択します。「Azure AI Foundry」を選択し、「接続を追加」を選択してから「閉じる」を選択します。
 
     ![](../media/img13.png)
 
@@ -119,7 +119,6 @@
     pip install azure-ai-inference==1.0.0b8
     ```   
     
-
 15. コードを実行してインデックスをローカルに構築し、クラウドプロジェクトに登録します：
 
     ```bash
