@@ -15,16 +15,22 @@
 2.	Access Control (IAM)を選択してください。
    
 3.	Add>Add Role Assignmentを選択してください。
+
+   ![](./media/img28.png)
    
-4.	「Job function roles」の下で、「+++Cognitive Services User+++」を検索して 選択し、「Next」を選択します。
+5.	「Job function roles」の下で、「+++Cognitive Services User+++」を検索して 選択し、「Next」を選択します。
+
+   ![](./media/img29.png)
    
-5.	+Select membersを選択してください。
+6.	+Select membersを選択してください。
     
-6.	 +++user1-@lab.LabInstance.Id+++を検索して選択します。
+7.	 +++user1-@lab.LabInstance.Id+++を検索して選択します。
+
+   ![](./media/img31.png)
+   
+8.	Review + assignを選択してください。
     
-7.	Review + assignを選択してください。
-    
-8.	次のタスクに進む前に、新しいロールが有効になるまで 3 ～ 5 分待つ必要がある場合があります。
+9.	次のタスクに進む前に、新しいロールが有効になるまで 3 ～ 5 分待つ必要がある場合があります。
 
 
 ## タスク 1.1 : Azure AI Foundry を使用した画像とテキストのモデレーション
