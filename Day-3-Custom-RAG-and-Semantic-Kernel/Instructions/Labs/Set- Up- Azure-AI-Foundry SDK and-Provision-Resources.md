@@ -91,7 +91,7 @@
    - サービス名 : **+++my-search-service@lab.LabInstance.Id+++ (2)**
    - 位置 : **Region** **(3)**
 
-      ![](./media/focus1.png)
+     ![](./media/focus1.png)
 
 18. **確認 + 作成** で、**作成** をクリックします。
 
