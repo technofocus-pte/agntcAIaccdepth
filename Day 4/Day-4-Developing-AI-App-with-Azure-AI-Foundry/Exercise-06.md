@@ -6,9 +6,11 @@ This lab provides hands-on experience in implementing responsible AI practices u
 ## Lab Objectives
 In this lab, you will perform the following:
 
-- Task 1 : Image and Text Moderation Using Azure AI foundry
+- Task 1: Assign your account the role of Cognitive Services User
+  
+- Task 2 : Image and Text Moderation Using Azure AI foundry
 
-## Assign your account the role of Cognitive Services User
+## Task 1: Assign your account the role of Cognitive Services User
 
 1. In the Azure portal +++https://portal.azure.com+++, find your resource named **my-ai-service@lab.LabInstance.Id**.
 
@@ -34,7 +36,7 @@ In this lab, you will perform the following:
 
 
 
-## Task 1.1 : Image and Text Moderation Using Azure AI Foundry
+## Task 2 : Image and Text Moderation Using Azure AI Foundry
 
 This task involves using **Azure AI Foundry** to moderate images and text by detecting inappropriate, harmful, or sensitive content. It leverages AI models to analyze and filter content based on predefined policies, ensuring compliance and safety in applications.
 
