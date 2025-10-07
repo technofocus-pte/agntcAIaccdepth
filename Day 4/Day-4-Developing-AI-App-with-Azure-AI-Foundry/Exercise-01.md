@@ -8,7 +8,7 @@ In this lab, you will explore the lifecycle of developing AI applications using 
 In this lab, you will perform the following:
 - Task 1: Comprehend the Flow Development Lifecycle
 
-## Setting up the Prerequisite Resources
+### Task 1: Setting up the Prerequisite Resources
 
 
 1. Login to the Azure Portal page +++https://portal.azure.com+++ using the **Username** and **TAP** from the Resources tab.
@@ -93,7 +93,7 @@ In this lab, you will perform the following:
 
    ![](./media/img27.png)
    
-### Task 1: Comprehend the Flow Development Lifecycle (READ ONLY)
+### Task 2: Comprehend the Flow Development Lifecycle (READ ONLY)
 
 Prompt flow offers a well-defined process that facilitates the seamless development of AI applications. By using it, you can effectively progress through the stages of developing, testing, tuning, and deploying flows, ultimately resulting in the creation of fully fledged AI applications.
 
@@ -106,7 +106,7 @@ Experimentation: Run the flow against sample data, evaluate the prompt's perform
 
   >**Note**: By following this structured and methodical approach, prompt flow empowers you to develop, rigorously test, fine-tune, and deploy flows with confidence, resulting in the creation of robust and sophisticated AI applications.
 
-### Task 1.1: Understand the types of flows
+### Task 2.1: Understand the types of flows
 
 In this task, you will explore different flow types in Azure AI Foundry
 1. Navigate to Azure AI foundry using the link below:
@@ -121,7 +121,7 @@ In this task, you will explore different flow types in Azure AI Foundry
 
   ![](./media/image-48.png)
 
-### Task 1.2: Understand a flow
+### Task 2.2: Understand a flow
 In this task, you will explore **Prompt flow** a feature within the Azure AI Foundry.
 
 1. A flow in Prompt flow serves as an executable workflow that streamlines the development of your LLM-based AI application. It provides a comprehensive framework for managing data flow and processing within your application.
@@ -138,7 +138,7 @@ In this task, you will explore **Prompt flow** a feature within the Azure AI Fou
 
 1. To facilitate node configuration and fine-tuning, a visual representation of the workflow structure is provided through a DAG (Directed Acyclic Graph) graph. This graph showcases the connectivity and dependencies between nodes, providing a clear overview of the entire workflow.
 
-### Task 1.3: Explore the tools available in prompt flow
+### Task 2.3: Explore the tools available in prompt flow
 
 In this task, you will explore the tools available in Prompt Flow within Azure AI Foundry.
 
