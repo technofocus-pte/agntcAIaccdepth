@@ -2,8 +2,7 @@
 
 In this exercise, you will set up the Azure AI Foundry SDK. This includes configuring the environment, deploying foundation models, and ensuring seamless integration with Azure AI services for knowledge retrieval and inference.
 
-## Setting up the Prerequisite Resources
-
+### Task 1: Setting up the Prerequisite Resources
 
 1. On the Azure Portal page +++https://portal.azure.com+++, in the Search resources box at the top of the portal, enter +++Azure AI Foundry+++, and then select Azure AI Foundry under Services.
 
@@ -111,7 +110,7 @@ In this exercise, you will set up the Azure AI Foundry SDK. This includes config
 
     ![](../media/img7.png)
 
-### Task 1: Install the requirements for the Project
+### Task 2: Install the requirements for the Project
 
 In this task, you will clone the GitHub repository for the project to access the necessary files for building the chat app.
 
@@ -146,7 +145,7 @@ In this task, you will clone the GitHub repository for the project to access the
       >**Note:** Wait for the installation to complete. It might take some time.
 
 
-### Task 2: Configure Environment Variables
+### Task 3: Configure Environment Variables
 
 In this task, you will set up and configure the necessary environment variables to ensure seamless integration between your RAG application and Azure AI Foundry services.
 
