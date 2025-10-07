@@ -14,82 +14,66 @@
 
 1. Azure Portal ページで、ポータルの上部にある [リソースの検索] ボックスに「Azure AI Foundry (1)」と入力し、[サービス] の下にある [Azure AI Foundry (2)] を選択します。
 
-   ![](Day-2-Azure-AI-Agents/media/day2ex1-001.png)
+   ![](./media/img15.png)
 
+   ![](./media/img16.png)
 
 2. AI Foundryの左側のナビゲーションペインで、**AI Hubs (1)**を選択します。AI Hubsページで、**Create (2)**をクリックし、ドロップダウンから**Hub (3)**を選択します。
 
-    ![](./media/day2ex1-002.png)
+   ![](./media/img17.png)
 
 3. **Azure AI ハブの作成** ペインで、次の詳細を入力します。
    - サブスクリプション : **デフォルトのサブスクリプションのままにする**
    - リソースグループ :  **AgenticAI** (1)
    - 地域 : **Region** (2)
    - 名前 : **+++ai-foundry-hub@lab.LabInstance.Id+++** (3) 
-      
-      ![](./media/day2ex1-003.png)
-
    - OpenAIを含むAIサービスに接続 : **新規作成 (1)** をクリックします。
    - OpenAIを含むAIサービスに接続 : 名前を入力してください **+++my-ai-service@lab.LabInstance.Id+++ (2)**.  
    - **保存 (3)** をクリックします。, **次へ:ストレージ (4)**
 
-      ![](./media/day2ex1-004.png)
+   ![](./media/img18.png)
+
+   ![](./media/img19.png)
    
 4. **[確認 + 作成]** タブをクリックし、続いて **[作成]** をクリックします。
 
-   ![](./media/day2ex1-005.png)
-
-   ![](./media/day2ex1-006.png)
+   ![](./media/img20.png)
   
 5. デプロイが完了するまで待ってから、[**リソースに移動**] をクリックします。
 
-   ![](./media/day2ex1-007.png)
-
 6. 「概要」ペインで、「**Azure AI Foundry を起動**」をクリックします。Azure AI Foundry ポータルに移動します。
 
-   ![](./media/day2ex1-008.png)
+   ![](./media/img21.png)
 
 7. 下にスクロールして、ハブの概要で **+ 新しいプロジェクト** をクリックします。
 
-   ![](./media/day2ex1-009.png)
+   ![](./media/img22.png)
 
 8. プロジェクト名を次のように入力します **+++ai-foundry-project@lab.LabInstance.Id+++** 次に**作成 (2)**をクリックします。
 
-   ![](./media/day2ex1-010.png)
+   ![](./media/img23.png)
 
 9. プロジェクトが作成されたら、下にスクロールして **プロジェクト接続文字列** をコピーします。次に、メモ帳または安全な場所に貼り付けます。今後のタスクで必要になります。
 
-   ![](./media/day2ex1-011.png)
-
 10. **AI Foundry プロジェクト**で、**アセット (1)** セクションに移動し、**モデルとエンドポイント (2)** を選択します。**モデルのデプロイ (3)** をクリックし、**ベースモデルのデプロイ (4)** を選択して続行します。
-
-   ![](./media/lab1-5.png)
 
 11. **モデルの選択** ウィンドウで、**gpt-4o (1)** を検索し、**gpt-4o (2)** を選択して **確認 (3)** を選択します。
 
-   ![](./media/ag6.png)
+   ![](./media/img24.png)
 
 12. **モデル gpt-4o のデプロイ** ウィンドウで、**カスタマイズ** を選択します。
-
-   ![](./media/lab1-7-1.png)
 
    - **モデルバージョンを 2024-08-06 (1)** に変更します。
    - トークン毎分レート制限を **200K (2)** に変更します。
    - **デプロイ (3)** をクリックします。
 
-     ![](./media/ag8.png)   
-
 13. **Model + Endpoints (1)** をクリックすると、デプロイされた **gpt-4o (2)** モデルが表示されます。
-
-   ![](./media/ag9.png)
 
 14. **Azure ポータル** に戻り、**Open AI (1)** を検索して **Azure Open AI (2)** リソースを選択します。
 
-   ![](./media/ag10.png)
-
 15. **Azure AI サービス | Azure OpenAI** ページで、**+ 作成 -> Azure OpenAI** を選択して Azure OpenAI リソースを作成します。
 
-   ![](./media/lab1-11.png)
+   ![](./media/img25.png)
 
 16. **Azure OpenAI の作成** ページで、以下の設定を提供し、**次へ (6)** をクリックします。
 
@@ -101,11 +85,13 @@
    | 名前 | **+++my-openai-service@lab.LabInstance.Id+++ (4)** |
    | 価格帯 | **Standard S0 (5)** |
 
-   ![](./media/ag11.png)
+   ![](./media/img26.png)
 
 17. **次へ** を 2 回クリックします。
 
 18. **レビュー + 提出** ページで、**作成** をクリックします。
+
+   ![](./media/img27.png)
   
 ### タスク 2: フロー開発のライフサイクルを理解する (読み取り専用)
 
