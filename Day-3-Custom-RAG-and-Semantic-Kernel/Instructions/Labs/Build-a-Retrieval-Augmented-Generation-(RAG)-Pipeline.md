@@ -96,6 +96,22 @@
 
     ![](../media/af-41.png)
 
+1. Back on the Azure AI Foundry tab, Select **Management Center**.
+
+1. Under your Project select **Connected resources**.  Then select **+New connection**.  Select **Azure AI Foundry**, then choose **Add connection** then **Close**.
+
+    ![](../media/img10.png)
+
+    ![](../media/img11.png)
+
+    ![](../media/img12.png)
+
+1. Next, select **Connected resources** below your Foundry hub. Then select **+New connection**.  Select **Azure AI Foundry**, then choose **Add connection** then **Close**.
+
+    ![](../media/img13.png)
+
+    ![](../media/img14.png)
+   
 14. 以下のコマンドを実行して、Azure AI Project & Infernce の特定のバージョンをインストールします。
 
      ```bash
