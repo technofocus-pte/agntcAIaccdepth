@@ -7,8 +7,127 @@
 
 在本实验中，您将完成以下任务：
 - 任务 1：理解流程开发生命周期
+
+## 练习 1: 了解Flow Development 的生命周期
+
+### 任务 1: 设置先决条件资源
+
+1.  登录到 Azure 门户页面
+    +++[https://portal.azure.com+++](https://portal.azure.com+++/) 使用
+    **“资源”选项卡中的**用户名**和** TAP。
+
+    ![A screenshot of a computer AI-generated content may be
+incorrect.](./media/image30.png)
+
+2.  选择 **Azure AI Foundry**.
+
+    ![A screenshot of a computer AI-generated content may be
+incorrect.](./media/image31.png)
+
+3.  在 AI Foundry 的左侧导航窗格中，选择**AI Hubs**. 在“AI
+    中心”页面上，单击“**创建**”，然后 **从下拉列表中选择**“中心”。
+
+    ![A screenshot of a computer AI-generated content may be
+incorrect.](./media/image32.png)
+
+4.  在 **Create an Azure AI hub** 窗格中输入以下详细信息：
+
+    1.  订阅 : **Leave default subscription**
+
+    2.  资源组 : **AgenticAI**
+
+    3.  地区 : **EastUS**
+
+    4.  名字 : <+++ai-foundry-hub@lab.LabInstance.Id>+++
+
+    5.  连接人工智能服务，包括。开放人工智能 : 点击 **Create New**
+
+    6.  连接 AI 服务，包括。开放人工智能 :
+        提供名称<+++my-ai-service@lab.LabInstance.Id>+++
+
+    7.  点击 **Save**, 然后**Next:Storage**
+
+    ![A screenshot of a computer AI-generated content may be
+incorrect.](./media/image33.png)
+
+  ![Screens screenshot of a computer AI-generated content may be incorrect.](./media/image34.png)
+
+5.  点击 **Review + Create** 选项卡，然后是**创建。**
+
+  ![A screenshot of a computer AI-generated content may be
+incorrect.](./media/image35.png)
+
+6.  等待部署完成，然后单击**Go to resource**.
+
+7.  在“概述”窗格上, 点击 **Launch Azure AI Foundry**. 这会导航到 Azure
+    AI Foundry 门户。
+
+  ![A screenshot of a computer AI-generated content may be
+incorrect.](./media/image36.png)
+
+8.  在中心概述上，选择 **+ New project** 
+
+  ![A screenshot of a computer AI-generated content may be
+incorrect.](./media/image37.png)
+
+9.  将项目名称提供为<+++ai-foundry-project@lab.LabInstance.Id>+++
+    然后选择 **Create**.
+
+  ![A screenshot of a computer AI-generated content may be
+incorrect.](./media/image38.png)
+
+1.  在你的 **AI Foundry project**, 导航到 **My assets** 部分,
+    然后选择 **Models + endpoints**. 点击 **Deploy model**,
+    然后选择 **Deploy base model** 以继续.
+
+2.  在 **Select a model** 窗口, 搜索**gpt-4o**,
+    选择 **gpt-4o** 并选择 **Confirm**
+
+  ![A screenshot of a chat application AI-generated content may be
+incorrect.](./media/image39.png)
+
+3.  在 **Deploy model gpt-4o** 窗口, 选择 **Customize**.
+
+    - Deployment 名称: **gpt-4o**
+
+    - Deployment 类型: **Global Standard**
+
+    - 修改 **Model version to 2024-08-06 (Default)**
+
+    - 将每分钟令牌数速率限制更改为 **200K**
+
+    - 点击 **Deploy (5)**
+
+4.  导航回 **Azure Portal**并搜索 **+++Open AI+++** 并选择 **Azure Open
+    AI** 资源。
+
+5.  在 **AI Foundry | Azure OpenAI** 页面, 选择 **+ Create -\> Azure
+    OpenAI** 以创建 Azure OpenAI 资源。
+
+  ![A screenshot of a computer AI-generated content may be
+incorrect.](./media/image40.png)
+
+6.   在**Create Azure OpenAI**  页面, 提供以下设置，然后选择 **Next
+    (6)**:
+
+    | 设置|价值 |
+    |:-----|:-----|
+    |订阅 | 保留默认订阅|
+    |资源组 | **AgenticAI**|
+    |地区 |**East US** |
+    |名称 | +++my-openai-service@lab.LabInstance.Id+++|
+    | 定价层|**Standard S0** |    
+
+    ![A screenshot of a computer AI-generated content may be incorrect.](./media/image41.png)
+
+7.  选择 **Next** 直到出现“审阅 + 提交”选项卡.
+
+8.  在 **Review + submit** 页面上, 选择 **Create**
+
+    ![A screenshot of a computer AI-generated content may be
+incorrect.](./media/image42.png)
   
-### 任务 1：理解流程开发生命周期（仅供阅读）
+### 任务 2：理解流程开发生命周期（仅供阅读）
 
 Prompt flow 提供了一个明确定义的流程，可以促进 AI 应用程序的无缝开发。通过使用它，您可以有效地完成开发、测试、调优和部署流程的各个阶段，最终创建出完整的 AI 应用程序。
 
@@ -21,7 +140,7 @@ Prompt flow 提供了一个明确定义的流程，可以促进 AI 应用程序�
 
   >**注意**：通过遵循这种结构化和系统的方法，prompt flow 使您能够自信地开发、严格测试、微调和部署流程，从而创建出强大和复杂的 AI 应用程序。
 
-### 任务 1.1：了解流类型
+### 任务 2.1：了解流类型
 
 在本任务中，您将探索 Azure AI Foundry 中的不同流类型
 
@@ -38,7 +157,7 @@ Prompt flow 提供了一个明确定义的流程，可以促进 AI 应用程序�
 
   ![](./media/image-48.png)
 
-### 任务 1.2：了解流程
+### 任务 2.2：了解流程
 在本任务中，您将探索 **Prompt flow**，这是 Azure AI Foundry 中的一个功能。
 
 1. Prompt flow 中的流程作为可执行工作流，简化了基于 LLM 的 AI 应用程序的开发。它为管理应用程序中的数据流和处理提供了全面的框架。
@@ -55,7 +174,7 @@ Prompt flow 提供了一个明确定义的流程，可以促进 AI 应用程序�
 
 4. 为了便于节点配置和微调，通过 DAG（有向无环图）图提供工作流结构的可视化表示。该图展示了节点之间的连接和依赖关系，提供了整个工作流的清晰概览。
 
-### 任务 1.3：探索 prompt flow 中可用的工具
+### 任务 2.3：探索 prompt flow 中可用的工具
 
 在本任务中，您将探索 Azure AI Foundry 中 Prompt Flow 可用的工具。
 

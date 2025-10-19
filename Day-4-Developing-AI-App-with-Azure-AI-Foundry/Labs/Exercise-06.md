@@ -3,10 +3,44 @@
 ## 实验概述
 本实验提供使用 Azure AI Foundry 实施负责任的 AI 实践的实践经验。参与者将在利用 Azure 内置的负责任 AI 工具的同时，获得对公平性、透明度、隐私和安全性考虑的见解。实验重点关注检测和缓解偏见、确保模型可解释性、应用隐私保护技术以及执行安全性和合规性最佳实践。
 
-## 实验目标
-在本实验中，您将完成以下任务：
+**实验室目标**
 
-- 任务 1：使用 Azure AI foundry 进行图像和文本审核
+在本练习中，您将执行以下作:
+
+- 任务 1: 为帐户分配认知服务用户角色
+
+- 任务 2 : 使用 Azure AI Foundry 进行图像和文本审核
+
+### 任务1: 为帐户分配认知服务用户角色
+
+1.  在Azure portal
+    +++[https://portal.azure.com+++](https://portal.azure.com+++/),
+    查找名为 [**my-ai-service@lab.LabInstance.Id**](mailto:my-ai-service@lab.LabInstance.Id).
+
+2.  选择 **Access Control (IAM)**.
+
+3.  选择 **Add > Add Role Assignment**.
+
+   ![A screenshot of a computer AI-generated content may be
+incorrect.](./media/image43.png)
+
+4.  在“工作职能角色”下, 搜索并选择 +++Cognitive Services User+++,
+    然后选择 **Next**.
+
+   ![A screenshot of a computer AI-generated content may be
+incorrect.](./media/image44.png)
+
+5.  选择 **+Select members**.
+
+6.  搜索并选择<+++user1-@lab.LabInstance.Id>+++.
+
+   ![A screenshot of a computer AI-generated content may be
+incorrect.](./media/image45.png)
+
+7.  选择 **Review + assign**.
+
+8.  您可能需要等待 3-5
+    分钟才能让新角色生效，然后才能继续执行下一个任务。
 
 ## 任务 1：使用 Azure AI Foundry 进行图像和文本审核
 
