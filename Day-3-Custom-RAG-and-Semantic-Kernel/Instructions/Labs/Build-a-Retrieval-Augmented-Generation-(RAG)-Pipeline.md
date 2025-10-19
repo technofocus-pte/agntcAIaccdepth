@@ -99,7 +99,36 @@
 
     ![](../media/af-41.png)
 
+1.  返回到 Azure AI Foundry 选项卡, 选择 **Management Center**.
+
+2.  在项目下，选择**Connected resources**. 然后选择 **+New connection**.
+    选择 **Azure AI Foundry**, 然后选择 **Add
+    connection** 然后 **Close**.
+
+   ![A screenshot of a computer AI-generated content may be
+   incorrect.](./media/image25.png)
+   
+   ![A screenshot of a computer AI-generated content may be
+   incorrect.](./media/image26.png)
+   
+   ![A screenshot of a computer AI-generated content may be
+   incorrect.](./media/image27.png)
+
+3.  接下来, 选择 **Connected resources** 在 Foundry 中心下方.
+    然后选择 **+New connection**. 选择 **Azure AI Foundry**,
+    然后选择 **Add connection** 然后 **Close**.
+
+   ![A screenshot of a computer AI-generated content may be
+   incorrect.](./media/image28.png)
+   
+   ![A screenshot of a computer AI-generated content may be
+   incorrect.](./media/image29.png)
+
 1. 运行代码以在本地构建索引并将其注册到云项目：
+
+   +++pip install azure-ai-projects==1.0.0b5+++
+
+   +++pip install azure-ai-inference==1.0.0b8+++
 
     ```bash
     python create_search_index.py
@@ -107,6 +136,9 @@
 
      ![](../media/af42.png)    
 
+
+如果发生错误，请运行以下命令，然后重新运行上述索引创建命令。
++++pip install --upgrade azure-search-documents+++
 
 ### 任务 2：实现检索管道
 
