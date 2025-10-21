@@ -99,7 +99,38 @@ I在本練習中，您將完成以下任務：
 
     ![](../media/af-41.png)
 
-13. 執行程式碼以在本地端建立索引，並將其註冊至雲端專案：
+13.  返回到 Azure AI Foundry 選項卡, 選擇 **Management Center**.
+
+14.  在項目下，選擇**Connected resources**. 然後選擇 **+New connection**.
+    選擇 **Azure AI Foundry**, 然後選擇 **Add
+    connection** 然後 **Close**.
+
+    ![A screenshot of a computer AI-generated content may be
+    incorrect.](./media/image25.png)
+
+    ![A screenshot of a computer AI-generated content may be
+    incorrect.](./media/image26.png)
+
+    ![A screenshot of a computer AI-generated content may be
+    incorrect.](./media/image27.png)
+
+15.  接下來, 選擇 **Connected resources** 在 Foundry 中心下方.
+    然後選擇 **+New connection**. 選擇 **Azure AI Foundry**,
+    然後選擇 **Add connection** 然後 **Close**.
+
+    ![A screenshot of a computer AI-generated content may be
+    incorrect.](./media/image28.png)
+
+    ![A screenshot of a computer AI-generated content may be
+    incorrect.](./media/image29.png)
+
+16. 回到 VS Code，运行以下命令以安装特定版本的 Azure AI 项目和推理
+
+    +++pip install azure-ai-projects==1.0.0b5+++
+
+    +++pip install azure-ai-inference==1.0.0b8+++
+
+17. 執行程式碼以在本地端建立索引，並將其註冊至雲端專案：
 
     ```bash
     python create_search_index.py
@@ -107,6 +138,10 @@ I在本練習中，您將完成以下任務：
 
      ![](../media/af42.png)    
 
+    注意: 如果发生错误，请运行以下命令，然后重新运行上述索引创建命令。
+
+    +++pip install --upgrade azure-search-documents+++
+    
 ### 任務 2：實驗檢索流程 
 
 在此任務中，您將實驗檢索流程，從搜尋索引中擷取相關的產品文件。您將設定並執行一個腳本，該腳本會將使用者查詢轉換為搜尋請求，並從已索引的知識來源中擷取最相關的結果。
