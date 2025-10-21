@@ -2,6 +2,161 @@
 
 在本練習中，您將設定 Azure AI Foundry SDK，包括環境配置、部署基礎模型，並確保與 Azure AI 服務的無縫整合，以進行知識檢索與推論。
 
+## 練習 1: 設置 Azure AI Foundry SDK 並預配資源
+
+### 任務 1: 設置先決條件資源
+
+1.  在“Azure 門戶”頁上
+    +++[https://portal.azure.com+++](https://portal.azure.com+++/),
+    在門戶頂部的“搜索資源”框中, enter +++Azure AI Foundry+++,
+    ，然後在“服務”下選擇“Azure AI Foundry”。
+
+    ![A screenshot of a chat AI-generated content may be
+incorrect.](./media/image1.png)
+
+2.  在 AI Foundry 的左側導航窗格中，選擇 **AI 中心**. 在“AI
+    中心”頁面上，單擊“**創建**”，然後 **從下拉列表中選擇**“中心”。
+
+![A screenshot of a computer AI-generated content may be
+incorrect.](./media/image2.png)
+
+3.  在“**創建 Azure AI 中心**”窗格中，輸入以下詳細信息：
+
+    - 訂閱 : **Leave default subscription**
+
+    - 資源組 : **AgenticAI**
+
+    - 地區 : **EastUS**
+
+    - 名字: <+++ai-foundry-hub@lab.LabInstance.Id>+++
+
+    - 連接 AI 服務，包括. OpenAI : 點擊 **Create New**
+
+    - 連接 AI 服務，包括. OpenAI : 提供名稱
+      <+++my-ai-service@lab.LabInstance.Id>+++
+
+    - 點擊 **Save**, 其次**Next:Storage**
+
+    ![](./media/image3.png)
+
+    ![A screenshot of a computer AI-generated content may be
+incorrect.](./media/image4.png)
+
+4.  點擊 **Review + Create** 然後選擇 **Create.**
+
+![A screenshot of a computer AI-generated content may be
+incorrect.](./media/image5.png)
+
+    ![A screenshot of a computer AI-generated content may be
+incorrect.](./media/image6.png)
+
+5.  等待部署完成，然後單擊轉到**資源**.
+
+    ![A screenshot of a computer AI-generated content may be
+incorrect.](./media/image7.png)
+
+6.  在“概述”窗格中，單擊“**啟動 Azure AI Foundry**”。這會導航到 Azure AI
+    Foundry 門戶。
+
+    ![A screenshot of a computer AI-generated content may be
+incorrect.](./media/image8.png)
+
+7.  在中心概述上選擇 **+ New project** 
+
+    ![A screenshot of a computer AI-generated content may be incorrect.](./media/image9.png)
+
+8.  將項目名稱提供為<+++ai-foundry-project@lab.LabInstance.Id>+++
+    然後選擇**創建。**
+
+    ![A screenshot of a computer AI-generated content may be
+incorrect.](./media/image10.png)
+
+9.  在 **AI Foundry project**，導航到“**我的資產**”部分,
+    然後選擇 **模型 + endpoints**. 點擊 **Deploy model**,
+    然後選擇 **Deploy base model** 以繼續.
+
+    ![](./media/image11.png)
+
+10. 在 **Select a model** 窗口, 搜索 **+++gpt-4o+++**,
+    選擇**gpt-4o** 並選擇 **Confirm**
+
+    ![A screenshot of a computer AI-generated content may be
+incorrect.](./media/image12.png)
+
+11. 在 **Deploy model gpt-4o** 窗口, 選擇 **Customize**.
+
+    ![A screenshot of a computer AI-generated content may be
+incorrect.](./media/image13.png)
+
+    -   Deployment 名稱: **gpt-4o**
+
+    -   Deployment 類型: **Global Standard**
+
+    -    將**Model version to 2024-08-06 (Default)**
+
+    -   將每分鐘令牌數速率限制更改為 **200K**
+
+    -   點擊**Deploy (5)**
+
+    ![A screenshot of a computer AI-generated content may be
+incorrect.](./media/image14.png)
+
+12. 導航回**Azure Portal** 並搜索**+++AI Search+++** ，然後選擇 **AI
+    搜索**資源.
+
+    ![A screenshot of a computer AI-generated content may be
+incorrect.](./media/image15.png)
+
+13． 在 **AI Foundry | AI Search** 頁面, 選擇 **+ Create** 以創建 Azure OpenAI 資源。
+
+    ![A screenshot of a search engine AI-generated content may be
+incorrect.](./media/image16.png)
+
+13. 在 **Create a Search service** 頁面 提供以下設置和選擇 **Next (6)**:
+
+    | 設置  |  價值 |
+    |:-----|:-----|
+    | 訂閱  | 保留默認訂閱  |
+    | 資源組  | **AgenticAI**  |
+    | 區域  |  **East US 2** |
+    |  名字 | +++aisearch@lab.LabInstance.Id+++ |
+    | 定價層  | **Standard S0**  |
+
+    ![A screenshot of a search service AI-generated content may be incorrect.](./media/image17.png)
+
+14. 選擇 **Review + create**, 然後 **Create**
+
+    ![A screenshot of a search service AI-generated content may be
+incorrect.](./media/image18.png)
+
+15. 返回到“Azure AI Foundry”選項卡，選擇**Management Center**.
+
+    ![A screenshot of a computer AI-generated content may be
+incorrect.](./media/image19.png)
+
+16. 在項目下，選擇**Connected resources**. 然後選擇 **+New connection**.
+    選擇 **Azure AI Search**, 然後選擇**Add connection** 然後 **Close**.
+
+    ![A screenshot of a computer AI-generated content may be
+incorrect.](./media/image20.png)
+
+    ![A screenshot of a search engine AI-generated content may be
+incorrect.](./media/image21.png)
+
+17. 然後,在 Foundry 中心下選擇 **Connected resources**  。然後選擇**+New
+    connection**. 選擇 **Azure AI Search**, 然後選擇 **Add
+    connection** 然後 **Close**.
+
+    ![A screenshot of a computer AI-generated content may be
+    incorrect.](./media/image22.png)
+
+    ![A screenshot of a computer AI-generated content may be
+    incorrect.](./media/image23.png)
+
+    ![A screenshot of a search engine AI-generated content may be
+    incorrect.](./media/image24.png)
+
+
 ### 任務 1：安裝專案所需的套件
 
 在此任務中，您將從 GitHub 複製專案的儲存庫，以取得建立聊天應用程式所需的檔案。
