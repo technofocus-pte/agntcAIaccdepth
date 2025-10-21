@@ -4,12 +4,46 @@
 
 本實驗將透過 Azure AI Foundry 提供實驗經驗，協助你實踐負責任的 AI 的最佳做法。參與者將深入了解公平性、透明性、隱私與安全等考量，同時運用 Azure 內建的負責任的 AI 工具。本實驗著重於偵測與減緩偏誤、確保模型可解釋性、應用保護隱私的技術，以及強化安全性與合規性的最佳實務。
 
-## 實驗目標
+**實驗室目標**
 
-在本次實驗中，你將執行以下任務：
-- 任務 1：使用 Azure AI Foundry 進行圖片與文字的內容審查
+在本練習中，您將執行以下作:
 
-## 任務 1.1：使用 Azure AI Foundry 進行圖片與文字的內容審查
+- 任務 1: 為帳戶分配認知服務用戶角色
+
+- 任務 2 : 使用 Azure AI Foundry 進行圖像和文本審核
+
+### 任務1: 為帳戶分配認知服務用戶角色
+
+1.  在Azure portal
+    +++[https://portal.azure.com+++](https://portal.azure.com+++/),
+    查找名為 [**my-ai-service@lab.LabInstance.Id**](mailto:my-ai-service@lab.LabInstance.Id).
+
+2.  選擇 **Access Control (IAM)**.
+
+3.  選擇 **Add\>Add Role Assignment**.
+
+    ![A screenshot of a computer AI-generated content may be
+incorrect.](./media/image43.png)
+
+4.  在“工作職能角色”下, 搜索並選擇 +++Cognitive Services User+++,
+    然後選擇 **Next**.
+
+    ![A screenshot of a computer AI-generated content may be
+incorrect.](./media/image44.png)
+
+5.  選擇 **+Select members**.
+
+6.  搜索並選擇<+++user1-@lab.LabInstance.Id>+++.
+
+    ![A screenshot of a computer AI-generated content may be
+incorrect.](./media/image45.png)
+
+7.  選擇 **Review + assign**.
+
+8.  您可能需要等待 3-5
+    分鐘才能讓新角色生效，然後才能繼續執行下一個任務。
+
+## 任務 2.1：使用 Azure AI Foundry 進行圖片與文字的內容審查
 
 本任務將使用 **Azure AI Foundry** 來審查圖片與文字，偵測不當、有害或敏感內容。這項功能利用 AI 模型根據預先定義的政策分析並過濾內容，確保應用程式的合規性與安全性。
 
@@ -65,7 +99,7 @@
 
     >**注意**： 如預期，該內容被已封鎖 (Blocked)，並被暴力過濾器 (Violence filter) 拒絕，該分類的嚴重程度為高 (High)。
 
-### 任務 1.2：執行批次測試
+### 任務 2.2：執行批次測試
 
 到目前為止，我們測試的都是單張圖片內容。不過，如果我們有一批圖片資料集，也可以一次性測試整批資料，並根據模型的表現取得相關指標。
 
@@ -87,7 +121,7 @@
 
    ![](./media/image-16.png)
 
-### 任務 1.3：使用中等文字內容進行文字審查
+### 任務 2.3：使用中等文字內容進行文字審查
 
 我們可以利用 AI 模型來偵測客戶輸入的文字是否具有傷害性，並根據偵測結果採取必要的預防措施。
 

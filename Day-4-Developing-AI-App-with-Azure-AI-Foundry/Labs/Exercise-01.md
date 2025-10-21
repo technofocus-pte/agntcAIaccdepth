@@ -4,11 +4,123 @@
 
 在本實驗中，您將探索使用 Azure AI Foundry 的 Prompt Flow 來開發 AI 應用程式的生命週期。您將從瞭解結構化流程開始，包括初始化、實驗、評估、優化與進入生產階段。您將學習不同的流程類型，例如標準流程 (Standard Flow)、聊天流程 (Chat Flow) 與評估流程 (Evaluation Flow)，以及它們如何滿足各種應用需求。您也將深入了解 Prompt Flow 中的流程與節點概念，這些元件能實現無縫的資料處理與任務執行。
 
-## 實驗目標
+### 任務 1: 設置先決條件資源
 
-在本實驗中，您將執行以下任務：
-- 任務 1：理解流程開發的生命週期
-  
+1.  登錄到 Azure 門戶頁面
+    +++[https://portal.azure.com+++](https://portal.azure.com+++/) 使用
+    **“資源”選項卡中的**用戶名**和** TAP。
+
+    ![A screenshot of a computer AI-generated content may be
+incorrect.](./media/image30.png)
+
+2.  選擇 **Azure AI Foundry**.
+
+    ![A screenshot of a computer AI-generated content may be
+incorrect.](./media/image31.png)
+
+3.  在 AI Foundry 的左側導航窗格中，選擇**AI Hubs**. 在“AI
+    中心”頁面上，單擊“**創建**”，然後 **從下拉列表中選擇**“中心”。
+
+    ![A screenshot of a computer AI-generated content may be
+incorrect.](./media/image32.png)
+
+4.  在 **Create an Azure AI hub** 窗格中輸入以下詳細信息：
+
+    -  訂閱 : **Leave default subscription**
+
+    -  資源組 : **AgenticAI**
+
+    -  地區 : **EastUS**
+
+    -  名字 : <+++ai-foundry-hub@lab.LabInstance.Id>+++
+
+    -  連接人工智能服務，包括。開放人工智能 : 點擊 **Create New**
+
+    -  連接 AI 服務，包括。開放人工智能 :
+        提供名稱<+++my-ai-service@lab.LabInstance.Id>+++
+
+    -  點擊 **Save**, 然後**Next:Storage**
+
+    ![A screenshot of a computer AI-generated content may be
+incorrect.](./media/image33.png)
+
+    ![Screens screenshot of a computer AI-generated content may be incorrect.](./media/image34.png)
+
+5.  點擊 **Review + Create** 選項卡，然後是**創建。**
+
+    ![A screenshot of a computer AI-generated content may be
+incorrect.](./media/image35.png)
+
+6.  等待部署完成，然後單擊**Go to resource**.
+
+7.  在“概述”窗格上, 點擊 **Launch Azure AI Foundry**. 這會導航到 Azure
+    AI Foundry 門戶。
+
+    ![A screenshot of a computer AI-generated content may be
+incorrect.](./media/image36.png)
+
+8.  在中心概述上，選擇 **+ New project** 
+
+    ![A screenshot of a computer AI-generated content may be
+incorrect.](./media/image37.png)
+
+9.  將項目名稱提供為<+++ai-foundry-project@lab.LabInstance.Id>+++
+    然後選擇 **Create**.
+
+    ![A screenshot of a computer AI-generated content may be
+incorrect.](./media/image38.png)
+
+10.  在你的 **AI Foundry project**, 導航到 **My assets** 部分,
+    然後選擇 **Models + endpoints**. 點擊 **Deploy model**,
+    然後選擇 **Deploy base model** 以繼續.
+
+11.  在 **Select a model** 窗口, 搜索**gpt-4o**,
+    選擇 **gpt-4o** 並選擇 **Confirm**
+
+![A screenshot of a chat application AI-generated content may be
+incorrect.](./media/image39.png)
+
+12.  在 **Deploy model gpt-4o** 窗口, 選擇 **Customize**.
+
+    - Deployment 名稱: **gpt-4o**
+
+    - Deployment 類型: **Global Standard**
+
+    - 修改 **Model version to 2024-08-06 (Default)**
+
+    - 將每分鐘令牌數速率限制更改為 **200K**
+
+    - 點擊 **Deploy (5)**
+
+13.  導航回 **Azure Portal**並搜索 **+++Open AI+++** 並選擇 **Azure Open
+    AI** 資源。
+
+14.  在 **AI Foundry | Azure OpenAI** 頁面, 選擇 **+ Create -\> Azure
+    OpenAI** 以創建 Azure OpenAI 資源。
+
+    ![A screenshot of a computer AI-generated content may be
+incorrect.](./media/image40.png)
+
+15.   在**Create Azure OpenAI**  頁面, 提供以下設置，然後選擇 **Next
+    (6)**:
+
+    |  設置 | 價值  |
+    |:----|:-----|
+    | 訂閱  | 保留默認訂閱  |
+    | 資源組  | **AgenticAI**  |
+    | 地區  |  **East US** |
+    | 名稱  | +++my-openai-service@lab.LabInstance.Id+++  |
+    | 定價層  |  **Standard S0** |
+
+    ![A screenshot of a computer AI-generated content may be incorrect.](./media/image41.png)
+
+16.  選擇 **Next** 直到出現“審閱 + 提交”選項卡.
+
+17.  在 **Review + submit** 頁面上, 選擇 **Create**
+
+  ![A screenshot of a computer AI-generated content may be
+incorrect.](./media/image42.png)
+
 ### 任務 1：理解流程開發的生命週期 (僅閱讀)
 
 Prompt Flow 提供一個明確定義的流程，有助於順利開發 AI 應用程式。透過這個流程，您可以有效地完成開發、測試、調整與部署的各個階段，最終建立出完整的 AI 應用程式。
