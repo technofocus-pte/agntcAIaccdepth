@@ -90,6 +90,41 @@
 
     ![](../media/af-41.png)
 
+
+1.  **Azure AI Foundry** 탭으로 돌아가 **Management Center**를
+    선택하세요.
+
+2.  프로젝트 아래에서 **Connected resources**를 선택하세요.  
+    그런 다음 **+ New connection**을 선택하세요.  
+    **Azure AI Foundry**를 선택하고 **Add connection**을 선택한 다음
+    **Close**를 선택하세요.
+
+   ![A screenshot of a computer AI-generated content may be
+   incorrect.](./media/image25.png)
+
+   ![A screenshot of a computer AI-generated content may be
+   incorrect.](./media/image26.png)
+
+   ![A screenshot of a computer AI-generated content may be
+   incorrect.](./media/image27.png)
+
+3.  다음으로 Foundry hub 아래의 **Connected resources**를 선택하세요.  
+    그런 다음 **+ New connection**을 선택하세요.  
+    **Azure AI Foundry**를 선택하고 **Add connection**을 클릭한 다음
+    **Close**를 선택하세요.
+
+   ![A screenshot of a computer AI-generated content may be
+   incorrect.](./media/image28.png)
+
+   ![A screenshot of a computer AI-generated content may be
+   incorrect.](./media/image29.png)
+
+4. 다시 VS Code로 돌아가 아래 명령어를 실행하여 특정 버전의 Azure AI 프로젝트 및 추론을 설치하세요:
+
+   +++pip install azure-ai-projects==1.0.0b5+++
+
+   +++pip install azure-ai-inference==1.0.0b8+++
+
 1. 다음 명령어를 실행하여 로컬에서 인덱스를 생성하고 이를 클라우드 프로젝트에 등록합니다:
 
     ```bash
@@ -97,6 +132,10 @@
     ```
 
     ![](../media/af42.png)
+
+    **참고:** 오류가 발생한 경우, 아래 명령어를 실행한 후 위의 인덱스 생성 명령어를 다시 실행해 주세요.
+
+    +++pip install --upgrade azure-search-documents+++
 
 ## 과제 2: 검색 파이프라인 구현
 
