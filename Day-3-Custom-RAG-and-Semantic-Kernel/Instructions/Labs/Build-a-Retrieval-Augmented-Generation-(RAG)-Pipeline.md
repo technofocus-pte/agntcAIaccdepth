@@ -100,6 +100,32 @@ En esta tarea, indexarás fuentes de conocimiento procesando y almacenando datos
 
     ![](../media/af-41.png)
 
+1.  En la pestaña de Azure AI Foundry, seleccione **Management Center.**
+
+2.  En su proyecto, seleccione **Connected resources**. Luego haga clic
+    en **+New connection**, seleccione **Azure AI Foundry**, elija **Add
+    connection** y, finalmente, **Close.**
+
+    ![A screenshot of a computer AI-generated content may be
+    incorrect.](./media/image25.png)
+
+    ![A screenshot of a computer AI-generated content may be
+    incorrect.](./media/image26.png)
+
+    ![A screenshot of a computer AI-generated content may be
+    incorrect.](./media/image27.png)
+
+3.  A continuación, seleccione **Connected resources** debajo de su
+    Foundry hub. Luego haga clic en **+New connection**, seleccione
+    **Azure AI Foundry**, elija **Add connection** y, finalmente,
+    **Close**.
+
+    ![A screenshot of a computer AI-generated content may be
+    incorrect.](./media/image28.png)
+
+    ![A screenshot of a computer AI-generated content may be
+    incorrect.](./media/image29.png)
+
 1. Ejecuta los siguientes comandos para instalar la versión específica de Azure AI Project e Inference:
 
     ```bash
@@ -115,7 +141,7 @@ En esta tarea, indexarás fuentes de conocimiento procesando y almacenando datos
 
      ![](../media/af42.png)    
 
-     > **Nota:** En caso de error, por favor ejecuta el siguiente comando y vuelve a ejecutar el paso 14:
+     > **Nota:**  En caso de error, ejecute el siguiente comando y vuelva a ejecutar el comando de creación de índice mencionado arriba.
 
      ```bash
       pip install --upgrade azure-search-documents

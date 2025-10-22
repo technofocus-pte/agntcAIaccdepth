@@ -2,7 +2,171 @@
 
 En este ejercicio, configurarás el SDK de Azure AI Foundry. Esto incluye la configuración del entorno, el despliegue de modelos base y asegurar la integración fluida con los servicios de Azure AI para la recuperación de conocimiento e inferencia.
 
-### Tarea 1: Instalar los requisitos del proyecto
+### Tarea 1: Configuración de los recursos necesarios
+
+1.  En la página del portal de Azure +++ , en el cuadro **Search
+    resources** en la parte superior del portal, ingrese +++Azure AI
+    Foundry+++ y, luego, seleccione Azure AI Foundry en **Services.**
+
+    ![A screenshot of a chat AI-generated content may be
+incorrect.](./media/image1.png)
+
+2.  En el panel de navegación izquierdo de AI Foundry, seleccione **AI
+    Hubs**. En la página AI Hubs, haga clic en **Create** y seleccione
+    **Hub** en el menú desplegable.
+
+    ![A screenshot of a computer AI-generated content may be
+incorrect.](./media/image2.png)
+
+3.  En el panel **Create an Azure AI hub,** ingrese los siguientes
+    detalles:
+
+    - Suscripción: **Mantenga la suscripción predeterminada.**
+
+    - Grupo de recursos: **AgenticAI**
+
+    - Región: **EastUS**
+
+    - Nombre: <+++ai-foundry-hub@lab.LabInstance.Id> +++
+
+    - Conectar servicios de IA, incluido OpenAI: Haga clic en **Create
+      New.**
+
+    - Conectar servicios de IA, incluido OpenAI: Proporcione un nombre
+      [+++
+      my-ai-service@lab.LabInstance.Id](mailto:+++my-ai-service@lab.LabInstance.Id)
+      +++
+
+    - Haga clic en **Save**, seguido de **Next:Storage**
+
+    ![](./media/image3.png)
+
+    ![A screenshot of a computer AI-generated content may be
+incorrect.](./media/image4.png)
+
+4.  Haga clic en la pestaña **Review + Create** y luego en **Create.**
+
+    ![A screenshot of a computer AI-generated content may be
+incorrect.](./media/image5.png)
+
+    ![A screenshot of a computer AI-generated content may be
+incorrect.](./media/image6.png)
+
+5.  Espere a que se complete la implementación y luego haga clic en **Go
+    to resource**.
+
+    ![A screenshot of a computer AI-generated content may be
+incorrect.](./media/image7.png)
+
+6.  En el panel Overview, haga clic en **Launch Azure AI Foundry**. Esto
+    lo dirigirá al portal de Azure AI Foundry.
+
+    ![A screenshot of a computer AI-generated content may be
+incorrect.](./media/image8.png)
+
+7.  Seleccione **+ New project** en Hub Overview.
+
+    ![A screenshot of a computer AI-generated content may be
+incorrect.](./media/image9.png)
+
+8.  Ingrese el nombre del proyecto como [+++
+    ai-foundry-project@lab.LabInstance.Id](mailto:+++ai-foundry-project@lab.LabInstance.Id)
+    +++ y, a continuación, seleccione **Create**.
+
+    ![A screenshot of a computer AI-generated content may be
+incorrect.](./media/image10.png)
+
+9.  En su **proyecto de AI Foundry**, vaya a la sección **My assets** y
+    seleccione **Models + endpoints**. Haga clic en **Deploy model** y
+    luego elija **Deploy base** **model** para continuar.
+
+    ![](./media/image11.png)
+
+10. En la ventana **Select a model**, busque **+++gpt-4o+++**,
+    seleccione **gpt-4o** y haga clic en **Confirm.**
+
+    ![A screenshot of a computer AI-generated content may be
+incorrect.](./media/image12.png)
+
+11. En la ventana **Deploy model gpt-4o**, seleccione **Customize**.
+
+    ![A screenshot of a computer AI-generated content may be
+    incorrect.](./media/image13.png)
+
+    - Nombre de la implementación: **gpt-4o**
+
+    - Tipo de implementación: **Global Standard**
+
+    - Cambie la **Model version** a **2024-08-06 (Default)**
+
+    - Cambie el límite de tokens por minuto a **200K**
+
+    - Haga clic en **Deploy (5)**
+
+    ![A screenshot of a computer AI-generated content may be
+incorrect.](./media/image14.png)
+
+12. Regrese al **Azure Portal** y busque **+++AI Search+++** y
+    seleccione el recurso **AI Search.**
+
+    ![A screenshot of a computer AI-generated content may be
+incorrect.](./media/image15.png)
+
+13. En la página **AI Foundry | AI Search**, seleccione **+ Create**
+    para crear un recurso de Azure OpenAI.
+
+    ![A screenshot of a search engine AI-generated content may be
+incorrect.](./media/image16.png)
+
+14. En la página **Create a Search service**, proporcione las siguientes
+    configuraciones y seleccione **Next (6):**
+
+    | **Configuración**  | **Valor**  |
+    |:----|:----|
+    | Suscripción  | Mantenga la suscripción predeterminada  |
+    |  Grupo de recursos | **AgenticAI**  |
+    | Región  |  **East US 2** |
+    | Nombre  | +++aisearch@lab.LabInstance.Id +++  |
+    | Nivel de precios  | **Standard S0**  |
+
+    ![A screenshot of a search service AI-generated content may be incorrect.](./media/image17.png)
+
+15. Seleccione **Review + create** y luego **Create.**
+
+    ![A screenshot of a search service AI-generated content may be
+incorrect.](./media/image18.png)
+
+16. Regrese a la pestaña Azure AI Foundry, seleccione **Management
+    Center**.
+
+    ![A screenshot of a computer AI-generated content may be
+incorrect.](./media/image19.png)
+
+17. En su proyecto, seleccione **Connected resources**. Luego,
+    seleccione **+New connection**. Haga clic en **Azure AI Search**,
+    luego, elija **Add connection** y, finalmente, **Close**.
+
+    ![A screenshot of a computer AI-generated content may be
+    incorrect.](./media/image20.png)
+
+    ![A screenshot of a search engine AI-generated content may be
+    incorrect.](./media/image21.png)
+
+18. A continuación, seleccione **Connected resources** debajo de su
+    Foundry hub. Luego haga clic en **+New connection**, seleccione
+    **Azure AI Search**, elija **Add connection** y, finalmente,
+    **Close**.
+
+    ![A screenshot of a computer AI-generated content may be
+    incorrect.](./media/image22.png)
+
+    ![A screenshot of a computer AI-generated content may be
+    incorrect.](./media/image23.png)
+
+    ![A screenshot of a search engine AI-generated content may be
+    incorrect.](./media/image24.png)
+
+### Tarea 2: Instalar los requisitos del proyecto
 
 En esta tarea, clonarás el repositorio de GitHub del proyecto para acceder a los archivos necesarios para construir la aplicación de chat.
 
@@ -37,7 +201,7 @@ En esta tarea, clonarás el repositorio de GitHub del proyecto para acceder a lo
       >**Nota:** Espera a que la instalación finalice. Puede tomar algo de tiempo.
 
 
-### Tarea 2: Configurar variables de entorno
+### Tarea 3: Configurar variables de entorno
 
 En esta tarea, configurarás las variables de entorno necesarias para asegurar la integración fluida entre tu aplicación RAG y los servicios de Azure AI Foundry.
 
