@@ -98,7 +98,33 @@ Nesta tarefa, você vai indexar fontes de conhecimento processando e armazenando
 
     ![](../media/af-41.png)
 
-13. Execute o código para criar o índice localmente e registrá-lo no projeto em nuvem:
+13.  De volta à guia Azure AI Foundry, selecione **Management Center**.
+
+14.  Sob o seu **Project** selecione **Connected resources**. Em seguida,
+    selecione **+New connection**. Selecione **Azure AI Foundry**, e
+    escolha **Add connection** e **Close**.
+
+    ![](./d54a9a91877f4bab15a5516cd660baf47ef26e59.png "Inserting image...")
+
+    ![](./0cf9ac83ff76a30c9c7a4ab402a2feafe7a16b7d.png "Inserting image...")
+
+    ![](./0d3290a06f722a3a5e16f458139fcb6657ece503.png "Inserting image...")
+
+15. Em seguida, selecione **Connected resources** no seu hub do Foundry.
+    Então selecione **+New connection**. Selecione **Azure AI Foundry**,
+    e escolha **Add connection** e **Close**.
+
+    ![](./56c33bcbc5540e77221f562590fff7acc2455d37.png "Inserting image...")
+
+    ![](./d54dea5d06d2a89da56038f23d9043edbe4ea8b3.png "Inserting image...")
+
+16. De volta ao VS Code, execute os comandos abaixo para instalar a versão específica do Azure AI Project & Inference:
+
+    +++pip install azure-ai-projects==1.0.0b5+++
+
+    +++pip install azure-ai-inference==1.0.0b8+++
+
+17. Execute o código para criar o índice localmente e registrá-lo no projeto em nuvem:
 
     ```bash
     python create_search_index.py
@@ -106,6 +132,9 @@ Nesta tarefa, você vai indexar fontes de conhecimento processando e armazenando
 
      ![](../media/af42.png)
 
+    **Nota:** Em caso de erro, execute o comando abaixo e reinicie o comando de criação do índice acima.
+
+    +++pip install --upgrade azure-search-documents+++
 
 ### Tarefa 2: Implementar o Pipeline de Recuperação
 

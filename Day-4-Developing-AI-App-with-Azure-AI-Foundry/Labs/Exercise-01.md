@@ -5,13 +5,115 @@ Claro! Aqui está a tradução para português brasileiro do texto que você env
 
 Neste laboratório, você irá explorar o ciclo de vida do desenvolvimento de aplicações de IA usando o Prompt Flow do Azure AI Foundry. Você começará entendendo o processo estruturado, que inclui as fases de inicialização, experimentação, avaliação, refinamento e produção. Aprenderá sobre os diferentes tipos de flows, como Standard, Chat e Evaluation flows, e como eles atendem a diversas necessidades de aplicação. Também vai se aprofundar no conceito de flows e nodes dentro do Prompt Flow, que permitem o processamento contínuo de dados e a execução de tarefas.
 
-## Objetivo do Laboratório
+### Tarefa 1: Configurando os recursos de pré-requisito
 
-Neste laboratório, você realizará o seguinte:
+1.  Faça login na página do Portal do Azure +++ Usando o **Username** e
+    **TAP** na guia **Resource**.
 
-- Tarefa 1: Compreender o Ciclo de Vida do Desenvolvimento de Flows
+   ![](./e3a23833817beefa162fe7a7047a17c70e9dbaf6.png "Inserting image...")
 
-### Tarefa 1: Compreender o Ciclo de Vida do Desenvolvimento de Flows (APENAS LEITURA)
+2.  Selecione **Azure AI Foundry**.
+
+   ![](./cb82ed787f13f8088867f235c2b2dcc8aa8f68c8.png "Inserting image...")
+
+3.  No painel de navegação esquerdo do AI Foundry, selecione **AI
+    Hubs**. Na página AI Hubs, clique em **Create** e selecione **Hub**
+    no menu suspenso.
+
+   ![](./387062fee0c1ee3b82d9e541498e17eeb9e8d1b5.png "Inserting image...")
+
+4.  No painel **Create an Azure AI hub** insira os seguintes detalhes:
+
+    1.  Subscription : **Deixar assinatura padrão**
+
+    2.  Resource Group : **AgenticAI**
+
+    3.  Region : **EastUS**
+
+    4.  Name :
+        [*+++ai-foundry-hub@lab.LabInstance.Id*](mailto:+++ai-foundry-hub@lab.LabInstance.Id)+++
+
+    5.  Connect AI Services incl. OpenAI : Clique em **Create New**
+
+    6.  Connect AI Services incl. OpenAI : Forneça um nome
+        [*+++my-ai-service@lab.LabInstance.Id*](mailto:+++my-ai-service@lab.LabInstance.Id)+++
+
+    7.  Clique em **Save**, e **Next:Storage**
+
+   ![](./48e224261bbff15a3ecf45ccfffe85595be72741.png "Inserting image...")
+
+   ![](./da94893a2920b1276ad818d5dd3e5b32c3ecce1b.png "Inserting image...")
+
+5.  Clique na guia **Review + Create** e em **Create.**
+
+   ![](./f34cc672d762271fa0fe26a39e5b45691a0faa2c.png "Inserting image...")
+
+6.  Aguarde a conclusão da implementação e clique em **Go to resource**.
+
+7.  No painel **Overview**, clique em **Launch Azure AI Foundry**. Isso
+    o levará ao portal do Azure AI Foundry.
+
+   ![](./c31a39f24ec1ba7d6e33025474fed9dee903a270.png "Inserting image...")
+
+11. Selecione **+ New project** em Hub Overview.
+
+   ![](./e88dd41bcb1a8a2e11b3158c73f2b0dcdfac185f.png "Inserting image...")
+
+12. Forneça o nome do projeto como
+    [*+++ai-foundry-project@lab.LabInstance.Id*](mailto:+++ai-foundry-project@lab.LabInstance.Id)+++
+    e selecione **Create**.
+
+   ![](./1bcd63fe454ded88856bcd3fc7926fe40bb6d9f9.png "Inserting image...")
+
+1.  Em seu **AI Foundry project**, navegue até a seção **My assets**, em
+    seguida, selecione **Models + endpoints**. Clique em **Deploy
+    model**, e escolha **Deploy base model** para prosseguir.
+
+2.  Na janela **Select a model** , busque por **gpt-4o**, selecione
+    **gpt-4o** e **Confirm**
+
+   ![](./1b3d074cadd21dc62424265d49eaace6e389966e.png "Inserting image...")
+
+3.  Na janela **Deploy model gpt-4o**, selecione **Customize**.
+
+    1.  Deployment Name: **gpt-4o**
+
+    2.  Deployment type: **Global Standard**
+
+    3.  Altere o **Model version** para **2024-08-06 (Default)**
+
+    4.  Altere o **Tokens per Minute Rate Limit** para **200K**
+
+    5.  Clique em **Deploy (5)**
+
+4.  Navegue de volta para o **Azure Portal** e procure por **+++Open
+    AI+++** e selecione o recurso **Azure Open AI**
+
+5.  Na página **AI Foundry | Azure OpenAI**, selecione **+ Create -\>
+    Azure OpenAI** para criar o recurso Azure OpenAI.
+
+   ![](./a42b22d65ff7eb35f4e7877005c0838ac641aa8c.png "Inserting image...")
+
+6.  Na página **Create Azure OpenAI**, forneça as seguintes
+    configurações e selecione **Next (6)**:
+
+   | **Campo** | **Valor** |
+   |:-----|:-------|
+   | Subscription | Manter a assinatura padrão |
+   | Resource group | **AgenticAI** |
+   | Region | **East US** |
+   | Name | +++my-openai-service@lab.LabInstance.Id+++ |
+   |Pricing tier  |**Standard S0**  |
+
+   ![](./d8f444e73e66837088af531d2e9a44586c10077d.png "Inserting image...")
+
+8.  Selecione **Next** até que a guia **Review + submit** apareça.
+
+9.  Na página **Review + submit**, selecione **Create**
+
+   ![](./2ce86e9f59184522fe84564efb869da0d5e69742.png "Inserting image...")
+
+### Tarefa 2: Compreender o Ciclo de Vida do Desenvolvimento de Flows (APENAS LEITURA)
 
 O Prompt Flow oferece um processo bem definido que facilita o desenvolvimento fluido de aplicações de IA. Ao utilizá-lo, você pode avançar efetivamente pelas etapas de desenvolvimento, teste, ajuste e implantação de flows, resultando na criação de aplicações de IA completas.
 
@@ -24,7 +126,7 @@ O ciclo de vida consiste nas seguintes etapas:
 
 > **Nota**: Ao seguir essa abordagem estruturada e metódica, o Prompt Flow permite que você desenvolva, teste rigorosamente, ajuste e implante flows com confiança, resultando na criação de aplicações de IA robustas e sofisticadas.
 
-### Tarefa 1.1: Entender os tipos de flows
+### Tarefa 2.1: Entender os tipos de flows
 
 Nesta tarefa, você irá explorar os diferentes tipos de flows no Azure AI Foundry:
 
@@ -41,7 +143,7 @@ Nesta tarefa, você irá explorar os diferentes tipos de flows no Azure AI Found
 
   ![](../../pt-media/day-4/02.png)
 
-### Tarefa 1.2: Entender um flow
+### Tarefa 2.2: Entender um flow
 
 Nesta tarefa, você irá explorar o **Prompt flow**, um recurso dentro do Azure AI Foundry.
 
@@ -59,7 +161,7 @@ Nesta tarefa, você irá explorar o **Prompt flow**, um recurso dentro do Azure 
 
 4. Para facilitar a configuração e ajuste dos nodes, é fornecida uma representação visual da estrutura do workflow por meio de um gráfico DAG (Grafo Acíclico Dirigido). Esse gráfico mostra as conexões e dependências entre os nodes, oferecendo uma visão clara do fluxo completo.
 
-### Tarefa 1.3: Explorar as ferramentas disponíveis no Prompt Flow
+### Tarefa 2.3: Explorar as ferramentas disponíveis no Prompt Flow
 
 Nesta tarefa, você vai explorar as ferramentas disponíveis no Prompt Flow dentro do Azure AI Foundry.
 
