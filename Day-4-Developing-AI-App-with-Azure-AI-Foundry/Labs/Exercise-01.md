@@ -4,10 +4,127 @@
 이 실습에서는 Azure AI Foundry의 프롬프트 흐름을 활용하여 AI 애플리케이션을 개발하는 전체 생명 주기를 탐색합니다. 초기화(Initialization), 실험(Experimentation), 평가(Evaluation), 개선(Refinement), 프로덕션(Production) 단계로 구성된 구조화된 개발 프로세스를 이해하는 것부터 시작합니다. 또한, 다양한 애플리케이션 요구 사항에 맞게 설계된 표준(Standard), 채팅(Chat), 평가(Evaluation) 흐름의 유형에 대해서도 학습합니다. 더불어, 프롬프트 흐름 내에서 데이터 처리를 원활하게 수행하고 작업을 실행하는 데 핵심 역할을 하는 흐름(Flow)와 노드(Node)의 개념도 함께 살펴보게 됩니다.
 
 
-## 목표
+### 연습 1: 플로 개발 수명 주기 이해
 
-이 실습에서 여러분은 다음을 수행하게 됩니다:
-- 과제 1: 흐름 개발 생명 주기 이해하기
+작업 1: 필수 리소스 설정
+
+1.  **Resources** 탭의 **Username**과 **TAP**을 사용하여
+    +++<https://portal.azure.com+++> 페이지의 **Azure Portal**에
+    로그인하세요.
+
+    ![A screenshot of a computer AI-generated content may be
+incorrect.](./media/img30.png)
+
+2.  **Azure AI Foundry**를 선택하세요.
+
+    ![A screenshot of a computer AI-generated content may be
+incorrect.](./media/img31.png)
+
+3.  **AI Foundry**의 왼쪽 탐색 창에서 **AI Hubs**를 선택하세요.  
+    **AI Hubs** 페이지에서 **Create**를 클릭하고 드롭다운에서 **Hub**를
+    선택하세요.
+
+  ![A screenshot of a computer AI-generated content may be
+incorrect.](./media/img32.png)
+
+4.  **Create an Azure AI hub** 창에서 다음 세부 정보를 입력하세요.
+
+- Subscription : **기본 Subscription을 그대로 유지하세요**
+
+  - Resource Group : **AgenticAI**
+
+  - Region : **EastUS**
+
+  - Name : <+++ai-foundry-hub@lab.LabInstance.Id>+++
+
+  - Connect AI Services incl. OpenAI : **Create New**를 클릭하세요
+
+  - Connect AI Services incl. OpenAI : 이름을
+    <+++my-ai-service@lab.LabInstance.Id+++로> 입력하세요
+
+  - **Save**를 클릭한 다음 **Next: Storage**를 클릭하세요
+
+  ![A screenshot of a computer AI-generated content may be
+incorrect.](./media/img33.png)
+
+  ![Screens screenshot of a computer AI-generated content may be incorrect.](./media/img34.png)
+
+5.  **Review + Create** 탭을 클릭한 다음 **Create**를 클릭하세요.
+
+    ![A screenshot of a computer AI-generated content may be
+incorrect.](./media/img35.png)
+
+6.  배포가 완료될 때까지 기다린 다음 **Go to resource**를 클릭하세요.
+
+7.  **Overview** 창에서 **Launch Azure AI Foundry**를 클릭하세요.  
+    그러면 **Azure AI Foundry** 포털로 이동합니다.
+
+    ![A screenshot of a computer AI-generated content may be
+incorrect.](./media/img36.png)
+
+8.  Hub Overview에서 **+ New project**를 선택하세요.
+
+    ![A screenshot of a computer AI-generated content may be
+incorrect.](./media/img37.png)
+
+9.  프로젝트 이름을 +++ai-foundry-project@lab.LabInstance.Id+++로 입력한
+    다음 **Create**를 선택하세요.
+
+![A screenshot of a computer AI-generated content may be
+incorrect.](./media/img38.png)
+
+1.  **AI Foundry** 프로젝트에서 **My assets** 섹션으로 이동한 다음
+    **Models + endpoints**를 선택하세요.  
+    **Deploy model**을 클릭하고 계속하려면 **Deploy base model**을
+    선택하세요.
+
+2.  **Select a model** 창에서 **gpt-4o**를 검색하고 **gpt-4o**를 선택한
+    다음 **Confirm**을 선택하세요.
+
+    ![A screenshot of a chat application AI-generated content may be
+incorrect.](./media/img39.png)
+
+3.  **Deploy model gpt-4o** 창에서 **Customize**를 선택하세요.
+
+    - Deployment Name: **gpt-4o**
+
+    - Deployment type: **Global Standard**
+
+    - **Model version을 2024-08-06 (Default**)로 변경하세요
+
+    - Tokens per Minute Rate Limit을 **200K**로 변경하세요
+
+    - **Deploy (5)**를 클릭합니다.
+
+4.  **Azure Portal**로 돌아가 **+++Open AI+++**를 검색하고 **Azure Open
+    AI** 리소스를 선택하세요.
+
+5.  **AI Foundry | Azure OpenAI** 페이지에서 **+ Create -\> Azure
+    OpenAI**를 선택하여 **Azure OpenAI** 리소스를 생성하세요.
+
+    ![A screenshot of a computer AI-generated content may be
+incorrect.](./media/img40.png)
+
+6.  **Create Azure OpenAI** 페이지에서 다음 설정을 입력하고 **Next
+    (6)**를 선택하세요:
+
+    |   Setting    |   Value    |
+    |:--------|:--------|
+    |   Subscription    |   기본 Subscription을 그대로 유지하세요    |
+    |    Resource group   |     **AgenticAI**  |
+    |   Region    |    **East US**   |
+    |   Name    |     +++my-openai-service@lab.LabInstance.Id+++  |
+    |   Pricing tier    |    **Standard S0**   |
+
+7.  ![A screenshot of a computer AI-generated content may be
+    incorrect.](./media/img41.png)
+
+8.  **Review + submit** 탭이 표시될 때까지 **Next**를 계속 선택하세요.
+
+9.  **Review + submit** 페이지에서 **Create**를 선택하세요.
+
+    ![A screenshot of a computer AI-generated content may be
+incorrect.](./media/img42.png)
   
 ## 과제 1: 흐름 개발 생애주기 이해하기 (읽기 전용)
 

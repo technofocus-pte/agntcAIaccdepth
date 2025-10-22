@@ -4,10 +4,36 @@
 
 이 실습에서는 Azure AI Foundry를 활용하여 책임 있는 AI(Responsible AI) 실천을 구현하는 실습을 진행합니다. 참여자는 공정성, 투명성, 개인정보 보호, 보안에 대한 고려사항을 이해하고, Azure에 내장된 책임 있는 AI 도구를 활용하는 방법을 학습하게 됩니다. 실습의 핵심은 편향 탐지 및 완화, 모델 해석 가능성 확보, 개인정보 보호 기술 적용, 보안 및 규정 준수 모범 사례의 적용에 중점을 둡니다.
 
-## 목표
 
-이 실습에서 여러분은 다음 과제를 수행하게 됩니다:
-- 과제 1: Azure AI Foundry를 활용한 이미지 및 텍스트 콘텐츠 통제
+###  작업 1: 계정에 Cognitive Services User 역할 할당
+
+1.  **Azure Portal** +++https://portal.azure.com+++에서
+    **my-ai-service@lab.LabInstance.Id**라는 리소스를 찾으세요.
+
+2.  **Access Control (IAM)**을 선택하세요.
+
+3.  **Add\>Add Role Assignment**을 선택하세요.
+
+    ![A screenshot of a computer AI-generated content may be
+incorrect.](./media/img43.png)
+
+4.  **Job function roles** 아래에서 +++Cognitive Services User+++를
+    검색하여 선택한 다음 **Next**를 선택하세요.
+
+   ![A screenshot of a computer AI-generated content may be
+incorrect.](./media/img44.png)
+
+5.   **+Select members**를 선택하세요.
+
+6.  +++user1-@lab.LabInstance.Id+++를 검색하여 선택하세요.
+
+    ![A screenshot of a computer AI-generated content may be
+incorrect.](./media/img45.png)
+
+7.  **Review + assign**를 선택하세요.
+
+8.  새 역할이 적용되기까지 3~5분 정도 기다린 후 다음 작업으로 진행해야
+    할 수 있습니다.
 
 ## 과제 1.1: Azure AI Foundry를 활용한 이미지 및 텍스트 콘텐츠 통제
 
