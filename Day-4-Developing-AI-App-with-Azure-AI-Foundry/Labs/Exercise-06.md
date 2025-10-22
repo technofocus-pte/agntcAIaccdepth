@@ -3,12 +3,48 @@
 ## Descripción del laboratorio
 Este laboratorio proporciona experiencia práctica en la implementación de prácticas de IA responsable utilizando Azure AI Foundry. Los participantes obtendrán conocimientos sobre equidad, transparencia, privacidad y consideraciones de seguridad mientras aprovechan las herramientas integradas de Responsible AI de Azure. El laboratorio se enfoca en detectar y mitigar sesgos, asegurar la interpretabilidad del modelo, aplicar técnicas de preservación de la privacidad y aplicar las mejores prácticas de seguridad y cumplimiento.
 
-## Objetivos del laboratorio
-En este laboratorio, realizarás lo siguiente:
+**Objetivos del laboratorio**
 
-- Tarea 1: Moderación de imágenes y texto usando Azure AI foundry
+En este laboratorio, realizará lo siguiente:
 
-## Tarea 1.1: Moderación de imágenes y texto usando Azure AI Foundry
+- Tarea 1: Asignar a su cuenta el rol de Cognitive Services User.
+
+- Tarea 2: Moderación de imágenes y texto utilizando Azure AI Foundry
+
+Tarea 1: Asignar a su cuenta el rol de Cognitive Services User
+
+1.  En el Azure Portal +++ https://portal.azure.com+++ , busque su
+    recurso llamado
+    [**my-ai-service@lab.LabInstance.Id**](mailto:my-ai-service@lab.LabInstance.Id)
+    .
+
+2.  Seleccione **Access Control (IAM).**
+
+3.  Seleccione **Add \> Add Role Assignment**.
+
+    ![A screenshot of a computer AI-generated content may be
+incorrect.](./media/image43.png)
+
+4.  En Job function roles, busque y seleccione +++Cognitive Services
+    User+++, luego haga clic en **Next**.
+
+    ![A screenshot of a computer AI-generated content may be
+incorrect.](./media/image44.png)
+
+5.  Seleccione **+Select members**.
+
+6.  Busque y seleccione [+++user1-@
+    lab.LabInstance.Id](mailto:+++user1-@lab.LabInstance.Id) +++.
+
+    ![A screenshot of a computer AI-generated content may be
+incorrect.](./media/image45.png)
+
+7.  Seleccione **Review + assign**.
+
+8.  Espere entre 3 y 5 minutos para que el nuevo rol se aplique antes de
+    continuar con la siguiente tarea.
+
+## Tarea 2.1: Moderación de imágenes y texto usando Azure AI Foundry
 
 Esta tarea implica usar **Azure AI Foundry** para moderar imágenes y texto detectando contenido inapropiado, dañino o sensible. Se aprovechan modelos de IA para analizar y filtrar contenido según políticas predefinidas, asegurando el cumplimiento y la seguridad en las aplicaciones.
 

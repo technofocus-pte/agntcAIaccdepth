@@ -3,12 +3,131 @@
 ## Descripción del laboratorio
 En este laboratorio, explorarás el ciclo de vida del desarrollo de aplicaciones de IA usando Prompt Flow de Azure AI Foundry. Comenzarás entendiendo el proceso estructurado, incluyendo las etapas de inicialización, experimentación, evaluación, refinamiento y producción. Aprenderás sobre los diferentes tipos de flujos, como Standard, Chat y Evaluation, y cómo se adaptan a diversas necesidades de aplicación. También profundizarás en el concepto de flujos y nodos dentro de Prompt Flow, que permiten un procesamiento de datos y ejecución de tareas sin fricciones.
 
-## Objetivo del laboratorio
+### Tarea 1: Configuración de los recursos necesarios
 
-En este laboratorio, realizarás lo siguiente:
-- Tarea 1: Comprender el ciclo de vida del desarrollo de flujos
+1.  Inicie sesión en la página del Azure Portal +++ usando **Username**
+    y **TAP** desde la pestaña **Resources**.
+
+    ![A screenshot of a computer AI-generated content may be
+incorrect.](./media/image30.png)
+
+2.  Seleccione  **Azure AI Foundry**.
+
+    ![A screenshot of a computer AI-generated content may be
+incorrect.](./media/image31.png)
+
+3.  En el panel de navegación izquierdo de AI Foundry, seleccione **AI
+    Hubs**. En la página de AI Hubs, haga clic en **Create** y
+    seleccione **Hub** en el menú desplegable.
+
+    ![A screenshot of a computer AI-generated content may be
+incorrect.](./media/image32.png)
+
+4.  En el panel **Create an Azure AI hub,** ingrese los siguientes
+    detalles:
+
+    - Suscripción: **Mantenga la suscripción predeterminada.**
+
+    - Grupo de recursos: **AgenticAI**
+
+    - Región: **EastUS**
+
+    - Nombre: <+++ai-foundry-hub@lab.LabInstance.Id> +++
+
+    - Conectar servicios de IA, incluido OpenAI: Haga clic en **Create
+      New.**
+
+    - Conectar servicios de IA, incluido OpenAI: Proporcione un nombre
+      [+++
+      my-ai-service@lab.LabInstance.Id](mailto:+++my-ai-service@lab.LabInstance.Id)
+      +++
+
+    - Haga clic en **Save**, seguido de **Next:Storage**
+
+    ![A screenshot of a computer AI-generated content may be
+incorrect.](./media/image33.png)
+
+    ![Screens screenshot of a computer AI-generated content may be incorrect.](./media/image34.png)
+
+5.  Haga clic en la pestaña **Review + Create** y luego en **Create.**
+
+    ![A screenshot of a computer AI-generated content may be
+incorrect.](./media/image35.png)
+
+6.  Espere a que se complete la implementación y luego haga clic en **Go
+    to resource**.
+
+7.  En el panel Overview, haga clic en **Launch Azure AI Foundry**. Esto
+    lo dirigirá al portal de Azure AI Foundry.
+
+    ![A screenshot of a computer AI-generated content may be
+incorrect.](./media/image36.png)
+
+11. Seleccione **+ New project **en Hub Overview.
+
+    ![A screenshot of a computer AI-generated content may be
+incorrect.](./media/image37.png)
+
+12. Ingrese el nombre del proyecto como
+    <+++ai-foundry-project@lab.LabInstance.Id>+++ y, a continuación,
+    seleccione **Create**.
+
+    ![A screenshot of a computer AI-generated content may be
+incorrect.](./media/image38.png)
+
+1.  En su **proyecto de AI Foundry**, vaya a la sección **My assets** y
+    seleccione **Models + endpoints**. Haga clic en **Deploy model** y
+    luego elija **Deploy base model** para continuar.
+
+2.  En la ventana **Select a model**, busque **gpt-4o**, seleccione
+    **gpt-4o** y haga clic en **Confirm.**
+
+    ![A screenshot of a chat application AI-generated content may be
+incorrect.](./media/image39.png)
+
+3.  En la ventana **Deploy model gpt-4o**, seleccione **Customize**.
+
+    - Nombre de la implementación: **gpt-4o**
+
+    - Tipo de implementación: **Global Standard**
+
+    - Cambie la **Model version** a **2024-08-06 (Default)**
+
+    - Cambie el límite de tokens por minuto a **200K**
+
+    - Haga clic en **Deploy (5).**
+
+4.  Regrese al **Azure Portal**, busque **+++Open AI+++** y seleccione
+    el recurso **Azure OpenAI**.
+
+5.  En la página **AI Foundry | Azure OpenAI**, seleccione **+ Create
+    -\> Azure OpenAI** para crear el recurso de Azure OpenAI.
+
+  ![A screenshot of a computer AI-generated content may be
+incorrect.](./media/image40.png)
+
+6.  En la página **Crear Azure OpenAI**, proporcione la siguiente
+    configuración y seleccione **Next (6):**
+
+    |Configuración |Valor |
+    |:----|:-----|
+    | Suscripción|Mantenga la suscripción predeterminada |
+    |Grupo de recursos | **AgenticAI**|
+    |Región |**East US**  |
+    |Nombre |+++mi-servicio-abierto@lab.LabInstance.Id +++ |
+    |Nivel de precios |**Standard S0** |
+
+7.  ![A screenshot of a computer AI-generated content may be
+    incorrect.](./media/image41.png)
+
+8.  Seleccione **Next** hasta que aparezca la pestaña Review + submit.
+
+9.  En la página **Review + submit**, seleccione **Create.**
+
+  ![A screenshot of a computer AI-generated content may be
+incorrect.](./media/image42.png)
   
-### Tarea 1: Comprender el ciclo de vida del desarrollo de flujos (SOLO LECTURA)
+### Tarea 2: Comprender el ciclo de vida del desarrollo de flujos (SOLO LECTURA)
 
 Prompt Flow ofrece un proceso bien definido que facilita el desarrollo fluido de aplicaciones de IA. Al usarlo, puedes avanzar eficazmente por las etapas de desarrollo, prueba, ajuste y despliegue de flujos, resultando en la creación de aplicaciones de IA completas.
 
@@ -21,7 +140,7 @@ El ciclo de vida consta de las siguientes etapas:
 
   >**Nota**: Siguiendo este enfoque estructurado y metódico, Prompt Flow te permite desarrollar, probar rigurosamente, ajustar y desplegar flujos con confianza, resultando en la creación de aplicaciones de IA robustas y sofisticadas.
 
-### Tarea 1.1: Comprender los tipos de flujos
+### Tarea 2.1: Comprender los tipos de flujos
 
 En esta tarea, explorarás los diferentes tipos de flujos en Azure AI Foundry.
 1. Navega a Azure AI Foundry usando el siguiente enlace:
@@ -36,7 +155,7 @@ En esta tarea, explorarás los diferentes tipos de flujos en Azure AI Foundry.
 
   ![](./media/image-48.png)
 
-### Tarea 1.2: Comprender un flujo
+### Tarea 2.2: Comprender un flujo
 En esta tarea, explorarás **Prompt Flow**, una funcionalidad dentro de Azure AI Foundry.
 
 1. Un flujo en Prompt Flow funciona como un flujo de trabajo ejecutable que agiliza el desarrollo de tu aplicación de IA basada en LLM. Proporciona un marco integral para gestionar el flujo y procesamiento de datos dentro de tu aplicación.
@@ -53,7 +172,7 @@ En esta tarea, explorarás **Prompt Flow**, una funcionalidad dentro de Azure AI
 
 1. Para facilitar la configuración y ajuste de los nodos, se proporciona una representación visual de la estructura del flujo mediante un grafo DAG (Directed Acyclic Graph). Este grafo muestra la conectividad y dependencias entre nodos, proporcionando una visión clara de todo el flujo de trabajo.
 
-### Tarea 1.3: Explorar las herramientas disponibles en Prompt Flow
+### Tarea 2.3: Explorar las herramientas disponibles en Prompt Flow
 
 En esta tarea, explorarás las herramientas disponibles en Prompt Flow dentro de Azure AI Foundry.
 
