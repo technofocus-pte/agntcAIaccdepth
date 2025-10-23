@@ -31,9 +31,9 @@ Your company, Contoso Enterprises, is looking to hire a new Data Analyst and wan
 
       ![image](media/img34.png)
 
-2. Click on **+ Add new (1)** and select **Folder upload (2)**.
+2. Click on **+ -> Folder upload**.
 
-      ![image](media/day1ex2-002-1.png)
+      ![image](media/im3.png)
 
 3. Navigate to `C:\LabFiles\Day-1\Data`, click on `CV` folder and select **Upload**.
 
@@ -54,28 +54,31 @@ Your company, Contoso Enterprises, is looking to hire a new Data Analyst and wan
     ![image](media/file-upload-first3.png)
 
 8. In the **Copilot chat**, once the **3 files** are uploaded successfully click on **Send** button.
+   
+    >[!Note] **Note:** Enter a message like ++Profiles+++ to the Copilot if it asks to enter message before uploading the documents.
 
     ![image](media/file-upload-sent3.png)
 
-9. In the Copilot window, Again click on **Copilot chat** **(1)**, click on **Add content** **(2)** icon and select **Upload from this device**. 
+10. In the Copilot window, Again click on **Copilot chat** **(1)**, click on **Add content** **(2)** icon and select **Upload from this device**. 
 
     ![image](media/cs-attachfiles2.png)
 
-10. In the file explorer pop-up, navigate to `C:\LabFiles\Day-1\Data\CV` **(1)** folder, select **last 2** **(2)** files and click on **Open** **(3)**.
+11. In the file explorer pop-up, navigate to `C:\LabFiles\Day-1\Data\CV` **(1)** folder, select **last 2** **(2)** files and click on **Open** **(3)**.
 
     ![image](media/file-upload-sent2.png)
 
-11. In the **Copilot chat**, once the **2 files** are uploaded successfully click on **Send** button.
+12. In the **Copilot chat**, once the **2 files** are uploaded successfully click on **Send** button.
 
+    >[!Note] **Note:** Enter a message like ++Profiles+++ to the Copilot if it asks to enter message before uploading the documents.
     ![image](media/file-upload-first2.png)
 
-12. In the Chat box, provide the below prompt and hit the **Send** button:
+13. In the Chat box, provide the below prompt and hit the **Send** button:
   
     ```
     Microsoft 365 Copilot, please help me filter and shortlist resumes of Data Analyst candidates based on required qualifications such as experience in SQL, Python, and data visualization tools.
     ```
 
-13. Following up with the below prompt and hitting the **Send** button
+14. Following up with the below prompt and hitting the **Send** button
 
     ```
     Create a summary report of top Data Analyst candidates, including their skills, work experience, and educational background.
