@@ -55,7 +55,7 @@ Your company, Contoso Enterprises, is looking to hire a new Data Analyst and wan
 
 8. In the **Copilot chat**, once the **3 files** are uploaded successfully click on **Send** button.
    
-    >[!Note] **Note:** Enter a message like ++Profiles+++ to the Copilot if it asks to enter message before uploading the documents.
+    >[!Note] **Note:** Enter a message like +++Profiles+++ to the Copilot if it asks to enter message before uploading the documents.
 
     ![image](media/file-upload-sent3.png)
 
@@ -69,7 +69,8 @@ Your company, Contoso Enterprises, is looking to hire a new Data Analyst and wan
 
 12. In the **Copilot chat**, once the **2 files** are uploaded successfully click on **Send** button.
 
-    >[!Note] **Note:** Enter a message like ++Profiles+++ to the Copilot if it asks to enter message before uploading the documents.
+    >[!Note] **Note:** Enter a message like +++Profiles+++ to the Copilot if it asks to enter message before uploading the documents.
+    
     ![image](media/file-upload-first2.png)
 
 13. In the Chat box, provide the below prompt and hit the **Send** button:
