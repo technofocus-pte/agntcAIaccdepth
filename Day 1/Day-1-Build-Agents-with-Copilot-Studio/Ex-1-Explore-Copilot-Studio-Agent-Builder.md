@@ -109,23 +109,19 @@ The image generator capability enables declarative agents to generate images bas
      
      ![image](media/img33.png)
 
-2. On the **Sign into Microsoft Azure tab**, you will see a login screen. Sign in with the Username and password from the **Resources** tab.
+2. On the **Sign into Microsoft Azure tab**, you will see a login screen. Sign in with the **Username** and **TAP** from the **Resources** tab.
    
 4. If you see the pop-up **Stay Signed in?**, click **No**.
 
     ![image](media/h24.png)
 
-5. From the left pane Select **Apps Launcher(1)** and click on **Microsoft 365 Copilot(2)**.
+5. You will land in the **Copilot Chat** page. Let's try an **Image generator** example.
 
-    ![image](media/chatt10.png) 
+6.	In the Text Box, enter +++Create an image of a serene beach at sunset with palm trees and gentle waves+++ and click on the send button.
 
-7. Let's try **Image generator** examples.
+     ![image](media/im1.png) 
 
-   - In the Text Box, enter **Create an image of a serene beach at sunset with palm trees and gentle waves** **(1)**, click on the **send** **(2)** button.
-
-     ![image](media/chatt11.png) 
-
-     ![image](media/chatt12.png) 
+     ![image](media/im2.png) 
 
 ## Review
 
