@@ -197,7 +197,7 @@ In this task, you are going to create an agent to help employees submit nominati
 
     ![image](media/pre-25.png)
 
-18. Under the **Ask with adaptive Card** node, click on **Add Node**, then select **Add an action**, and then choose **New Agent Flow**. 
+18. Under the **Ask with adaptive Card** node, click on **Add Node**, then select **Add a tool**, and then choose **New Agent Flow**. 
 
     ![image](media/im10.png)
 
@@ -205,37 +205,32 @@ In this task, you are going to create an agent to help employees submit nominati
 
     ![image](media/day1ex3-005.png)
 
-
-20. Click on **Flows**(1) tab and click on **Edit agent flow** (2).
-
-    ![image](media/day1ex3-006.png)
-
 21. Click on **Overview**(1) tab and click on **Edit** (2).
 
     ![image](media/day1ex3-007.png)
 
-22. Enter **NominationFlow**(1) in the Flow name field and click on **Save**(2).  
+22. Enter **+++NominationFlow+++**(1) in the Flow name field and click on **Save**(2).  
 
     ![image](media/day1ex3-008.png)
 
-23. Click on **Designer (1)**  tab and Click on **When an agent calls the flow** **(2)** node, under **Parameters** session click on **+ Add an Input** , select **Text** **(3)**, enter the **Title** **(4)** in the text box.
+23. Click on **Designer (1)**  tab and Click on **When an agent calls the flow** **(2)** node, under **Parameters** session click on **+ Add an Input** , select **Text** **(3)**, enter the **+++Title+++** **(4)** in the text box.
 
     ![image](media/day1ex3-009.png)
 
 24. Repeat the steps click on **+ Add an Input** **(1)**, select **Text** **(2)**, enter the following **Parameters**
 
-    - NomineeType
-    - NomineeName
-    - Position
-    - Department
-    - AwardCategory
-    - BusinessCase
+    - +++NomineeType+++
+    - +++NomineeName+++
+    - +++Position+++
+    - +++Department+++
+    - +++AwardCategory+++
+    - +++BusinessCase+++
 
 25. Once all the Parameters are added, click on **Collapse**.
 
     ![image](media/day1ex3-010.png)
 
-26. Click on **Add action** **(1)**, below the **When an agent calls the flow**, search for the **Add a row into a table** **(2)**, and select **Add a row into a table** **(3)**.
+26. Click on **Add action** **(1)**, below the **When an agent calls the flow**, search for the **+++dd a row into a table+++** **(2)**, and select **Add a row into a table** **(3)**.
 
     ![image](media/day1ex3-011.png)
 
@@ -282,7 +277,7 @@ In this task, you are going to create an agent to help employees submit nominati
          - AwardCategory
          - BusinessCase
       
-      - Once you’ve made all the updates(1), click **Publish**()2 to save and apply them.
+      - Once you’ve made all the updates(1), click **Save** and **Publish**()2 to save and apply them.
    
            ![image](media/day1ex3-014.png)
 
@@ -306,7 +301,7 @@ In this task, you are going to create an agent to help employees submit nominati
 
     ![image](media/pre-39.png)
 
-38. Then enter, **You have successfully submitted Nominations.** Then select **Save**.
+38. Then enter, **+++You have successfully submitted Nominations.+++** Then select **Save**.
 
     ![image](media/pre-40.png)
 

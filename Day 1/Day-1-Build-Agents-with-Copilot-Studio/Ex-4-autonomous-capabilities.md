@@ -18,7 +18,7 @@ To generate a nomination summary, we are going to add a topic in our Nomination 
 
     ![image](media/day1ex4-001.png)
 
-2. Rename the topic as **Generate Nomination Summary**.
+2. Rename the topic as **+++Generate Nomination Summary+++**.
 
     ![image](media/day1ex4-002.png)
 
@@ -42,22 +42,14 @@ To generate a nomination summary, we are going to add a topic in our Nomination 
     ![image](media/generate-summary-06.png)
 
 6. On the **Ask a question** node enter the following details and click on **Save** **(7)**.
-    - Enter **Do you want to generate a nomination summary?**  **(1)** in the message box,
+    - Enter **+++Do you want to generate a nomination summary?+++**  **(1)** in the message box,
     - Select **+ New Option** **(2)** add **Yes**  **(3)** again select **+ New Option** and add **No**  **(4)**.
     - Click on **Var1** **(5)** under **Save user response as**.
        - Update the Variable name as **isConfirmed** **(6)** and change the Usage to **Global(any topic can access)** **(7)**.
     
-      ![image](media/generate-summary-07.png)
+      ![image](media/generate-summary-07.png) 
 
-7. Under the **Add a Question** node, click **Add Node** **(1)**, and then choose **Add a condition** **(2)** node.
-
-    ![image](media/generate-summary-08.png)
-
-8. In the **Condition** node, click on **Select a variable** **(1)**. In the custom search bar, type **isConfirmed** **(2)**, then select **isConfirmed** **(3)**. From the **Enter or select a value** dropdown, choose **yes** **(4)**.
-
-    ![image](media/generate-summary-09.png)  
-
-9. Under the **Condition** node, click **Add Node** **(1)**, click on **Variable managemant** **(2)** and select **Set a variable value** **(3)**.
+9. Under the **Condition** node (**Yes**), click **Add Node** **(1)**, click on **Variable managemant** **(2)** and select **Set a variable value** **(3)**.
 
     ![image](media/generate-summary-10.png)  
 
