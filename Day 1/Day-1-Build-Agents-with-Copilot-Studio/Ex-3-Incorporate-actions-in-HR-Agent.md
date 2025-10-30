@@ -73,8 +73,8 @@ In this task, you are going to create an agent to help employees submit nominati
     ![image](media/pre-21.png)
 
 12. On the **Ask a question** node. Enter the following details and click on **Save** **(7)**.
-    - Enter **Do you want to submit a nomination?**  **(1)** in the message box,
-    - Select **+ New Option** **(2)** add **Yes**  **(3)** again select **+ New Option** and add **No**  **(4)**.
+    - Enter +++**Do you want to submit a nomination?**+++  **(1)** in the message box,
+    - Select **+ New Option** **(2)** add +++**Yes**+++  **(3)** again select **+ New Option** and add +++**No**+++  **(4)**.
     - Click on **Var1** **(5)** under Save user response as and change the Usage to **Global(any topic can access)** **(6)**.
     
     
@@ -197,9 +197,9 @@ In this task, you are going to create an agent to help employees submit nominati
 
     ![image](media/pre-25.png)
 
-18. Under the **Ask with adaptive Card** node, click on **Add Node** **(1)**, then select **Add an action** **(2)**, and then choose **New Agent Flow**  **(3)**. 
+18. Under the **Ask with adaptive Card** node, click on **Add Node**, then select **Add an action**, and then choose **New Agent Flow**. 
 
-    ![image](media/action11.png)
+    ![image](media/im10.png)
 
 19. In Agent flows under Designer tab.  Click on **Save draft**.
 
