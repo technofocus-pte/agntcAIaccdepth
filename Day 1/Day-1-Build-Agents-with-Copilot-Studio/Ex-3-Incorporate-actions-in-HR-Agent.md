@@ -30,7 +30,7 @@ In this task, you are going to create an agent to help employees submit nominati
 
     ![image](media/img36.png)
 
-6. Enter the following details to configure the agent and click on the **Create** button **(4)**.
+4.	Select the **Configure** tab, enter the following details to configure the agent and click on the **Create** button.
 
    - Name: +++**Nomination Agent**+++  
    - Description: Provide the description below in the description box 
@@ -56,9 +56,11 @@ In this task, you are going to create an agent to help employees submit nominati
 
 8. In the **Conversation Start** Workflow, select on **Change trigger** **(1)** under Trigger node, and change the trigger to **A custom client event occurs** **(2)**.  
 
+    ![image](media/im9.png)
+   
     ![image](media/img37.png)
 
-9. Click on the area under the **Message** node, and replace the message as below:
+10. Click on the area under the **Message** node, and replace the message as below:
 
     ```
     Hello, I'm Nomination Agent, a virtual assistant. I am here to help you submit a nomination, generate a Nomination Summary, view Recognition, and view Nomination. Before going for any other action, please submit a nomination.
@@ -66,11 +68,11 @@ In this task, you are going to create an agent to help employees submit nominati
 
     ![image](media/pre-20.png)
 
-10. Under the **Message** node, click **Add Node** **(1)**, and then choose **Ask a question** **(2)**.
+11. Under the **Message** node, click **Add Node** **(1)**, and then choose **Ask a question** **(2)**.
 
     ![image](media/pre-21.png)
 
-11. On the **Ask a question** node. Enter the following details and click on **Save** **(7)**.
+12. On the **Ask a question** node. Enter the following details and click on **Save** **(7)**.
     - Enter **Do you want to submit a nomination?**  **(1)** in the message box,
     - Select **+ New Option** **(2)** add **Yes**  **(3)** again select **+ New Option** and add **No**  **(4)**.
     - Click on **Var1** **(5)** under Save user response as and change the Usage to **Global(any topic can access)** **(6)**.
@@ -78,22 +80,22 @@ In this task, you are going to create an agent to help employees submit nominati
     
     ![image](media/pre-22.png)
 
-12. Under the **Condition** node **Yes**, click on **Add Node** (1), then choose **Ask with adaptive Card** (2).
+13. Under the **Condition** node **Yes**, click on **Add Node** (1), then choose **Ask with adaptive Card** (2).
 
     ![image](media/im5.png)
 
 
-13. In the **Ask with adaptive Card** node, Click on ellipses **(...) (1)** and Select **Properties(2)**. 
+14. In the **Ask with adaptive Card** node, Click on ellipses **(...) (1)** and Select **Properties(2)**. 
 
     ![image](media/day1ex3-001.png)
 
 
-14. Click on the **Edit adaptive card** option.
+15. Click on the **Edit adaptive card** option.
 
     ![image](media/day1ex3-002.png)
 
 
-15. Inside the **Card payload editor**. Replace the below provided **JSON script** **(1)**. and click on **Save (2)** and than on **Close**.
+16. Inside the **Card payload editor**. Replace the below provided **JSON script** **(1)**. and click on **Save (2)** and than on **Close**.
 
     ![image](media/day1ex3-003.png)
 
@@ -189,38 +191,38 @@ In this task, you are going to create an agent to help employees submit nominati
         }
     ```
 
-16. Select the **Outputs** in the **Adaptive Card** node. Select each variable and update the Usage to be **Global**. Select **Save**.
+17. Select the **Outputs** in the **Adaptive Card** node. Select each variable and update the Usage to be **Global**. Select **Save**.
 
     ![image](media/lab3img2.jpg)
 
     ![image](media/pre-25.png)
 
-17. Under the **Ask with adaptive Card** node, click on **Add Node** **(1)**, then select **Add an action** **(2)**, and then choose **New Agent Flow**  **(3)**. 
+18. Under the **Ask with adaptive Card** node, click on **Add Node** **(1)**, then select **Add an action** **(2)**, and then choose **New Agent Flow**  **(3)**. 
 
     ![image](media/action11.png)
 
-18. In Agent flows under Designer tab.  Click on **Save draft**.
+19. In Agent flows under Designer tab.  Click on **Save draft**.
 
     ![image](media/day1ex3-005.png)
 
 
-19. Click on **Flows**(1) tab and click on **Edit agent flow** (2).
+20. Click on **Flows**(1) tab and click on **Edit agent flow** (2).
 
     ![image](media/day1ex3-006.png)
 
-20. Click on **Overview**(1) tab and click on **Edit** (2).
+21. Click on **Overview**(1) tab and click on **Edit** (2).
 
     ![image](media/day1ex3-007.png)
 
-21. Enter **NominationFlow**(1) in the Flow name field and click on **Save**(2).  
+22. Enter **NominationFlow**(1) in the Flow name field and click on **Save**(2).  
 
     ![image](media/day1ex3-008.png)
 
-22. Click on **Designer (1)**  tab and Click on **When an agent calls the flow** **(2)** node, under **Parameters** session click on **+ Add an Input** , select **Text** **(3)**, enter the **Title** **(4)** in the text box.
+23. Click on **Designer (1)**  tab and Click on **When an agent calls the flow** **(2)** node, under **Parameters** session click on **+ Add an Input** , select **Text** **(3)**, enter the **Title** **(4)** in the text box.
 
     ![image](media/day1ex3-009.png)
 
-23. Repeat the steps click on **+ Add an Input** **(1)**, select **Text** **(2)**, enter the following **Parameters**
+24. Repeat the steps click on **+ Add an Input** **(1)**, select **Text** **(2)**, enter the following **Parameters**
 
     - NomineeType
     - NomineeName
@@ -229,24 +231,24 @@ In this task, you are going to create an agent to help employees submit nominati
     - AwardCategory
     - BusinessCase
 
-24. Once all the Parameters are added, click on **Collapse**.
+25. Once all the Parameters are added, click on **Collapse**.
 
     ![image](media/day1ex3-010.png)
 
-25. Click on **Add action** **(1)**, below the **When an agent calls the flow**, search for the **Add a row into a table** **(2)**, and select **Add a row into a table** **(3)**.
+26. Click on **Add action** **(1)**, below the **When an agent calls the flow**, search for the **Add a row into a table** **(2)**, and select **Add a row into a table** **(3)**.
 
     ![image](media/day1ex3-011.png)
 
 
-26. Click on **Sign in**. A new browser tab will popup. Select the account which you are already logged in.
+27. Click on **Sign in**. A new browser tab will popup. Select the account which you are already logged in.
 
     ![image](media/day1ex3-012.png)
 
 
-27. Click on **Allow Access**.    
+28. Click on **Allow Access**.    
 
 
-28. In **Add a row into a table**  configurations and fill the following details: 
+29. In **Add a row into a table**  configurations and fill the following details: 
 
     - Location: From the drop-down select **OneDrive for Business** **(1)**
     - Document Library: From the drop-down, select **OneDrive** **(2)**.
@@ -259,18 +261,18 @@ In this task, you are going to create an agent to help employees submit nominati
 
     ![image](media/day1ex3-013.png)
 
-29. From the **Advanced Parameters**, please select Title, NomineeType, NomineeName, Position, Department, AwardCategory, and BusinessCase.
+30. From the **Advanced Parameters**, please select Title, NomineeType, NomineeName, Position, Department, AwardCategory, and BusinessCase.
 
     ![image](media/pre-32.png)
 
-30. Under **Advanced parameters**, in the Title text box, type **/** **(1)** and choose **Insert dynamic content** **(2)**. Next to **When an agent calls the flow**, click **See more** **(3)** and then select **Title** **(4)**.
+31. Under **Advanced parameters**, in the Title text box, type **/** **(1)** and choose **Insert dynamic content** **(2)**. Next to **When an agent calls the flow**, click **See more** **(3)** and then select **Title** **(4)**.
 
     ![image](media/day1ex3-019.png)
     ![image](media/day1ex3-020.png)
 
     > **Note**: Make sure you are selecting under **When an agent calls the flow**
 
-31. Just like the previous steps, follow these instructions for each field:
+32. Just like the previous steps, follow these instructions for each field:
 
       - In the respective text box, type **/** and choose **Insert dynamic content**. Next to **Run a flow from Copilot**, click **See more** and select the appropriate option:
          - NomineeType
@@ -284,31 +286,31 @@ In this task, you are going to create an agent to help employees submit nominati
    
            ![image](media/day1ex3-014.png)
 
-32. Navigate back to the **Agents** (1)page, and Select the **Nomination Agent** (2).
+33. Navigate back to the **Agents** (1)page, and Select the **Nomination Agent** (2).
 
     ![image](media/day1ex3-015.png)
 
-33. Click on **Topics**(1) tab and select **Conversation Start** (2).
+34. Click on **Topics**(1) tab and select **Conversation Start** (2).
 
     ![image](media/day1ex3-016.png)
 
-34. In the **Add a tool** section, use the search bar to find **NominationFlow**, then select it to add it to the node.
+35. In the **Add a tool** section, use the search bar to find **NominationFlow**, then select it to add it to the node.
 
     ![image](media/day1ex3-017-1.png)
 
-35. Select each action variable and merge it with the variable in the list.
+36. Select each action variable and merge it with the variable in the list.
 
     ![image](media/day1ex3-018.png)
 
-36. Under the **Action** node, click on **Add Node** **(1)**, then choose **Send a message** **(2)**.
+37. Under the **Action** node, click on **Add Node** **(1)**, then choose **Send a message** **(2)**.
 
     ![image](media/pre-39.png)
 
-37. Then enter, **You have successfully submitted Nominations.** Then select **Save**.
+38. Then enter, **You have successfully submitted Nominations.** Then select **Save**.
 
     ![image](media/pre-40.png)
 
-38. Submit a Nomination by using the Nomination Agent.
+39. Submit a Nomination by using the Nomination Agent.
 
 In this task, you have completed the creation of Nominationagent.
 
