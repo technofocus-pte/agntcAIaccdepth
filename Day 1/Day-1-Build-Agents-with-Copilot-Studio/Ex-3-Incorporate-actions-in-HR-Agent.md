@@ -230,7 +230,7 @@ In this task, you are going to create an agent to help employees submit nominati
 
     ![image](media/day1ex3-010.png)
 
-26. Click on **Add action** **(1)**, below the **When an agent calls the flow**, search for the **+++dd a row into a table+++** **(2)**, and select **Add a row into a table** **(3)**.
+26. Click on **Add action** **(1)**, below the **When an agent calls the flow**, search for the **+++Add a row into a table+++** **(2)**, and select **Add a row into a table** **(3)**.
 
     ![image](media/day1ex3-011.png)
 
