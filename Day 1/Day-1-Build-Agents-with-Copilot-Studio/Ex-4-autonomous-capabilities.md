@@ -213,55 +213,55 @@ To generate a nomination summary, we are going to add a topic in our Nomination 
        
        ![image](media/im12.png)
 
-38.	In the Test section, type Generate Nomination summary (1) in the test chat box and click the Send (1) button.
+38.	In the **Test** section, type +++**Generate Nomination summary**+++ (1) in the test chat box and click the **Send** (2) button.
 
        ![image](media/im13.png)
 
-39.	Then the Agent will ask if you would like to generate a nomination summary. Select Yes.
+39.	Then the Agent will ask if you would like to generate a nomination summary. Select **Yes**.
 
        ![image](media/im14.png)
 
-    >[!note] **Note:** If you see Connect to continue for Office 365 Outlook and Excel Online (Business), follow the steps above, refresh the chat, and continue from Step 35 to 37; if not, proceed directly to Step 38.
+    >[!note] **Note:** If you see **Connect to continue for Office 365 Outlook and Excel Online (Business)**, follow the steps above, refresh the chat, and continue from **Step 35 to 37**; if not, proceed directly to **Step 38**.
     >
-    >-	If prompted with Connect to continue for Office 365 Outlook and Excel Online (Business), click on Allow.
+    >-	If prompted with Connect to** continue for Office 365 Outlook and Excel Online (Business)**, click on **Allow**.
     >
-    >   ![image](media/im15.png)
+    >       ![image](media/im15.png)
     >
-    >-   If still unable to connect, click on Open Connection Manager, which will redirect you to Manage your connections.
+    >-   If still unable to connect, click on **Open Connection Manager**, which will redirect you to **Manage your connections**.
     >
-    >   ![image](media/im16.png)
+    >       ![image](media/im16.png)
     >
-    >-	In the Manage your connections section, click on Connect nect to the NominationFlow.
+    >-	In the **Manage your connections** section, click on **Connect** nect to the **NominationFlow**.
     >
-    >   ![image](media/im17.png)
+    >       ![image](media/im17.png)
     >
-    >-  In the pop-up to Create or pick connections, once you see Connection succeeded, click on Submit.
-    >   ![image](media/im18.png)
+    >-  In the pop-up to **Create or pick connections**, once you see **Connection succeeded**, click on **Submit**.
+    >       ![image](media/im18.png)
 
-    >[!Note] Note: After selecting "Yes" in response to "Generate Nomination Summary", if the confirmation message “Nomination Agent successfully sent the nomination summary to your email. Please check your email” does not appear and instead the "Nomination Submission Form" is displayed, kindly proceed by clicking "Submit" at the bottom of the form. If an error message appears after submission, it can be safely disregarded. Please retype "Generate Nomination Summary" in the chat to initiate the intended action. You should then see the confirmation message indicating that the Nomination Summary has been sent successfully.
+    >[!Note] **Note:** After selecting **"Yes"** in response to **"Generate Nomination Summary"**, if the confirmation message “Nomination Agent successfully sent the nomination summary to your email. Please check your email” does not appear and instead the **"Nomination Submission Form"** is displayed, kindly proceed by clicking **"Submit"** at the bottom of the form. If an error message appears after submission, it can be safely **disregarded**. Please retype **"Generate Nomination Summary"** in the chat to initiate the intended action. You should then see the confirmation message indicating that the **Nomination Summary has been sent successfully**.
 
     ![image](media/im19.png)
 
-40.	Add a new tab in your Microsoft Edge browser and navigate to https://outlook.com to go to the Outlook home page. Click on sign in.
+40.	Add a new tab in your Microsoft Edge browser and navigate to https://outlook.com to go to the **Outlook** home page. Click on **sign in**.
 
     ![image](media/im20.png)
 
-41.	On the Sign into Microsoft Azure tab, you will see a login screen. Enter the following email/username (1), and then click on Next (2).
-    -   Email/Username:
+41.	On the **Sign into Microsoft Azure tab**, you will see a login screen. Enter the following email/username (1), and then click on **Next** (2).
+    -   **Email/Username:**
 
         ![image](media/im21.png)
 
-42.	Now enter the following password (1) and click on Sign in (2).
+42.	Now enter the following password (1) and click on **Sign in** (2).
 
-    -	Password:
+    -	**Password:**
 
         ![image](media/im22.png)
 
-43.	If you see the pop-up Stay Signed in?, click No.
+43.	If you see the pop-up **Stay Signed in?**, click **No**.
 
     ![image](media/im23.png)
 
-    >[!Note] **Note:** After signing in, if you see a pop-up titled Copilot everywhere you need it, simply close the window to continue.
+    >[!Note] **Note:** After signing in, if you see a pop-up titled **Copilot everywhere you need it**, simply close the window to continue.
     >
     >![image](media/im24.png)
 
