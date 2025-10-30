@@ -221,7 +221,7 @@ To generate a nomination summary, we are going to add a topic in our Nomination 
 
        ![image](media/im14.png)
 
-    >[!note] **Note:** If you see **Connect to continue for Office 365 Outlook and Excel Online (Business)**, follow the steps above, refresh the chat, and continue from **Step 35 to 37**; if not, proceed directly to **Step 38**.
+    >[!note] **Note:** If you see **Connect to continue for Office 365 Outlook and Excel Online (Business)**, follow the steps below, refresh the chat, and continue from **Step 35 to 37**; if not, proceed directly to **Step 38**.
     >
     >-	If prompted with Connect to** continue for Office 365 Outlook and Excel Online (Business)**, click on **Allow**.
     >
