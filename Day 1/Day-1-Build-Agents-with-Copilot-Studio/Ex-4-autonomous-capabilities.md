@@ -223,7 +223,7 @@ To generate a nomination summary, we are going to add a topic in our Nomination 
 
     >[!note] **Note:** If you see **Connect to continue for Office 365 Outlook and Excel Online (Business)**, follow the steps below, refresh the chat, and continue from **Step 35 to 37**; if not, proceed directly to **Step 38**.
     >
-    >-	If prompted with Connect to** continue for Office 365 Outlook and Excel Online (Business)**, click on **Allow**.
+    >-	If prompted with Connect to **continue for Office 365 Outlook and Excel Online (Business)**, click on **Allow**.
     >
     >       ![image](media/im15.png)
     >
@@ -246,18 +246,15 @@ To generate a nomination summary, we are going to add a topic in our Nomination 
 
     ![image](media/im20.png)
 
-41.	On the **Sign into Microsoft Azure tab**, you will see a login screen. Enter the following email/username (1), and then click on **Next** (2).
-    -   **Email/Username:**
+41.	On the **Sign into Microsoft Azure tab**, you will see a login screen. Enter the **email/username** (1) from the **Resources** tab, and then click on **Next** (2).
 
-        ![image](media/im21.png)
+    ![image](media/im21.png)
 
-42.	Now enter the following password (1) and click on **Sign in** (2).
+43.	Now enter the **TAP/Password** (1) and click on **Sign in** (2).
 
-    -	**Password:**
+    ![image](media/im22.png)
 
-        ![image](media/im22.png)
-
-43.	If you see the pop-up **Stay Signed in?**, click **No**.
+44.	If you see the pop-up **Stay Signed in?**, click **No**.
 
     ![image](media/im23.png)
 
@@ -265,7 +262,7 @@ To generate a nomination summary, we are going to add a topic in our Nomination 
     >
     >![image](media/im24.png)
 
-44.	You will get a message showing "Nomination Agent successfully sent the nomination summary to your email. Please check your email." Check the email of the current user. You will see the email from the agent
+45.	Check the email of the current user. You will see the email from the agent
 
     ![image](media/im25.png)
 
