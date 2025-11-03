@@ -403,9 +403,9 @@ A hora atual é 15:43 do dia 23 de janeiro de 2025.
 
 Nesta tarefa, você irá explorar diferentes tipos de fluxo no Azure AI Foundry, criando e importando o Plugin de Geocodificação para habilitar funcionalidades baseadas em localização.
 
-1. Abra uma nova aba no navegador, acesse o portal da [Geocoding API](https://geocode.maps.co/) e clique no botão **Free API key** no topo da página.
+1. Abra uma nova aba no navegador, acesse o portal da [Geocoding API](https://geocode.maps.co/) e clique no botão **Get API key** no topo da página.
 
-   ![](./media/image_057.png)
+   ![](./media/im1.png)
 
 2. Insira seus dados e clique em **Create Account (1)**.
 
