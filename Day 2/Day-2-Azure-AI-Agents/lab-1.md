@@ -16,7 +16,7 @@ In this lab, you will perform:
 
 In this task, you will create and configure an AI Project within Azure AI Foundry. This involves setting up the necessary resources, defining project parameters, and ensuring that the environment is ready for deploying AI models. By the end of this task, you will have a fully initialized AI Project, serving as the foundation for further development and experimentation.
 
-1. Login to Azure Portal at +++https://portal.azure.com+++ using your login credentials from the Resources tab.
+1. Login to Azure Portal at +++https://portal.azure.com+++ using your login credentials from the **Resources** tab.
   
 3. In the Search resources box at the top of the portal, enter +++Azure AI Foundry+++, and then select Azure AI Foundry under Services.
 
