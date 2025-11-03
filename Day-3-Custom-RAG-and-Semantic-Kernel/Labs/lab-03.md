@@ -390,9 +390,9 @@
 
 在此任務中，您將透過建立並匯入 地理編碼插件 (Geocoding Plugin)，啟用基於位置的功能，進一步探索 Azure AI Foundry 中不同的流程類型。 
 
-1. 在瀏覽器中開啟新分頁，前往 [Geocoding API](https://geocode.maps.co/) 入口網站，然後點擊上方的 **Free API key** 按鈕。
+1. 在瀏覽器中開啟新分頁，前往 [Geocoding API](https://geocode.maps.co/) 入口網站，然後點擊上方的 **Get API key** 按鈕。
 
-    ![](./media/image_057.png)
+    ![](./media/im1.png)
 
 2. 輸入您的詳細資料，然後點擊 **Create Account** **(1)**。
 
