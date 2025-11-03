@@ -388,9 +388,9 @@
 
 在本任务中，您将通过创建和导入地理编码插件来启用基于位置的功能，从而探索 Azure AI Foundry 中的不同流类型。
 
-1. 在浏览器中打开新标签页，导航到 [Geocoding API](https://geocode.maps.co/) 门户并点击顶部的 **Free API key** 按钮。
+1. 在浏览器中打开新标签页，导航到 [Geocoding API](https://geocode.maps.co/) 门户并点击顶部的 **Get API key** 按钮。
 
-    ![](./media/image_057.png)
+    ![](./media/im1.png)
 1. 输入您的详细信息并点击 **创建账户 (1)**。
 
     ![](./media/image_058.png)
