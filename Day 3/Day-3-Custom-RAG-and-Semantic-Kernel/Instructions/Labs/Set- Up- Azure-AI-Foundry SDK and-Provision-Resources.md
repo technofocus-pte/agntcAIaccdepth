@@ -31,7 +31,7 @@ In this exercise, you will set up the Azure AI Foundry SDK. This includes config
 
     ![](../media/day2ex1-006.png)
    
-8. Wait for the deployment is completed and then click on **Go to resource**.
+8. Wait for the deployment to be completed and then click on **Go to resource**.
 
     ![](../media/day2ex1-007.png)
    
