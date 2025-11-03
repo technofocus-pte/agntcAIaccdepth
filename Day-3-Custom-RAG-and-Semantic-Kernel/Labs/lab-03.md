@@ -411,9 +411,9 @@
 
 이 과제에서는 위치 기반 기능을 구현하기 위해 Geocoding Plugin을 생성하고 가져오는 과정을 통해 Azure AI Foundry의 다양한 플로우 유형을 살펴봅니다. 
 
-1. 브라우저에서 새 탭을 열고 [Geocoding API](https://geocode.maps.co/) 포털로 이동한 다음 상단에 있는 **Free API key** 버튼을 클릭합니다.
+1. 브라우저에서 새 탭을 열고 [Geocoding API](https://geocode.maps.co/) 포털로 이동한 다음 상단에 있는 **Get API key** 버튼을 클릭합니다.
 
-   ![](./media/image_057.png)
+   ![](./media/im1.png)
 
 1. 정보를 입력하고 **Create Account (1)** 버튼을 클릭합니다.
 
