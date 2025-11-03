@@ -338,9 +338,9 @@ In this task, you will explore different flow types in Azure AI Foundry by creat
 
 In this task, you will explore different flow types in Azure AI Foundry by creating and importing the Geocoding Plugin to enable location-based functionality.
 
-1. Open a new tab in the browser and navigate to +++https://geocode.maps.co/+++ portal and click on **Free API key** button on the top.
+1. Open a new tab in the browser and navigate to +++https://geocode.maps.co/+++ portal and click on **Get API key** button on the top.
 
-    ![](./media/image_057.png)
+    ![](./media/im1.png)
 1. Enter your details and click on **Create Account (1)**.
 
     ![](./media/image_058.png)
