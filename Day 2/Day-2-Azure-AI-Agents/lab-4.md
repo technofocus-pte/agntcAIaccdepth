@@ -159,7 +159,7 @@ In this task, you will create an **Azure AI Search index** to store vectorized r
 
     ![](./media/t1s29.png)
 
-1. Click on **import(new)**.
+1. Click on **import data(new)**.
 
     ![](./media/img32.png)
 
