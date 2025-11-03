@@ -389,9 +389,9 @@
 
 このタスクでは、ジオコーディング プラグインを作成してインポートすることで、位置情報ベースの機能を有効にし、Azure AI Foundry のさまざまなフロー タイプを探索します。
 
-1. ブラウザーで新しいタブを開き、[Geocoding API](https://geocode.maps.co/) ポータルに移動し、上部の **Free API key** ボタンをクリックします。
+1. ブラウザーで新しいタブを開き、[Geocoding API](https://geocode.maps.co/) ポータルに移動し、上部の **Get API key** ボタンをクリックします。
 
-    ![](./media/image_057.png)
+    ![](./media/im1.png)
 
 2. 詳細を入力し、**Create Account (1)** をクリックします。
 
