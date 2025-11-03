@@ -343,7 +343,7 @@ En esta tarea, explorarás diferentes tipos de flujo en Azure AI Foundry creando
 
 1. Abre una nueva pestaña en el navegador y navega al portal de [Geocoding API](https://geocode.maps.co/) y haz clic en el botón **Get API key** en la parte superior.
 
-    ![](./media/image_057.png)
+    ![](./media/im1.png)
 
 1. Ingresa tus datos y haz clic en **Create Account (1)**.
 
