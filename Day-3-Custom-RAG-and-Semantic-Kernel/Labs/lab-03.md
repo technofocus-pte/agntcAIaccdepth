@@ -341,7 +341,7 @@ En esta tarea, explorarás diferentes tipos de flujo en Azure AI Foundry creando
 
 En esta tarea, explorarás diferentes tipos de flujo en Azure AI Foundry creando e importando el Geocoding Plugin para habilitar funcionalidad basada en ubicación.
 
-1. Abre una nueva pestaña en el navegador y navega al portal de [Geocoding API](https://geocode.maps.co/) y haz clic en el botón **Free API key** en la parte superior.
+1. Abre una nueva pestaña en el navegador y navega al portal de [Geocoding API](https://geocode.maps.co/) y haz clic en el botón **Get API key** en la parte superior.
 
     ![](./media/image_057.png)
 
