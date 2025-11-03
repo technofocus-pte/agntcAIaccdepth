@@ -47,7 +47,7 @@ In this task, you will create and configure an AI Project within Azure AI Foundr
 
     ![](./media/day2ex1-006.png)
   
-7. Wait for the deployment is completed and then click on **Go to resource**.
+7. Wait for the deployment to be completed and then click on **Go to resource**.
 
     ![](./media/day2ex1-007.png)
 
@@ -97,7 +97,7 @@ In this task, you will deploy a large language model (LLM) and an embedding mode
 
     ![](./media/ag9.png)
 
-1. Navigate back to **Azure Portal** and search for **Open AI (1)** and select **Azure Open AI (2)** resource.
+1. Navigate back to **Azure Portal** and search for **+++Open AI+++ (1)** and select **Azure Open AI (2)** resource.
 
     ![](./media/ag10.png)
 
@@ -220,7 +220,7 @@ In this task, you will install the required dependencies, set up a virtual envir
 
     ![](./media/ag46.png)
 
-      - Navigate to Azure AI foundry portal, click on **gpt-4o(2)** model from the **Models + endpoints(1)** section under My assets, copy the under **Endpoint** from right pane, copy and paste the **Target URI (1)** and **Key (2)** in a notepad
+      - Navigate to Azure AI Foundry portal, click on **gpt-4o(2)** model from the **Models + endpoints(1)** section under My assets, copy the under **Endpoint** from right pane, copy and paste the **Target URI (1)** and **Key (2)** in a notepad
       
     ![](./media/pg8t3st12.png)
 	
