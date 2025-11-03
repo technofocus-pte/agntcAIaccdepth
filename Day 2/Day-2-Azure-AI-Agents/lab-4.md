@@ -41,7 +41,7 @@ In this task, you will create an **Azure AI Search index** to store vectorized r
    - Subscription : **Leave default subscription**
    - Resource Group : Select **AgenticAI (1)**
    - Service Name : +++my-search-service@lab.LabInstance.Id+++
-   - Location : **(3)**
+   - Location : Select your nearest location **(3)**
 
     ![](./media/focus1.png)
 
