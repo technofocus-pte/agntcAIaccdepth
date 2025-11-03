@@ -193,8 +193,8 @@ In this task, you will create an **Azure AI Search index** to store vectorized r
 
     ![](./media/t1s34.png)
 
-1. Click on **Next** twice.
-1. Enter **health-plan (1)** for **Objects name prefix** and click on **Create (2)**.
+1. Click on **Next** until you reach the **Review and create** page.
+1. Enter **+++health-plan+++ (1)** for **Objects name prefix** and click on **Create (2)**.
 
     ![](./media/t1s36.png)
 
