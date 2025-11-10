@@ -32,7 +32,7 @@ En esta tarea, vas a crear un agente que ayude a los empleados a enviar formular
 
     ![](media/pre-16.png)
 
-5. Ingresa los siguientes detalles para configurar el agente y haz clic en el botón **Create** **(4)**.
+5. Seleccione la pestaña Configure, ingrese los siguientes detalles para configurar el agente y haga clic en el botón Create (4).
 
    - Name: **Nomination Agent**  **(1)**. 
    - Description: Proporciona la siguiente descripción en el cuadro de descripción **(2)**
