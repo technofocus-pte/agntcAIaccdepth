@@ -66,8 +66,6 @@
         View Nominations: Implement the View Nominations feature to provide users with an organized view of all submitted nominations. This feature will ensure transparency and easy tracking of the nomination process, allowing users to monitor the status and progress of each nomination.
         ```
 
-        ![](../media/38.png)
-
         ![](../media/im4.png)
 
 6. 在 Copilot Studio 中，滚动到顶部，点击 **主题** **(1)**，然后选择 **全部** **(2)** 并选择 **会话开始** **(3)**。
@@ -76,9 +74,11 @@
 
 7. 在 **会话开始** 工作流程中，在触发器节点下选择 **更改触发器** **(1)**，并将触发器更改为 **接收到事件** **(2)**。
 
+    ![](../media/im9.png)
+   
     ![](../media/40.png)
 
-8. 点击 **消息** 节点下方的区域，并替换为以下消息：
+9. 点击 **消息** 节点下方的区域，并替换为以下消息：
 
     **中文：**
     ```
@@ -92,11 +92,11 @@
 
    ![](../media/41.png)
 
-9. 在 **消息** 节点下，点击 **添加节点** **(1)**，然后选择 **提问** **(2)**。
+10. 在 **消息** 节点下，点击 **添加节点** **(1)**，然后选择 **提问** **(2)**。
 
    ![](../media/42.png)
 
-10. 在 **提问** 节点中，输入以下详细信息，然后点击 **保存** **(7)**。
+11. 在 **提问** 节点中，输入以下详细信息，然后点击 **保存** **(7)**。
     
     - 在消息框中输入 **您想提交提名吗？** **(1)**，
     
@@ -106,9 +106,9 @@
     
       ![](../media/43.png)
 
-11.  在”Condition ”节点“是”下，单击“添加节点”（1），然后选择“ Ask with adaptive Card (2)。
+12.  在”Condition ”节点“是”下，单击“添加节点”（1），然后选择“ Ask with adaptive Card (2)。
 
-    ![](../media/44.png)
+    ![](../media/im5.png)
 
 1. 在 **“使用自适应卡片提问”** 节点中，点击省略号 **（...）(1)**，然后选择 **“属性”(2)**。
 
@@ -221,7 +221,7 @@
 
 14. 在“Ask with adaptive Card”节点下，单击“ Add Node”，然后选择“Add a tool,”，然后选择“ New Agent Flow. ”。
 
-    ![](../media/50.png)
+    ![](../media/im10.png)
 
 1. 在 **设计器** 选项卡下的 **代理流程** 中，点击 **保存草稿**。
 
