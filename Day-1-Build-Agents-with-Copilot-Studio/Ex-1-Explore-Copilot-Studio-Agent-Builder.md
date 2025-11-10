@@ -117,7 +117,7 @@ La capacidad de generador de imágenes permite a los agentes declarativos genera
 
    ![](media/h24.png)
 
-7. Probemos ejemplos del **Generador de imágenes**.
+5. Aparecerá en la página Copilot Chat. Se probará un ejemplo del Image generato.
 
    - En el cuadro de texto, ingresa **Create an image of a serene beach at sunset with palm trees and gentle waves** **(1)**, haz clic en el botón **send** **(2)**.
 
