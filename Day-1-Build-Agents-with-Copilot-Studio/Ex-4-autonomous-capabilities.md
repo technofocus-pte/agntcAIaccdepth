@@ -76,14 +76,6 @@
 
    ![image](media/generate-summary-07-cs.png)
 
-8. 在 **添加问题** 节点下，点击 **添加节点** **(1)**，然后选择 **添加条件** **(2)** 节点。
-
-   ![image](media/generate-summary-08-cs.png)
-
-9. 在 **条件** 节点中，点击 **选择变量** **(1)**。在自定义搜索栏中，输入 **isConfirmed** **(2)**，然后选择 **isConfirmed** **(3)**。从 **输入或选择值** 下拉菜单中，选择 **yes** **(4)**。
-
-   ![image](media/generate-summary-09-cs.png)  
-
 10. 在 **条件** 节点下，点击 **添加节点** **(1)**，点击 **变量管理** **(2)** 并选择 **设置变量值** **(3)**。
 
     ![image](media/generate-summary-10-cs.png)  
