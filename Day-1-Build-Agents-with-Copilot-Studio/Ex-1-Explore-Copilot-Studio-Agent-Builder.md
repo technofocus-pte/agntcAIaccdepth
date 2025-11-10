@@ -111,7 +111,7 @@ Microsoft 365 Copilot のための効果的なエージェントを作成する�
 
    ![](Japanese-media/ex1-004.png)
 
-5. **画像生成機能** の例を試してみましょう:
+5. Copilotチャットページに移動します。Image generatorの例を試してみましょう。 
 
    - テキストボックスに **「Create an image of a serene beach at sunset with palm trees and gentle waves」 (1)** と入力し、**送信 (2)** ボタンをクリックします。
    
