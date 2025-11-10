@@ -116,7 +116,7 @@ Copilot Studio 智能代理建構器（Agent Builder） 提供一個簡單易用
 
    ![圖像](media/gt-4-2.png)
 
-6. 讓我們來試試 **「圖像生成器」** 的範例。
+6. 您將登陸 Copilot 聊天頁面。讓我們嘗試一個 圖像生成器示例
 
    - 在文字框中，輸入 **Create an image of a serene beach at sunset with palm trees and gentle waves** **(1)**，然後點擊 **傳送** **(2)** 按鈕。
 
