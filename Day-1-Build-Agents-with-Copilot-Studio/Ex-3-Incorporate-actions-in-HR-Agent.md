@@ -32,8 +32,7 @@ Nesta tarefa, você criará um agente para ajudar os funcionários a enviarem fo
 
     ![](../pt-media/day1/ex-3/task1-03.png)
 
-5. Insira os seguintes detalhes e clique no botão **Criar** **(4)**:
-
+5. Selecione a guia Configure, insira os seguintes detalhes para configurar o agente e clique no botão Create (4).
    - Nome: **Agente de Indicações** **(1)**.
 
    - Descrição: Cole a descrição abaixo no campo correspondente **(2)**
