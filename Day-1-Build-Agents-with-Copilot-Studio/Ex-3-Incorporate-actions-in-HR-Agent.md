@@ -66,7 +66,7 @@
         View Nominations: Implement the View Nominations feature to provide users with an organized view of all submitted nominations. This feature will ensure transparency and easy tracking of the nomination process, allowing users to monitor the status and progress of each nomination.
         ```
 
-        ![](../media/im4.png)
+   ![](../media/im4.png)
 
 6. 在 Copilot Studio 中，滚动到顶部，点击 **主题** **(1)**，然后选择 **全部** **(2)** 并选择 **会话开始** **(3)**。
 
@@ -108,7 +108,7 @@
 
 12.  在”Condition ”节点“是”下，单击“添加节点”（1），然后选择“ Ask with adaptive Card (2)。
 
-    ![](../media/im5.png)
+     ![](../media/im5.png)
 
 1. 在 **“使用自适应卡片提问”** 节点中，点击省略号 **（...）(1)**，然后选择 **“属性”(2)**。
 
