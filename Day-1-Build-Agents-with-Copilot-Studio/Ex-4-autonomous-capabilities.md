@@ -243,12 +243,61 @@
 34. 在 **操作** 节点下，点击 **添加节点** **(1)**，然后选择 **发送消息** **(2)**。
 
     ![](media/generate-summary-33-cs.png)
-
-35. 通过在测试聊天框中输入 **生成提名摘要** 来测试您的主题。然后代理会询问您是否要生成提名摘要。选择 **是**。
-
-36. 您将收到一条消息，显示"提名代理已成功将提名摘要发送到您的电子邮件。请检查您的邮箱。"检查当前用户的电子邮件。您将看到来自代理的电子邮件
    
     ![image](media/lab3img24-cs.png)
+
+35. 在代理界面中，单击测试 （1）。如果出现提示，询问“Do you want to submit a Nomination? 选择否 （2）。
+
+    ![image](media/lim12.png)
+
+37. 在测试部分，  输入  Generate Nomination summary （1） 在测试聊天框中，然后单击发送 （1） 按钮。
+
+    ![image](media/lim13.png)
+
+38. 然后，代理将询问您是否要生成提名摘要。选择Yes.
+
+    ![image](media/lim14.png)
+
+    注意： 如果看到“Connect to continue for Office 365 Outlook and Excel Online (Business),”，请按照上述步骤作，刷新聊天，然后从步骤 35 到步骤 37 继续;如果没有，请直接转到步骤 38。
+
+    o	如果提示“Connect to continue for Office 365 Outlook and Excel Online (Business),，请单击“允许”。
+
+       ![image](media/lim15.png)
+    
+    o	如果仍然无法连接，请单击“ Open Connection Manager,”，这会将您重定向到“ Manage your connections”。
+    
+       ![image](media/lim16.png)
+    
+    o	在“Manage your connections”部分中，单击“将连接连接到 NominationFlow”。
+
+       ![image](media/lim17.png)
+    
+    o	在“ Create or pick connections”的弹出窗口中，看到“Connection succeeded”后，单击“Submit。
+
+       ![image](media/lim18.png)
+
+      **注意**：在回复“Generate Nomination Summary”时选择“是”后，如果确认消息“提名代理已成功将提名摘要发送到您的电子邮件。请检查您的电子邮件“没有  出现，而是显示” Nomination Submission Form “，请点击表格底部的”提交“继续。如果提交后出现错误消息，可以安全地忽略它。请在聊天中重新输入“Generate Nomination Summary”以启动预期作。然后，您应该会看到确认消息，表明提名摘要已成功发送。
+    
+     ![image](media/lim19.png)
+    
+40. 在 Microsoft Edge 浏览器中添加一个新选项卡，然后导航到 https://outlook.com 以转到 Outlook 主页。单击登录。
+
+     ![image](media/lim20.png)
+    
+41. 在“登录 Microsoft Azure”选项卡上，您将看到一个登录屏幕。输入email/username （1） 从“资源”选项卡中，然后单击“下一步”（2）。
+现在输入 TAP/密码 （1） 并单击 登录 （2）。
+
+    ![image](media/lim21.png)
+    
+42. 如果您看到弹出窗口“ Stay Signed in？，单击“否”。
+
+   ![image](media/lim23.png)
+   
+   注意: 登录后，如果您看到标题为Copilot everywhere you need it, 只需关闭窗口即可继续。
+   
+43. 检查当前用户的电子邮件。您将看到来自代理的电子邮件
+
+   ![image](media/lim25.png)
 
 ### 总结回顾
 
