@@ -235,41 +235,42 @@ Para generar un resumen de nominación, vamos a agregar un tema en nuestro Nomin
        ![](media/im14.png)
 
       **Nota:** Si aparece el mensaje **Connect to continue for Office 365 Outlook and Excel Online (Business)**, siga los pasos anteriores, actualice el chat y continúe desde el paso 35 al 37; de lo contrario, avance directamente al paso 38.
-            o	Si se muestra el mensaje **Connect to continue for Office 365 Outlook and Excel Online (Business)**, haga clic en **Allow**.
+
+       o	Si se muestra el mensaje **Connect to continue for Office 365 Outlook and Excel Online (Business)**, haga clic en **Allow**.
 
        ![](media/im15.png)
     
-            o	Si aún no es posible establecer la conexión, haga clic en **Open Connection Manager**, lo que redirigirá a **Manage your connections**.
+      o	Si aún no es posible establecer la conexión, haga clic en **Open Connection Manager**, lo que redirigirá a **Manage your connections**.
 
        ![](media/im16.png)
     
-            o	En la sección **Manage your connections**, haga clic en **Connect** para conectarse a **NominationFlow**.
+      o	En la sección **Manage your connections**, haga clic en **Connect** para conectarse a **NominationFlow**.
 
        ![](media/im17.png)
     
-            o	En la ventana emergente **Create or pick connections**, una vez que aparezca el mensaje **Connection succeeded**, haga clic en **Submit**.
+      o	En la ventana emergente **Create or pick connections**, una vez que aparezca el mensaje **Connection succeeded**, haga clic en **Submit**.
 
        ![](media/im18.png)
     
-            **Nota:** Después de seleccionar **"Yes"** en respuesta a "**Generate Nomination Summary**", si no aparece el mensaje de confirmación “Nomination Agent successfully sent the nomination summary to your email. Please check your email” y, en su lugar, se muestra el "**Nomination Submission Form**", proceda haciendo clic en "Submit" en la parte inferior del formulario.
-            Si aparece un mensaje de error después del envío, puede ignorarse sin inconvenientes. Vuelva a escribir "**Generate Nomination Summary**" en el chat para iniciar la acción prevista.
-            Debería visualizar entonces el mensaje de confirmación indicando que **Nomination Summary has been sent successfully**.
+       **Nota:** Después de seleccionar **"Yes"** en respuesta a "**Generate Nomination Summary**", si no aparece el mensaje de confirmación “Nomination Agent successfully sent the nomination summary to your email. Please check your email” y, en su lugar, se muestra el "**Nomination Submission Form**", proceda haciendo clic en "Submit" en la parte inferior del formulario.
+       Si aparece un mensaje de error después del envío, puede ignorarse sin inconvenientes. Vuelva a escribir "**Generate Nomination Summary**" en el chat para iniciar la acción prevista.
+       Debería visualizar entonces el mensaje de confirmación indicando que **Nomination Summary has been sent successfully**.
     
     ![](media/im19.png)
 
-40. Abra una nueva pestaña en su navegador Microsoft Edge y navegue a https://outlook.com para acceder a la página principal de **Outlook**. Haga clic en **sign in**.
+41. Abra una nueva pestaña en su navegador Microsoft Edge y navegue a https://outlook.com para acceder a la página principal de **Outlook**. Haga clic en **sign in**.
 
      ![](media/im20.png)
     
-41. En la pestaña **Sign into Microsoft Azure**, aparecerá la pantalla de inicio de sesión. Ingrese el **email/username** (1) desde la pestaña **Resources** y luego haga clic en **Next** (2).
+42. En la pestaña **Sign into Microsoft Azure**, aparecerá la pantalla de inicio de sesión. Ingrese el **email/username** (1) desde la pestaña **Resources** y luego haga clic en **Next** (2).
 
      ![](media/im21.png)
     
-42. A continuación, ingrese la **TAP/password** (1) y haga clic en **Sign in** (2).
+43. A continuación, ingrese la **TAP/password** (1) y haga clic en **Sign in** (2).
 
      ![](media/im22.png)
     
-43. Si aparece la ventana emergente **Stay Signed in?**, seleccione **No**.
+44. Si aparece la ventana emergente **Stay Signed in?**, seleccione **No**.
 
    ![](media/im23.png)
    
