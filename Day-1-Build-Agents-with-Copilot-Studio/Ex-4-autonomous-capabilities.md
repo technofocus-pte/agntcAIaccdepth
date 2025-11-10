@@ -225,30 +225,24 @@
     **中文：**
     ```
     提名代理已成功将提名摘要发送至您的邮箱，请及时查收。
-    ```
 
-    **英文：**
-    ```
-    Nomination Agent successfully sent the summary of the nomination to your email. Please check your email.
-    ```
-
-33. 在 **操作** 节点下，点击 **添加节点** **(1)**，然后选择 **发送消息** **(2)**。
-
-    ![](media/generate-summary-33-cs.png)
-
-34. 在 **发送消息** 节点中，输入以下消息：
-
-    **中文：**
-    ```
     谢谢 & 致以问候
     提名代理
     ```
 
     **英文：**
     ```
+    Nomination Agent successfully sent the summary of the nomination to your email. Please check your email.
+
     Thanks & Regards
     Nomination Agent
+
     ```
+    ![](media/im11.png)
+    
+34. 在 **操作** 节点下，点击 **添加节点** **(1)**，然后选择 **发送消息** **(2)**。
+
+    ![](media/generate-summary-33-cs.png)
 
 35. 通过在测试聊天框中输入 **生成提名摘要** 来测试您的主题。然后代理会询问您是否要生成提名摘要。选择 **是**。
 
