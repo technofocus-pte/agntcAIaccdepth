@@ -112,7 +112,7 @@ Copilot Studio 에이전트 빌더를 사용하면 직관적인 인터페이스�
 
    ![](./media/day1-ex1-popup.png)
 
-1. 이제 **이미지 생성기** 예제를 실행해 봅니다.
+1.  Copilot Chat 페이지로 이동합니다. 이번에는 Image generator 예제를 시도해 보겠습니다.
 
    - 채팅 창에 **Create an image of a serene beach at sunset with palm trees and gentle waves** (야자수와 잔잔한 파도가 있는 해질녘의 고요한 해변 이미지를 생성해 주세요) **(1)** 를 입력하고, **보내기** **(2)** 버튼을 클릭합니다. 
 
