@@ -49,7 +49,7 @@ En esta tarea, vas a crear un agente que ayude a los empleados a enviar formular
         View Recognition: Use the viewRecognition function to allow users to access and acknowledge the achievements and recognitions of candidates. This function will display a list of recognitions received by nominees.
         View Nominations: Implement the view Nominations function to provide users with an organized view of all submitted nominations. This function will ensure transparency and easy tracking of the nomination process, allowing users to monitor the status and progress of each nomination.
         ```
-     ![](media/pre-17.png)
+     ![](media/im4.png)
 
 6. En Copilot Studio, desplázate hacia arriba, haz clic en **Topics** **(1)**, luego selecciona **All** **(2)** y selecciona **Conversation Start** **(3)**.
 
@@ -57,9 +57,11 @@ En esta tarea, vas a crear un agente que ayude a los empleados a enviar formular
 
 7. En el flujo **Conversation Start**, selecciona **Change trigger** **(1)** bajo el nodo Trigger, y cambia el trigger a **Event received** **(2)**.  
 
+    ![](media/im9.png)
+   
     ![](media/pre-19.png)
 
-8. Haz clic en el área bajo el nodo **Message** y reemplaza el mensaje por el siguiente:
+9. Haz clic en el área bajo el nodo **Message** y reemplaza el mensaje por el siguiente:
 
     ```
     Hello, I'm Nomination Agent, a virtual assistant. I am here to help you submit a nomination, generate a Nomination Summary, view Recognition, and view Nomination. Before going for any other action, please submit a nomination.
@@ -67,30 +69,30 @@ En esta tarea, vas a crear un agente que ayude a los empleados a enviar formular
 
    ![](media/pre-20.png)
 
-9. Bajo el nodo **Message**, haz clic en **Add Node** **(1)** y luego elige **Ask a question** **(2)**.
+10. Bajo el nodo **Message**, haz clic en **Add Node** **(1)** y luego elige **Ask a question** **(2)**.
 
    ![](media/pre-21.png)
 
-10. En el nodo **Ask a question**, ingresa los siguientes detalles y haz clic en **Save** **(7)**.
+11. En el nodo **Ask a question**, ingresa los siguientes detalles y haz clic en **Save** **(7)**.
     - Escribe **Do you want to submit a nomination?**  **(1)** en el cuadro de mensaje,
     - Selecciona **+ New Option** **(2)**, agrega **Yes**  **(3)**, nuevamente selecciona **+ New Option** y agrega **No**  **(4)**.
     - Haz clic en **Var1** **(5)** bajo Save user response as y cambia el Usage a **Global(any topic can access)** **(6)**.
     
       ![image](media/pre-22.png)
 
-11. Bajo el nodo **Ask a question**, haz clic en **Add Node** **(1)**, luego elige **Ask with adaptive Card** **(2)**.
+12. En el nodo Yes del elemento Condition, haga clic en Add Node (1) y luego seleccione Ask with adaptive Card (2).
 
     ![image](media/pre-23.png)
 
-12. En el nodo **Ask with adaptive Card**, haz clic en los puntos suspensivos **(...) (1)** y selecciona **Properties(2)**. 
+13. En el nodo **Ask with adaptive Card**, haz clic en los puntos suspensivos **(...) (1)** y selecciona **Properties(2)**. 
 
-    ![](media/day1ex3-001.png)
+    ![](media/im5.png)
 
-13. Haz clic en la opción **Edit adaptive card**.
+14. Haz clic en la opción **Edit adaptive card**.
 
     ![](media/day1ex3-002.png)
 
-14. Dentro del **Card payload editor**, reemplaza el siguiente **script JSON** **(1)** y haz clic en **Save (2)** y luego en **Close**.
+15. Dentro del **Card payload editor**, reemplaza el siguiente **script JSON** **(1)** y haz clic en **Save (2)** y luego en **Close**.
 
     ![](media/day1ex3-003.png)
 
@@ -192,17 +194,13 @@ En esta tarea, vas a crear un agente que ayude a los empleados a enviar formular
 
     ![](media/pre-25.png)
 
-14. Bajo el nodo **Ask with adaptive Card**, haz clic en **Add Node** **(1)**, luego selecciona **Add an Action** **(2)** y luego elige **New Agent Flow**  **(3)**. 
+14. En el nodo Ask with adaptive Card, haga clic en Add Node, luego seleccione Add a tool y elija New Agent Flow.
 
-    ![image](media/day1ex3-004.png)
+    ![image](media/im10.png)
 
 15. En Agent flows bajo la pestaña Designer, haz clic en **Save draft**.
 
     ![](media/day1ex3-005.png)
-
-16. Haz clic en la pestaña **Flows**(1) y haz clic en **Edit agent flow** (2).
-
-    ![](media/day1ex3-006.png)
 
 17. Haz clic en la pestaña **Overview**(1) y haz clic en **Edit** (2).
 
