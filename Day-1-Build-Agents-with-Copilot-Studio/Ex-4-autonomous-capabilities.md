@@ -243,8 +243,6 @@
 34. 在 **操作** 节点下，点击 **添加节点** **(1)**，然后选择 **发送消息** **(2)**。
 
     ![](media/generate-summary-33-cs.png)
-   
-    ![image](media/lab3img24-cs.png)
 
 35. 在代理界面中，单击测试 （1）。如果出现提示，询问“Do you want to submit a Nomination? 选择否 （2）。
 
