@@ -32,7 +32,7 @@ Microsoft 365 Copilot을 통해 추천서를 작성할 때에는, 체계적이�
 
 1. New Agent 창에서, **구성** 를 선택합니다. 
 
-1. 다음 세부 정보를 입력한 후 **만들다** 버튼을 **(4)** 클릭합니다. 
+1. Configure 탭을 선택하고, 에이전트를 구성하기 위한 다음 세부 정보를 입력한 후 Create 버튼 (4)을 클릭하세요.
    - Name: **Nomination Agent** **(1)**. 
    - Description: 아래의 내용을 Description 창에 입력 합니다. **(2)**
 
