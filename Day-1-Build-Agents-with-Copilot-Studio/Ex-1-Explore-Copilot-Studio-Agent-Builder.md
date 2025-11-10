@@ -111,11 +111,7 @@ Microsoft 365 Copilot のための効果的なエージェントを作成する�
 
    ![](Japanese-media/ex1-004.png)
 
-5. 左側のパネルから**アプリランチャー(1)**を選択し、**Microsoft 365 Copilot(2)**をクリックします。
-
-   ![](media/day1ex1-001-copilot.png)
-
-6. **画像生成機能** の例を試してみましょう:
+5. **画像生成機能** の例を試してみましょう:
 
    - テキストボックスに **「Create an image of a serene beach at sunset with palm trees and gentle waves」 (1)** と入力し、**送信 (2)** ボタンをクリックします。
    
