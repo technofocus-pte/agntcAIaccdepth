@@ -53,25 +53,29 @@ Objetivo: Avaliar rapidamente um grande número de currículos para a vaga de An
 
 7. No **Copilot chat**, após o upload dos **3 arquivos**, clique no botão **Enviar**.
 
+   **Nota:** Insira uma mensagem como +++Profiles+++ para o Copilot se ele pedir para inserir a mensagem antes de carregar os documentos.
+   
    ![](../pt-media/day1/ex-2/task1-07.png)
 
-8. Clique novamente em **Copilot chat (1)** e em **Anexar conteúdo (2)**.
+9. Clique novamente em **Copilot chat (1)** e em **Anexar conteúdo (2)**.
 
    ![](../pt-media/day1/ex-2/task1-05.png)
 
-9. Na pasta `C:\LabFiles\Day-1-Build-Agents-with-Copilot-Studio\Data\CV` **(1)** Selecione os **2 últimos (2)** arquivos d e clique em **Abrir (3)**.
+10. Na pasta `C:\LabFiles\Day-1-Build-Agents-with-Copilot-Studio\Data\CV` **(1)** Selecione os **2 últimos (2)** arquivos d e clique em **Abrir (3)**.
 
-10. No **Copilot Chat**, após o upload dos **2 arquivos** **(1)**, clique em **Enviar** **(2)**.
+11. No **Copilot Chat**, após o upload dos **2 arquivos** **(1)**, clique em **Enviar** **(2)**.
 
+    **Nota:** Insira uma mensagem como +++Profiles+++ para o Copilot se ele pedir para inserir a mensagem antes de carregar os documentos.
+    
      ![](../pt-media/day1/ex-2/task1-08.png)
 
-11. No campo de chat, insira o seguinte prompt e clique em **Enviar**:
+13. No campo de chat, insira o seguinte prompt e clique em **Enviar**:
 
     ```
     Microsoft 365 Copilot, por favor me ajude a filtrar e selecionar currículos de candidatos a Analista de Dados com base em qualificações exigidas como experiência em SQL, Python e ferramentas de visualização de dados.
     ```
 
-12. Em seguida, use o prompt e clique no botão **Enviar**:
+14. Em seguida, use o prompt e clique no botão **Enviar**:
 
     ```
     Crie um relatório resumido dos principais candidatos a Analista de Dados, incluindo suas habilidades, experiência profissional e formação acadêmica.
