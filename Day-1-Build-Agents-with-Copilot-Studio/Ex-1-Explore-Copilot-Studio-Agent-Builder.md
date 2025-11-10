@@ -106,25 +106,11 @@ Copilot Studio 에이전트 빌더를 사용하면 직관적인 인터페이스�
 
      ![](media/h14kor.png)
 
-1. 이제 다음 비밀번호를 입력 **(1)** 한 후, 로그인 **(2)** 을 클릭합니다.
-
-   - **Password:** AzureAdUserPassword
-
-      ![](media/h15kor.png)
+1. 이제 **TAP을** 입력하고 로그인 버튼을 클릭하세요.
    
 1. **계속 로그인 상태를 유지하시겠습니까?** 라는 팝업이 나타나면 **아니요** 를 클릭합니다.
 
    ![](./media/day1-ex1-popup.png)
-
-1. 왼쪽 패널에서 **앱 실행기(Apps Launcher) (1)** 를 선택한 후 **Microsoft 365 Copilot (2)** 을 클릭합니다.
-
-   ![](media/day1ex1-001-copilotkor.png)
-
-1. **Copilot 채팅 추가(Add Copilot Chat)** 를 클릭하고, 다른 알림이 나타나면 모두 닫습니다.
-
-   ![](media/day1ex1-002-copilot2kor.png)
-
-   > **참고**: 팝업이 보이지 않는 경우, 페이지를 새로 고침해 주세요.
 
 1. 이제 **이미지 생성기** 예제를 실행해 봅니다.
 
