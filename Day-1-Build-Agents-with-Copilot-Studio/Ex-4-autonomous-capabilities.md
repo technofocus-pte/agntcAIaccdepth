@@ -260,19 +260,19 @@ Para generar un resumen de nominación, vamos a agregar un tema en nuestro Nomin
 
 41. Abra una nueva pestaña en su navegador Microsoft Edge y navegue a https://outlook.com para acceder a la página principal de **Outlook**. Haga clic en **sign in**.
 
-     ![](media/im20.png)
+    ![](media/im20.png)
     
 42. En la pestaña **Sign into Microsoft Azure**, aparecerá la pantalla de inicio de sesión. Ingrese el **email/username** (1) desde la pestaña **Resources** y luego haga clic en **Next** (2).
 
-     ![](media/im21.png)
+    ![](media/im21.png)
     
 43. A continuación, ingrese la **TAP/password** (1) y haga clic en **Sign in** (2).
 
-     ![](media/im22.png)
+    ![](media/im22.png)
     
 44. Si aparece la ventana emergente **Stay Signed in?**, seleccione **No**.
 
-   ![](media/im23.png)
+    ![](media/im23.png)
    
    **Nota:** Después de iniciar sesión, si aparece una ventana emergente con el título **Copilot everywhere you need it**, ciérrela para continuar.
 
@@ -280,7 +280,7 @@ Para generar un resumen de nominación, vamos a agregar un tema en nuestro Nomin
    
 44. Revise el correo electrónico del usuario actual. Deberá ver el mensaje enviado por el agente.
 
-   ![](media/im25.png)
+    ![](media/im25.png)
    
 ### Revisión
 
