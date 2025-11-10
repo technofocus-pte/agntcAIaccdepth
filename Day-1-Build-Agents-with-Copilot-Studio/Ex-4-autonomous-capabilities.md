@@ -50,14 +50,6 @@ Para generar un resumen de nominación, vamos a agregar un tema en nuestro Nomin
 
       ![image](media/generate-summary-07_2.png)
 
-7. Bajo el nodo **Add a Question**, haz clic en **Add Node** **(1)** y luego elige el nodo **Add a condition** **(2)**.
-
-   ![image](media/generate-summary-08.png)
-
-8. En el nodo **Condition**, haz clic en **Select a variable** **(1)**. En la barra de búsqueda personalizada, escribe **isConfirmed** **(2)**, luego selecciona **isConfirmed** **(3)**. En el menú desplegable **Enter or select a value**, elige **yes** **(4)**.
-
-   ![image](media/generate-summary-09.png)  
-
 9. Bajo el nodo **Condition**, haz clic en **Add Node** **(1)**, haz clic en **Variable managemant** **(2)** y selecciona **Set a variable value** **(3)**.
 
     ![image](media/generate-summary-10.png)  
@@ -66,7 +58,7 @@ Para generar un resumen de nominación, vamos a agregar un tema en nuestro Nomin
 
     ![image](media/generate-summary-11.png)
 
-11. Haz clic en la **nueva variable creada** **(1)**, ingresa el nombre de la variable como **summaryvar** **(2)**, configúrala como **Global** **(3)** y luego haz clic en **Save** **(3)**. 
+11. Haga clic en  **newly created variable (1)**, ingrese el nombre de la variable como **summaryvar (2)**, configúrela como **Global (3)**, establezca el valor en **Yes** en el campo **To value** y luego haga clic en **Save (3)**.
 
     ![image](media/generate-summary-12.png)
 
@@ -74,7 +66,7 @@ Para generar un resumen de nominación, vamos a agregar un tema en nuestro Nomin
 
     > **Nota**: Si aparece una ventana emergente diciendo **Save topic with errors?**, haz clic en el botón **Save** para continuar.
 
-12. En el nodo **Set variable value**, establece el valor en **Yes** **(1)** bajo **To value**. Luego, haz clic en **Add node** **(2)** debajo del nodo **Set variable value**, selecciona **Add an action** **(3)** y elige **New Agent Flow** **(4)**. Haz clic en el botón **Leave** para navegar a **Agent flows**. 
+12. Haga clic en **Add node (2)** debajo del nodo **Set variable value**, seleccione **Add a tool (3)** y elija **New Agent Flow (4)**.
 
     ![image](media/day1ex4-006.png)
 
@@ -219,33 +211,76 @@ Para generar un resumen de nominación, vamos a agregar un tema en nuestro Nomin
 
     ![](media/generate-summary-31.png)
 
-36. En el nodo **Send a message**, ingresa el siguiente mensaje.
+36. En el nodo **Send a message**, ingrese el siguiente mensaje y seleccione **Save**.
 
       ```
       Nomination Agent envió correctamente el resumen de la nominación a tu correo electrónico. Por favor, revisa tu correo.
-      ```
 
-       ![](media/generate-summary-32.png)
-
-37. Bajo el nodo **Action**, haz clic en **Add Node** **(1)** y luego elige **Send a message** **(2)**.
-
-    ![](media/generate-summary-33.png)
-
-38. En el nodo **Send a message**, pega o escribe el siguiente mensaje. Haz clic en el botón **Save**.
-
-    ```
     Saludos cordiales
     Nomination Agent
-    ```
+      ```
 
-    ![](media/generate-summary-34.png)
+       ![](media/im11.png)
    
-39. Prueba tu tema escribiendo **Generate Nomination summary** en el cuadro de chat de prueba. El agente te preguntará si deseas generar un resumen de nominación. Selecciona **Yes**.
+37. En Agent interface, haga clic en Test (1). Si aparece un mensaje con la pregunta “Do you want to submit a Nomination?”, seleccione No (2).
 
-40. Recibirás un mensaje que indica "Nomination Agent envió correctamente el resumen de la nominación a tu correo electrónico. Por favor, revisa tu correo." Revisa el correo del usuario actual. Verás el correo del agente.
+       ![](media/im12.png)
+    
+38. En la sección Test, escriba Generate Nomination summary (1) en el cuadro de chat de prueba y haga clic en el botón Send (1).
+
+       ![](media/im13.png)
+
+39. Luego, el Agente preguntará si desea generar un resumen de nominación. Seleccione Yes.
+
+       ![](media/im14.png)
+
+      **Nota:** Si aparece el mensaje **Connect to continue for Office 365 Outlook and Excel Online (Business)**, siga los pasos anteriores, actualice el chat y continúe desde el paso 35 al 37; de lo contrario, avance directamente al paso 38.
+            o	Si se muestra el mensaje **Connect to continue for Office 365 Outlook and Excel Online (Business)**, haga clic en **Allow**.
+
+       ![](media/im15.png)
+    
+            o	Si aún no es posible establecer la conexión, haga clic en **Open Connection Manager**, lo que redirigirá a **Manage your connections**.
+
+       ![](media/im16.png)
+    
+            o	En la sección **Manage your connections**, haga clic en **Connect** para conectarse a **NominationFlow**.
+
+       ![](media/im17.png)
+    
+            o	En la ventana emergente **Create or pick connections**, una vez que aparezca el mensaje **Connection succeeded**, haga clic en **Submit**.
+
+       ![](media/im18.png)
+    
+            **Nota:** Después de seleccionar **"Yes"** en respuesta a "**Generate Nomination Summary**", si no aparece el mensaje de confirmación “Nomination Agent successfully sent the nomination summary to your email. Please check your email” y, en su lugar, se muestra el "**Nomination Submission Form**", proceda haciendo clic en "Submit" en la parte inferior del formulario.
+            Si aparece un mensaje de error después del envío, puede ignorarse sin inconvenientes. Vuelva a escribir "**Generate Nomination Summary**" en el chat para iniciar la acción prevista.
+            Debería visualizar entonces el mensaje de confirmación indicando que **Nomination Summary has been sent successfully**.
+    
+    ![](media/im19.png)
+
+40. Abra una nueva pestaña en su navegador Microsoft Edge y navegue a https://outlook.com para acceder a la página principal de **Outlook**. Haga clic en **sign in**.
+
+     ![](media/im20.png)
+    
+41. En la pestaña **Sign into Microsoft Azure**, aparecerá la pantalla de inicio de sesión. Ingrese el **email/username** (1) desde la pestaña **Resources** y luego haga clic en **Next** (2).
+
+     ![](media/im21.png)
+    
+42. A continuación, ingrese la **TAP/password** (1) y haga clic en **Sign in** (2).
+
+     ![](media/im22.png)
+    
+43. Si aparece la ventana emergente **Stay Signed in?**, seleccione **No**.
+
+   ![](media/im23.png)
    
-    ![image](media/lab3img24.png)
+   **Nota:** Después de iniciar sesión, si aparece una ventana emergente con el título **Copilot everywhere you need it**, ciérrela para continuar.
 
+   ![](media/im24.png)
+   
+44. Revise el correo electrónico del usuario actual. Deberá ver el mensaje enviado por el agente.
+
+   ![](media/im25.png)
+   
 ### Revisión
 
 Podrás gestionar y visualizar nominaciones y reconocimientos, mejorando el compromiso y la motivación de los empleados. Este laboratorio te brinda las herramientas para reconocer y celebrar eficientemente las contribuciones dentro de tu organización, aprovechando las capacidades de Microsoft Copilot Studio.
