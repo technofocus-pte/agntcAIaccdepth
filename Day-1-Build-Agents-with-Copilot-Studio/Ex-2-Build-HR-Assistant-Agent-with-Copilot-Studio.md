@@ -55,6 +55,8 @@ Tu empresa, Contoso Enterprises, busca contratar a un nuevo Analista de Datos y 
 
 1. En **Copilot chat**, una vez que los **3 archivos** se hayan subido correctamente, haz clic en el botón **Sent**.
 
+   **Nota:** Ingrese un mensaje como +++Profiles+++ en Copilot si solicita ingresar un mensaje antes de cargar los documentos.
+   
    ![](media/file-upload-sent3.png)
 
 1. En la ventana de Copilot, nuevamente haz clic en **Copilot chat** **(1)**, haz clic en el ícono **Add content** **(2)** y selecciona **Upload from this device**. 
@@ -67,6 +69,8 @@ Tu empresa, Contoso Enterprises, busca contratar a un nuevo Analista de Datos y 
 
 1. En **Copilot chat**, una vez que los **2 archivos** se hayan subido correctamente, haz clic en el botón **Sent**.
 
+   **Nota:** Ingrese un mensaje como +++Profiles+++ en Copilot si solicita ingresar un mensaje antes de cargar los documentos.
+   
    ![](media/file-upload-first2.png)
 
 1. En el cuadro de chat, proporciona el siguiente prompt y presiona el botón **Sent**:
