@@ -66,13 +66,13 @@
         View Nominations: Implement the View Nominations feature to provide users with an organized view of all submitted nominations. This feature will ensure transparency and easy tracking of the nomination process, allowing users to monitor the status and progress of each nomination.
         ```
 
-   ![](../media/im4.png)
+   ![](media/im4.png)
 
-6. 在 Copilot Studio 中，滚动到顶部，点击 **主题** **(1)**，然后选择 **全部** **(2)** 并选择 **会话开始** **(3)**。
+7. 在 Copilot Studio 中，滚动到顶部，点击 **主题** **(1)**，然后选择 **全部** **(2)** 并选择 **会话开始** **(3)**。
 
     ![](../media/39.png)
 
-7. 在 **会话开始** 工作流程中，在触发器节点下选择 **更改触发器** **(1)**，并将触发器更改为 **接收到事件** **(2)**。
+8. 在 **会话开始** 工作流程中，在触发器节点下选择 **更改触发器** **(1)**，并将触发器更改为 **接收到事件** **(2)**。
 
     ![](../media/im9.png)
    
@@ -108,7 +108,7 @@
 
 12.  在”Condition ”节点“是”下，单击“添加节点”（1），然后选择“ Ask with adaptive Card (2)。
 
-     ![](../media/im5.png)
+     ![](media/im5.png)
 
 1. 在 **“使用自适应卡片提问”** 节点中，点击省略号 **（...）(1)**，然后选择 **“属性”(2)**。
 
@@ -221,7 +221,7 @@
 
 14. 在“Ask with adaptive Card”节点下，单击“ Add Node”，然后选择“Add a tool,”，然后选择“ New Agent Flow. ”。
 
-    ![](../media/im10.png)
+    ![](media/im10.png)
 
 1. 在 **设计器** 选项卡下的 **代理流程** 中，点击 **保存草稿**。
 
