@@ -100,17 +100,11 @@ O recurso de geração de imagens permite que agentes declarativos criem imagens
 
      ![](../pt-media/day1/ex-1/05.png)
 
-3. Agora digite a seguinte senha **(1)** e clique em **Entrar** **(2)**.
-
-   - **Senha:** AzureAdUserPassword
-
-     ![](../pt-media/day1/ex-1/06.png)
+3. Agora entre no TAP e clique em **Enter**.
 
 4. Se aparecer o pop-up **Permanecer conectado?**, clique em **Não**.
 
    ![](../pt-media/day1/ex-1/07.png)
-
-5. No menu à esquerda, clique em **Copilot** **(1)**.
 
 6. Vamos testar exemplos com o **Gerador de imagens**.
 
