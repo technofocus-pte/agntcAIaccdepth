@@ -111,23 +111,11 @@ La capacidad de generador de imágenes permite a los agentes declarativos genera
 
      ![](media/h14-1.png)
 
-3. Ahora ingresa la siguiente contraseña **(1)** y haz clic en **Sign in** **(2)**.
-
-   - **Password:** AzureAdUserPassword
-
-      ![](media/h15-1.png)
+3. Ahora ingresa la TAP y haz clic en **Sign in**.
    
 4. Si ves la ventana emergente **Stay Signed in?**, haz clic en **No**.
 
    ![](media/h24.png)
-
-5. Desde el panel izquierdo selecciona **Apps Launcher(1)** y haz clic en **Microsoft 365 Copilot(2)**.
-
-   ![](media/day1ex1-001-copilot.png) 
-
-6. Haz clic en **Add Copilot Chat** y cierra cualquier otra notificación si aparece.
-
-    ![](media/day1ex1-002-copilot2.png)
 
 7. Probemos ejemplos del **Generador de imágenes**.
 
