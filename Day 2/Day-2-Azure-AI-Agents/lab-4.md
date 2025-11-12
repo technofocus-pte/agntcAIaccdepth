@@ -163,7 +163,7 @@ In this task, you will create an **Azure AI Search index** to store vectorized r
 
     ![](./media/img32.png)
 
-1. Select **azure blob storage**.
+1. Select **Azure Blob Storage**.
 
     ![](./media/t1s31.png)
 
