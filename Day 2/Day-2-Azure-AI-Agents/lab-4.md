@@ -145,9 +145,9 @@ In this task, you will create an **Azure AI Search index** to store vectorized r
 
     ![](./media/pg10t1st25.png)
 
-1. Click on **upload (1)** to upload the file and then Click on **browse for files (2)**.
+1. Click on **upload** to upload the file and then Click on **browse for files**.
 
-    ![](./media/pg10t1st26.png)
+    ![](./media/im28.png)
 
 1. Navigate to `C:\LabFiles\Day-2\azure-ai-agents-labs\data` **(1)** and select both the PDFs to upload **(2)**, and click on **Open (3)**.
 
