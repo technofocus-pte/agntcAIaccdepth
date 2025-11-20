@@ -10,7 +10,7 @@ In this exercise, you will set up the Microsoft Foundry SDK. This includes confi
 
 2. In the left navigation pane for the AI Foundry, select **AI Hubs**. On the AI Hubs page, click on **Create** and select **Hub** from the drop-down.
    
-   ![](../media/img3.png)
+   ![](../media/im3.png)
 
 4. On the **Create an Azure AI hub** pane enter the following details:
    - Subscription : **Leave default subscription**
