@@ -1,16 +1,16 @@
-# Exercise 1: Set Up Azure AI Foundry SDK and Provision Resources 
+# Exercise 1: Set Up Microsoft Foundry SDK and Provision Resources 
 
-In this exercise, you will set up the Azure AI Foundry SDK. This includes configuring the environment, deploying foundation models, and ensuring seamless integration with Azure AI services for knowledge retrieval and inference.
+In this exercise, you will set up the Microsoft Foundry SDK. This includes configuring the environment, deploying foundation models, and ensuring seamless integration with Azure AI services for knowledge retrieval and inference.
 
 ### Task 1: Setting up the Prerequisite Resources
 
-1. On the Azure Portal page +++https://portal.azure.com+++, in the Search resources box at the top of the portal, enter +++Azure AI Foundry+++, and then select Azure AI Foundry under Services.
+1. On the Azure Portal page +++https://portal.azure.com+++, in the Search resources box at the top of the portal, enter +++Microsoft Foundry+++, and then select **Microsoft Foundry** under Services.
 
-   ![](../media/day2ex1-001.png)
+   ![](../media/im2.png)
 
 2. In the left navigation pane for the AI Foundry, select **AI Hubs**. On the AI Hubs page, click on **Create** and select **Hub** from the drop-down.
    
-   ![](../media/img1.png)
+   ![](../media/img3.png)
 
 4. On the **Create an Azure AI hub** pane enter the following details:
    - Subscription : **Leave default subscription**
@@ -35,7 +35,7 @@ In this exercise, you will set up the Azure AI Foundry SDK. This includes config
 
     ![](../media/day2ex1-007.png)
    
-10. On the Overview pane, click on **Launch Azure AI Foundry**. This will navigate you to the Azure AI Foundry portal..
+10. On the Overview pane, click on **Launch Azure AI Foundry**. This will navigate you to the Microsoft Foundry portal..
 
     ![](../media/day2ex1-008.png)
     
@@ -92,7 +92,7 @@ In this exercise, you will set up the Azure AI Foundry SDK. This includes config
 
     ![](../media/day2ex3-003.png)
    
-1. Back on the Azure AI Foundry tab, Select **Management Center**.
+1. Back on the Microsoft Foundry tab, Select **Management Center**.
 
     ![](../media/img2.png)
    
@@ -124,11 +124,11 @@ In this task, you will clone the GitHub repository for the project to access the
 
     ![](../media/af25.png)
 
-1. Expand **scenarios (1)**, then **rag/custom-rag-app (2)**. Select **requirements.txt (3)**. This file contains the necessary packages for setting up Azure AI Foundry SDK. **(4)**
+1. Expand **scenarios (1)**, then **rag/custom-rag-app (2)**. Select **requirements.txt (3)**. This file contains the necessary packages for setting up Microsoft Foundry SDK. **(4)**
 
     ![](../media/af-27.png)
 
-     >**Note**: This file contains the necessary packages for building and managing an AI-powered application using the Azure AI Foundry SDK, including authentication, AI inference, search, data processing, and telemetry logging.
+     >**Note**: This file contains the necessary packages for building and managing an AI-powered application using the Microsoft Foundry SDK, including authentication, AI inference, search, data processing, and telemetry logging.
 
 1. Right-click on the **rag/custom-rag-app (1)** folder, then select **Open in Integrated Terminal (2)**.
 
@@ -147,15 +147,15 @@ In this task, you will clone the GitHub repository for the project to access the
 
 ### Task 3: Configure Environment Variables
 
-In this task, you will set up and configure the necessary environment variables to ensure seamless integration between your RAG application and Azure AI Foundry services.
+In this task, you will set up and configure the necessary environment variables to ensure seamless integration between your RAG application and Microsoft Foundry services.
 
-1. Open a new tab in the browser and navigate to Azure AI Foundry portal using below link
+1. Open a new tab in the browser and navigate to Microsoft Foundry portal using below link
 
     ```
     https://ai.azure.com/
     ```
 
-1. Click on the **Azure AI Foundry** Icon on top left.
+1. Click on the **Microsoft Foundry** Icon on top left.
 1. Select your AI foundry project.
 1. Navigate to your **Overview (1)** page of **ai-foundry-project-** and then copy and paste the **Project connection string (2)** in a notepad. You will be using it in the next step.
 
@@ -182,7 +182,7 @@ In this task, you will set up and configure the necessary environment variables 
 
 ### Review
 
-This exercise guided participants through setting up a project in Azure AI Foundry, deploying and managing AI models, and creating an Azure AI Search service for efficient data retrieval. They integrated the search service with their project, cloned a GitHub repository containing necessary resources, and configured environment variables to ensure seamless execution.
+This exercise guided participants through setting up a project in Microsoft Foundry, deploying and managing AI models, and creating an Azure AI Search service for efficient data retrieval. They integrated the search service with their project, cloned a GitHub repository containing necessary resources, and configured environment variables to ensure seamless execution.
 
 In this exercise, you have accomplished the following:
 - Task 1: Install the requirements for the Project
