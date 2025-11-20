@@ -25,7 +25,14 @@ In this task, you will index knowledge sources by processing and storing vectori
 1. Select the AI foundry project that you created earlier in the lab i.e. **ai-foundry-project- (1)**
 1. Click on **Models + endpoints (1)** under **My assets** in the left pane and then click on **+ Deploy model**, followed by **Deploy Base model (2)**.
 
+1. Select **Embeddings** under **Inference tasks**.
+
+   ![](../media/im5.png)
+   
 1. Search for **+++text-embedding-ada-002+++**, select the model and click on **Confirm**.
+
+   ![](../media/im6.png)
+   
 1. Click on **Deploy**.
 
     ![](../media/img9.png)
