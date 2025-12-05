@@ -1,4 +1,4 @@
-# Exercise 1: Explore Copilot Studio Agent Builder
+# Exercise 1: Explore Copilot Studio lite experience
 
 ### Estimated Duration: 30 minutes
 
@@ -6,13 +6,13 @@
 
 In this lab, you will explore the Image Generator capability powered by Microsoft Designer within the Microsoft 365 Copilot app. This feature enables declarative agents to generate visually appealing and contextually relevant images from user prompts. By navigating through the Copilot interface, you'll learn how to create graphics such as scenic illustrations and event flyers by simply entering descriptive text. The lab guides you through signing into the Microsoft 365 Copilot app, accessing the Visual Creator, and experimenting with real-world examples to experience the ease and creativity of AI-driven image generation.
 
-## Overview of Copilot Studio agent builder
+## Overview of Copilot Studio lite experience
 
-The Copilot Studio agent builder in Microsoft 365 Copilot enables you to build agents (also known as [declarative agents](https://learn.microsoft.com/en-us/microsoft-365-copilot/extensibility/overview-declarative-agent)) for Microsoft 365 Copilot easily and quickly.
+The Copilot Studio lite experience in Microsoft 365 Copilot enables you to build agents (also known as [declarative agents](https://learn.microsoft.com/en-us/microsoft-365-copilot/extensibility/overview-declarative-agent)) for Microsoft 365 Copilot easily and quickly.
 
-Copilot Studio agent builder offers an immediate, interactive AI development experience within Microsoft 365 Copilot, which is perfect for quick and straightforward projects. If you need more advanced capabilities like Actions to integrate external services, we recommend that you use the full Microsoft Copilot Studio, which provides a comprehensive set of tools and features for more complex requirements.
+Copilot Studio lite experience offers an immediate, interactive AI development experience within Microsoft 365 Copilot, which is perfect for quick and straightforward projects. If you need more advanced capabilities like Actions to integrate external services, we recommend that you use the full Microsoft Copilot Studio, which provides a comprehensive set of tools and features for more complex requirements.
 
-Use the Copilot Studio agent builder to create and customize agents that can be used with Microsoft 365 Copilot to cover scenario-specific use cases, such as:
+Use the Copilot Studio lite experience to create and customize agents that can be used with Microsoft 365 Copilot to cover scenario-specific use cases, such as:
 
   - An agent that provides writing or presentation coaching tailored to organizational standards.
   - A team onboarding agent that responds with specific information about the user's new team and helps them complete onboarding tasks.
@@ -29,9 +29,9 @@ You can build agents from the following apps and sites:
 
     ![image](media/embedded-authoring-entry.png)
 
-## Build agents with Copilot Studio agent builder
+## Build agents with Copilot Studio lite experience
 
-The Copilot Studio agent builder provides a simple interface that you can use to quickly and easily build declarative agents, either by using natural language or manually.
+The Copilot Studio lite experience provides a simple interface that you can use to quickly and easily build declarative agents, either by using natural language or manually.
 
 - You can author your declarative agent in two ways:
 
@@ -42,7 +42,7 @@ The Copilot Studio agent builder provides a simple interface that you can use to
 
   The Describe tab allows you to create an agent using plain language. As you provide information conversationally, the agent's name, description, and instructions update continuously to refine the agent's behavior. This experience provides a rich yet simple natural language way to create a customized agent. After you create an agent, you can return to the agent and use the Describe tab to update it using natural language.
 
-  You build agents in plain language by answering the questions the agent builder asks. The builder progressively updates the agent in each turn of the conversation, and changes are saved automatically. You can make updates to the agent in any turn of the conversation. Changes to the agent's name, description, and instructions update automatically. However, you can't add an icon or knowledge sources directly from the Describe tab. Use the Configure tab to add an icon, knowledge sources, or capabilities.
+  You build agents in plain language by answering the questions the lite experience asks. The builder progressively updates the agent in each turn of the conversation, and changes are saved automatically. You can make updates to the agent in any turn of the conversation. Changes to the agent's name, description, and instructions update automatically. However, you can't add an icon or knowledge sources directly from the Describe tab. Use the Configure tab to add an icon, knowledge sources, or capabilities.
 
     ![image](media/image2.png)
 
@@ -52,7 +52,7 @@ The Copilot Studio agent builder provides a simple interface that you can use to
 
   Follow these steps to configure your agent manually:
 
-  1. Navigate to the **Configure** tab at the top of the agent builder interface.
+  1. Navigate to the **Configure** tab at the top of the lite experience interface.
   2. Configure each of the following fields in sequence:
 
       
