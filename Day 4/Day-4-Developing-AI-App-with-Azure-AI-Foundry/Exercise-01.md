@@ -9,9 +9,9 @@ In this lab, you will explore the lifecycle of developing AI applications using 
 
    ![](./media/img15.png)
   
-3. Select **Azure AI Foundry**.
+3. Select **Foundry** from the  Home page.
 
-   ![](./media/img16.png)
+   ![](./media/im1.png)
    
 5. In the left navigation pane for the AI Foundry, select **AI Hubs**. On the AI Hubs page, click on **Create** and select **Hub** from the drop-down.
 
