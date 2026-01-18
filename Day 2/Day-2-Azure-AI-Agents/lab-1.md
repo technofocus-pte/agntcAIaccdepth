@@ -22,9 +22,9 @@ In this task, you will create and configure an AI Project within Microsoft Found
       
     - TAP - +++@lab.CloudPortalCredential(User1).TAP+++
 
-3. In the Search resources box at the top of the portal, enter +++Microsoft Foundry+++, and then select Microsoft Foundry under Services.
+2. Select **Foundry** from the Home page..
 
-    ![](./media/day2ex1-001.png)
+    ![](./media/im1.png)
 
 
 4. In the left navigation pane for the AI Foundry, select **AI Hubs (1)**. On the AI Hubs page, click on **Create (2)** and select **Hub (3)** from the drop-down.
