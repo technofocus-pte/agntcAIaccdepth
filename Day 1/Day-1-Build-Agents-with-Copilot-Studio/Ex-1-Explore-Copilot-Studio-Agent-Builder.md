@@ -8,7 +8,7 @@ In this lab, you will explore the Image Generator capability powered by Microsof
 
 ## Overview of Copilot Studio Agent Builder
 
-The Copilot Studio Agent Builder in Microsoft 365 Copilot enables you to build agents (also known as [declarative agents](https://learn.microsoft.com/en-us/microsoft-365-copilot/extensibility/overview-declarative-agent)) for Microsoft 365 Copilot easily and quickly.
+The Copilot Studio Agent Builder in Microsoft 365 Copilot enables you to build agents (also known as declarative agents) for Microsoft 365 Copilot easily and quickly.
 
 Copilot Studio Agent Builder offers an immediate, interactive AI development experience within Microsoft 365 Copilot, which is perfect for quick and straightforward projects. If you need more advanced capabilities like Actions to integrate external services, we recommend that you use the full Microsoft Copilot Studio, which provides a comprehensive set of tools and features for more complex requirements.
 
@@ -101,7 +101,7 @@ By following this complete process from creation through testing, deployment, an
 
 The image generator capability enables declarative agents to generate images based on user prompts. Image generator uses the existing [Designer](https://designer.microsoft.com/) functionality to create visually appealing and contextually relevant graphics, and includes the following features:
 
-1. Add a new tab in the Edge browser and open the Microsoft 365 Copilot app using the following link , and click on **Sign in** **(2)**.
+1. Add a new tab in the Edge browser and open the Microsoft 365 Copilot app using the following link , and click on **Sign in**.
 
      ```
      https://m365.cloud.microsoft/
@@ -109,7 +109,12 @@ The image generator capability enables declarative agents to generate images bas
      
      ![image](media/img33.png)
 
-2. On the **Sign into Microsoft Azure tab**, you will see a login screen. Sign in with the **Username** and **TAP** from the **Resources** tab.
+2. On the **Sign into Microsoft Azure tab**, you will see a login screen. Sign in with the **Username** and **TAP** below ( Also available in the **Resources** tab).
+
+   -	Username - +++@lab.CloudPortalCredential(User1).Username+++
+      
+   -	TAP - +++@lab.CloudPortalCredential(User1).TAP+++
+
    
 4. If you see the pop-up **Stay Signed in?**, click **No**.
 
